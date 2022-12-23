@@ -2,4 +2,5 @@ collections:
   others:
     output: true
     order:
+      - Write@Horizon.md
       - ReadLit@Horizon.md
