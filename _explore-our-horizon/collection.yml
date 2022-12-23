@@ -1,4 +1,5 @@
 collections:
   explore-our-horizon:
     output: true
-    order: []
+    order:
+      - Useful Information.md
