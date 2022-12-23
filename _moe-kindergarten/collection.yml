@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Photo Gallery/Events Photos 2019.md
       - Photo Gallery/.keep
       - Home Based Activities (HBA)/Home Based Activities (HBA) for MOE
         Kindergarten.md
