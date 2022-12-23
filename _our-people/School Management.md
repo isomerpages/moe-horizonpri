@@ -96,7 +96,7 @@ description: ""
 |:---:|:---:|:---:|
 | [tan_yun_lin_april@schools.gov.sg](tan_yun_lin_april@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](suzanah_yahaya@schools.gov.sg) | [choo_yong_guan@schools.gov.sg](choo_yong_guan@schools.gov.sg) |
 
-<img src="/images/subhead7.jpg" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/subhead7.jpg" style="width:20%;margin-left:135px;" align = "left">
 <img src="/images/subhead8.jpg" style="width:20%;margin-left:225px;" align = "left">
 
 <br clear="left">
