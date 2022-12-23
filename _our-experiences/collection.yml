@@ -2,5 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
+      - Physical/.keep
       - Social/.keep
       - Aesthetics/.keep
