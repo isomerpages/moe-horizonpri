@@ -1,5 +1,11 @@
 logo: /images/crest.png
 links:
+  - title: Our Horizon
+    collection: our-horizon
+  - title: Our People
+    collection: our-people
+  - title: Our Experiences
+    collection: our-experiences
   - title: Our Partners
     url: /our-partners/parents/letter-to-parents/
     sublinks:
