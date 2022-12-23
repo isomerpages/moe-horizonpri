@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - Photo Gallery/.keep
       - Video Gallery/.keep
