@@ -2,7 +2,7 @@
 layout: homepage
 title: Horizon Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/crest.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,5 +29,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
