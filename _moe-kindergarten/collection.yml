@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Home Based Activities (HBA)/HBA Week 1.md
       - Home Based Activities (HBA)/HBA Week 2.md
       - Home Based Activities (HBA)/HBA Week 3.md
       - Home Based Activities (HBA)/HBA Week 4.md
