@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/Achievements 2022.md
       - Achievements/Achievements 2021.md
       - Achievements/Achievements 2020.md
       - Achievements/Achievements 2019.md
