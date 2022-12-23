@@ -1,0 +1,4 @@
+collections:
+  our-horizon:
+    output: true
+    order: []
