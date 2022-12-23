@@ -31,4 +31,11 @@ sections:
       description: Find out more about PSG at Horizon Primary here!
       button: Click here
       url: /our-partners/parents/psg/
+  - infopic:
+      title: CCAs at a Glance
+      subtitle: horizon primary school
+      button: click here
+      url: /cca-horizon/hod-message/
+      image: /images/ccasataglance.png
+      alt: Image alt text
 ---
