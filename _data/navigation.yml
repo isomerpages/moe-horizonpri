@@ -1,5 +1,13 @@
 logo: /images/crest.png
 links:
   - title: Our Partners
-    url: /our-partners/
-    sublinks: []
+    url: /our-partners/parents/letter-to-parents/
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents/letter-to-parents/
+      - title: Horizon Alumni Committee
+        url: /our-partners/horizon-alumni-committee/
+      - title: School's Service Providers
+        url: /our-partners/schools-service-providers/p1-booklist-and-uniform-2023/
+      - title: Student Care Centre (SCC)
+        url: /our-partners/scc/about-raffles-student-care/
