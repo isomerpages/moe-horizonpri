@@ -2,4 +2,5 @@ collections:
   our-horizon:
     output: true
     order:
+      - Privacy Statement.md
       - FAQ.md
