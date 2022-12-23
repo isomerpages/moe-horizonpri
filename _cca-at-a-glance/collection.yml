@@ -2,4 +2,5 @@ collections:
   cca-at-a-glance:
     output: true
     order:
+      - Visual and Performing Arts.md
       - FAQs and Useful Links.md
