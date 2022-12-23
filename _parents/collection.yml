@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Letter to Parents.md
       - Administrative Matters/.keep
       - Parent Support Group (PSG)/.keep
