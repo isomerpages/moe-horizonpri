@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Events & Announcements.md
       - Photo Gallery/Events Photos 2022.md
       - Photo Gallery/Events Photos 2021.md
       - Photo Gallery/Events Photos 2020.md
