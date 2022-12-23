@@ -2,5 +2,6 @@ collections:
   cca-at-a-glance:
     output: true
     order:
+      - Physical Sports.md
       - Visual and Performing Arts.md
       - FAQs and Useful Links.md
