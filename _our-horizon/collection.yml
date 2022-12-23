@@ -1,4 +1,5 @@
 collections:
   our-horizon:
     output: true
-    order: []
+    order:
+      - FAQ.md
