@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Photo Gallery/.keep
       - Home Based Activities (HBA)/Home Based Activities (HBA) for MOE
         Kindergarten.md
       - Home Based Activities (HBA)/HBA Week 1.md
