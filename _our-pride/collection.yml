@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/Achievements 2016.md
       - Achievements/Achievements 2015.md
       - Achievements/.keep
       - Accolades/School.md
