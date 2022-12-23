@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Management.md
       - Teacher Leaders.md
       - Administrative Staff.md
       - Teaching Staff 2022.md
