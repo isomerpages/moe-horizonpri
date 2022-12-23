@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Learning for Life Programme/.keep
       - Cognitive/.keep
       - Moral/.keep
       - Physical/.keep
