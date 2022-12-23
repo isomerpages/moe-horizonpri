@@ -2,5 +2,6 @@ collections:
   our-pride:
     output: true
     order:
+      - Accolades/.keep
       - Photo Gallery/.keep
       - Video Gallery/.keep
