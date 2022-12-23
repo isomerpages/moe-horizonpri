@@ -1,4 +1,5 @@
 collections:
   our-experiences:
     output: true
-    order: []
+    order:
+      - Aesthetics/.keep
