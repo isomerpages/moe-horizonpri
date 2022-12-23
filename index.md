@@ -4,31 +4,31 @@ title: Horizon Primary School
 description: Brief site description here
 image: /images/crest.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Announcement
+          description: ""
+          url: /announcement/
+        - title: News & Events
+          description: ""
+          url: /news-and-events/
+        - title: Quick Links
+          description: ""
+          url: /quick-links/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: School's Service Providers
+      subtitle: horizon primary school
+      description: P1 Booklist, Uniform 2023, P1-P6 Booklist, Canteen Menus 2022
+      button: click here
+      url: /our-partners/school's-service-providers/
+  - infobar:
+      title: Parent Support Group (PSG)
+      subtitle: horizon primary school
+      description: Find out more about PSG at Horizon Primary here!
+      button: Click here
+      url: /our-partners/parents/psg/
 ---
-
-
-
