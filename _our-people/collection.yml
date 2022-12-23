@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Teacher Leaders.md
       - Administrative Staff.md
       - Teaching Staff 2022.md
