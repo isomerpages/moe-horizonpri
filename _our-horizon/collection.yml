@@ -2,6 +2,7 @@ collections:
   our-horizon:
     output: true
     order:
+      - School Name & Crest.md
       - School Song.md
       - School House System.md
       - Privacy Statement.md
