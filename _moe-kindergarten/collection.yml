@@ -2,5 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Home Based Activities (HBA)/HBA Week 4.md
       - Home Based Activities (HBA)/.keep
       - Kindergarten Care (KCare) Photo Gallery.md
