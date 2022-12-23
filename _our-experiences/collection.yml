@@ -2,8 +2,8 @@ collections:
   our-experiences:
     output: true
     order:
-      - Applied Learning Programme.md
       - Learning for Life Programme/.keep
+      - Applied Learning Programme.md
       - Cognitive/.keep
       - Moral/.keep
       - Physical/.keep
