@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Achievements/.keep
+      - Accolades/Staff.md
       - Accolades/.keep
       - Alumni Testimonial.md
       - Photo Gallery/Events Photos 2022.md
