@@ -2,4 +2,5 @@ collections:
   explore-our-horizon:
     output: true
     order:
+      - Our CCAs.md
       - Useful Information.md
