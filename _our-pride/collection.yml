@@ -2,8 +2,8 @@ collections:
   our-pride:
     output: true
     order:
-      - Alumni Testimonial.md
       - Achievements/.keep
       - Accolades/.keep
+      - Alumni Testimonial.md
       - Photo Gallery/.keep
       - Video Gallery/.keep
