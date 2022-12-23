@@ -32,7 +32,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [lim_buay_tiang@schools.gov.sg](lim_buay_tiang@schools.gov.sg) | [lee_lay_hoon_a@schools.gov.sg](lee_lay_hoon_a@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg](wang_xiang_rong@schools.gov.sg) |
 
 <img src="/images/hod4.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/hod5.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -42,7 +42,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [loh_shuzhen_sheila@schools.gov.sg](loh_shuzhen_sheila@schools.gov.sg) | [sim_yan_ling_staphni@schools.gov.sg](sim_yan_ling_staphni@schools.gov.sg) | [low_zihao@schools.gov.sg](low_zihao@schools.gov.sg) |
 
 <img src="/images/hod7.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/hod8.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -52,7 +52,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [ng_pei_rong@schools.gov.sg](ng_pei_rong@schools.gov.sg) | [muhammad_raauuf_othman@schools.gov.sg](muhammad_raauuf_othman@schools.gov.sg) | [dayangku_nuurul_aida_fatima@schools.gov.sg](dayangku_nuurul_aida_fatima@schools.gov.sg) |
 
 <img src="/images/hod10.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/hod11.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -62,16 +62,17 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [shieh_siao_yan_carol@schools.gov.sg](shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](yew_zu_yao_jonathan@schools.gov.sg) | [seow_zichao_sigmund@schools.gov.sg](seow_zichao_sigmund@schools.gov.sg) |
 
-<img src="/images/hod13.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/hod14.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/hod14.jpg" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/hod13.jpg" style="width:20%;margin-left:225px;" align = "left">
 
 <br clear="left">
 
+
 |  |  |
 |:---:|:---:|
-|  |  |
+| [Marvin_LEE@schools.gov.sg](Marvin_LEE@schools.gov.sg) | [Lim_Sin_Soon@schools.gov.sg](Lim_Sin_Soon@schools.gov.sg) |
 
 #### **Subject Heads/Level Heads**
 
@@ -95,8 +96,10 @@ description: ""
 |:---:|:---:|:---:|
 |  |  |  |
 
-<img src="/images/subhead7.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/subhead8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/subhead7.jpg" style="width:20%;margin-left:115px;" align = "left">
+<img src="/images/subhead8.jpg" style="width:20%;margin-left:225px;" align = "left">
+
+<br clear="left">
 
 <br clear="left">
 
