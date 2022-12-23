@@ -19,18 +19,6 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/
-  - infobar:
-      title: School's Service Providers
-      subtitle: horizon primary school
-      description: P1 Booklist, Uniform 2023, P1-P6 Booklist, Canteen Menus 2022
-      button: click here
-      url: /our-partners/school's-service-providers/
-  - infobar:
-      title: Parent Support Group (PSG)
-      subtitle: horizon primary school
-      description: Find out more about PSG at Horizon Primary here!
-      button: Click here
-      url: /our-partners/parents/psg/
   - infopic:
       title: CCAs at a Glance
       subtitle: horizon primary school
@@ -45,4 +33,16 @@ sections:
       url: /explore-our-horizon/our-school/
       image: /images/exploreourhorizon.png
       alt: Image alt text
+  - infobar:
+      title: School's Service Providers
+      subtitle: horizon primary school
+      description: P1 Booklist, Uniform 2023, P1-P6 Booklist, Canteen Menus 2022
+      button: click here
+      url: /our-partners/school's-service-providers/
+  - infobar:
+      title: Parent Support Group (PSG)
+      subtitle: horizon primary school
+      description: Find out more about PSG at Horizon Primary here!
+      button: Click here
+      url: /our-partners/parents/psg/
 ---
