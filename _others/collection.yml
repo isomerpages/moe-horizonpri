@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - News & Events.md
       - Quick Links.md
       - FAQ.md
       - P1 Registraion and Phases and Timeline.md
