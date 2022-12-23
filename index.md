@@ -23,7 +23,7 @@ sections:
       title: CCAs at a Glance
       subtitle: horizon primary school
       button: click here
-      url: /cca-horizon/hod-message/
+      url: /cca-at-a-glance/hod-message/
       image: /images/ccasataglance.png
       alt: Image alt text
   - infopic:
