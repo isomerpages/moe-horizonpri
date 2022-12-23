@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: /announcement/
+          url: /announcements/
         - title: News & Events
           description: ""
           url: /news-and-events/
