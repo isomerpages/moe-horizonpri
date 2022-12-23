@@ -2,5 +2,6 @@ collections:
   our-horizon:
     output: true
     order:
+      - School House System.md
       - Privacy Statement.md
       - FAQ.md
