@@ -2,6 +2,7 @@ collections:
   cca-at-a-glance:
     output: true
     order:
+      - HOD's Message.md
       - Clubs and Societies.md
       - Uniformed Group.md
       - Physical Sports.md
