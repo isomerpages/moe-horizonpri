@@ -1,4 +1,5 @@
 collections:
   our-people:
     output: true
-    order: []
+    order:
+      - Teaching Staff 2022.md
