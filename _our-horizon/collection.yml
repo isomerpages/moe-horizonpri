@@ -2,6 +2,7 @@ collections:
   our-horizon:
     output: true
     order:
+      - School Location.md
       - School Hours.md
       - School Rules.md
       - School Ethos.md
