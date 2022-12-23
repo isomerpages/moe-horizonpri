@@ -38,4 +38,11 @@ sections:
       url: /cca-horizon/hod-message/
       image: /images/ccasataglance.png
       alt: Image alt text
+  - infopic:
+      title: Explore Our Horizon
+      subtitle: horizon primary school
+      button: click here
+      url: /explore-our-horizon/our-school/
+      image: /images/exploreourhorizon.png
+      alt: Image alt text
 ---
