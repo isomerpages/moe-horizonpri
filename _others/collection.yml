@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - P1 Registraion and Phases and Timeline.md
       - Write@Horizon.md
       - ReadLit@Horizon.md
