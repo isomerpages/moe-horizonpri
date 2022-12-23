@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/.keep
       - School's Service Providers/.keep
       - Student Care Centre (SCC)/.keep
