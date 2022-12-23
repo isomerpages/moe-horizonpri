@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Experiences.md
+      - Learning for Life Programme/Tierred Student Leadership Development.md
       - Learning for Life Programme/.keep
       - Applied Learning Programme.md
       - Cognitive/Cognitive.md
