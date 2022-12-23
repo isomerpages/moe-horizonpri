@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Horizon Alumni Committee.md
       - Parents/.keep
       - School's Service Providers/.keep
       - Student Care Centre (SCC)/.keep
