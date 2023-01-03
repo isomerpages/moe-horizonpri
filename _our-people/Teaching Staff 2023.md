@@ -56,6 +56,14 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
+<img src="/images/p1staff.jpg" style="width:20%;margin-left:55px;" align = "left">
+
+<br clear="left">
+
+|  |
+|:---:|
+|  |
+
 #### **Primary 2 Staff**
 <img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
