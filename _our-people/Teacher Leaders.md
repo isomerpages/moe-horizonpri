@@ -24,7 +24,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [chang\_ma\_li@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [dayana_ismail@schools.gov.sg](dayana_ismail@schools.gov.sg) | [sumathi_krishnasamy@schools.gov.sg](sumathi_krishnasamy@schools.gov.sg) |
 
 <img src="/images/tcherldr7.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/tcherldr8.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -34,4 +34,4 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [hong_bee_yuen@schools.gov.sg](hong_bee_yuen@schools.gov.sg) | [hong_bee_yuen@schools.gov.sg](hong_bee_yuen@schools.gov.sg) | [brenda_joan_perera@schools.gov.sg](brenda_joan_perera@schools.gov.sg) |
