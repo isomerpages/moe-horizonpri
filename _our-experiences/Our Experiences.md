@@ -6,7 +6,7 @@ description: ""
 ### **Our Experiences**
 
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/alp/">
-<figure><figcaption><img src="/images/experiences2.jpg" style="width:45%;margin-right:55px;" align = "right">
+<img src="/images/experiences2.jpg" style="width:45%;margin-right:55px;" align = "right">
 </a></p>
 
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/llp/">
