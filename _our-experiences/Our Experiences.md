@@ -27,7 +27,7 @@ description: ""
 <img src="/images/experiences3.jpg" style="width:45%;margin-right:5px;" align = "right">
 </a></p>
 
-<br clear="left"><br clear="left">
+<br clear="left">
 
 |  |  |
 |:---:|:---:|
