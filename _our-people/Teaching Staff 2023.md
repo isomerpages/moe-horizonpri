@@ -65,63 +65,63 @@ description: ""
 | [yeo\_puay\_koon\_alice@schools.gov.sg](mailto:tan_rachel@schools.gov.sg) <br>P1 Discoverer(Form Teacher) |
 
 #### **Primary 2 Staff**
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p2staff1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p2staff3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [wee\_si\_ya\_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg)<br>P2 Innovator (Form Teacher) | [suzanah\_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg)<br>P2 Innovator (Form Teacher) | [Michael\_Joseph@schools.gov.sg](mailto:Michael_Joseph@schools.gov.sg)<br>P2 Thinker (Form Teacher) |
 
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:110px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| <br> | <br> | <br> |
-
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p2staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p2staff6.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [nur\_ainninah\_noor\_muhamed@schools.gov.sg](mailto:nur_ainninah_noor_muhamed@schools.gov.sg)<br>P2 Thinker (Form Teacher) | [eka\_syafiqah\_ahmad\_nasir@schools.gov.sg](mailto:eka_syafiqah_ahmad_nasir@schools.gov.sg)<br>P2 Creator (Form Teacher)	| [chang\_ma\_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg)<br>P2 Creator (Form Teacher) |
 
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:110px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| <br> | <br> | <br> |
-
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p2staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p2staff9.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [md\_farouk\_rahim@schools.gov.sg](mailto:md_farouk_rahim@schools.gov.sg)<br>P2 Reflector (Form Teacher) | Ms Tessari <br>P2 Reflector (Form Teacher) | [lin\_suting@schools.gov.sg](mailto:lin_suting@schools.gov.sg)<br>P2 Inventor (Form Teacher) |
 
-<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p2staff12.jpg" style="width:20%;margin-left:110px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [koh\_meow\_li@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg)<br>P2 Inventor (Form Teacher) | [choo\_chai\_fang@schools.gov.sg](mailto:cheong_shu_hui@schools.gov.sg)<br>P2 Inquirer (Form Teacher) | [arani\_zuliffah@schools.gov.sg](mailto:arani_zuliffah@schools.gov.sg)<br>P2 Inquirer (Form Teacher) |
+
+<img src="/images/p2staff13.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p2staff14.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p2staff15.jpg" style="width:20%;margin-left:110px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [sai\_syamla\_krisna@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)<br>P2 Explorer (Form Teacher) | [lai\_hui\_ming@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)<br>P2 Explorer (Form Teacher) | [ong\_zhi\_yong\_gary@schools.gov.sg](mailto:lin_suting@schools.gov.sg)<br>P2 Discoverer (Form Teacher) |
+
+<img src="/images/p2staff16.jpg" style="width:20%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
 |  |
 |:---|
-|  |
+| [tan\_rachel@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg)<br>P2 Discoverer (Form Teacher) |
 
 #### **Primary 3 Staff**
 <img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
