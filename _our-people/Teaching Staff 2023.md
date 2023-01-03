@@ -173,7 +173,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [siti\_nadia\_abdul\_rahman@schools.gov.sg](mailto:siti_nadia_abdul_rahman@schools.gov.sg)<br>P4 Innovator (Form Teacher) | [quek\_ser\_kwang@schools.gov.sg](mailto:quek_ser_kwang@schools.gov.sg)<br>P4 Innovator (Form Teacher) | [nicholas\_chang\_wenjie@schools.gov.sg](mailto:nicholas_chang_wenjie@schools.gov.sg)<br>P4 Thinker (Form Teacher) |
 
 <img src="/images/p4staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p4staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -183,7 +183,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [ning\_ning\_a@schools.gov.sg](mailto:ning_ning_a@schools.gov.sg)<br>P4 Thinker (Form Teacher) | [ivan\_tan\_seng\_hock@schools.gov.sg](mailto:ivan_tan_seng_hock@schools.gov.sg)<br>P4 Creator (Form Teacher) | [teh\_chai\_choo@schools.gov.sg](mailto:ning_ning_a@schools.gov.sg)<br>P4 Creator (Form Teacher) |
 
 <img src="/images/p4staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p4staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -193,7 +193,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [chong\_hwei\_hwei@schools.gov.sg](mailto:Lee_JIE_YEE@schools.gov.sg)<br>P4 Reflector (Form Teacher) | [zhang\_bingjie\_a@schools.gov.sg](mailto:zhang_bingjie_a@schools.gov.sg)<br>P4 Reflector (Form Teacher) | [sin\_chui\_yi\_doreen@schools.gov.sg](mailto:sin_chui_yi_doreen@schools.gov.sg)<br>P4 Inventor (Form Teacher) |
 
 <img src="/images/p4staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p4staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -203,7 +203,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [chua\_siew\_fen@schools.gov.sg](mailto:sin_chui_yi_doreen@schools.gov.sg)<br>P4 Inventor (Form Teacher) | [fatin\_yasirah\_mohd\_yazid@schools.gov.sg](mailto:fatin_yasirah_mohd_yazid@schools.gov.sg)<br>P4 Inquirer (Form Teacher) | [lim\_yi\_ting\_cylvi@schools.gov.sg](mailto:lim_yi_ting_cylvi@schools.gov.sg)<br>P4 Inquirer (Form Teacher) |
 
 <img src="/images/p4staff13.jpg" style="width:20%;margin-left:135px;" align = "left">
 <img src="/images/p4staff14.jpg" style="width:20%;margin-left:225px;" align = "left">
@@ -212,7 +212,7 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| <br> | <br> |
+| [Tan\_CHOO\_KEOW\_VERONICA@schools.gov.sg](http://Tan_CHOO_KEOW_VERONICA@schools.gov.sg%20/)<br>P4 Explorer (Form Teacher) | [ng\_kah\_suan@schools.gov.sg](http://Tan_CHOO_KEOW_VERONICA@schools.gov.sg%20/)<br>P4 Explorer (Form Teacher) |
 
 #### **Primary 5 Staff**
 <img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
