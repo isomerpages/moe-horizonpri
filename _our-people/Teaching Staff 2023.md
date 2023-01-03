@@ -282,7 +282,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [deborah\_moses@schools.gov.sg](mailto:deborah_moses@schools.gov.sg)<br>P6 Innovator (Form Teacher) | [enn\_cai\_ying@schools.gov.sg](mailto:enn_cai_ying@schools.gov.sg)<br>P6 Innovator (Form Teacher) | [usha\_ramachandra@schools.gov.sg](mailto:usha_ramachandra@schools.gov.sg)<br>P6 Thinker (Form Teacher) |
 
 <img src="/images/p6staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p6staff5.jfif" style="width:20%;margin-left:95px;" align = "left">
@@ -292,7 +292,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [chen\_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg)<br>P6 Thinker (Form Teacher) | [Ong\_YI\_QI\_randolph@schools.gov.sg](mailto:Ong_YI_QI_randolph@schools.gov.sg)<br>P6 Creator (Form Teacher) | [ong\_yiu\_yah@schools.gov.sg](mailto:ong_yiu_yah@schools.gov.sg)<br>P6 Creator (Form Teacher) |
 
 <img src="/images/p6staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p6staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -302,7 +302,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [rozanah\_abdul\_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg)<br>P6 Reflector (Form Teacher) | [teo\_hwee\_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)<br>P6 Reflector (Form Teacher) | [tan\_wei\_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)<br>P6 Inventor (Form Teacher) |
 
 <img src="/images/p6staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p6staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -312,7 +312,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [hazlina\_mohamed\_maideen@schools.gov.sg](mailto:hazlina_mohamed_maideen@schools.gov.sg)<br>P6 Inventor (Form Teacher) | [parameswary\_sivarajah@schools.gov.sg](mailto:parameswary_sivarajah@schools.gov.sg)<br>P6 Inquirer (Form Teacher) | [han\_yu\_chin@schools.gov.sg](mailto:han_yu_chin@schools.gov.sg)<br>P6 Inquirer (Form Teacher) |
 
 #### **Sen Officers**
 <img src="/images/senofficer.jpg" style="width:20%;margin-left:55px;" align = "left">
