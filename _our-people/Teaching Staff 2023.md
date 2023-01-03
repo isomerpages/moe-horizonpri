@@ -274,9 +274,9 @@ description: ""
 | [devika\_murugaiah@schools.gov.sg](mailto:devika_murugaiah@schools.gov.sg)<br>P5 Discoverer (Form Teacher) |
 
 #### **Primary 6 Staff**
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p6staff1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p6staff2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p6staff3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -284,9 +284,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p6staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p6staff5.jfif" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p6staff6.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -294,9 +294,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p6staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p6staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p6staff9.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -304,9 +304,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p6staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p6staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p6staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p6staff12.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
