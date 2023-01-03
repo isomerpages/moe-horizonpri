@@ -15,6 +15,10 @@ description: ""
 
 <br clear="left">
 
+|  |  |
+|:---:|:---:|
+| Learning for Life Programme | Applied Learning Programme |
+
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/cognitive/">
 <img src="/images/experiences4.jpg" style="width:45%;margin-right:55px;" align = "right">
 </a></p>
@@ -24,6 +28,10 @@ description: ""
 </a></p>
 
 <br clear="left">
+
+|  |  |
+|:---:|:---:|
+| Cognitive | Social |
 
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/">
 <img src="/images/experiences5.jpg" style="width:30%;margin-right:5px;margin-left:15px;" align = "left">
@@ -38,3 +46,7 @@ description: ""
 </a></p>
 
 <br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Physical | Moral | Aesthetics |
