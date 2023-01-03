@@ -7,7 +7,7 @@ third_nav_title: Learning for Life Programme
 ### **Learning for Life Programme**
 #### **I-LEAD+**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="I LEAD+ Horizon" src="https://www.youtube.com/embed/u8wkE4v3jPc" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="I LEAD+ Horizon" src="https://www.youtube.com/embed/u8wkE4v3jPc" width="700" height="350"></iframe>
 
 Horizon Primary is committed to nurture every child to lead their lives responsibly and to contribute with joy.&nbsp;A whole-school Student Leadership Development Programme through CCE, I-LEAD is Horizon’s flagship programme since 2010.&nbsp;
 
