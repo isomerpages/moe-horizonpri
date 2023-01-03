@@ -124,55 +124,45 @@ description: ""
 | [tan\_rachel@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg)<br>P2 Discoverer (Form Teacher) |
 
 #### **Primary 3 Staff**
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p3staff1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p3staff2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p3staff3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [ng\_kwee\_hiong@schools.gov.sg](mailto:ng_kwee_hiong@schools.gov.sg)<br>P3 Innovator (Form Teacher) | [zhang\_lingxia@schools.gov.sg](mailto:zhang_lingxia@schools.gov.sg)<br>P3 Innovator (Form Teacher) | [ang\_shih\_piow\_stanley@schools.gov.sg](mailto:ang_shih_piow_stanley@schools.gov.sg)<br>P3 Thinker (Form Teacher) |
 
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:110px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| <br> | <br> | <br> |
-
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p3staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p3staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p3staff6.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [thasneem\_parveen\_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)<br>P3 Thinker (Form Teacher) | [hirman\_abdul\_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)<br>P3 Creator (Form Teacher) | [choon\_yoke\_chan\_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg)<br>P3 Creator (Form Teacher) |
 
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:110px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| <br> | <br> | <br> |
-
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p3staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p3staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p3staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p3staff9.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [saleha\_hashim@schools.gov.sg](mailto:saleha_hashim@schools.gov.sg)<br>P3 Reflector (Form Teacher) | [tay\_aik\_poh@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg)<br>P3 Reflector (Form Teacher) | [glenda\_ding\_shi\_yu@schools.gov.sg](mailto:glenda_ding_shi_yu@schools.gov.sg)<br>P3 Inventor (Form Teacher) |
+
+<img src="/images/p3staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p3staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p3staff12.jpg" style="width:20%;margin-left:110px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| [nootan\_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg)<br>P3 Inventor (Form Teacher) | [thilagavathi\_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg)<br>P3 Inquirer (Form Teacher) | Ms Norla<br>P3 Inquirer (Form Teacher) |
 
 #### **Primary 4 Staff**
 <img src="/images/p4staff.jpg" style="width:20%;margin-left:55px;" align = "left">
