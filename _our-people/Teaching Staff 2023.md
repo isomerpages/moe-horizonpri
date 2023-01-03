@@ -215,9 +215,9 @@ description: ""
 | [Tan\_CHOO\_KEOW\_VERONICA@schools.gov.sg](http://Tan_CHOO_KEOW_VERONICA@schools.gov.sg%20/)<br>P4 Explorer (Form Teacher) | [ng\_kah\_suan@schools.gov.sg](http://Tan_CHOO_KEOW_VERONICA@schools.gov.sg%20/)<br>P4 Explorer (Form Teacher) |
 
 #### **Primary 5 Staff**
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p5staff1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p5staff3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -225,9 +225,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p5staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p5staff6.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -235,9 +235,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p5staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p5staff9.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -245,9 +245,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p5staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p5staff12.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -255,9 +255,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p5staff13.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff14.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p5staff15.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -265,7 +265,7 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p5staff16.jpg" style="width:20%;margin-left:55px;" align = "left">
 
 <br clear="left">
 
