@@ -61,7 +61,7 @@ description: ""
 <br clear="left">
 
 |  |
-|:---:|
+|:---|
 | [yeo\_puay\_koon\_alice@schools.gov.sg](mailto:tan_rachel@schools.gov.sg) <br>P1 Discoverer(Form Teacher) |
 
 #### **Primary 2 Staff**
