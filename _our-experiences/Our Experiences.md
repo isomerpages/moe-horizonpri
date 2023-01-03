@@ -49,4 +49,4 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Physical | Moral | Aesthetics |
+| [Physical](/our-experiences/physical/) | [Moral](/our-experiences/moral/eco-club/) | [Aesthetics](/our-experiences/aesthetics/) |
