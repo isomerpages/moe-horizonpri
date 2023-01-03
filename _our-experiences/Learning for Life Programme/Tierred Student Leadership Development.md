@@ -25,18 +25,18 @@ Students who have displayed positive leadership qualities may be identified to b
 
 ##### **Tier 2 Leadership Development**
 
-| Investitures |  |
+| **Investitures** | <img src="/images/2ndtier1.jpg" style="width:49%" align=left> <img src="/images/2ndtier2.jpg" style="width:49%" align=right>|
 |---|---|
-| **Leadership Trainings** |  |
-| **Core Team Elections** |  |
-| **Competitions** |  |
+| **Leadership Trainings** | <img src="/images/2ndtier3.jpg" style="width:49%" align=left> |
+| **Core Team Elections** | <img src="/images/2ndtier4.jpg" style="width:49%" align=left> |
+| **Competitions** | <img src="/images/2ndtier5.jpg" style="width:49%" align=left> <img src="/images/2ndtier6.jpg" style="width:49%" align=right> |
 |
 
 ##### **Tier 2 Service Leadership**
 
-| **Duties and Mentoring** |  |
+| **Duties and Mentoring** | <img src="/images/2ndtier7.jpg" style="width:49%" align=left> <img src="/images/2ndtier8.jpg" style="width:49%" align=right> |
 |---|---|
-| **School Events** |  |
-| **Captains-LED Initiatives** |  |
-|  **Community Involvement** |  |
+| **School Events** | <img src="/images/2ndtier9.jpg" style="width:49%" align=left> <img src="/images/2ndtier10.jpg" style="width:49%" align=right> |
+| **Captains-LED Initiatives** | <img src="/images/2ndtier11.jpg" style="width:49%" align=left> <img src="/images/2ndtier12.jpg" style="width:49%" align=right> |
+|  **Community Involvement** | <img src="/images/2ndtier13.jpg" style="width:49%" align=left> <img src="/images/2ndtier14.jpg" style="width:49%" align=right> |
 |
