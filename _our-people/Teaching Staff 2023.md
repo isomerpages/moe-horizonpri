@@ -165,9 +165,9 @@ description: ""
 | [nootan\_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg)<br>P3 Inventor (Form Teacher) | [thilagavathi\_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg)<br>P3 Inquirer (Form Teacher) | Ms Norla<br>P3 Inquirer (Form Teacher) |
 
 #### **Primary 4 Staff**
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p4staff1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p4staff2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p4staff3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -175,9 +175,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p4staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p4staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p4staff6.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -185,9 +185,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p4staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p4staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p4staff9.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -195,9 +195,9 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/p4staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/p4staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/p4staff12.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
@@ -205,8 +205,8 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:135px;" align = "left">
-<img src="/images/p4staff.jpg" style="width:20%;margin-left:225px;" align = "left">
+<img src="/images/p4staff13.jpg" style="width:20%;margin-left:135px;" align = "left">
+<img src="/images/p4staff14.jpg" style="width:20%;margin-left:225px;" align = "left">
 
 <br clear="left">
 
