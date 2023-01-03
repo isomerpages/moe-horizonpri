@@ -115,6 +115,14 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
+<img src="/images/p2staff.jpg" style="width:20%;margin-left:55px;" align = "left">
+
+<br clear="left">
+
+|  |
+|:---|
+|  |
+
 #### **Primary 3 Staff**
 <img src="/images/p3staff.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p3staff.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -267,6 +275,14 @@ description: ""
 |:---:|:---:|:---:|
 | <br> | <br> | <br> |
 
+<img src="/images/p5staff.jpg" style="width:20%;margin-left:55px;" align = "left">
+
+<br clear="left">
+
+|  |
+|:---|
+|  |
+
 #### **Primary 6 Staff**
 <img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p6staff.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -324,5 +340,5 @@ description: ""
 <br clear="left">
 
 |  |
-|:---:|
+|:---|
 |  |
