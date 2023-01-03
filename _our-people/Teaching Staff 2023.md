@@ -315,15 +315,15 @@ description: ""
 | [hazlina\_mohamed\_maideen@schools.gov.sg](mailto:hazlina_mohamed_maideen@schools.gov.sg)<br>P6 Inventor (Form Teacher) | [parameswary\_sivarajah@schools.gov.sg](mailto:parameswary_sivarajah@schools.gov.sg)<br>P6 Inquirer (Form Teacher) | [han\_yu\_chin@schools.gov.sg](mailto:han_yu_chin@schools.gov.sg)<br>P6 Inquirer (Form Teacher) |
 
 #### **Sen Officers**
-<img src="/images/senofficer.jpg" style="width:20%;margin-left:55px;" align = "left">
-<img src="/images/senofficer.jpg" style="width:20%;margin-left:95px;" align = "left">
-<img src="/images/senofficer.jpg" style="width:20%;margin-left:110px;" align = "left">
+<img src="/images/senofficer1.jpg" style="width:20%;margin-left:55px;" align = "left">
+<img src="/images/senofficer2.jpg" style="width:20%;margin-left:95px;" align = "left">
+<img src="/images/senofficer3.jpg" style="width:20%;margin-left:110px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| [koh\_bee\_cheng@schools.gov.sg](mailto:koh_bee_cheng@schools.gov.sg) | [chew\_poh\_choo@schools.gov.sg](mailto:chew_poh_choo@schools.gov.sg) | [nurazimah\_azman@schools.gov.sg](mailto:nurazimah_azman@schools.gov.sg) |
 
 <img src="/images/senofficer.jpg" style="width:20%;margin-left:55px;" align = "left">
 
@@ -331,4 +331,4 @@ description: ""
 
 |  |
 |:---|
-|  |
+| [farhana\_hassan@schools.gov.sg](mailto:farhana_hassan@schools.gov.sg) |
