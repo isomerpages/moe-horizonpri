@@ -223,7 +223,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [brenda\_joan\_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg)<br>P5 Innovator (Form Teacher) | [hu\_wanchun@schools.gov.sg](mailto:hu_wanchun@schools.gov.sg)<br>P5 Innovator (Form Teacher) | [ramani\_prabhu\_r\_kalamohan@schools.gov.sg](mailto:ramani_prabhu_r_kalamohan@schools.gov.sg)<br>P5 Thinker (Form Teacher) |
 
 <img src="/images/p5staff4.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p5staff5.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -233,7 +233,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [zhang\_yiyang@schools.gov.sg](mailto:zhang_yiyang@schools.gov.sg)<br>P5 Thinker (Form Teacher) | [tay\_siak\_ching@schools.gov.sg](mailto:tay_siak_ching@schools.gov.sg)<br>P5 Creator (Form Teacher) | [Chua\_Chun\_Hua\_A@schools.gov.sg](mailto:Chua_Chun_Hua_A@schools.gov.sg)<br>P5 Creator (Form Teacher) |
 
 <img src="/images/p5staff7.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p5staff8.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -243,7 +243,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [tan\_su\_hui\_a@schools.gov.sg](mailto:tan_su_hui_a@schools.gov.sg)<br>P5 Reflector (Form Teacher) | [choo\_yong\_guan@schools.gov.sg](mailto:choo_yong_guan@schools.gov.sg)<br>P5 Reflector (Form Teacher) | [lin\_qizhen@schools.gov.sg](mailto:lin_qizhen@schools.gov.sg)<br>P5 Inventor (Form Teacher) |
 
 <img src="/images/p5staff10.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p5staff11.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -253,7 +253,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [karen\_goh@schools.gov.sg](mailto:karen_goh@schools.gov.sg)<br>P5 Inventor (Form Teacher) | [nur\_nurul\_shahqairani\_azmi@schools.gov.sg](mailto:nur_nurul_shahqairani_azmi@schools.gov.sg)<br>P5 Inquirer (Form Teacher) | [Tjio\_Giem\_Swat@schools.gov.sg](mailto:Tjio_Giem_Swat@schools.gov.sg)<br>P5 Inquirer (Form Teacher) |
 
 <img src="/images/p5staff13.jpg" style="width:20%;margin-left:55px;" align = "left">
 <img src="/images/p5staff14.jpg" style="width:20%;margin-left:95px;" align = "left">
@@ -263,7 +263,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| <br> | <br> | <br> |
+| [parveen\_begum\_gulam\_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)<br>P5 Explorer (Form Teacher) | [edwin\_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg)<br>P5 Explorer (Form Teacher) | [chia\_der\_sheng@schools.gov.sg](mailto:chia_der_sheng@schools.gov.sg)<br>P5 Discoverer (Form Teacher) |
 
 <img src="/images/p5staff16.jpg" style="width:20%;margin-left:55px;" align = "left">
 
@@ -271,7 +271,7 @@ description: ""
 
 |  |
 |:---|
-|  |
+| [devika\_murugaiah@schools.gov.sg](mailto:devika_murugaiah@schools.gov.sg)<br>P5 Discoverer (Form Teacher) |
 
 #### **Primary 6 Staff**
 <img src="/images/p6staff.jpg" style="width:20%;margin-left:55px;" align = "left">
