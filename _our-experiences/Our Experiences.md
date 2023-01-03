@@ -20,7 +20,7 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| Learning for Life Programme | Applied Learning Programme |
+| [Learning for Life Programme](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/llp/) | [Applied Learning Programme](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/alp/) |
 
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/social/">
 <img src="/images/experiences4.jpg" style="width:45%;margin-right:55px;" align = "right">
@@ -37,7 +37,7 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| Cognitive | Social |
+| [Cognitive](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/) | [Social](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/social/) |
 
 <p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/">
 <img src="/images/experiences5.jpg" style="width:30%;margin-right:5px;margin-left:15px;" align = "left">
