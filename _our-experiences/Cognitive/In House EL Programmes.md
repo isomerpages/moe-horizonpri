@@ -11,4 +11,4 @@ One of the platforms we have provided students is the Spelling Bee Competition. 
 
 Through these activities, we endeavour to inculcate a passion and appreciation of the English Language in all our students!
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTs5jWe9395aJCUVVNNjlAjKOgjDRzRo1ux5TXjvAu3UjpNZzVVK-GT8jUBrthpsmtHwHq74_E6MJ1S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="700" height="350" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTs5jWe9395aJCUVVNNjlAjKOgjDRzRo1ux5TXjvAu3UjpNZzVVK-GT8jUBrthpsmtHwHq74_E6MJ1S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
