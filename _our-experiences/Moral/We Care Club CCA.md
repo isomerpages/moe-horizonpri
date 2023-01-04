@@ -11,4 +11,6 @@ Through a wide array of activities, the club seeks to cultivate values of compas
 
 We Care Club aims to nurture our students into active contributors who seek to make valuable improvements to the society. Using the design thinking strategy, our students create activities to promote kindness and graciousness which are both fun and meaningful. During the process, the students learn to work together and overcome challenges. They are very encouraged by the positive response from their school mates.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/UsTvHyTO65s" title="We Care CCA Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="We Care CCA Promo Video" src="https://www.youtube.com/embed/UsTvHyTO65s" height="450" width="800"></iframe>
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8LsKAmFAI-Thwj7lxgtmKad6ecwpkyZEM4SJ6bvErQ7j_pJdN3YQ3LSJrHdii2dDaNGDlLJLU_WpG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
