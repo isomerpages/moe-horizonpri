@@ -13,3 +13,12 @@ Values in Action is the basis of developing our students as socially responsible
 | <br>Responsible Leader<br>(Leader for Others - School) | Primary 3<br><br><br>Primary 4 | I’m A Caring Commuter<br><br><br>Uncovering Our Roots | Understand and design posters to encourage their peers to do their part to keep the care for commuters on the public transport<br><br>To understand the contributions made by our forefathers who had road names named after them. Students design posters to increase their peers’ understanding of this content. |
 | Respected Leader<br>(Leader for Others - Community) | Primary 5<br><br>Primary 6 | Children for Others<br><br>Care-Pac for Migrant Workers | To plan and implement a food donation drive to help the underprivileged families in Punggol.<br><br>Students understand and appreciate the contributions of the foreign workers, and design Care-pac for them |
 |
+
+##### **School Outreach Programmes/Events**
+
+| Leadership | Projects | Description |
+|:---:|:---:|:---:|
+| Responsible Leader<br>(Leader for Others) | Community Bonding | Send warm wishes to the Punggol community for Chinese New Year with mandarin oranges<br><br>Perform at various community events around the neighbourhood to spread excitement and joy to the residents |
+|  |  Internationalisation@Horizon | Host students from overseas who visit the school for their learning journey. In 2021, a virtual exchange was held. |
+| Respected Leader<br>(Leaders for Others) | Eco-carnival | Promote upcycling at the Eco-carnival to the community with ready-made products |
+|
