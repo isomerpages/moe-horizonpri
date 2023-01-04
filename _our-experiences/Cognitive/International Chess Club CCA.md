@@ -11,6 +11,6 @@ Through the CCA sessions, students learn to put first things first by strategisi
 
 In striving for excellence, students will have the opportunity to represent the school and pit their wits against others in the annual National Schools Chess Championships!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="1. Chess Club CCA promo video" src="https://www.youtube.com/embed/dYQry22sFEY" height="350" width="700"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="1. Chess Club CCA promo video" src="https://www.youtube.com/embed/dYQry22sFEY" height="450" width="800"></iframe>
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTrEnLZiraLZayb6-RLr0zbeZinGquiIikIzLKllFen797VRQK4sVgFT5Ne6_NlRQ2-3BZLuoujtFxU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
