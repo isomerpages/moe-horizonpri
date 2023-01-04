@@ -24,3 +24,4 @@ During these lessons, students explore the portal to find out about educational 
 #### **ECG Bazaar**
 Booths manned by student representatives of different secondary schools to showcase their schools’ events and programmes are put up to provide students with enriching experiences to find out more about their next phase in their educational pathway.
 
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9SZwr4eeUomtjdhc-znxWkTrE4hPj4O5DPPyzT4GkjRSUz2BPfmK8r1VBMJQW3oRl5s25ZeQCk9v0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
