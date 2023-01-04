@@ -11,4 +11,4 @@ Eco Club members are committed to care for our environment through reducing, reu
 
 As part of the national movement to conserve Singapore’s natural heritage, Eco Club members are involved in the Greening Schools for Biodiversity program which serves to bring students closer to nature without leaving the school compound. Students learn to appreciate the local biodiversity and are actively involved in planting biodiversity-attracting flora to enhance the biodiversity in the school and creating a biodiversity trail to provide a guided walk for their peers.
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/qR9HVYTIlCA" title="Eco Club Video Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="450" width="800" src="https://www.youtube.com/embed/qR9HVYTIlCA" title="Eco Club Video Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
