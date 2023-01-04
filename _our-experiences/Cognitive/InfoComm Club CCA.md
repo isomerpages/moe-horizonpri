@@ -15,6 +15,6 @@ Students take part in a variety of InfoComm related competitions held throughout
 *   National Photography Competition
 *   National Primary Games Creation Competition (NPGCC)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Infocomm Club CCA promo video" src="https://www.youtube.com/embed/TaVoNGiM9aI" height="350" width="700"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Infocomm Club CCA promo video" src="https://www.youtube.com/embed/TaVoNGiM9aI" height="450" width="800"></iframe>
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStWp-pK_LN-UimKGTk-XiviPBUsg2xfAXZRO7JYRPt6gI9FRBno9xpd7-9Wef5x8IR6iUjjm7xlgPS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
