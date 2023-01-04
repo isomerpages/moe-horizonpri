@@ -11,6 +11,6 @@ The trainings that students undergo help them expand their understanding of the 
 
 Members who display talent in their craft have the opportunity to represent the school and participate in various competitions such as the National Robotics Programming Competition. 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="11. Robotics CCA promo video" src="https://www.youtube.com/embed/D7WqBRxyN5w" height="350" width="700"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="11. Robotics CCA promo video" src="https://www.youtube.com/embed/D7WqBRxyN5w" height="450" width="800"></iframe>
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-l0dzMBJLLQHQE15Pl7kDzMaxdnZx3MtNIujXj8XVnu9uxznNpczwZfTAaVCeiEc_VR-SCMLLi7oY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
