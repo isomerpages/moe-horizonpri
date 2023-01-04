@@ -11,8 +11,8 @@ Each year, the students read a different book. Teachers carry out various 
 
 We hope that our students will carry on their love for literature and produce creative works of their own!
 
-<img src="/images/elfiesta.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/elfiesta.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/elfiesta.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/elfiesta1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/elfiesta2.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/elfiesta3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
