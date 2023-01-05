@@ -27,3 +27,10 @@ Primary 4 students designed their own book covers by listening attentively to th
 <img src="/images/mtlsignatureprogramme12.jpg" style="width:22%;margin-right:15px;" align = "left">
 
 <br clear="left">
+
+Displaying the student advocacy approach, MTL Captains were also roped in to read stories in their own MT languages, and had their readings uploaded in SLS for others to view. Inspired from listening to these stories, students began to take charge of their own learning and pickup effective reading skills.
+
+<img src="/images/mtlsignatureprogramme13.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/mtlsignatureprogramme14.jpg" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
