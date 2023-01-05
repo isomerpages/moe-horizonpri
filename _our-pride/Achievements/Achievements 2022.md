@@ -10,7 +10,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Tamil Language |  |  |
+| <br><br><br>Tamil Language | Story Telling Competition by Paya Lebar – Aljunied Indian Activity Executive Committee (IAEC)<br><br>Story Telling Competition by Potong Pasir CC Indian Activity Executive Committee (IAEC)<br><br>Singing Competition by Potong Pasir CC Indian Activity Executive Committee (IAEC) | 1st and 2nd prize<br><br>1st  prize<br><br><br>2nd prize  |
 | ALP Tier 2 leadership |  |  |
 | Robotics |  |  |
 | Mathematics |  |  |
