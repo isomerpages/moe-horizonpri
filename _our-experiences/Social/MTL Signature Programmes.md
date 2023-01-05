@@ -30,7 +30,28 @@ Primary 4 students designed their own book covers by listening attentively to th
 
 Displaying the student advocacy approach, MTL Captains were also roped in to read stories in their own MT languages, and had their readings uploaded in SLS for others to view. Inspired from listening to these stories, students began to take charge of their own learning and pickup effective reading skills.
 
-<img src="/images/mtlsignatureprogramme13.jpg" style="width:40%;margin-right:65px;" align = "right">
-<img src="/images/mtlsignatureprogramme14.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/mtlsignatureprogramme14.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/mtlsignatureprogramme13.jpg" style="width:40%;margin-left:65px;" align = "left">
 
 <br clear="left">
+
+#### **Festive Celebration**
+Celebrating festivals in schools have become an integral part of learning and building a strong cultural belief in a child. Horizon Primary School encourages all students to embrace other traditions and cultures just like the way they do with their own. These celebrations will bring students closer to traditional and cultural beliefs. A close bond is built among the students as they better understand one another’s unique customs. Being in a diverse country, the students need to know what each festival represents, and through the various celebrations, they will realise the rich cultural tapestry of our heritage. Having every member in the school to celebrate these occasions is always a wonderful experience for all of our staff and students.
+
+<img src="/images/mtlsignatureprogramme16.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/mtlsignatureprogramme15.jpg" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/mtlsignatureprogramme18.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/mtlsignatureprogramme17.jpg" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/mtlsignatureprogramme20.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/mtlsignatureprogramme19.jpg" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+#### **CL Cultural Programme**
+Horizon Primary School has been embarking on the Chinese Cultural Awareness Programme with the intention of raising awareness of the Chinese Culture among our students. We believe that the meaningful learning experience will not only deepen our students’ understanding of their own roots but also allow them to take pride in their culture. By integrating the cultural activities into the curriculum, we hope that our students will appreciate both the Chinese Culture and the Chinese Language better. The cultural craft lessons and activities provided the Chinese students with deeper insights of the Chinese traditions, as they were introduced to the history, background and unique purposes of these crafts. We engaged our students through hands-on activities, which make learning more enjoyable and personal.
