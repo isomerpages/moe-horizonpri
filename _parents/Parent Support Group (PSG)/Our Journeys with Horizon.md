@@ -46,7 +46,7 @@ Thank you, Horizon for your strong commitment in parental partnership.
 
 As a PC! member for 2 years, I support the school and teachers in various programmes. I enjoy working alongside other PC members. Teachers' Day and Family Day are definitely the most enjoyable and memorable, from planning to executing the plans to ensure smooth running of the events. These events provided opportunities for me to pick up lots of creative ideas and practical skills. I am thankful for the school's utmost support. Such involvements have also strengthened the bond between my son and me as I become more aware of his school environment. It helps that we now share more common topics. I am grateful to have this opportunity to get involved in his learning process in school.
 
-<img src="/images/journeywithhorizon4.jpg" style="width:25%;margin-right:15px;" align = "left"><br><br>**Mdm Jess Teo**<br>Joslyn Goh Hoon Teng<br>(P6 Inventor, 2017)<br>Joel Goh Jun Wei (P4 Reflector, 2017)<br>Joshua Goh Jun Kai (P2 Creator, 2017)
+<img src="/images/journeywithhorizon4.jpg" style="width:25%;margin-right:15px;" align = "left"><br>**Mdm Jess Teo**<br>Joslyn Goh Hoon Teng<br>(P6 Inventor, 2017)<br>Joel Goh Jun Wei (P4 Reflector, 2017)<br>Joshua Goh Jun Kai (P2 Creator, 2017)
 
 <br clear="left">
 
@@ -56,7 +56,7 @@ I have improved my communication skills. My children are happier and are more in
 
 The regular communication with the school re-affirms our mindset that the committee is an important stakeholder and this enhances our contributions. I am appreciative that the school leaders take time and effort in building up the relationship between the committee and the school.
 
-<img src="/images/journeywithhorizon5.jpg" style="width:25%;margin-right:15px;" align = "left"><br><br>**Mr Peter Chua**<br>Chelsea Chua Pei-Ying<br>(P6 Innovator, 2017)<br>Aston Chua Jie-Xun (P6 Reflector, 2017)
+<img src="/images/journeywithhorizon5.jpg" style="width:40%;margin-right:15px;" align = "left">**Mr Peter Chua**<br>Chelsea Chua Pei-Ying<br>(P6 Innovator, 2017)<br>Aston Chua Jie-Xun (P6 Reflector, 2017)
 
 <br clear="left">
 
@@ -68,7 +68,7 @@ My family enjoyed most of the PC! events, particularly the P1 Bonding which aims
 
 My children learn that we are their most valuable supporters as we always make the effort to join them for school activities. My family is thankful for the fantastic opportunity to be involved in this holistic learning journey at Horizon Primary School!
 
-<img src="/images/journeywithhorizon6.jpg" style="width:25%;margin-right:15px;" align = "left"><br><br>**Mdm Susan Lim Saw Peng**<br>Kellie Seah Kai Leng<br>(P6 Innovator, 2017)<br>Keller Seah Kai Le (P3 Innovator, 2017)
+<img src="/images/journeywithhorizon6.jpg" style="width:30%;margin-right:15px;" align = "left"><br>**Mdm Susan Lim Saw Peng**<br>Kellie Seah Kai Leng<br>(P6 Innovator, 2017)<br>Keller Seah Kai Le (P3 Innovator, 2017)
 
 <br clear="left">
 
@@ -78,7 +78,7 @@ From the recent Horizon Family Day, I could see a lot of involvement from our ch
 
 Thank you to all School Leaders and staff for supporting PC!
 
-<img src="/images/journeywithhorizon7.jpg" style="width:25%;margin-right:15px;" align = "left"><br><br>**Mdm Hema Devi Veerakumar**<br>Ashlyn Shivani Tamilselvan<br>(P3 Thinker, 2017)
+<img src="/images/journeywithhorizon7.jpg" style="width:30%;margin-right:15px;" align = "left"><br>**Mdm Hema Devi Veerakumar**<br>Ashlyn Shivani Tamilselvan<br>(P3 Thinker, 2017)
 
 <br clear="left">
 
@@ -90,7 +90,7 @@ My daughter understood what it means to volunteer and the importance of particip
 
 As the saying goes, "It takes a village to raise a child." We are appreciative that Horizon has created a nurturing environment and established a meaningful partnership with parents.
 
-<img src="/images/journeywithhorizon8.jpg" style="width:25%;margin-right:15px;" align = "left"><br><br>**Mdm Joanne Lin**<br>Teo Rui En, Joey (P6 Inquirer, 2017)<br>Teo Yu Xuan Jozy (P1 Thinker, 2017)
+<img src="/images/journeywithhorizon8.jpg" style="width:30%;margin-right:15px;" align = "left"><br>**Mdm Joanne Lin**<br>Teo Rui En, Joey (P6 Inquirer, 2017)<br>Teo Yu Xuan Jozy (P1 Thinker, 2017)
 
 <br clear="left">
 
