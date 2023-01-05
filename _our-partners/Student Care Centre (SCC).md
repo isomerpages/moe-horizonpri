@@ -10,7 +10,7 @@ At Horizon Primary School, Raffles Student Care Centre is engaged to provide qua
 
 For more information on Raffles Student Care Centre, please visit this link: [https://rafflesstudentcare.com/about/](https://rafflesstudentcare.com/about/)
 
-#### Daily Schedule and Operating Hours
+#### **Daily Schedule and Operating Hours**
 Operating hours during **school term**<br>
 Mon - Fri: 1:00pm to 7:00pm  
   
