@@ -41,5 +41,5 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Infocomm |  |  |
+| <br><br>Infocomm | “Our Schools, Our Stories” Photo & Video Contest 2022 <br><br> 10th National Primary Schools Photography Competition 2022 | Honorable Mention Award, Precious Moments (Junior Category) <br><br>Merit Award |
 |
