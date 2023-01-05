@@ -21,7 +21,6 @@ Primary 4 students designed their own book covers by listening attentively to th
 <img src="/images/mtlsignatureprogramme6.jpg" style="width:22%;margin-right:15px;" align = "left">
 <img src="/images/mtlsignatureprogramme7.jpg" style="width:22%;margin-right:15px;" align = "left">
 <img src="/images/mtlsignatureprogramme11.jpg" style="width:22%;margin-right:15px;" align = "left">
-
 <img src="/images/mtlsignatureprogramme8.jpg" style="width:22%;margin-right:15px;" align = "left">
 <img src="/images/mtlsignatureprogramme9.jpg" style="width:22%;margin-right:15px;" align = "left">
 <img src="/images/mtlsignatureprogramme10.jpg" style="width:22%;margin-right:15px;" align = "left">
