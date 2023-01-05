@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School's Service Providers
 ---
 ### **Canteen Menus 2022**
-
+![](/images/menu1.jpg)
 <p><a href="webhere">
 <img src="/images/stall1.jpg" style="width:22%;margin-right:15px;" align = "left">
 </a></p>
