@@ -9,4 +9,6 @@ The Art Club CCA takes a student-centric approach, focusing on exploration of di
 
 In addition, the Art Club seeks to cultivate values of respect and excellence in students. They are given the opportunities to develop their Social Emotional Competency in collaborative work and to become self-directed and confident learners.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Gr1IyAmY37A" title="Art Club CCA Promo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Art Club CCA Promo Video" src="https://www.youtube.com/embed/Gr1IyAmY37A" height="450" width="800"></iframe>
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSEZ1Am5cryU4K76AbCJ3vC7E1_GrDWeotFIg_hDGyTP1mfvhJ6Op1A5tBOQt-onRgGv8U2eucznebL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
