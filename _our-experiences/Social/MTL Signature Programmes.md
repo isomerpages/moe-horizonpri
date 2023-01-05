@@ -55,3 +55,38 @@ Celebrating festivals in schools have become an integral part of learning and bu
 
 #### **CL Cultural Programme**
 Horizon Primary School has been embarking on the Chinese Cultural Awareness Programme with the intention of raising awareness of the Chinese Culture among our students. We believe that the meaningful learning experience will not only deepen our students’ understanding of their own roots but also allow them to take pride in their culture. By integrating the cultural activities into the curriculum, we hope that our students will appreciate both the Chinese Culture and the Chinese Language better. The cultural craft lessons and activities provided the Chinese students with deeper insights of the Chinese traditions, as they were introduced to the history, background and unique purposes of these crafts. We engaged our students through hands-on activities, which make learning more enjoyable and personal.
+
+**Primary 1 - Mask Painting**
+
+<img src="/images/mtlsignatureprogramme22.jpg" style="width:35%;margin-right:100px;" align = "right">
+<img src="/images/mtlsignatureprogramme21.jpg" style="width:35%;margin-left:100px;" align = "left">
+
+<br clear="left">
+
+**Primary 2 - Fan Painting**
+
+<img src="/images/mtlsignatureprogramme24.jpg" style="width:35%;margin-right:100px;" align = "right">
+<img src="/images/mtlsignatureprogramme23.jpg" style="width:28%;margin-left:130px;" align = "left">
+
+<br clear="left">
+
+ **Primary 3 - Paper-Cuttings**
+ 
+ <img src="/images/mtlsignatureprogramme26.jpg" style="width:35%;margin-right:100px;" align = "right">
+<img src="/images/mtlsignatureprogramme25.jpg" style="width:36%;margin-left:100px;" align = "left">
+
+<br clear="left">
+
+ **Primary 4 - Chinese Calligraphy**
+ 
+ <img src="/images/mtlsignatureprogramme28.jpg" style="width:35%;margin-right:100px;" align = "right">
+<img src="/images/mtlsignatureprogramme27.jpg" style="width:35%;margin-left:100px;" align = "left">
+
+<br clear="left">
+
+ **Primary 5 - Wash Painting**
+ 
+  <img src="/images/mtlsignatureprogramme30.jpg" style="width:37%;margin-right:100px;" align = "right">
+<img src="/images/mtlsignatureprogramme29.jpg" style="width:34%;margin-left:100px;" align = "left">
+
+<br clear="left">
