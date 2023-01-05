@@ -31,7 +31,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Taekwondo |  |  |
+| <br><br><br>Taekwondo | <br><br><br>National School Games Taekwondo 2022 | 1st Position, Individual Boys Red 2<br><br>2nd Position, Individual Boys Blue 4<br><br>3rd Position, Individual Boys Poom 1 |
 | Wushu |  |  |
 | Bowling|  |  |
 | Rope Skipping |  |  |
