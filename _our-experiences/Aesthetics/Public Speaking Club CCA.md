@@ -18,7 +18,9 @@ We have performed at:
 *   Virtual Chinese New Year Celebration 2021 (Punggol Shore)
 *   School events such Chinese New Year Celebrations and Star Award Ceremonies (emcee)
 
-Achievements:   
+Achievements:&nbsp;  
 *   Speak Up! Kids 2019 Finalists
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/pVo2Dw36Eas" title="Public Speaking Club Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Public Speaking Club Video 1" src="https://www.youtube.com/embed/pVo2Dw36Eas" height="450" width="800"></iframe>
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ5pZjieDAUdfHlErwA_3oYtW-hfRb5QecJ_YH0WgxlaVdNqrhD1E1A5T-HJC3pYn-dCBubZufLaW9S/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
