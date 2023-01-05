@@ -43,8 +43,8 @@ The essence of the camp was brought out through the challenges experienced by th
 ##### **Habit 3: Put First Things First**
 Before starting the high elements activities, our students practised Habit 3: Put First Things First by ensuring that the safety harness and helmet were worn securely before embarking on play.
 
-<img src="/images/p4outdooradvcamp5.jfif" style="width:40%;margin-right:65px;" align = "right">
-<img src="/images/p4outdooradvcamp4.jpg" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/p4outdooradvcamp6.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/p4outdooradvcamp5.jfif" style="width:40%;margin-left:65px;" align = "left">
 
 <br clear="left">
 
@@ -55,20 +55,20 @@ Before starting the high elements activities, our students practised Habit 3: Pu
 ##### **Habit 4: Think Win-Win**
 During one of the team building activities, students practised Habit 4: Think Win-Win by working together to problem solve and help each other scale over the high wall. Students felt a sense of accomplishment once they managed to get their group mates over the wall!
 
-<figure><figcaption><center><img src="/images/p4outdooradvcamp6.jpg" style="width:65%">Team Building Activity</center></figure></figcaption>
+<figure><figcaption><center><img src="/images/p4outdooradvcamp7.jfif" style="width:65%">Team Building Activity</center></figure></figcaption>
 
 ##### **Precious Moments Captured**
 Our leaders in action immersed themselves fully in all the activities. Those precious memories were not lost as members of each group took turns to capture the moments.
 
-<img src="/images/p4outdooradvcamp8.jfif" style="width:40%;margin-right:65px;" align = "right">
-<img src="/images/p4outdooradvcamp7.jfif" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/p4outdooradvcamp9.jfif" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/p4outdooradvcamp8.jfif" style="width:40%;margin-left:65px;" align = "left">
 
 <br clear="left">
 
 <center>Photos by our in-house young photographers</center>
 
-<img src="/images/p4outdooradvcamp10.jfif" style="width:40%;margin-right:65px;" align = "right">
-<img src="/images/p4outdooradvcamp9.jfif" style="width:40%;margin-left:65px;" align = "left">
+<img src="/images/p4outdooradvcamp11.jpg" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/p4outdooradvcamp10.jfif" style="width:40%;margin-left:65px;" align = "left">
 
 <br clear="left">
 
@@ -91,11 +91,41 @@ Every student learnt perspective-taking through listening to the diverse opinion
 ##### **Habit 7 : Sharpen The Saw**
 Before marking the end of the 3 days 2 nights camp, students practised Habit 7: ‘Sharpen The Saw’ by making their own healthy sandwich for breakfast and learnt to be socially responsible by performing the final area cleaning to ensure the campsite was clean and ready for other users.
 
-<img src="/images/p4outdooradvcamp13.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/p4outdooradvcamp14.jfif" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/p4outdooradvcamp15.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/p4outdooradvcamp14.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/p4outdooradvcamp15.jfif" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/p4outdooradvcamp16.jfif" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
+| Sandwich making for Breakfast! | Final reflections before end of camp | Area cleaning before heading home |
+
+<img src="/images/p4outdooradvcamp18.jfif" style="width:50%;margin-right:85px;" align = "right">
+<img src="/images/p4outdooradvcamp17.jfif" style="width:25%;margin-left:85px;" align = "left">
+
+<br clear="left">
+
+<center>Post Camp Reflections</center>
+
+##### **Post-Camp Experience**
+_Collaboration with the English and ICT departments_<br>
+The camp may have concluded, but the experience lived on. In collaboration with the English and ICT departments, our Primary 4 students leveraged on their rich camping experience and shared their learning through their post-camp reflection writing assignment. Students synergised and collaborated through Google Slides as they worked on the assignment.
+
+<img src="/images/p4outdooradvcamp20.jfif" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/p4outdooradvcamp19.jfif" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<center>Students collaborating on their Google slide presentation</center>
+
+##### **Sharing at Student-led Conference**
+Finally, students had the opportunity to share their camping experience with their parents during the recent Student-led Conference.  Students presented their learning and reflections of the camp to their parents with joy and confidence.
+
+<img src="/images/p4outdooradvcamp22.jfif" style="width:40%;margin-right:65px;" align = "right">
+<img src="/images/p4outdooradvcamp21.jfif" style="width:40%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<center>Student Led Conference 2018</center>
+It has been a truly enriching experience for the students and will definitely be one of the highlights of their Primary 4 learning experience in Horizon Primary School.
