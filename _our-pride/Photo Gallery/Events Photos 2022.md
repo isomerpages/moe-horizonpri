@@ -16,9 +16,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 |  |  |  |
 
-<p><a href="webhere"><img src="/images/2022event4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297275216/"><img src="/images/2022event4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297846123/"><img src="/images/2022event5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720298211635/"><img src="/images/2022event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -26,9 +26,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 |  |  |  |
 
-<p><a href="webhere"><img src="/images/2022event7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720298651779/"><img src="/images/2022event7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299284762/"><img src="/images/2022event8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299228195/"><img src="/images/2022event9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
