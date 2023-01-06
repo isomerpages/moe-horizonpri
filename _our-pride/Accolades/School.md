@@ -89,7 +89,7 @@ We are proud to announce that Horizon Primary School has been awarded the Yellow
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch16.jpg" style="width:100%"> | Horizon Family Day 2019 was featured in this issue of Thumbs Up (大拇指)!  Revolving around the theme - The Age of the Horizonites, the occasion transformed the entire school premises into a world of fantasy where students were involved in a life-size, role-playing game. Students partook in engaging and educational activities in various stations operated smoothly by parents and staff. Besides a brand new and refreshing experience for students, parents and staff, parent-child cooperation was evident from the preparation stage right up till the event day. Parents also took pride in seeing the latent strengths and abilities of their children in actions, beyond their academic achievements!  |
+| <img src="/images/sch16.jpg" style="width:100%"> | Horizon Family Day 2019 was featured in this issue of Thumbs Up (大拇指)!  Revolving around the theme - The Age of the Horizonites, the occasion transformed the entire school premises into a world of fantasy where students were involved in a life-size, role-playing game. Students partook in engaging and educational activities in various stations operated smoothly by parents and staff. Besides a brand new and refreshing experience for students, parents and staff, parent-child cooperation was evident from the preparation stage right up till the event day. Parents also took pride in seeing the latent strengths and abilities of their children in actions, beyond their academic achievements! |
 
 #### **Winners of Punggol Digital District (PDD) Hoarding Design Competition (Schools Category)**
 
@@ -101,7 +101,7 @@ We are proud to announce that Horizon Primary School has been awarded the Yellow
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch18.jpg" style="width:100%"> | We are proud to be featured on the Straits Times on our contribution towards the SBS Transit Kindness Month at Punggol MRT!<br><br>Over the two sessions on 8th May and 29th May, our students interacted with commuters and passed on messages of kindness and graciousness for better commuting practices. Well done Horizon students for serving towards a gracious society. Every act of yours counts!<br><br>Read more by clicking on the link below:[Gearing up for graciousness at punggol mrt station](https://www.straitstimes.com/singapore/transport/gearing-up-for-graciousness-at-punggol-mrt-station?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2019-05-30+5%3A05%3A15&fbclid=IwAR0qAJ5hnbMuKKOdqWNFoGituUHBplPzXmuZzH9X1g1IKP2ifR70Y0cUF4Y) |
+| <img src="/images/sch18.jpg" style="width:100%"> | We are proud to be featured on the Straits Times on our contribution towards the SBS Transit Kindness Month at Punggol MRT!<br><br>Over the two sessions on 8th May and 29th May, our students interacted with commuters and passed on messages of kindness and graciousness for better commuting practices. Well done Horizon students for serving towards a gracious society. Every act of yours counts!<br><br>Read more by clicking on the link below: <br>[Gearing up for graciousness at punggol mrt station](https://www.straitstimes.com/singapore/transport/gearing-up-for-graciousness-at-punggol-mrt-station?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2019-05-30+5%3A05%3A15&fbclid=IwAR0qAJ5hnbMuKKOdqWNFoGituUHBplPzXmuZzH9X1g1IKP2ifR70Y0cUF4Y) |
 
 #### **Best Team Spirit Award From The Inaugural Chinese Street Dance Competition**
 
