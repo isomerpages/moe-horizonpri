@@ -26,12 +26,15 @@ Mdm Hong Bee Yuen has been recognized by Academy of Singapore Teachers (AST) in 
 
 <img src="/images/staff3.jpg" style="width:20%;margin-right:55px;" align = "left">
 
-Mrs Sim Lay Hoon has been recognized as an **Associate of Academy of Singapore Teachers** for her contribution as E2K (Mathematics) Mentor
+Mrs Sim Lay Hoon has been recognized as an **Associate of Academy of Singapore Teachers** for her contribution as E2K (Mathematics) Mentor and Trainer to the fraternity through her workshops at AST.
 
 <br clear="left">
 
 #### **National Day Awards 2022**
+The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore.    
+We are proud to announce our Vice Principal, Mr John Ow as a recipient of the Public Administration Medal (Bronze) or Pingat Pentadbiran Awam (Gangsa) this year. This Medal is awarded to a person for outstanding efficiency, competence and industry in the service to the Ministry of Education amongst other governmental bodies.   
 
+We would also like to congratulate our Head of Department/ICT, Mdm Dayangku Nuurul for being awarded the National Day Commendation Medal or Pingat Kepujian. This medal is awarded to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education amongst other governmental bodies.
 
 #### **Caring Teacher Awards**
 
