@@ -7,7 +7,7 @@ third_nav_title: Accolades
 ### **Staff**
 #### **Dr Ong Yong Peng Book Prize**
 
-<img align="left" style="width:20%;margin-right:55px;" src="/images/staff1.jpg">
+<img src="/images/staff1.jpg" style="width:20%;margin-right:55px;" align="left">
 
 Mdm Ning Ning was awarded the Dr Ong Yong Peng Book Prize for her exemplary achievement in Character and Citizenship Education Subject (Chinese) at the Postgraduate Diploma in education (Teaching of Chinese Language) at Primary Level for the Academic Year 2021-2022.
 
@@ -16,7 +16,7 @@ We are happy share the joy of her achievement!
 #### **Academy Awards For Professional Development 2022**
 The Academy Awards for Professional Development recognize and affirm the efforts of officers in the education service for their contributions to the professional development of the teaching fraternity.&nbsp;We would like to congratulate Mdm Hong Bee Yuen and Mrs Sim Lay Hoon for achieving the following awards and in raising the competence of the fraternity at national level.
 
-<img align="left" style="width:20%;margin-right:55px;" src="/images/staff2.jpg">
+<img src="/images/staff2.jpg" style="width:20%;margin-right:55px;" align="left">
 
 Mdm Hong Bee Yuen has been recognized by Academy of Singapore Teachers (AST) in two areas of contribution. 
 
@@ -24,7 +24,7 @@ Mdm Hong Bee Yuen has been recognized by Academy of Singapore Teachers (AST) in 
 2\. She has been recognized as an **Associate of Academy of Singapore Teachers** for her contribution at Physical Education Networked Learning Community. 
 
 
-<img align="left" style="width:20%;margin-right:55px;" src="/images/staff3.jpg">
+<img src="/images/staff3.jpg" style="width:20%;margin-right:55px;" align="left">
 
 Mrs Sim Lay Hoon has been recognized as an&nbsp;**Associate of Academy of Singapore Teachers**&nbsp;for her contribution as E2K (Mathematics) Mentor&nbsp;and Trainer to the fraternity through her workshops at AST.
 
@@ -36,41 +36,41 @@ We are proud to announce our Vice Principal, Mr John Ow as a recipient of the Pu
 
 We would also like to congratulate our Head of Department/ICT, Mdm Dayangku Nuurul for being awarded the National Day Commendation Medal or&nbsp;Pingat Kepujian. This medal is awarded&nbsp;to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education amongst other governmental bodies.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff4.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff5.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff6.jpg">
-<img align="left" style="width:21%;margin-right:15px;" src="/images/staff7.jpg">
+<img src="/images/staff4.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff5.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff6.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff7.jpg" style="width:21%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 In addition, we would also like to congratulate our Senior Teachers, Mdm Sumathi Krishnasamy (ST/Tamil Language) and Mdm Thilagavathi Kumarasamy (ST/Science) as recipients of the Long Service Medal or&nbsp;Pingat Bakti Setia&nbsp;(25 years) this year. The Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Ministry of Education among other government bodies.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff8.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff9.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff10.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff11.jpg">
+<img src="/images/staff8.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff9.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff10.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff11.jpg" style="width:22%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 #### **Caring Teacher Awards**
 The Caring Teacher Awards (CTA) organized by NIE, supported by MOE and ExxonMobil Asia Pacific Pte Ltd is a biennial event. It pays tribute to teachers who show care and concern for the holistic development of their students. It recognizes the efforts of those who go the extra mile to ensure their charges grow up to be confident and independent learners in school and outside the classroom.&nbsp;&nbsp;We are proud to have our staff achieving the Caring Teacher Award 2022 and thank them for their earnest contribution to the Horizon Family.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff12.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff13.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff14.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff15.jpg">
+<img src="/images/staff12.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff13.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff14.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff15.jpg" style="width:22%;margin-right:15px;" align="left">
 
 <br clear="left">
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff16.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff17.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff18.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff19.jpg">
+<img src="/images/staff16.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff17.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff18.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff19.jpg" style="width:22%;margin-right:15px;" align="left">
 
 <br clear="left">
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff20.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff21.jpg">
+<img src="/images/staff20.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff21.jpg" style="width:22%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -83,38 +83,38 @@ They are Mdm Nurasyiqin Binte Mohamed Shafei&nbsp;(Platinum Award),&nbsp;Mdm Nur
 
 Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff23.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff22.jpg">
+<img src="/images/staff23.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff22.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff25.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff24.jpg">
+<img src="/images/staff25.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff24.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff27.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff26.jpg">
+<img src="/images/staff27.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff26.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff29.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff28.jpg">
+<img src="/images/staff29.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff28.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff31.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff30.jpg">
+<img src="/images/staff31.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff30.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff33.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff32.jpg">
+<img src="/images/staff33.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff32.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff35.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff34.jpg">
+<img src="/images/staff35.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff34.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
@@ -122,8 +122,8 @@ Our heartiest congratulations to them and join me in sharing the joy as one Hori
 #### **LEAP Award**
 The Singapore Hokkien Huay Kuan organises the&nbsp;**LEAP**&nbsp;(Listening educator for Advancement and Progress ) Award every year to recognise teachers who have made a positive impact on their students.&nbsp; The Award also aims to motivate all teachers in Singapore to strive to be nurturing and effective educators. We are very proud to have our Year Head Ms Shirley Lim to have received the&nbsp;**LEAP Commendation Award**&nbsp;and being a constant inspiration to our colleagues
 
-<img align="right" style="width:22%;margin-right:165px;" src="/images/staff37.jpg">
-<img align="left" style="width:40%;margin-left:125px;" src="/images/staff36.jpg">
+<img src="/images/staff37.jpg" style="width:22%;margin-right:165px;" align="right">
+<img src="/images/staff36.jpg" style="width:40%;margin-left:125px;" align="left">
 
 <br clear="left">
 
@@ -134,10 +134,10 @@ We are proud to announce our Principal, Mrs Grace Leong as a recipient of the Pu
 
 We would also like to congratulate our Head of Department/Mathematics, Mrs Staphni Ong for being awarded the National Day Commendation Medal or&nbsp;_Pingat Kepujian_. This medal is awarded&nbsp;to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education amongst other governmental bodies.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff38.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff39.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff40.jpg">
-<img align="left" style="width:21%;margin-right:15px;" src="/images/staff41.jpg">
+<img src="/images/staff38.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff39.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff40.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff41.jpg" style="width:21%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -150,9 +150,9 @@ We are elated and honoured that our ALP Computational Thinking in Mathematics pr
 
 Congratulations to our staff, Mrs Staphni Ong and Mrs Felicia Tham!
 
-<img align="left" style="width:64%;margin-left:55px;" src="/images/staff42.jpg">
-<img align="left" style="width:15%;margin-left:15px;" src="/images/staff43.jpg">
-<img align="left" style="width:15%;margin-left:15px;" src="/images/staff44.jpg">
+<img src="/images/staff42.jpg" style="width:64%;margin-left:55px;" align="left">
+<img src="/images/staff43.jpg" style="width:15%;margin-left:15px;" align="left">
+<img src="/images/staff44.jpg" style="width:15%;margin-left:15px;" align="left">
 
 <br clear="left">
 
@@ -161,13 +161,13 @@ Mrs Brenda O’ Hara and Mdm Rozanah collaborated and co-presented an e-conferen
 
 They shared on ‘The Integrated Curriculum@Horizon Incorporating the 7 Habits of Highly Effective People’ showcasing the sustainable efforts of our school in building confident student leaders over the years. The professional sharing was well-received by the participants from various schools.
 
-<img align="right" style="width:22%;margin-right:135px;" src="/images/staff46.jpg">
-<img align="left" style="width:50%;margin-left:75px;" src="/images/staff45.jpg">
+<img src="/images/staff46.jpg" style="width:22%;margin-right:135px;" align="right">
+<img src="/images/staff45.jpg" style="width:50%;margin-left:75px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:135px;" src="/images/staff48.jpg">
-<img align="left" style="width:50%;margin-left:75px;" src="/images/staff47.jpg">
+<img src="/images/staff48.jpg" style="width:22%;margin-right:135px;" align="right">
+<img src="/images/staff47.jpg" style="width:50%;margin-left:75px;" align="left">
 
 <br clear="left">
 
@@ -180,8 +180,8 @@ The award was launched in 2019 to recognise outstanding InnoChamps who have exce
 
 Congratulations to Mdm Enn Cai Ying for receiving this award.
 
-<img align="right" style="width:22%;margin-right:265px;" src="/images/staff50.jpg">
-<img align="left" style="width:23%;margin-left:145px;" src="/images/staff49.jpg">
+<img src="/images/staff50.jpg" style="width:22%;margin-right:265px;" align="right">
+<img src="/images/staff49.jpg" style="width:23%;margin-left:145px;" align="left">
 
 <br clear="left">
 
@@ -194,28 +194,28 @@ They are Ms Chew Poh Choo (Platinum Award), Mdm Fung Siew Koon (Gold Award), Mdm
 
 Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff52.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff51.jpg">
+<img src="/images/staff52.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff51.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff54.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff53.jpg">
+<img src="/images/staff54.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff53.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff56.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff55.jpg">
+<img src="/images/staff56.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff55.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff58.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff57.jpg">
+<img src="/images/staff58.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff57.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff60.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff59.jpg">
+<img src="/images/staff60.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff59.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
@@ -226,10 +226,10 @@ We are proud to announce our Vice-Principal (Administration), Mr Phang Chee Khen
 
 We would also like to congratulate our Senior Teacher/PE, Mdm Hong Bee Yuen for being awarded the for being awarded the National Day Commendation Medal or&nbsp;_Pingat Kepujian_. This medal is awarded&nbsp;to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education among other government bodies.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff61.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff62.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff63.jpg">
-<img align="left" style="width:21%;margin-right:15px;" src="/images/staff64.jpg">
+<img src="/images/staff61.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff62.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff63.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff64.jpg" style="width:21%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -239,19 +239,19 @@ We are proud to announce our Vice-Principal, Mr John Ow and our teacher, Mdm Raj
 
 We would also like to congratulate our HOD/Mathematics, Mrs Sim Lay Hoon for being awarded the Commendation Medal or&nbsp;_Pingat Kepujian_. This medal is awarded&nbsp;to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education among other government bodies.
 
-<img align="left" style="width:14%;margin-right:15px;" src="/images/staff65.jpg">
-<img align="left" style="width:15%;margin-right:15px;" src="/images/staffa66.jpg">
-<img align="left" style="width:14%;margin-right:15px;" src="/images/staffa67.jpg">
-<img align="left" style="width:15%;margin-right:15px;" src="/images/staffa68.jfif">
-<img align="left" style="width:14%;margin-right:15px;" src="/images/staffa69.jpg">
-<img align="left" style="width:15%;margin-right:15px;" src="/images/staffa70.jpg">
+<img src="/images/staff65.jpg" style="width:14%;margin-right:15px;" align="left">
+<img src="/images/staffa66.jpg" style="width:15%;margin-right:15px;" align="left">
+<img src="/images/staffa67.jpg" style="width:14%;margin-right:15px;" align="left">
+<img src="/images/staffa68.jfif" style="width:15%;margin-right:15px;" align="left">
+<img src="/images/staffa69.jpg" style="width:14%;margin-right:15px;" align="left">
+<img src="/images/staffa70.jpg" style="width:15%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 #### **Sony Creative Science Award 2019**
-<img align="left" style="width:22%;margin-left:53px;" src="/images/staffa71.jpg">
-<img align="left" style="width:22%;margin-left:85px;" src="/images/staffa72.jpg">
-<img align="left" style="width:22%;margin-left:85px;" src="/images/staffa73.jpg">
+<img src="/images/staffa71.jpg" style="width:22%;margin-left:53px;" align="left">
+<img src="/images/staffa72.jpg" style="width:22%;margin-left:85px;" align="left">
+<img src="/images/staffa73.jpg" style="width:22%;margin-left:85px;" align="left">
 
 <br clear="left">
 
@@ -268,17 +268,17 @@ They are Ms Chew Poh Choo (Gold Award), Mdm Chua Lian Hoong (Gold Award) and Mdm
 
 Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
 
-<img align="left" style="width:30%;margin-left:25px;" src="/images/staffa74.jpg">
-<img align="left" style="width:30%;margin-left:15px;" src="/images/staffa75.jpg">
-<img align="left" style="width:30%;margin-left:15px;" src="/images/staffa76.jpg">
+<img src="/images/staffa74.jpg" style="width:30%;margin-left:25px;" align="left">
+<img src="/images/staffa75.jpg" style="width:30%;margin-left:15px;" align="left">
+<img src="/images/staffa76.jpg" style="width:30%;margin-left:15px;" align="left">
 
 <br clear="left">
 
 #### **Student Learning Space (SLS) Design Challenge 2019**
-<img align="left" style="width:15%;margin-left:53px;" src="/images/staffa77.jpg">
-<img align="left" style="width:15%;margin-left:65px;" src="/images/staffa78.jpg">
-<img align="left" style="width:15%;margin-left:65px;" src="/images/staffa79.jpg">
-<img align="left" style="width:15%;margin-left:95px;" src="/images/staffa80.jpg">
+<img src="/images/staffa77.jpg" style="width:15%;margin-left:53px;" align="left">
+<img src="/images/staffa78.jpg" style="width:15%;margin-left:65px;" align="left">
+<img src="/images/staffa79.jpg" style="width:15%;margin-left:65px;" align="left">
+<img src="/images/staffa80.jpg" style="width:15%;margin-left:95px;" align="left">
 
 <br clear="left">
 
@@ -293,8 +293,8 @@ Our heartiest congratulations to our HOD (Science), Mrs Staphni Ong for being re
 
 The North East District Environment Award is given annually to recognise individuals and schools who are passionate about the environment and proactive in her contribution to reducing our carbon footprints.&nbsp;Mrs Ong started many meaningful initiatives in providing a holistic environment education for our students, and thinks out of the box to achieve the same outcomes. She loves to save the Earth because it also helps to channel school funds to better use.
 
-<img align="right" style="width:22%;margin-right:145px;" src="/images/staff67.jpg">
-<img align="left" style="width:40%;margin-left:95px;" src="/images/staff66.jpg">
+<img src="/images/staff67.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/staff66.jpg" style="width:40%;margin-left:95px;" align="left">
 
 <br clear="left">
 
@@ -303,13 +303,13 @@ Congratulations to both our Management Support Officer, Ms Soh San San and our O
 
 They have been recognised as deserving MOE staff who are MOE's service role models. They have demonstrated the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
 
-<img align="right" style="width:22%;margin-right:125px;" src="/images/staff69.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff68.jpg">
+<img src="/images/staff69.jpg" style="width:22%;margin-right:125px;" align="right">
+<img src="/images/staff68.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:125px;" src="/images/staff71.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff70.jpg">
+<img src="/images/staff71.jpg" style="width:22%;margin-right:125px;" align="right">
+<img src="/images/staff70.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
@@ -318,7 +318,7 @@ We would like to congratulate our teaching staff member, Mdm Sumathi who has bee
 
 This prestigious award ceremony is jointly organised by Tamil Murasu, Singapore Tamil Teachers’ Union (STTU) and the Tamil Language Learning and Promotion Committee (TLLPC). The award serves to recognise the stellar performance of Tamil Language teachers in their role as Tamil Language Educators and in promoting Tamil Language among their students. Miss Indranee Rajah, Minister in Prime Minister’s Office, Second Minister for Finance and Second Minister for Education graced the award ceremony as its Guest-of-Honour.
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMzeZP-Zy-8s_xal58YE_fYdeTkslMNO5wZev7XWpKhKMW-H6wtn2GkAGPvNT0hSaAZG-4MeL0nPvw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMzeZP-Zy-8s_xal58YE_fYdeTkslMNO5wZev7XWpKhKMW-H6wtn2GkAGPvNT0hSaAZG-4MeL0nPvw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
 
 #### **Mother Tongue Languages Symposium (MTLS) 2018**
 On the 18 of August 2018, the Malay Department participated in the MTLS 2018. Our department has decided to create an enriching learning experience incorporating multiple intelligences for our pupils that support written language mastery through play. Through this project, we hope to instil the love of Malay among our students by leveraging their ICT skills.
@@ -329,7 +329,7 @@ The objectives of this activity are to enhance pupils’ written skills, to inst
 
 MTLS is co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC). Ms Low Yen Ling, Senior Parliamentary Secretary for Education and Manpower, graced the event as the Guest-of-Honour this year. A total of 18,000 visitors came to the Symposium, attended the Opening &amp; Award Ceremony and participated in a day of activities at the 43 exhibition booths, 32 sharing sessions, MTL Amphitheatre, MTL Creative Corner, and the centrepiece activity “Be a Neighbourhood Hero”.
 
---
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRAZWl6Qrs3UED-wv2p5NJNe3NGO2fNFxj3cHihNZNW7GpSdoVS1gmL3WC8B6_LF-jtYArbdKgAbkPY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **National Day Awards 2018**
 The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore.&nbsp;  
@@ -337,10 +337,10 @@ We are proud to announce our Vice-Principal, Mrs Senthil as a recipient of the L
 
 We would also like to congratulate our Administration Manager, Mdm Sophia Lee for being awarded the Commendation Medal or&nbsp;_Pingat Kepujian_. This medal is awarded&nbsp; for her commendable performance and conduct; efficiency, competence and devotion to her duty in school.
 
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff72.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff73.jpg">
-<img align="left" style="width:22%;margin-right:15px;" src="/images/staff74.jpg">
-<img align="left" style="width:21%;margin-right:15px;" src="/images/staff75.jpg">
+<img src="/images/staff72.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff73.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff74.jpg" style="width:22%;margin-right:15px;" align="left">
+<img src="/images/staff75.jpg" style="width:21%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -351,24 +351,24 @@ She will work closely with fellow UDLs within the Hougang - Sengkang - Punggol a
 
 Besides helping the Cub Scout units to grow, UDLs also share and motivate fellow Cub Scout unit leaders to sharpen their saw by sharing their experience in scouting. They attend training sessions organised by the Singapore Scout Association and other working partners such as the National Environment Agency.
 
-<img style="width:25%" src="/images/staff76.jpg">
+<img src="/images/staff76.jpg" style="width:25%">
 
 #### **MOE Service Excellence Award (MSEA) 2017**
 Congratulations to our Operations Manager, Mr Lee Su Choon, for being awarded the 2017 MSEA Platinum Award and our Administration Manager, Mdm Sophia Lee, for being awarded the 2017 MSEA Silver Award!
 
 The MSEA serves to recognise deserving MOE staff as MOE's service role models who demonstrate the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
 
-<img align="right" style="width:22%;margin-right:125px;" src="/images/staff78.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff77.jpg">
+<img src="/images/staff78.jpg" style="width:22%;margin-right:125px;" align="right">
+<img src="/images/staff77.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
-<img align="right" style="width:22%;margin-right:125px;" src="/images/staff80.jpg">
-<img align="left" style="width:50%;margin-left:65px;" src="/images/staff79.jpg">
+<img src="/images/staff80.jpg" style="width:22%;margin-right:125px;" align="right">
+<img src="/images/staff79.jpg" style="width:50%;margin-left:65px;" align="left">
 
 <br clear="left">
 
 #### **MOE Service Excellence Award (MSEA) 2016**
 Congratulations to our Management Support Officer, Mdm Ivy Han&nbsp;for being awarded the 2016 MSEA!
 
-<img style="width:35%" src="/images/staff81.jpg">
+<img src="/images/staff81.jpg" style="width:35%">
