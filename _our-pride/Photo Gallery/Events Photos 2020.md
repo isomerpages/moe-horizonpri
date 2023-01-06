@@ -6,7 +6,7 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2020**
 
-<p><a href="webhere"><img src="/images/2020events1.jfif" style="width:30%"></a></p>
+<p><a href="https://www.flickr.com/photos/190713911@N04/sets/72157716555459327/"><img src="/images/2020events1.jfif" style="width:30%"></a></p>
 
 <br clear="left">
 
@@ -14,9 +14,9 @@ third_nav_title: Photo Gallery
 |:---:|
 | 9 October - JOG Children's Day |
 
-<p><a href="webhere"><img src="/images/2020events2.jfif" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2020events3.jfif" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2020events4.jfif" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157716190189047/"><img src="/images/2020events2.jfif" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157715874322167/"><img src="/images/2020events3.jfif" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157715026704586/"><img src="/images/2020events4.jfif" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
