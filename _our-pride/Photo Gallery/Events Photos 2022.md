@@ -36,9 +36,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | March -<br> P5 Computational Thinking<br> in Mathematics (CTIM) | March - Celebrate Success <br>(Term 1) | April - P5 Virtual Immersion<br> Programme |
 
-<p><a href="webhere"><img src="/images/2022event10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event12.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299264489/"><img src="/images/2022event10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299263725/"><img src="/images/2022event11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720299285382/"><img src="/images/2022event12.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -46,9 +46,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | May - Migrant Workers Care<br> Pac Distribution | May - Hari Raya<br> Celebration | May - Celebrate Success <br>(Term 2) |
 
-<p><a href="webhere"><img src="/images/2022event13.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event14.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event15.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720300794521/"><img src="/images/2022event13.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720300795075/"><img src="/images/2022event14.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720300796217/"><img src="/images/2022event15.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -56,9 +56,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | June - Promotion Day and Fruit Fiesta | June - Primary 4 Camp | July - Learning Journey to India |
 
-<p><a href="webhere"><img src="/images/2022event16.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event17.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event18.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301564082/"><img src="/images/2022event16.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301567509/"><img src="/images/2022event17.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301552180/"><img src="/images/2022event18.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -66,9 +66,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | August - Primary 1 Viva La Musica | August - Primary 2 Viva La Musica | August - MTL Reading Celebrates |
 
-<p><a href="webhere"><img src="/images/2022event19.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event20.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event21.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720302380731/"><img src="/images/2022event19.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720302391067/"><img src="/images/2022event20.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720302421403/"><img src="/images/2022event21.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -76,8 +76,8 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | August - Horizon Family Day 2022 | August - Celebrate Success (Term 3) | September - Teachers' Day Celebration |
 
-<p><a href="webhere"><img src="/images/2022event22.jpg" style="width:30%;margin-right:15px;margin-left:105px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event23.jpg" style="width:30%;margin-left:135px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720303342688/"><img src="/images/2022event22.jpg" style="width:30%;margin-right:15px;margin-left:105px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720303323230/"><img src="/images/2022event23.jpg" style="width:30%;margin-left:135px;" align = "left"></a></p>
 
 <br clear="left">
 
