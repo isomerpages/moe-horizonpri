@@ -194,11 +194,59 @@ They are Ms Chew Poh Choo (Platinum Award), Mdm Fung Siew Koon (Gold Award), Mdm
 
 Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
 
-#### **National Day Awards 2020**
+<img src="/images/staff52.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff51.jpg" style="width:50%;margin-left:65px;" align = "left">
 
+<br clear="left">
+
+<img src="/images/staff54.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff53.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/staff56.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff55.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/staff58.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff57.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/staff60.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff59.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+#### **National Day Awards 2020**
+The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore. 
+
+We are proud to announce our Vice-Principal (Administration), Mr Phang Chee Kheng as a recipient of the Long Service Medal or _Pingat Bakti Setia_ (35 years) this year. The Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 35 years service in the service of the Ministry of Education among other government bodies.
+
+We would also like to congratulate our Senior Teacher/PE, Mdm Hong Bee Yuen for being awarded the for being awarded the National Day Commendation Medal or _Pingat Kepujian_. This medal is awarded to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education among other government bodies.
+
+<img src="/images/staff61.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff62.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff63.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff64.jpg" style="width:21%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 #### **National Day Awards 2019**
+The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore.  
+We are proud to announce our Vice-Principal, Mr John Ow and our teacher, Mdm Rajaram Vasantha as a recipient of the Long Service Medal or _Pingat Bakti Setia_ (25 years) this year. The Medal is awarded to a person who is of irreproachable character and whom the President is satisfied has completed at least 25 years service in the service of the Ministry of Education among other government bodies.
 
+We would also like to congratulate our HOD/Mathematics, Mrs Sim Lay Hoon for being awarded the Commendation Medal or _Pingat Kepujian_. This medal is awarded to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education among other government bodies.
+
+<img src="/images/staff65.jpg" style="width:14%;margin-right:15px;" align = "left">
+<img src="/images/staffa66.jpg" style="width:15%;margin-right:15px;" align = "left">
+<img src="/images/staffa67.jpg" style="width:14%;margin-right:15px;" align = "left">
+<img src="/images/staffa68.jfif" style="width:15%;margin-right:15px;" align = "left">
+<img src="/images/staffa69.jpg" style="width:14%;margin-right:15px;" align = "left">
+<img src="/images/staffa70.jpg" style="width:15%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 #### **Sony Creative Science Award 2019**
 
