@@ -8,7 +8,7 @@ third_nav_title: Accolades
 
 #### **Vanda Miss Joaquim Award 2022**
 
-<img align="left" style="width:40%;margin-right:15px;" src="/images/sch1.png">
+<img style="width:40%" src="/images/sch1.png">
 
 We are proud to share that Horizon has received the Vanda Miss Joaquim award from the Singapore Environmental Council! This award is presented to schools that have achieved above 90% in terms of our efforts to develop environmentally friendly practices in the school and students.
 
