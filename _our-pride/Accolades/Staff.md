@@ -303,12 +303,12 @@ Congratulations to both our Management Support Officer, Ms Soh San San and our O
 
 They have been recognised as deserving MOE staff who are MOE's service role models. They have demonstrated the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
 
-<img src="/images/staff69.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff69.jpg" style="width:22%;margin-right:125px;" align = "right">
 <img src="/images/staff68.jpg" style="width:50%;margin-left:65px;" align = "left">
 
 <br clear="left">
 
-<img src="/images/staff71.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff71.jpg" style="width:22%;margin-right:125px;" align = "right">
 <img src="/images/staff70.jpg" style="width:50%;margin-left:65px;" align = "left">
 
 <br clear="left">
@@ -318,16 +318,57 @@ We would like to congratulate our teaching staff member, Mdm Sumathi who has bee
 
 This prestigious award ceremony is jointly organised by Tamil Murasu, Singapore Tamil Teachers’ Union (STTU) and the Tamil Language Learning and Promotion Committee (TLLPC). The award serves to recognise the stellar performance of Tamil Language teachers in their role as Tamil Language Educators and in promoting Tamil Language among their students. Miss Indranee Rajah, Minister in Prime Minister’s Office, Second Minister for Finance and Second Minister for Education graced the award ceremony as its Guest-of-Honour.
 
-#### **Mother Tongue Languages Symposium (MTLS) 2018**
+--
 
+#### **Mother Tongue Languages Symposium (MTLS) 2018**
+On the 18 of August 2018, the Malay Department participated in the MTLS 2018. Our department has decided to create an enriching learning experience incorporating multiple intelligences for our pupils that support written language mastery through play. Through this project, we hope to instil the love of Malay among our students by leveraging their ICT skills.
+
+The 3D-Hive game was developed as a tool to help the pupils retain their learning of grammar components, thereby enhancing their written skills. Pupils will control the game’s avatar in a virtual kampung while embarking on various grammar quests in order to earn points. Other gameplay elements incorporated include National Education, Social and Emotional Learning and school values to infuse character development in the learning process.
+
+The objectives of this activity are to enhance pupils’ written skills, to instil the love for Malay and to enrich and transform pupils’ learning experiences through games.
+
+MTLS is co-organised by the Ministry of Education (MOE), the Committee to Promote Chinese Language Learning (CPCLL), the Malay Language Learning and Promotion Committee (MLLPC) and the Tamil Language Learning and Promotion Committee (TLLPC). Ms Low Yen Ling, Senior Parliamentary Secretary for Education and Manpower, graced the event as the Guest-of-Honour this year. A total of 18,000 visitors came to the Symposium, attended the Opening & Award Ceremony and participated in a day of activities at the 43 exhibition booths, 32 sharing sessions, MTL Amphitheatre, MTL Creative Corner, and the centrepiece activity “Be a Neighbourhood Hero”.
+
+--
 
 #### **National Day Awards 2018**
+The Singapore National Day Awards are a means of recognising various forms of merit and service to Singapore.   
+We are proud to announce our Vice-Principal, Mrs Senthil as a recipient of the Long Service Medal or _Pingat Bakti Setia_ (25 years) this year. We thank her for her dedication and care towards staff and students in the education fraternity.
 
+We would also like to congratulate our Administration Manager, Mdm Sophia Lee for being awarded the Commendation Medal or _Pingat Kepujian_. This medal is awarded  for her commendable performance and conduct; efficiency, competence and devotion to her duty in school.
+
+<img src="/images/staff72.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff73.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff74.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff75.jpg" style="width:21%;margin-right:15px;" align = "left">
+
+<br clear="left">
 
 #### **Appointment as Scout Unit Development Leader (UDL)**
+Congratulations to our teaching staff member, Mrs Imran for being appointed as a Scout Unit Development Leader (UDL)! 
 
+She will work closely with fellow UDLs within the Hougang - Sengkang - Punggol area. UDLs synergise to help their units perform well, and train potential Cub Scouts to become Cub Scout leaders in their schools. She strives to help our Cub Scout unit to attain the Gold Award in the annual Frank Cooper Sands Award, which is awarded to sectional Scout units for unit excellence.
+
+Besides helping the Cub Scout units to grow, UDLs also share and motivate fellow Cub Scout unit leaders to sharpen their saw by sharing their experience in scouting. They attend training sessions organised by the Singapore Scout Association and other working partners such as the National Environment Agency.
+
+<img src="/images/staff76.jpg" style="width:22%">
 
 #### **MOE Service Excellence Award (MSEA) 2017**
+Congratulations to our Operations Manager, Mr Lee Su Choon, for being awarded the 2017 MSEA Platinum Award and our Administration Manager, Mdm Sophia Lee, for being awarded the 2017 MSEA Silver Award!
 
+The MSEA serves to recognise deserving MOE staff as MOE's service role models who demonstrate the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
+
+<img src="/images/staff78.jpg" style="width:22%;margin-right:125px;" align = "right">
+<img src="/images/staff77.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/staff80.jpg" style="width:22%;margin-right:125px;" align = "right">
+<img src="/images/staff79.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
 
 #### **MOE Service Excellence Award (MSEA) 2016**
+Congratulations to our Management Support Officer, Mdm Ivy Han for being awarded the 2016 MSEA!
+
+<img src="/images/staff81.jpg" style="width:35%">
