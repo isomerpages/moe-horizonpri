@@ -54,7 +54,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| June - Promotion Day and Fruit Fiesta | June - Primary 4 Camp | July - Learning Journey to India |
 
 <p><a href="webhere"><img src="/images/2022event16.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2022event17.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -64,7 +64,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| August - Primary 1 Viva La Musica | August - Primary 2 Viva La Musica | August - MTL Reading Celebrates |
 
 <p><a href="webhere"><img src="/images/2022event19.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2022event20.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -74,7 +74,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| August - Horizon Family Day 2022 | August - Celebrate Success (Term 3) | September - Teachers' Day Celebration |
 
 <p><a href="webhere"><img src="/images/2022event22.jpg" style="width:30%;margin-right:15px;margin-left:155px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2022event23.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -83,4 +83,4 @@ third_nav_title: Photo Gallery
 
 |  |  |
 |:---:|:---:|
-|  |  |
+| September - P2 Learning Journey to Jurong Bird Park | October - Junior Olympics Games (JOG) |
