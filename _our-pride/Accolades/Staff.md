@@ -351,7 +351,7 @@ She will work closely with fellow UDLs within the Hougang - Sengkang - Punggol a
 
 Besides helping the Cub Scout units to grow, UDLs also share and motivate fellow Cub Scout unit leaders to sharpen their saw by sharing their experience in scouting. They attend training sessions organised by the Singapore Scout Association and other working partners such as the National Environment Agency.
 
-<img src="/images/staff76.jpg" style="width:22%">
+<img src="/images/staff76.jpg" style="width:25%">
 
 #### **MOE Service Excellence Award (MSEA) 2017**
 Congratulations to our Operations Manager, Mr Lee Su Choon, for being awarded the 2017 MSEA Platinum Award and our Administration Manager, Mdm Sophia Lee, for being awarded the 2017 MSEA Silver Award!
