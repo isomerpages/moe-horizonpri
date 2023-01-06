@@ -303,8 +303,20 @@ Congratulations to both our Management Support Officer, Ms Soh San San and our O
 
 They have been recognised as deserving MOE staff who are MOE's service role models. They have demonstrated the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
 
-#### **Most Inspiring Tamil Language Teacher 2018**
+<img src="/images/staff69.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff68.jpg" style="width:50%;margin-left:65px;" align = "left">
 
+<br clear="left">
+
+<img src="/images/staff71.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff70.jpg" style="width:50%;margin-left:65px;" align = "left">
+
+<br clear="left">
+
+#### **Most Inspiring Tamil Language Teacher 2018**
+We would like to congratulate our teaching staff member, Mdm Sumathi who has been awarded 2018 Most Inspiring Tamil Language Teacher!
+
+This prestigious award ceremony is jointly organised by Tamil Murasu, Singapore Tamil Teachers’ Union (STTU) and the Tamil Language Learning and Promotion Committee (TLLPC). The award serves to recognise the stellar performance of Tamil Language teachers in their role as Tamil Language Educators and in promoting Tamil Language among their students. Miss Indranee Rajah, Minister in Prime Minister’s Office, Second Minister for Finance and Second Minister for Education graced the award ceremony as its Guest-of-Honour.
 
 #### **Mother Tongue Languages Symposium (MTLS) 2018**
 
