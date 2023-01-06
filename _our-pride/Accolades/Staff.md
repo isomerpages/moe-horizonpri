@@ -134,6 +134,13 @@ We are proud to announce our Principal, Mrs Grace Leong as a recipient of the Pu
 
 We would also like to congratulate our Head of Department/Mathematics, Mrs Staphni Ong for being awarded the National Day Commendation Medal or _Pingat Kepujian_. This medal is awarded to a person who has distinguished him or herself through commendable performance and conduct, or significant efficiency, competence and devotion to duty in the Ministry of Education amongst other governmental bodies.
 
+<img src="/images/staff38.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff39.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff40.jpg" style="width:22%;margin-right:15px;" align = "left">
+<img src="/images/staff41.jpg" style="width:21%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
 #### **CTE-STEM 2021 Best Paper Award**
 
 
