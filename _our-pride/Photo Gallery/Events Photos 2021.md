@@ -6,9 +6,9 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2021**
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -16,9 +16,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | November - Star Awards Ceremony | November - PSLE Result Release | November - P1 Orientation |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -26,9 +26,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | November - Deepavali Celebration | November - Learning Journey to the Zoo | November - Leadership Day 2021 |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -36,9 +36,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | September - Teacher's Day Celebration | August- Active SG | August- SYF |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -46,9 +46,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | August- Read for Books | June- Appreciation to Parents | May- VIA CarePac Distribution to Migrant Workers |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -56,9 +56,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | May- FHBL from students and parents | May- VLM P2 | 6 August - Horizon Family Day 2021 |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -66,9 +66,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 27 April - Virtual Exchange to Hong Kong | 21 April - Captains’ Investiture Ceremony 2021 | April 2021 - Code For Fun 2021 |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -76,9 +76,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 |  April 2021 - Mother Tongue Languages Fortnight | 16 April - International Friendship Day | 10 March - Week of Wonder (Wushu) |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -86,9 +86,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 9 March - Celebrate Success Term 1 | 23 February - P3 Science Learning Journey | 22 February - World Scouts Day |
 
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/pic.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2021events.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
