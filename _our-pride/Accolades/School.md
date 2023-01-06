@@ -31,42 +31,42 @@ A total of 17 DT projects were implemented in our school. 97.4% of our educators
 
 #### **2021 MOE Innergy Award**
 
-<img src="/images/sch4.jfif" style="width:100%">
+<img src="/images/sch4.jfif" style="width:40%">
 
-<img src="/images/sch5.jpeg" style="width:100%">
+<img src="/images/sch5.jpeg" style="width:40%">
 
 
 
 #### **The Prime Minister's Book Prize**
 
-<img src="/images/sch6.png" style="width:100%">
+<img src="/images/sch6.png" style="width:40%">
 
 
 #### **National Primary Schools Chinese Story-Telling Competition 2021**
 
-<img src="/images/sch7.jpg" style="width:100%">
+<img src="/images/sch7.jpg" style="width:40%">
 
 #### **Horizon Plays A Part In The Singapore Green Plan**
 
-<img src="/images/sch8.png" style="width:100%">
+<img src="/images/sch8.png" style="width:40%">
 
 ### **MOE Innergy Award**
 
-<img src="/images/sch9.jfif" style="width:100%">
+<img src="/images/sch9.jfif" style="width:40%">
 
 #### **Try Something New During The Holidays**
 
-<img src="/images/sch10.jfif" style="width:100%">
+<img src="/images/sch10.jfif" style="width:40%">
 
-<img src="/images/sch11.jfif" style="width:100%">
+<img src="/images/sch11.jfif" style="width:40%">
 
 #### **SOTA Primary 6 Art Competition 2020**
 
-<img src="/images/sch12.jpg" style="width:100%">
+<img src="/images/sch12.jpg" style="width:40%">
 
 #### **Platinum Star Award For Horizon Primary School**
 
-<img src="/images/sch13.jfif" style="width:100%">
+<img src="/images/sch13.jfif" style="width:40%">
 
 #### **SGD Yellow Flame Award**
 
@@ -76,48 +76,48 @@ We are proud to announce that Horizon Primary School has been awarded the Yellow
 
 #### **Horizon Walkathon - Walk For Rice**
 
-<img src="/images/sch14.jpeg" style="width:100%">
+<img src="/images/sch14.jpeg" style="width:40%">
 
 #### **Precautionary Measures For The Haze Period**
 
-<img src="/images/sch15.jpg" style="width:100%">
+<img src="/images/sch15.jpg" style="width:40%">
 
 #### **Horizon Family Day 2019 @ Thumbs Up**
 
-<img src="/images/sch16.jpg" style="width:100%">
+<img src="/images/sch16.jpg" style="width:40%">
 
 #### **Winners of Punggol Digital District (PDD) Hoarding Design Competition (Schools Category)**
 
-<img src="/images/sch17.jpg" style="width:100%">
+<img src="/images/sch17.jpg" style="width:40%">
 
 #### **SBS Transit Kindness Month**
 
-<img src="/images/sch18.jpg" style="width:100%">
+<img src="/images/sch18.jpg" style="width:40%">
 
 #### **Best Team Spirit Award From The Inaugural Chinese Street Dance Competition**
 
-<img src="/images/sch19.jpg" style="width:100%">
+<img src="/images/sch19.jpg" style="width:40%">
 
 #### **Outdoor Adventure Learning Programme**
 
-<img src="/images/sch20.jpg" style="width:100%">
+<img src="/images/sch20.jpg" style="width:40%">
 
 #### **Primary 1 Registration 2018**
 
-<img src="/images/sch21.png" style="width:100%">
+<img src="/images/sch21.png" style="width:40%">
 
 #### **Whole School Approach To SLD At Horizon Primary School**
 
-<img src="/images/sch22.jpg" style="width:100%">
+<img src="/images/sch22.jpg" style="width:40%">
 
 #### **Healthy Eating For Life**
 
-<img src="/images/sch23.jpg" style="width:100%">
+<img src="/images/sch23.jpg" style="width:40%">
 
 #### **Bringing Out The Leader In Every Child**
 
-<img src="/images/sch24.jpg" style="width:100%">
+<img src="/images/sch24.jpg" style="width:40%">
 
 #### **National Chinese Challenge 2017**
 
-<img src="/images/sch25.jpg" style="width:100%">
+<img src="/images/sch25.jpg" style="width:40%">
