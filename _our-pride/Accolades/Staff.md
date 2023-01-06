@@ -14,9 +14,9 @@ Mdm Ning Ning was awarded the Dr Ong Yong Peng Book Prize for her exemplary achi
 We are happy share the joy of her achievement!
 
 #### **Academy Awards For Professional Development 2022**
-<img src="/images/staff.jpg" style="width:20%;margin-right:55px;" align = "left">
+<img src="/images/staff2.jpg" style="width:20%;margin-right:55px;" align = "left">
 
-<img src="/images/staff.jpg" style="width:20%;margin-right:55px;" align = "left">
+<img src="/images/staff3.jpg" style="width:20%;margin-right:55px;" align = "left">
 
 #### **National Day Awards 2022**
 
