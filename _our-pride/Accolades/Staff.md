@@ -142,16 +142,57 @@ We would also like to congratulate our Head of Department/Mathematics, Mrs Staph
 <br clear="left">
 
 #### **CTE-STEM 2021 Best Paper Award**
+Horizon Primary School has clinched the Best Paper Award of CTE-STEM 2021 at the 5th APSCE International Conference!
 
+The 5th APSCE International Conference on Computational Thinking and STEM Education 2021 (CTE-STEM 2021) was organized by the Asia-Pacific Society for Computers in Education (APSCE) and hosted by the National Institute of Education, Nanyang Technological University (NIE/NTU).
+
+We are elated and honoured that our ALP Computational Thinking in Mathematics programme has received recognition on the international stage. 
+
+Congratulations to our staff, Mrs Staphni Ong and Mrs Felicia Tham!
+
+<img src="/images/staff42.jpg" style="width:64%;margin-left:55px;" align = "left">
+<img src="/images/staff43.jpg" style="width:15%;margin-left:15px;" align = "left">
+<img src="/images/staff44.jpg" style="width:15%;margin-left:15px;" align = "left">
+
+<br clear="left">
 
 #### **E-Certificate of Appreciation For CS1206**
+Mrs Brenda O’ Hara and Mdm Rozanah collaborated and co-presented an e-conference paper at the Teachers’ Conference and EXCEL Fest 2021 on 1st June. 
 
+They shared on ‘The Integrated Curriculum@Horizon Incorporating the 7 Habits of Highly Effective People’ showcasing the sustainable efforts of our school in building confident student leaders over the years. The professional sharing was well-received by the participants from various schools.
+
+<img src="/images/staff46.jpg" style="width:22%;margin-right:135px;" align = "right">
+<img src="/images/staff45.jpg" style="width:50%;margin-left:75px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/staff48.jpg" style="width:22%;margin-right:135px;" align = "right">
+<img src="/images/staff47.jpg" style="width:50%;margin-left:75px;" align = "left">
+
+<br clear="left">
 
 #### **Distinguished Innochamp Award 2020**
+The award was launched in 2019 to recognise outstanding InnoChamps who have exceeded expectations in their contributions to the school in the following areas:
 
+1\. Providing innovation consultancy to school’s project teams;<br>
+2\. Facilitating innovation discussions among project teams; and<br>
+3\. Advising school management on innovation strategies.
+
+Congratulations to Mdm Enn Cai Ying for receiving this award.
+
+<img src="/images/staff50.jpg" style="width:22%;margin-right:265px;" align = "right">
+<img src="/images/staff49.jpg" style="width:23%;margin-left:145px;" align = "left">
+
+<br clear="left">
 
 #### **MOE Service Excellence Award (MSEA) 2020**
+The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.
 
+This year we are proud to recognize three members of our Horizon Family as MOE Ambassadors who have been awarded the MSEA 2020.
+
+They are Ms Chew Poh Choo (Platinum Award), Mdm Fung Siew Koon (Gold Award), Mdm Nurasyiqin Binte Mohamed Shafei, Mdm Gan Fung Ling and Mr Bay Ah Hock (Silver Award).
+
+Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
 
 #### **National Day Awards 2020**
 
