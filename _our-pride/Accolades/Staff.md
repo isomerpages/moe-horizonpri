@@ -249,19 +249,59 @@ We would also like to congratulate our HOD/Mathematics, Mrs Sim Lay Hoon for bei
 <br clear="left">
 
 #### **Sony Creative Science Award 2019**
+<img src="/images/staffa71.jpg" style="width:22%;margin-left:53px;" align = "left">
+<img src="/images/staffa72.jpg" style="width:22%;margin-left:85px;" align = "left">
+<img src="/images/staffa73.jpg" style="width:22%;margin-left:85px;" align = "left">
 
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Blue Ribbon Award Teacher | Diamond Award Teacher | Diamond Award Teacher |
 
 #### **MOE Service Excellence Award (MSEA) 2019**
+The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.
 
+This year we are proud to recognize three members of our Horizon Family as MOE Ambassadors who have been awarded the MSEA 2019.
 
-#### Student** Learning Space (SLS) Design Challenge 2019**
+They are Ms Chew Poh Choo (Gold Award), Mdm Chua Lian Hoong (Gold Award) and Mdm Ow Kum Chee, Jennifer (Silver Award).
 
+Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
+
+<img src="/images/staffa74.jpg" style="width:30%;margin-left:25px;" align = "left">
+<img src="/images/staffa75.jpg" style="width:30%;margin-left:15px;" align = "left">
+<img src="/images/staffa76.jpg" style="width:30%;margin-left:15px;" align = "left">
+
+<br clear="left">
+
+#### **Student Learning Space (SLS) Design Challenge 2019**
+<img src="/images/staffa77.jpg" style="width:15%;margin-left:53px;" align = "left">
+<img src="/images/staffa78.jpg" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/staffa79.jpg" style="width:15%;margin-left:65px;" align = "left">
+<img src="/images/staffa80.jpg" style="width:15%;margin-left:95px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| Mrs Senthil Poonkodi <br> Vice-Principal | Mrs Staphni Ong<br>HOD/Science | Mdm Dayangku Nuurul<br>HOD/ICT | Mr Chia Der Sheng<br>Teacher |
+
+Awarded Certificate of Achievement for Quality Design for successfully completing the challenge and designing a quality lesson for active learning with technology.
 
 #### **North East District Environment Award 2018**
+Our heartiest congratulations to our HOD (Science), Mrs Staphni Ong for being recognised by the North East Community Development Council (NECDC) and National Environment Agency and achieving the Gold Award in this year’s North East District Environment Award! 
 
+The North East District Environment Award is given annually to recognise individuals and schools who are passionate about the environment and proactive in her contribution to reducing our carbon footprints. Mrs Ong started many meaningful initiatives in providing a holistic environment education for our students, and thinks out of the box to achieve the same outcomes. She loves to save the Earth because it also helps to channel school funds to better use.
+
+<img src="/images/staff67.jpg" style="width:22%;margin-right:145px;" align = "right">
+<img src="/images/staff66.jpg" style="width:40%;margin-left:95px;" align = "left">
+
+<br clear="left">
 
 #### **MOE Service Excellence Award (MSEA) 2018**
+Congratulations to both our Management Support Officer, Ms Soh San San and our Operations Support Officer for being awarded the 2018 MSEA Silver Award!
 
+They have been recognised as deserving MOE staff who are MOE's service role models. They have demonstrated the 6 key performance and personal attributes which directly amplify service excellence. The MSEA criteria are aligned with the Service Principles in the Framework for Public Service Delivery - People Centricity; Mutual Courtesy and Respect; and Shared Responsibility for the Public Good.
 
 #### **Most Inspiring Tamil Language Teacher 2018**
 
