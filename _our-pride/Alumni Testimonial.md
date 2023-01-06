@@ -8,7 +8,8 @@ description: ""
 
 **Amy Ong Jin Lu**<br>
 **Class of 2020**<br>
-**Nanyang Girls' High School**<br>
+**Nanyang Girls' High School**
+
 <br clear="left">
 
 Undoubtedly, Horizon has played an integral part in my overall development as a citizen. Horizon has placed a lot of importance on inculcating in all of us the 7 Habits as well as the four school values (Respect, Integrity, Compassion, and Excellence) — so that we can make ethical decisions well, and still manage to make school life enriching and thrilling. I am overwhelmed with gratitude that I had the school experience with Horizon. Every day, I would wake up bright and early in anticipation of the fulfilling school day ahead, and even now in secondary school, I still have pangs of nostalgia and longing to return to Horizon and meet all my friends and teachers. I shall now expound on a few of the numerous reasons why I shall forever be indebted— in a positive way— to Horizon.
@@ -29,8 +30,8 @@ One last thing for my juniors— here’s one of the major lessons I learnt from
 
 <img src="/images/alumni2.jpg" style="width:24%;margin-right:15px;" align = "left">
 
-**Choo En Min, Chloe**
-**Class of 2020**
+**Choo En Min, Chloe**<br>
+**Class of 2020**<br>
 **Nan Chiau High School**
 
 <br clear="left">
@@ -47,8 +48,8 @@ As an alumni, I wish Horizon all the best for its future endeavours.
 
 <img src="/images/alumni3.jpg" style="width:17%;margin-right:15px;" align = "left">
 
-**Iffah Umairah Binte Mohamad Amin**
-**Class of 2019**
+**Iffah Umairah Binte Mohamad Amin**<br>
+**Class of 2019**<br>
 **Compassvale Secondary School**
 
 <br clear="left">
@@ -61,8 +62,8 @@ I hope the next batch of students will continue to uphold the name of our school
 
 <img src="/images/alumni4.jpg" style="width:17%;margin-right:15px;" align = "left">
 
-**Asher Teoh**
-**Class of 2019**
+**Asher Teoh**<br>
+**Class of 2019**<br>
 **Victoria School**
 
 <br clear="left">
@@ -75,8 +76,8 @@ To Horizon Primary School, I wish you the best for the future. Continue being th
 
 <img src="/images/alumni5.jpg" style="width:22%;margin-right:15px;" align = "left">
 
-**Elie Tan**
-**Class of 2018**
+**Elie Tan**<br>
+**Class of 2018**<br>
 **Dunman High School**
 
 <br clear="left">
@@ -91,8 +92,8 @@ To my juniors, the fruit of your own hard work is the sweetest. When everything 
 
 <img src="/images/alumni6.jpg" style="width:22%;margin-right:15px;" align = "left">
 
-**Aaron Ng**
-**Class of 2018**
+**Aaron Ng**<br>
+**Class of 2018**<br>
 **Hwa Chong Institution**
 
 <br clear="left">
@@ -105,8 +106,8 @@ What I hope to share with my juniors is this; time will pass by quickly and it w
 
 <img src="/images/alumni7.jpg" style="width:15%;margin-right:15px;" align = "left">
 
-**Contributed by Xavier Bay, Chelsea Bay & Joshin Bay**
-**Class of 2018**
+**Contributed by Xavier Bay, Chelsea Bay & Joshin Bay**<br>
+**Class of 2018**<br>
 **Chung Cheng High School (Main)**
 
 <br clear="left">
@@ -123,8 +124,8 @@ In summary, enjoy the days you have in Horizon Primary to the fullest.
 
 <img src="/images/alumni8.jpg" style="width:35%;margin-right:15px;" align = "left">
 
-**Lee Jaelyn**
-**Class of 2017**
+**Lee Jaelyn**<br>
+**Class of 2017**<br>
 **Raffles Girls School**
 
 <br clear="left">
@@ -141,8 +142,8 @@ Having such wonderful teachers and experiences accompanying me all the way till 
 
 <img src="/images/alumni9.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Dylan Chong (张韶峰)**
-**Class of 2017**
+**Dylan Chong (张韶峰)**<br>
+**Class of 2017**<br>
 **School of Science and Technology, Singapore**
 
 <br clear="left">
@@ -157,8 +158,8 @@ To my juniors — work hard, do your very best, take advice from teachers and yo
 
 <img src="/images/alumni10.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Fay Ong**
-**Class of 2017**
+**Fay Ong**<br>
+**Class of 2017**<br>
 **Cedar Girls Secondary School**
 
 <br clear="left">
@@ -175,8 +176,8 @@ All your hard work will pay off and do not let negativity influence you and know
 
 <img src="/images/alumni11.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Stephanie Clarissa Kwa**
-**Class of 2017**
+**Stephanie Clarissa Kwa**<br>
+**Class of 2017**<br>
 **Singapore Sports School**
 
 <br clear="left">
@@ -199,8 +200,8 @@ Be a leader of your life, do not let others take control of your life. Celebrate
 
 <img src="/images/alumni12.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Maegan Nicole Chew**
-**Class of 2017**
+**Maegan Nicole Chew**<br>
+**Class of 2017**<br>
 **CHIJ St Nicholas Girls' School**
 
 <br clear="left">
@@ -213,8 +214,8 @@ The experiences in Horizon have prepared me well for the growth and challenges o
 
 <img src="/images/alumni13.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Mikail Bin Nor Nizar**
-**Class of 2017**
+**Mikail Bin Nor Nizar**<br>
+**Class of 2017**<br>
 **Zhonghua Secondary School**
 
 <br clear="left">
@@ -229,8 +230,8 @@ Take strong interests in your school work. Don't be afraid to make mistakes. Mak
 
 <img src="/images/alumni14.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Akasyah Bin Mohd Shahrin**
-**Class of 2017**
+**Akasyah Bin Mohd Shahrin**<br>
+**Class of 2017**<br>
 **Anderson Secondary School**
 
 <br clear="left">
@@ -245,8 +246,8 @@ Thank you for all the opportunities, events, activities, and everything that you
 
 <img src="/images/alumni15.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Ryan Neo**
-**Class of 2016**
+**Ryan Neo**<br>
+**Class of 2016**<br>
 **Dunman High School**
 
 <br clear="left">
@@ -261,8 +262,8 @@ Finally I would like to thank all the teachers of Horizon Primary, both past and
 
 <img src="/images/alumni16.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Nicole Logoraj**
-**Class of 2016**
+**Nicole Logoraj**<br>
+**Class of 2016**<br>
 **National Junior College**
 
 <br clear="left">
@@ -281,8 +282,8 @@ Everyone has the capacity of being anyone or anything ~Tom Hiddleston
 
 <img src="/images/alumni17.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Loh Wai Cheong, Mackitt**
-**Class of 2016**
+**Loh Wai Cheong, Mackitt**<br>
+**Class of 2016**<br>
 **Nan Chiau High School**
 
 <br clear="left">
@@ -295,8 +296,8 @@ Hence, Horizon has been a memorable part of my schooling life.
 
 <img src="/images/alumni18.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Joshua Cher**
-**Class of 2015**
+**Joshua Cher**<br>
+**Class of 2015**<br>
 **Temasek Junior College**
 
 <br clear="left">
@@ -309,8 +310,8 @@ I would advise my fellow juniors to be determined and persist through tough time
 
 <img src="/images/alumni19.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Gerald Poh Kar Loke**
-**Class of 2015**
+**Gerald Poh Kar Loke**<br>
+**Class of 2015**<br>
 **Chung Cheng High School (Main)**
 
 <br clear="left">
@@ -325,8 +326,8 @@ I sincerely wish Horizon Primary School all the best in continuing to provide su
 
 <img src="/images/alumni20.jpg" style="width:20%;margin-right:15px;" align = "left">
 
-**Michelle Tan Ee Shuen**
-**Class of 2013**
+**Michelle Tan Ee Shuen**<br>
+**Class of 2013**<br>
 **Victoria Junior College**
 
 <br clear="left">
