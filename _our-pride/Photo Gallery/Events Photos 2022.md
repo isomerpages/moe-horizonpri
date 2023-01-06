@@ -76,8 +76,8 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | August - Horizon Family Day 2022 | August - Celebrate Success (Term 3) | September - Teachers' Day Celebration |
 
-<p><a href="webhere"><img src="/images/2022event22.jpg" style="width:30%;margin-right:15px;margin-left:155px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2022event23.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2022event22.jpg" style="width:30%;margin-right:15px;margin-left:105px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2022event23.jpg" style="width:30%;margin-left:135px;" align = "left"></a></p>
 
 <br clear="left">
 
