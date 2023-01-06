@@ -73,22 +73,55 @@ third_nav_title: Accolades
 
 We are proud to announce that Horizon Primary School has been awarded the Yellow Flame Award from the SEC-Starhub School Green Awards for the second consecutive year. The School Green Awards recognise the efforts put in by the teachers and students towards caring for the environment. As mentioned by PM Lee in this year's National Day Rally, climate change is one of the gravest challenges facing humankind and Singapore is feeling the impact of global warming. In Horizon Primary School, we recognize the importance of saving the Earth and have a whole-school approach to be more environmentally friendly. A highlight of our efforts this year, was the series of upcycling workshops planned and implemented by our student Eco-Leaders, heightened the awareness of our students in learning the importance of protecting our environment.
 
-#### Horizon Walkathon - Walk For Rice
+#### **Horizon Walkathon - Walk For Rice**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> | We are indeed honoured to be featured on the Little Red Dot on our contribution to the society via our walkathon-Walk for RICE. It was a meaningful and memorable way to celebrate our 10th anniversary and Children’s Day.<br><br>Together as Horizon family, we have walked 5417.2 km and made it possible for NTUC to donate 27 086 bowls of white rice and 27 086 bowls of brown rice for the needy families. All this would not have been possible without the splendid synergy of school staff, parent volunteers, parents who joyfully joined their children in the walkathon and, of course, our bright and cheerful students.<br><br>Fantastic collaboration Horizon! |
+| <img src="/images/sch14.jpeg" style="width:100%"> | We are indeed honoured to be featured on the Little Red Dot on our contribution to the society via our walkathon-Walk for RICE. It was a meaningful and memorable way to celebrate our 10th anniversary and Children’s Day.<br><br>Together as Horizon family, we have walked 5417.2 km and made it possible for NTUC to donate 27 086 bowls of white rice and 27 086 bowls of brown rice for the needy families. All this would not have been possible without the splendid synergy of school staff, parent volunteers, parents who joyfully joined their children in the walkathon and, of course, our bright and cheerful students.<br><br>Fantastic collaboration Horizon! |
 
-#### Precautionary Measures For The Haze Period
-
-|  |  |
-|:---:|---|
-| <img src="/images/sch.jpg" style="width:100%">Click [here](https://youtu.be/iniitFlEA5k) to view this video. | Channel 8 news reached out to Horizon Primary School to share on our precautionary measures for this haze period as students return from their September holidays.  Our Year Head. Mr Timothy Wang shared our school's processes and measures. |
+#### **Precautionary Measures For The Haze Period**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch15.jpg" style="width:100%">Click [here](https://youtu.be/iniitFlEA5k) to view this video. | Channel 8 news reached out to Horizon Primary School to share on our precautionary measures for this haze period as students return from their September holidays.  Our Year Head. Mr Timothy Wang shared our school's processes and measures. |
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch16.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch17.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch18.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch19.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch20.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch21.png" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch22.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch23.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch24.jpg" style="width:100%"> |  |
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch25.jpg" style="width:100%"> |  |
+
