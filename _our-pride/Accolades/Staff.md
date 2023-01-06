@@ -14,9 +14,21 @@ Mdm Ning Ning was awarded the Dr Ong Yong Peng Book Prize for her exemplary achi
 We are happy share the joy of her achievement!
 
 #### **Academy Awards For Professional Development 2022**
+The Academy Awards for Professional Development recognize and affirm the efforts of officers in the education service for their contributions to the professional development of the teaching fraternity. We would like to congratulate Mdm Hong Bee Yuen and Mrs Sim Lay Hoon for achieving the following awards and in raising the competence of the fraternity at national level.
+
 <img src="/images/staff2.jpg" style="width:20%;margin-right:55px;" align = "left">
 
+Mdm Hong Bee Yuen has been recognized by Academy of Singapore Teachers (AST) in two areas of contribution. 
+
+1\. She has been an active member in the 2021/2022 Physical Education Chapter Core Team and hence a **certificate of appreciation.** <br>
+2\. She has been recognized as an **Associate of Academy of Singapore Teachers** for her contribution at Physical Education Networked Learning Community. 
+
+
 <img src="/images/staff3.jpg" style="width:20%;margin-right:55px;" align = "left">
+
+Mrs Sim Lay Hoon has been recognized as an **Associate of Academy of Singapore Teachers** for her contribution as E2K (Mathematics) Mentor
+
+<br clear="left">
 
 #### **National Day Awards 2022**
 
