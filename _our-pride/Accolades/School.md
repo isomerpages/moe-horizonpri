@@ -43,33 +43,47 @@ third_nav_title: Accolades
 |:---:|---|
 | <img src="/images/sch8.png" style="width:100%"> | Horizon Primary School is happy to play a part in MOE's effort to onboard schools in working towards the 2030 carbon-neutral target of the Singapore Green Plan. <br><br>You can find out more by accessing the Channel NewsAsia (CNA) feature [here](https://www.channelnewsasia.com/news/singapore/solar-panel-power-primary-schools-carbon-neutral-14924410). |
 
-|  |  |
-|:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+### **MOE Innergy Award**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch9.jfif" style="width:100%"> | The MOE Innergy Awards aim to recognise individuals/teams at the ministry level, for successfully developing and implementing innovations to bring about significant benefits and impact in their workplaces.<br><br>We are proud to announce that our team of PE teachers have clinched the MOE Innergy (Schools) Commendation Award for their 2019 PE project entitled “Teaching Gymnastics Using the Student Learning Space (SLS)”.<br><br>The PE project aimed to improve the students’ engagement level and learning experiences in Primary 5 Gymnastics for PE. The PE teachers adopted a flipped classroom approach where students were able to revisit previous concepts learnt as well as form new knowledge for the Gymnastics skills through the SLS packages. Primary 5 students were also able to analyse and reflect on their performances using “Making Thinking Visible” routines via SLS for the Gymnastics skills during the PE lessons. A high percentage of students agreed to have picked up conceptual knowledge of the forward roll and handstand from the packages. This was evident from the more than 80% of them who agreed to have learnt cues and points to take note when executing the 2 said movements.<br><br>The PE team will continue to push beyond our frontiers in Innovations for quality teaching and students’ learning of Physical Education in Horizon Primary School. |
+
+#### **Try Something New During The Holidays**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch10.jfif" style="width:100%"><br><br><img src="/images/sch11.jfif" style="width:100%"> | "You'll never be bored when you try something new. There's really no limit to what you can do!“<br>\- Dr. Seuss (Cat in The Hat)<br><br>In Horizon Primary School, our students acquire information and technology literacies and develop 21st century thinking skills via our Applied Learning Programme - Computational Thinking. Through this programme, our students learn to use age-appropriate block-based programming to code and create different prototypes. During the process of coding, they develop the attitude of 'Try Fail Try' and embrace a growth mindset in striving for excellence.<br><br>The Computational Thinking lessons allowed Darius Yong, from P5 Innovator to not only hone the basic coding skills, but also to understand coding better and develop his interest in it. Inspired by a newspaper article, he decided to create a Mathematics activity that could help his peers with their revision. Using the time he had after completing his daily assignments for FHBL, he practised self-directed learning by referring to a tutorial book to create his activity using coding. Of course, he faced temporary setbacks when his codes did not work at times. However, with the right attitude and spirit of perseverance, he kept trying until he got them right.<br><br>His activity can be accessed via this [link] (https://scratch.mit.edu/projects/390106492?fbclid=IwAR1-DvyIyOtIaPBrf4Qgmf4gXvqNQM3N_Y3W0JSbNlpxvnLBgbNclRXwk5c)<br><br>We hope that our students will have fun trying out Darius’ creation and be inspired by him to try something new or develop their own interest during this holiday.<br><br>Remember to Stay Home, Stay Safe, Stay Curious! |
+
+#### **SOTA Primary 6 Art Competition 2020**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch12.jpg" style="width:100%"> | Elisea Cheng Rui See from P6 Creator has been awarded the Certificate of Commendation at the SOTA Primary 6 Art Competition 2020.<br><br>There were 825 entries for this competition and her artwork has been shortlisted amongst the top 80 entries.<br><br>The painting shows a Man's heart that is burning with desire and greed. He turns into fire and causes destruction to nature, but a single rose grows and glows, showing sign of life and hope amidst all the chaos. |
+
+#### **Platinum Star Award For Horizon Primary School**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch13.jfif" style="width:100%"> | We are happy to announce that Horizon Primary School has been awarded the Platinum STAR award in 2019 after receiving the GOLD award for 3 consecutive years. It is an award given out by the Restroom Association (Singapore) in recognition to the school’s holistic approach in highlighting that toilets need to be treated as quality restrooms so as to sustain hygiene and social etiquette.  |
+
+#### **SGD Yellow Flame Award**
+
+--
+
+We are proud to announce that Horizon Primary School has been awarded the Yellow Flame Award from the SEC-Starhub School Green Awards for the second consecutive year. The School Green Awards recognise the efforts put in by the teachers and students towards caring for the environment. As mentioned by PM Lee in this year's National Day Rally, climate change is one of the gravest challenges facing humankind and Singapore is feeling the impact of global warming. In Horizon Primary School, we recognize the importance of saving the Earth and have a whole-school approach to be more environmentally friendly. A highlight of our efforts this year, was the series of upcycling workshops planned and implemented by our student Eco-Leaders, heightened the awareness of our students in learning the importance of protecting our environment.
+
+#### Horizon Walkathon - Walk For Rice
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch.jpg" style="width:100%"> | We are indeed honoured to be featured on the Little Red Dot on our contribution to the society via our walkathon-Walk for RICE. It was a meaningful and memorable way to celebrate our 10th anniversary and Children’s Day.<br><br>Together as Horizon family, we have walked 5417.2 km and made it possible for NTUC to donate 27 086 bowls of white rice and 27 086 bowls of brown rice for the needy families. All this would not have been possible without the splendid synergy of school staff, parent volunteers, parents who joyfully joined their children in the walkathon and, of course, our bright and cheerful students.<br><br>Fantastic collaboration Horizon! |
+
+#### Precautionary Measures For The Haze Period
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch.jpg" style="width:100%"> |  |
+| <img src="/images/sch.jpg" style="width:100%">Click [here](https://youtu.be/iniitFlEA5k) to view this video. | Channel 8 news reached out to Horizon Primary School to share on our precautionary measures for this haze period as students return from their September holidays.  Our Year Head. Mr Timothy Wang shared our school's processes and measures. |
 
 |  |  |
 |:---:|---|
