@@ -85,43 +85,62 @@ We are proud to announce that Horizon Primary School has been awarded the Yellow
 |:---:|---|
 | <img src="/images/sch15.jpg" style="width:100%">Click [here](https://youtu.be/iniitFlEA5k) to view this video. | Channel 8 news reached out to Horizon Primary School to share on our precautionary measures for this haze period as students return from their September holidays.  Our Year Head. Mr Timothy Wang shared our school's processes and measures. |
 
-|  |  |
-|:---:|---|
-| <img src="/images/sch16.jpg" style="width:100%"> |  |
+#### **Horizon Family Day 2019 @ Thumbs Up**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch17.jpg" style="width:100%"> |  |
+| <img src="/images/sch16.jpg" style="width:100%"> | Horizon Family Day 2019 was featured in this issue of Thumbs Up (大拇指)!  Revolving around the theme - The Age of the Horizonites, the occasion transformed the entire school premises into a world of fantasy where students were involved in a life-size, role-playing game. Students partook in engaging and educational activities in various stations operated smoothly by parents and staff. Besides a brand new and refreshing experience for students, parents and staff, parent-child cooperation was evident from the preparation stage right up till the event day. Parents also took pride in seeing the latent strengths and abilities of their children in actions, beyond their academic achievements!  |
+
+#### **Winners of Punggol Digital District (PDD) Hoarding Design Competition (Schools Category)**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch18.jpg" style="width:100%"> |  |
+| <img src="/images/sch17.jpg" style="width:100%">Click [here](https://www.zaobao.com.sg/news/singapore/story20190811-979926) to read this article. | Elisea Cheng from P5 Creator took part in a hoarding design competition jointly organised by Singapore Institute of Technology and JTC. The theme on “the future of education” inspired Elisea to explore the possibility of having classes outdoor using the hologram projection. Her creativity and design clinched the top prize in the primary school category. Her winning design will be put up on the hoarding of the construction site of the upcoming SIT@Punggol campus, which will begin construction in September. Congratulations,Elisea! |
+
+#### **SBS Transit Kindness Month**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch19.jpg" style="width:100%"> |  |
+| <img src="/images/sch18.jpg" style="width:100%"> | We are proud to be featured on the Straits Times on our contribution towards the SBS Transit Kindness Month at Punggol MRT!<br><br>Over the two sessions on 8th May and 29th May, our students interacted with commuters and passed on messages of kindness and graciousness for better commuting practices. Well done Horizon students for serving towards a gracious society. Every act of yours counts!<br><br>Read more by clicking on the link below:[Gearing up for graciousness at punggol mrt station](https://www.straitstimes.com/singapore/transport/gearing-up-for-graciousness-at-punggol-mrt-station?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2019-05-30+5%3A05%3A15&fbclid=IwAR0qAJ5hnbMuKKOdqWNFoGituUHBplPzXmuZzH9X1g1IKP2ifR70Y0cUF4Y) |
+
+#### **Best Team Spirit Award From The Inaugural Chinese Street Dance Competition**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch20.jpg" style="width:100%"> |  |
+| <img src="/images/sch19.jpg" style="width:100%"> | Our team, Stars of Horizon, has won the Best Team Spirit Award from the inaugural Chinese Street Dance Competition held on Saturday, 23 March 2019.  One of the judges of the competition, Mr Tosh Zhang, commented the team for their synchronised excellent dance moves even though we had a team of 10 members.<br><br>The team had practised hard for the past 3 months to prepare themselves for this competition. One of our team members, Huang Ai Hua from Primary 4 Innovator, expressed that she is extremely proud of the team. She felt that they truly deserved to win this award as they had worked extremely hard during their practice sessions. |
+
+#### **Outdoor Adventure Learning Programme**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch21.png" style="width:100%"> |  |
+| <img src="/images/sch20.jpg" style="width:100%"> | Horizon Primary was featured on Channel 8 news again! This time it is on our outdoor adventure learning programme. Our Primary 4 student, Cheryl Koh, shared about her learning and Year Head, Mdm Shirley Lim shared her views on having more MOE outdoor adventure centres.<br><br>Watch it [here](https://www.channel8news.sg/news8/latestnews/20181117-sg-outdoor-adventure-center/4182150.html). |
+
+#### **Primary 1 Registration 2018**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch22.jpg" style="width:100%"> |  |
+| <img src="/images/sch21.png" style="width:100%"> | Horizon Primary was featured on Channel 8 news. Our intake of P1 classes has been increasing over the years and in 2019, Horizon Primary will be having 10 classes of P1 students- an increase of 80 vacancies as compared to 2017 intake. Our Principal, Mrs Grace Leong, shared her views on the demand in Punggol Town and how the school plays a part in providing opportunity for children who are interested in joining our school.<br><br>Watch it [here](https://www.channel8news.sg/news8/singapore/20180628-sg-p1-reg/4063966.html). |
+
+#### **Whole School Approach To SLD At Horizon Primary School**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch23.jpg" style="width:100%"> |  |
+| <img src="/images/sch22.jpg" style="width:100%"> | We are proud to share that our school's I-LEAD programme was featured on the MOE Student Leadership Development (SLD) E-Buzz Periodical.<br><br>Read more [here](https://horizonpri.moe.edu.sg/qql/slot/u174/Our%20Pride/Accolades/WHOLE%20SCHOOL%20APPROACH%20TO%20SLD%20AT%20HORIZON/SLD%20E-Buzz%20Issue%203%20(Featuring%20Horizon%20Primary%20School).pdf). |
+
+#### **Healthy Eating For Life**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch24.jpg" style="width:100%"> |  |
+| <img src="/images/sch23.jpg" style="width:100%"> | For the past two years, Horizon Primary School has been taking part in the Healthy Meals in Schools Programme (HMSP), a collaborative effort between the Ministry of Education and the Health Promotion Board.<br><br>Read more [here](https://www.healthhub.sg/live-healthy/1290/healthy-eating-for-life). |
+
+#### **Bringing Out The Leader In Every Child**
 
 |  |  |
 |:---:|---|
-| <img src="/images/sch25.jpg" style="width:100%"> |  |
+| <img src="/images/sch24.jpg" style="width:100%"> | Our school's Fresh Me Up programme was featured on the MOE SchoolBag website. As part of a Fresh Me Up Project, a cohort-wide project for Values-in-Action to instil independence, the students would ensure that the toilets are clean, before they proceed for their recess break.<br><br>Read more [here](https://www.schoolbag.sg/story/bringing-out-the-leader-in-every-child?utm_source=newsletter&utm_medium=e-mail&utm_campaign=2017-april). |
 
+#### **National Chinese Challenge 2017**
+
+|  |  |
+|:---:|---|
+| <img src="/images/sch25.jpg" style="width:100%"> | We are proud to announce that our school has been featured in LianHe Zaobao （《联合早报》）on 2 April 2017 for sending out the highest number of students for this year National Chinese Challenge. Through this competition, the organisers hope to create an opportunity for the participants to gain a deeper understanding of the Chinese culture, and be motivated to improve their command of the Chinese language.<br><br>Read more [here](https://horizonpri.moe.edu.sg/qql/slot/u174/Our%20Pride/Accolades/National%20Chinese%20Challenge%202017/National%20Chinese%20Challenge%202017.jpg). |
