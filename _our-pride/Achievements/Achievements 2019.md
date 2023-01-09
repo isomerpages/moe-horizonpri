@@ -24,14 +24,14 @@ third_nav_title: Achievements
 | Tamil | National Tamil Spelling-bee Competition | Certificate of Commendation | 
 | Student Leadership |  Speak Up! Kids Competition 2019 | 3rd  Position  | 
 | Chess |  71st National Schools Individual Chess Championships 2019 | **Senior Division Boys**<br>Merit | 
-| InfoComm Club |  National Primary Game Creation and Coding Competition (NPGC3) 2019 |  Best Booth Award<br><br>**Open Category**<br>2nd in Best Game | 
+| <br>InfoComm Club |  <br>National Primary Game Creation and Coding Competition (NPGC3) 2019 |  Best Booth Award<br><br>**Open Category**<br>2nd in Best Game | 
 |
 
 #### **Domain: Social**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts |  Frank Cooper Sands Award 2018<br><br> North Area First Aid Competition 2019 | Gold Award <br><br>1 Gold Award<br>1 Silver Award<br>1 Bronze Award | 
+| <br><br>Cub Scouts |  Frank Cooper Sands Award 2018<br><br><br> North Area First Aid Competition 2019 | Gold Award <br><br>1 Gold Award<br>1 Silver Award<br>1 Bronze Award | 
 | Innovation Club | Sony Creative Science Award 2019 | 2 Merit Award | 
 |
 
@@ -39,11 +39,11 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Taekwondo |  National School Games Taekwondo Championships 2019 | **Poomsae**<br>Sportsmanship Award<br><br>**Junior Division (Yellow 7)**<br>1st Position<br><br>1st Position | 
+| <br><br>Taekwondo |  <br><br>National School Games Taekwondo Championships 2019 | **Poomsae**<br>Sportsmanship Award<br><br>**Junior Division (Yellow 7)**<br>1st Position<br><br>1st Position | 
 | Badminton |  SPSSC Badmintion Championships 2019 | Sportsmanship Award  | 
 | Football | SPSSC Football Championships 2019 | Sportsmanship Award | 
-| Rope Skipping |  Singapore National Jump Rope Championship 2019	<br><br> National School Games Rope Skipping Championships 2019	 | **U14 Female Single Rope Team Freestyle**<br>1st Position<br><br>**U10 Female Single Rope Speed 4x30 Speed**<br>2nd Position<br><br>**U10 Female Single Rope Speed 2x30 Double Under**<br>3rd Position<br><br>**U10 Female Single Rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single Rope Freestyle**<br>3rd Position<br><br> **Junior Division Boys**<br>Sportsmanship Award<br><br>**Junior Division Girls**<br>Sportsmanship Award<br><br>**Senior Division Boys**<br>Sportsmanship Award<br><br>**Senior Division Girls**<br>Sportsmanship Award | 
-| Swimming  |  60th National Primary School Swimming Championships 2019 | **B Division Girls**<br>Sportsmanship Award<br><br>**B Division Boys**<br>Sportsmanship Award<br><br>**D Division Boys**<br>Sportsmanship Award | 
+| <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Rope Skipping |  <br><br><br><br><br><br><br><br><br><br>Singapore National Jump Rope Championship 2019	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> National School Games Rope Skipping Championships 2019	 | **U14 Female Single Rope Team Freestyle**<br>1st Position<br><br>**U10 Female Single Rope Speed 4x30 Speed**<br>2nd Position<br><br>**U10 Female Single Rope Speed 2x30 Double Under**<br>3rd Position<br><br>**U10 Female Single Rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single Rope Freestyle**<br>3rd Position<br><br> **Junior Division Boys**<br>Sportsmanship Award<br><br>**Junior Division Girls**<br>Sportsmanship Award<br><br>**Senior Division Boys**<br>Sportsmanship Award<br><br>**Senior Division Girls**<br>Sportsmanship Award | 
+| <br><br><br>Swimming  |  <br><br><br>60th National Primary School Swimming Championships 2019 | **B Division Girls**<br>Sportsmanship Award<br><br>**B Division Boys**<br>Sportsmanship Award<br><br>**D Division Boys**<br>Sportsmanship Award | 
 |
 
 #### **Domain: Aesthetics**
@@ -51,6 +51,6 @@ third_nav_title: Achievements
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 | Tap Dance |  Chinese Street Dance Competition | Best Team Spirit Award |
-| Art |  SYF  Art Exhibition | **Category A**<br>Certificate of Recognition | 
+| Art | <br>SYF Art Exhibition | **Category A**<br>Certificate of Recognition | 
 | Social |  Punggol Digital District Hoarding Design Competition - Primary School Category | 1st Position | 
 |
