@@ -7,9 +7,9 @@ third_nav_title: Achievements
 ### **Achievements 2015**
 #### **School Awards**
 
-| Group | Competition | Achievement |
-|:---:|:---:|:---:|
-|  |  |  | 
+|  |  |
+|:---:|:---:|
+|  |  |
 
 #### **Domain: Clubs & Societies**
 
@@ -33,4 +33,4 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
+|  |  |  |
