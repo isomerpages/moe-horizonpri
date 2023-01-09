@@ -17,23 +17,30 @@ third_nav_title: Achievements
 | InfoComm & Robotics |  |  | 
 | Malay Language |  |  | 
 | Tamil Language |  |  | 
-| Mathematics
-||  |  | 
+| Mathematics |  |  | 
+|
 
 #### **Domain: Social**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 |  |  |  | 
+|  |  |  | 
+|  |  |  | 
+|
 
 #### **Domain: Physical**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 |  |  |  | 
+|  |  |  | 
+|
 
 #### **Domain: Aesthetics**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 |  |  |  |
+|  |  |  | 
+|
