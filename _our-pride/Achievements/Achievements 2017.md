@@ -46,7 +46,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Dance |  |  |
-| Music |  |  | 
-| Art |  |  | 
+| Dance | National Dancesport Competition 2017<br><br>Super 24 Dance Competition 2017 | Juvenile Under 13 Partner Latin Jive Open – Bronze<br><br>Juvenile Under 13 Partner Latin Cha Cha Open – Bronze <br><br>Juvenile Under 13 Solo Latin Jive     Open – Gold<br><br>Juvenile Under 13 Solo Latin Cha Cha Open – Silver<br><br><br>Team - 3rd position  |
+| Music |  National Indian Music Competition 2017 | Mridangam Junior Category - 1st Prize | 
+| Art | International Peace Day Postcard Competition 2017 | Individual - 1st position | 
 |
