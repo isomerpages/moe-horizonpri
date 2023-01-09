@@ -47,7 +47,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| 22 to 26 May - P5 Trip for International Experience to Hong Kong | 12 Jul -Hosting of Xiamen Experimental School | 08 Aug - National Day Celebration & ACES | 26 Jul - MTL Celebrate Reading! |
+| 22 to 26 May - P5 Trip for International<br> Experience to<br> Hong Kong | 12 Jul -Hosting of<br> Xiamen Experimental School | 08 Aug - National Day Celebration & ACES | 26 Jul - MTL Celebrate Reading! |
 
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157684099142522"><img src="/images/2017events16.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157686685656616"><img src="/images/2017events17.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -80,7 +80,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| 27 Jan - Chinese New Year Celebration | 09 Feb - P5 Parents Workshop | 08 Feb - SCS Show | 08 Feb - Anti-Smoking Show |
+| 27 Jan - Chinese<br> New Year Celebration | 09 Feb - P5 Parents Workshop | 08 Feb - SCS Show | 08 Feb - Anti-Smoking Show |
 
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157678107450742"><img src="/images/2017events28.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157680278678135"><img src="/images/2017events29.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
