@@ -16,41 +16,41 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| English |  |  | 
+| Mathematics |  |  | 
+| Science |  |  | 
+| Chinese |  |  | 
+| Malay |  |  | 
+| Tamil |  |  | 
+| Student Leadership |  |  | 
+| Chess |  |  | 
+| InfoComm Club |  |  | 
 |
 
 #### **Domain: Social**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
-|  |  |  | 
+| Cub Scouts |  |  | 
+| Innovation Club |  |  | 
 |
 
 #### **Domain: Physical**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| Taekwondo |  |  | 
+| Badminton |  |  | 
+| Football |  |  | 
+| Rope Skipping |  |  | 
+| Swimming  |  |  | 
 |
 
 #### **Domain: Aesthetics**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  | 
-|  |  |  | 
+| Tap Dance |  |  |
+| Art |  |  | 
+| Social |  |  | 
 |
