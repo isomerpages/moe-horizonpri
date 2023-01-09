@@ -20,7 +20,7 @@ third_nav_title: Achievements
 | <br><br><br><br><br><br><br>Mathematics | <br><br><br>Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br><br><br><br>Singapore Mathematical Olympiad for Primary School (SMOPS)<br><br><br>National Mathematical Olympiad of Singapore (NMOS) 2019 | **Junior Category**<br>1 High Distinction<br>4 Distinction<br><br>**Open Category**<br>2 Distinction<br><br><br>Gold<br>Bronze<br><br>Honourable Mention<br>2 Silver<br>5 Bronze | 
 | Science | Singapore Science Olympiad 2019 | Silver | 
 | <br><br><br><br><br><br><br><br>Chinese | <br><br><br><br><br>The 2nd Primary and Secondary Text Recital Competition<br><br><br><br><br><br><br><br><br><br> Singapore Chinese Moo-O Awards 2019 | **Lower Primary (Individual)**<br>Silver<br>Bronze<br><br>**Lower Primary (Group)**<br>Silver<br>Bronze<br><br>**Upper Primary (Individual)**<br>2 Bronze<br><br><br><br>Merit Award | 
-| Malay |  |  | 
+| Malay | Ops Baca 2019<br><br>National Malay Writing Competition 2019 | **Primary 2 - Skit based on traditional folklore**<br>1st Position<br><br>**Primary 3 - Book Promotion**<br>3rd Position<br><br>**Primary 4 - Alternate Ending**<br>2nd Position<br><br>**Primary 5 - Classic Malay Character in Modern Setting**<br>2nd Position | 
 | Tamil |  |  | 
 | Student Leadership |  |  | 
 | Chess |  |  | 
