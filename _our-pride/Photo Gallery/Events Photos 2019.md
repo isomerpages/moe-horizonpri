@@ -15,9 +15,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|
 | 15 November - Gala Dinner | 14 November - P1 Orientation |
 
-<p><a href="webhere"><img src="/images/2019events3.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157711982021686/"><img src="/images/2019events3.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157711748046418/"><img src="/images/2019events4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/sets/72157711688955292/"><img src="/images/2019events5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -25,9 +25,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 6 November - ECG Bazaar | 5 November - Deepavali Celebration | 31 October - P6 Learning Journey to Kidzania |
 
-<p><a href="webhere"><img src="/images/2019events6.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711344960827/"><img src="/images/2019events6.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711346521773/"><img src="/images/2019events7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711346486773/"><img src="/images/2019events8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -35,9 +35,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 10 October - P1 Viva La Musica | 3 October - JOG Children's Day	| 30 September - P1 Learning Journey to Singapore Zoo |
 
-<p><a href="webhere"><img src="/images/2019events9.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events10.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711157383001/"><img src="/images/2019events9.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711156732106/"><img src="/images/2019events10.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711157870427/"><img src="/images/2019events11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
