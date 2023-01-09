@@ -6,3 +6,7 @@ third_nav_title: Achievements
 ---
 ### **Achievements 2015**
 #### **School Awards**
+#### **Domain: Clubs & Societies**
+#### **Domain: Performing Arts**
+#### **Domain: Sports & Games**
+#### **Domain: Uniform Group**
