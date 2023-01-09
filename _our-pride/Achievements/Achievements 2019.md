@@ -31,8 +31,8 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts |  |  | 
-| Innovation Club |  |  | 
+| Cub Scouts |  Frank Cooper Sands Award 2018<br><br> North Area First Aid Competition 2019 | Gold Award <br><br>1 Gold Award<br>1 Silver Award<br>1 Bronze Award | 
+| Innovation Club | Sony Creative Science Award 2019 | 2 Merit Award | 
 |
 
 #### **Domain: Physical**
