@@ -165,9 +165,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 18 February - Hosting of The Salvation Army Lam Butt Chung Memorial School | 12 - 15 February - Total Defence Day Celebration | 4 February - Chinese New Year Celebration |
 
-<p><a href="webhere"><img src="/images/2019events48.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events49.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events50.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157704843140371/"><img src="/images/2019events48.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157706560045375/"><img src="/images/2019events49.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157706703780104/"><img src="/images/2019events50.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -175,9 +175,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 30 January - CNY Collaborations with Pre-School | 29 January - Safer Internet Day | 28 January - Math Alive 'Thinking Tuesday' |
 
-<p><a href="webhere"><img src="/images/2019events51.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events52.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events53.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157689295797663/"><img src="/images/2019events51.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157675881306407/"><img src="/images/2019events52.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157704600338681/"><img src="/images/2019events53.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -185,9 +185,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 25 January - P1 Bonding and Parent Engagement | 19 January - School Captain's Investiture |  19 January - P4 and P5 Parent Engagement |
 
-<p><a href="webhere"><img src="/images/2019events54.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events55.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events56.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157702736052662/"><img src="/images/2019events54.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157675788778767/"><img src="/images/2019events55.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157677717274258/"><img src="/images/2019events56.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
