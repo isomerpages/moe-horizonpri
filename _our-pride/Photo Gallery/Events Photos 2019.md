@@ -6,8 +6,8 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2019**
 
-<p><a href="webhere"><img src="/images/2019events1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2019events1.jpg" style="width:30%;margin-right:15px;margin-left:65px;" align = "left"></a></p>
+<p><a href="webhere"><img src="/images/2019events2.jpg" style="width:30%;margin-left:135px;" align = "left"></a></p>
 
 <br clear="left">
 
