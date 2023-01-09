@@ -5,4 +5,7 @@ description: ""
 third_nav_title: Achievements
 ---
 ### **Achievements 2021**
-#### Domain
+#### **Domain: Cognitive**
+#### **Domain: Social**
+#### **Domain: Physical**
+#### **Domain: Aesthetics**
