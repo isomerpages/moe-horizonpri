@@ -27,7 +27,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts |  |  | 
+| Cub Scouts |  Frank Cooper Sands<br><br>6th Annual National Cubs Gangshow | Silver<br><br>Team - Gold & Silver Award  | 
 |
 
 #### **Domain: Physical**
