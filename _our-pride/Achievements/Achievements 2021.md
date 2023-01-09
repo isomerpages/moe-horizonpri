@@ -9,7 +9,8 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
+| English Language | Speak Up! Kids 2021 | **Category B: 9-10 Years Old**<br>Champion<br><br>**Category C: 11-12 Years Old**<br>Champion<br>Good Performance Award |
+|
 
 #### **Domain: Social**
 
@@ -27,4 +28,4 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
+|  |  |  |
