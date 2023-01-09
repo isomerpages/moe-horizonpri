@@ -6,6 +6,12 @@ third_nav_title: Achievements
 ---
 ### **Achievements 2018**
 #### **School Awards**
+
+|  |  |
+|:---:|:---:|
+| <br>Singapore Environment Council - StarHub<br>School Green Awards (SGA) 2018 | ![](/images/2019schaward.png) |
+|
+
 #### **Domain: Cognitive**
 
 |  |  |
