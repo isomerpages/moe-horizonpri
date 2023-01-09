@@ -43,7 +43,7 @@ third_nav_title: Achievements
 | Badminton |  SPSSC Badmintion Championships 2019 | Sportsmanship Award  | 
 | Football | SPSSC Football Championships 2019 | Sportsmanship Award | 
 | Rope Skipping |  Singapore National Jump Rope Championship 2019	<br><br> National School Games Rope Skipping Championships 2019	 | **U14 Female Single Rope Team Freestyle**<br>1st Position<br><br>**U10 Female Single Rope Speed 4x30 Speed**<br>2nd Position<br><br>**U10 Female Single Rope Speed 2x30 Double Under**<br>3rd Position<br><br>**U10 Female Single Rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single rope Speed 1x30 Double Dutch**<br>3rd Position<br><br>**U14 Female Single Rope Freestyle**<br>3rd Position<br><br> **Junior Division Boys**<br>Sportsmanship Award<br><br>**Junior Division Girls**<br>Sportsmanship Award<br><br>**Senior Division Boys**<br>Sportsmanship Award<br><br>**Senior Division Girls**<br>Sportsmanship Award | 
-| Swimming  |  |  | 
+| Swimming  |  60th National Primary School Swimming Championships 2019 | **B Division Girls**<br>Sportsmanship Award<br><br>**B Division Boys**<br>Sportsmanship Award<br><br>**D Division Boys**<br>Sportsmanship Award | 
 |
 
 #### **Domain: Aesthetics**
