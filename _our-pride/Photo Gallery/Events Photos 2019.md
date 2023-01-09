@@ -105,9 +105,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 |  1 - 2 - June Speak Up! Kids 2019 Competition | 31 May - Father's Day recess activity | 31 May - 10th Anniversary  Formation |
 
-<p><a href="webhere"><img src="/images/2019events30.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events31.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events32.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709095542468/"><img src="/images/2019events30.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709095202687/"><img src="/images/2019events31.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709371941166/"><img src="/images/2019events32.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -115,9 +115,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 30 May - Parent Teacher Meeting | 27 May - Science Discovery Day | 24 May - P4 School Captains<br> Visit to Bright Hill<br> Evergreen Home |
 
-<p><a href="webhere"><img src="/images/2019events33.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events34.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events35.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157708916287943/"><img src="/images/2019events33.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157708915970156/"><img src="/images/2019events34.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709352624641/"><img src="/images/2019events35.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -125,9 +125,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 23 May - P2 Viva La Musica | 22 May - Cyber Wellness | 19 May - SBS Transit<br> Kindness Month (Session 2) |
 
-<p><a href="webhere"><img src="/images/2019events36.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events37.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events38.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157708915851887/"><img src="/images/2019events36.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157708421579885/"><img src="/images/2019events37.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157678239071197/"><img src="/images/2019events38.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
