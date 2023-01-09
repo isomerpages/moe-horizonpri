@@ -9,10 +9,10 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Chinese | Text Recital Competition for Primary and Secondary Schools 2020<br><br>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition 2020<br><br> The 6th Chinese Moo-O Awards 2020 | **Final Round**<br>**Upper Primary (Group)**<br>1 Gold<br><br>**Preliminary Round**<br>**Lower Primary (Individual)**<br>2 Silver<br><br>**Upper Primary (Individual)**<br>1 Bronze<br><br>**Lower Primary (Group)**<br>1 Silver<br>1 Bronze<br><br>**Upper Primary (Group)**<br>1 Gold<br>3 Silver<br><br>**Upper Primary (Individual)**<br>5 Merit<br><br>3 Silver  |
-| Tamil | Pongal Colouring Competition 2020 | **Lower Primary (Individual)**<br>2 Merit |
-| Mathematics | Annual Mathlympics 2020 | 2 Gold<br>1 Silver<br>3 Bronze |
-| InfoComm | RippleUX Competition:<br>Singapore National Coding & Robotics 2020 Competition<br>Theme: Socially Responsible Society | **Upper Primary (Group)**<br>2nd Position |
+| <br><br><br><br><br><br><br><br><br><br><br><br><br>Chinese | <br><br><br><br><br><br><br><br>Text Recital Competition for Primary and Secondary Schools 2020<br><br><br><br><br><br><br><br><br><br><br><br><br>Awe-Inspiring Virtue and Ocean of Wisdom National Calligraphy Competition 2020<br><br><br> The 6th Chinese Moo-O Awards 2020 | **Final Round**<br>**Upper Primary (Group)**<br>1 Gold<br><br>**Preliminary Round**<br>**Lower Primary (Individual)**<br>2 Silver<br><br>**Upper Primary (Individual)**<br>1 Bronze<br><br>**Lower Primary (Group)**<br>1 Silver<br>1 Bronze<br><br>**Upper Primary (Group)**<br>1 Gold<br>3 Silver<br><br><br>**Upper Primary (Individual)**<br>5 Merit<br><br>3 Silver  |
+| <br>Tamil | <br>Pongal Colouring Competition 2020 | **Lower Primary (Individual)**<br>2 Merit |
+| <br>Mathematics | <br>Annual Mathlympics 2020 | 2 Gold<br>1 Silver<br>3 Bronze |
+| <br>InfoComm | RippleUX Competition:<br>Singapore National Coding & Robotics 2020 Competition<br>Theme: Socially Responsible Society | **Upper Primary (Group)**<br>2nd Position |
 |
 
 #### **Domain: Social**
