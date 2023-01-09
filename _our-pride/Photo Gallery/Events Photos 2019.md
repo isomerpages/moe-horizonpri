@@ -45,9 +45,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 27 September - P4 Road Safety Programme | 27 September - P2 Learning Journey to Jurong Bird Park | 25 September - P4 Leader's Trail |
 
-<p><a href="webhere"><img src="/images/2019events12.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events13.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events14.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157711157211707/"><img src="/images/2019events12.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710860576818/"><img src="/images/2019events13.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710719072447/"><img src="/images/2019events14.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -55,9 +55,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 |  24 September - MTL Celebrate Reading | 5 September - Teachers' Day Celebration | 3 September - Cyber Wellness |
 
-<p><a href="webhere"><img src="/images/2019events15.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events16.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events17.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710576266323/"><img src="/images/2019events15.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710576080103/"><img src="/images/2019events16.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710461465967/"><img src="/images/2019events17.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -65,9 +65,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 24 August - MTL Symposium 2019 | 9 August - Punggol North National Day Observance Ceremony 2019 | 8 August - National Day Celebration |
 
-<p><a href="webhere"><img src="/images/2019events18.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events19.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events20.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710461539782/"><img src="/images/2019events18.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710481334622/"><img src="/images/2019events19.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157710042021151/"><img src="/images/2019events20.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
