@@ -18,8 +18,8 @@ third_nav_title: Achievements
 |:---:|:---:|:---:|
 | English | National Public Speaking Competition 2019 | Champion | 
 | <br><br><br><br><br><br><br>Mathematics | <br><br><br>Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br><br><br><br>Singapore Mathematical Olympiad for Primary School (SMOPS)<br><br><br>National Mathematical Olympiad of Singapore (NMOS) 2019 | **Junior Category**<br>1 High Distinction<br>4 Distinction<br><br>**Open Category**<br>2 Distinction<br><br><br>Gold<br>Bronze<br><br>Honourable Mention<br>2 Silver<br>5 Bronze | 
-| Science |  |  | 
-| Chinese |  |  | 
+| Science | Singapore Science Olympiad 2019 | Silver | 
+| Chinese | The 2nd Primary and Secondary Text Recital Competition<br><br> Singapore Chinese Moo-O Awards 2019 | **Lower Primary (Individual)**<br>Silver<br>Bronze<br><br>**Lower Primary (Group)**<br>Silver<br>Bronze<br><br>**Upper Primary (Individual)**<br>2 Bronze<br><br>Merit Award | 
 | Malay |  |  | 
 | Tamil |  |  | 
 | Student Leadership |  |  | 
