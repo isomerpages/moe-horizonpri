@@ -8,9 +8,9 @@ third_nav_title: Achievements
 #### **School Awards**
 #### **Domain: Cognitive**
 
-| Group | Competition | Achievement |
-|:---:|:---:|:---:|
-|  |  |  | 
+|  |  |
+|:---:|:---:|
+|  |  |
 
 #### **Domain: Social**
 
@@ -28,4 +28,4 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
+|  |  |  |
