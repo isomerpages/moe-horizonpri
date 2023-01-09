@@ -25,7 +25,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 03 Nov - Horizon Family Day | 01 Nov - Deepavali Celebration | 01 Nov - ECG Bazaar | 05 Oct - Junior Olympic Games |
 
 <p><a href="webhere"><img src="/images/2017events8.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events9.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -36,7 +36,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 19 to 21 Sept - Cyber Wellness Fair | 27 Sept - P2 Viva La Musica | 30 Aug - Teachers' Day Celebration | 04 to 07 Jul - P5 Trip for International Experience to Sarawak, Malaysia |
 
 <p><a href="webhere"><img src="/images/2017events12.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events13.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -47,7 +47,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 22 to 26 May - P5 Trip for International Experience to Hong Kong | 12 Jul -Hosting of Xiamen Experimental School | 08 Aug - National Day Celebration & ACES | 26 Jul - MTL Celebrate Reading! |
 
 <p><a href="webhere"><img src="/images/2017events16.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events17.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -58,7 +58,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 19 Jul - Racial Harmony Day | 12 July - Hari Raya Aidilfitri Celebration | 30 Jun - School Tour | 23 May - P1 Viva La Musica |
 
 <p><a href="webhere"><img src="/images/2017events20.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events21.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -69,7 +69,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 05 Apr - International Friendship Day | 02 to 04 Mar - P4 Camp | 20 and 21 Feb - Math Lab on Wheels | 14 and 15 Feb - Total Defence Day |
 
 <p><a href="webhere"><img src="/images/2017events24.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events25.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -80,7 +80,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 27 Jan - Chinese New Year Celebration | 09 Feb - P5 Parents Workshop | 08 Feb - SCS Show | 08 Feb - Anti-Smoking Show |
 
 <p><a href="webhere"><img src="/images/2017events28.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events29.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
@@ -91,4 +91,4 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-|  |  |  |  |
+| 18 Jan - School Captains Investiture | 19 Jan - P3 Parents Workshop | Quick Bites | 03 Jan - Back to School |
