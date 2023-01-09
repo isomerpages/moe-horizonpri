@@ -16,37 +16,37 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| English |  |  | 
+| Mathematics |  |  | 
+| Science |  |  | 
+| Malay Language |  |  | 
+| Chess |  |  | 
 |
 
 #### **Domain: Social & Moral**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
+| Cub Scouts |  |  | 
 |
 
 #### **Domain: Physical**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| Wushu |  |  | 
+| Rope Skipping |  |  |
+| Golf |  |  | 
+| Bowling |  |  | 
+| Taekwondo |  |  | 
+| Swimming |  |  | 
 |
 
 #### **Domain: Aesthetics**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-|  |  |  |
-|  |  |  | 
-|  |  |  | 
+| Dance |  |  |
+| Music |  |  | 
+| Art |  |  | 
 |
