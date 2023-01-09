@@ -73,7 +73,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 5 August - Leader's Trail | 29 July - P4 Museum-based Learning Journey to National Gallery Singapore | 23 July - Racial Harmony Day |
+| 5 August - Leader's Trail | 29 July - P4 Museum-based<br> Learning Journey to<br> National Gallery Singapore | 23 July - Racial Harmony Day |
 
 <p><a href="webhere"><img src="/images/2019events21.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2019events22.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -82,8 +82,8 @@ third_nav_title: Photo Gallery
 <br clear="left">
 
 |  |  |  |
-|:---:|:---:|:---:|
-| 20 July - NE Show | 12 July - Hosting of Xiamen visit | 12 July - Computational Thinking Workshop for Parents |
+|---:|---:|:---:|
+| 20 July - NE Show | 12 July - Hosting of Xiamen visit | 12 July - <br>Computational Thinking<br> Workshop for Parents |
 
 <p><a href="webhere"><img src="/images/2019events24.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2019events25.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
