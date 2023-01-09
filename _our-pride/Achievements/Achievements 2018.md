@@ -17,11 +17,11 @@ third_nav_title: Achievements
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 | Mathematics |  |  | 
-| Chess |  |  | 
+| Chess | 70th National Schools Individual Chess Championships 2018 | Junior Boys - Merit | 
 | Robotics |  |  | 
 | Infocomm |  |  | 
 | Tamil |  |  | 
-| Chinese |  |  | 
+| Chinese | 1st Singapore Primary and Secondary School Text Recital Competition | Bronze | 
 |
 
 #### **Domain: Social**
