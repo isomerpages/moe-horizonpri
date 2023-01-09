@@ -16,10 +16,10 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 16 Nov - P1 Orientation | 15 Nov - Star Awards | 14 Nov - Leadership Day |
 
-<p><a href="webhere"><img src="/images/2017events4.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2017events5.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2017events6.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2017events7.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157690655756826"><img src="/images/2017events4.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157688545850681"><img src="/images/2017events5.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157689315949104"><img src="/images/2017events6.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157688206074863"><img src="/images/2017events7.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
