@@ -24,7 +24,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts | 7th National Cub Scout Mind Quiz | 2 Gold<br>10 Silver<br>17 Bronze |
+| <br>Cub Scouts | <br>7th National Cub Scout Mind Quiz | 2 Gold<br>10 Silver<br>17 Bronze |
 | Cub Scouts | The National Cub Scout Gang Show 2021 | Gold Award | 
 | Innovations Club & Eco Club | North East G!nnovation Challenge 2021 | 2nd Runner-Up | 
 |
