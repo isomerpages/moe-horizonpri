@@ -6,9 +6,9 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2017**
 
-<p><a href="webhere"><img src="/images/2017events1.jpg" style="width:22%;margin-right:15px;margin-left:45px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2017events2.jpg" style="width:22%;margin-left:65px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2017events3.jpg" style="width:22%;margin-left:95px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157666851670219"><img src="/images/2017events1.jpg" style="width:22%;margin-right:15px;margin-left:45px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157663627526958"><img src="/images/2017events2.jpg" style="width:22%;margin-left:65px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157666849024139"><img src="/images/2017events3.jpg" style="width:22%;margin-left:95px;" align = "left"></a></p>
 
 <br clear="left">
 
