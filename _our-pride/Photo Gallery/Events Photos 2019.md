@@ -113,7 +113,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 30 May - Parent Teacher Meeting | 27 May - Science Discovery Day | 24 May - P4 School Captains Visit to Bright Hill Evergreen Home |
+| 30 May - Parent Teacher Meeting | 27 May - Science Discovery Day | 24 May - P4 School Captains<br> Visit to Bright Hill<br> Evergreen Home |
 
 <p><a href="webhere"><img src="/images/2019events33.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2019events34.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
@@ -123,7 +123,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 23 May - P2 Viva La Musica | 22 May - Cyber Wellness | 19 May - SBS Transit Kindness Month (Session 2) |
+| 23 May - P2 Viva La Musica | 22 May - Cyber Wellness | 19 May - SBS Transit<br> Kindness Month (Session 2) |
 
 <p><a href="webhere"><img src="/images/2019events36.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2019events37.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
