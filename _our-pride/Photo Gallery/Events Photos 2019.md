@@ -75,9 +75,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 5 August - Leader's Trail | 29 July - P4 Museum-based<br> Learning Journey to<br> National Gallery Singapore | 23 July - Racial Harmony Day |
 
-<p><a href="webhere"><img src="/images/2019events21.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events22.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events23.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157709881621716/"><img src="/images/2019events21.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157709957918787/"><img src="/images/2019events22.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157709957918787/"><img src="/images/2019events23.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -85,9 +85,9 @@ third_nav_title: Photo Gallery
 |---:|---:|:---:|
 | 20 July - NE Show | 12 July - Hosting of Xiamen visit | 12 July - <br>Computational Thinking<br> Workshop for Parents |
 
-<p><a href="webhere"><img src="/images/2019events24.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events25.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events26.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709572236632/"><img src="/images/2019events24.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/182836000@N04/sets/72157709880584507/"><img src="/images/2019events25.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709569095776/"><img src="/images/2019events26.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -95,9 +95,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 9 July - P1 Sandwich Making | 5 July - Horizon Family Day |  2 July - Hari Raya Celebration |
 
-<p><a href="webhere"><img src="/images/2019events27.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events28.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events29.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709352697247/"><img src="/images/2019events27.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709095571842/"><img src="/images/2019events28.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157709095688131/"><img src="/images/2019events29.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
