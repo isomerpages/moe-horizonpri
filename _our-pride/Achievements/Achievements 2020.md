@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Achievements
 ---
 ### **Achievements 2020**
-#### **School Awards**
 #### **Domain: Cognitive**
 #### **Domain: Social**
 #### **Domain: Physical**
