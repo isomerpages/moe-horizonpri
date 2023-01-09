@@ -135,9 +135,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 10 May - Mother's Day Appreciation | 8 May - SBS Transit Kindness Month | 30 April - P1 Ice-Cream Party |
 
-<p><a href="webhere"><img src="/images/2019events39.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events40.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events41.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157678235447887/"><img src="/images/2019events39.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157680162249458/"><img src="/images/2019events40.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157707904373565/"><img src="/images/2019events41.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -145,9 +145,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 30 April - Captains Investiture | 16 - 18 April Primary 4 Camp | 12 April - International Friendship Day |
 
-<p><a href="webhere"><img src="/images/2019events42.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events43.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events44.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/170795959@N03/sets/72157708063560764/"><img src="/images/2019events42.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157707865256174/"><img src="/images/2019events43.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157707347854095/"><img src="/images/2019events44.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -155,9 +155,9 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | 25 March - 8 April - Mother Tongue Fortnight | 11 - 15 March - Trip for International Experience to Xiamen, China | 4 - 8 March - Trip for International Experience to Hong Kong |
 
-<p><a href="webhere"><img src="/images/2019events45.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events46.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="webhere"><img src="/images/2019events47.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157679049568318/"><img src="/images/2019events45.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157706954625074/"><img src="/images/2019events46.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/155669493@N05/sets/72157703236232872/"><img src="/images/2019events47.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
