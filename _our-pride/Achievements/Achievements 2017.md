@@ -34,7 +34,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Wushu |  |  | 
+| Wushu | NSG National Wushu Championships 2017 | **Junior Girls**<br>5-Duan Nan Quan – 1st position<br>Nan Gun – 2nd position<br><br>**Junior Boys**<br>5-Duan Nan Quan – 5th position | 
 | Rope Skipping |  |  |
 | Golf |  |  | 
 | Bowling |  |  | 
