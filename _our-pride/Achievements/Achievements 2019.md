@@ -21,10 +21,10 @@ third_nav_title: Achievements
 | Science | Singapore Science Olympiad 2019 | Silver | 
 | <br><br><br><br><br><br><br><br>Chinese | <br><br><br><br><br>The 2nd Primary and Secondary Text Recital Competition<br><br><br><br><br><br><br><br><br><br> Singapore Chinese Moo-O Awards 2019 | **Lower Primary (Individual)**<br>Silver<br>Bronze<br><br>**Lower Primary (Group)**<br>Silver<br>Bronze<br><br>**Upper Primary (Individual)**<br>2 Bronze<br><br><br><br>Merit Award | 
 | Malay | Ops Baca 2019<br><br>National Malay Writing Competition 2019 | **Primary 2 - Skit based on traditional folklore**<br>1st Position<br><br>**Primary 3 - Book Promotion**<br>3rd Position<br><br>**Primary 4 - Alternate Ending**<br>2nd Position<br><br>**Primary 5 - Classic Malay Character in Modern Setting**<br>2nd Position | 
-| Tamil |  |  | 
-| Student Leadership |  |  | 
-| Chess |  |  | 
-| InfoComm Club |  |  | 
+| Tamil | National Tamil Spelling-bee Competition | Certificate of Commendation | 
+| Student Leadership |  Speak Up! Kids Competition 2019 | 3rd  Position  | 
+| Chess |  71st National Schools Individual Chess Championships 2019 | **Senior Division Boys**<br>Merit | 
+| InfoComm Club |  National Primary Game Creation and Coding Competition (NPGC3) 2019 |  Best Booth Award<br><br>**Open Category**<br>2nd in Best Game | 
 |
 
 #### **Domain: Social**
