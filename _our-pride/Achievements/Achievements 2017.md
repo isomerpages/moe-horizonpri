@@ -16,9 +16,9 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| English |  |  | 
-| Mathematics |  |  | 
-| Science |  |  | 
+| English | National Story Challenge 2017	 | Champion | 
+| Mathematics | 5th Interschool Sudoku Mania 2017	<br><br>Singapore Mathematical Olympiad for Primary Schools 2017<br><br>Raffles Institution Primary Mathematics World Contest 2017<br><br>Asia Pacific Mathematical Olympiad for Primary School (APMOPS) 2017 | Top 10<br><br>Platinum Award<br>Silver Award<br>Bronze Award<br><br>High Distinction<br>Distinction<br><br>Individual - Top 10 | 
+| Science | Science Buskers Festival 2017 | Team - Top 10 | 
 | Malay Language |  |  | 
 | Chess |  |  | 
 |
