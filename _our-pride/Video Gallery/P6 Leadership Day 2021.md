@@ -30,7 +30,7 @@ third_nav_title: Video Gallery
 <iframe width="560" height="315" src="https://www.youtube.com/embed/td1V9wSVeLg" title="7  Making of Leadership Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **LEADERSHIP DAY ALUMNI SHARING**<br>
-[8. Leadership Day Alumni Sharing.pdf]()
+[8. Leadership Day Alumni Sharing.pdf](/files/Leadership%20Day%20Alumni%20Sharing%20on%2016%20Nov%202021.pdf)
 
 #### **Receiving of Scroll**
 
