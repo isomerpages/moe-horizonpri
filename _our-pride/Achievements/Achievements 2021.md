@@ -24,23 +24,23 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts |  |  | 
-| Cub Scouts |  |  | 
-| Innovations Club & Eco Club |  |  | 
+| Cub Scouts | 7th National Cub Scout Mind Quiz | 2 Gold<br>10 Silver<br>17 Bronze |
+| Cub Scouts | The National Cub Scout Gang Show 2021 | Gold Award | 
+| Innovations Club & Eco Club | North East G!nnovation Challenge 2021 | 2nd Runner-Up | 
 |
 
 #### **Domain: Physical**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Rope Skipping |  |  | 
-| Taekwondo |  |  | 
+| Rope Skipping | National School Games Rope Skipping 2021 | 2nd Position, Pair Creative Senior Girls<br><br>3rd Position, Mixed Double Dutch | 
+| Taekwondo | National School Games Taekwondo 2021 | 1st Position, Individual Girls Red 2<br><br>1st Runner-up, Individual Boys Poom 2 | 
 |
 
 #### **Domain: Aesthetics**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Tap Dance |  |  |
-| Art |  |  | 
+| Tap Dance | Chinese Street Dance Competition 2021 | 2nd Place |
+| Art | Singapore Youth Festival 2021 (Art) | **Category A**<br>Certificate of Recognition | 
 |
