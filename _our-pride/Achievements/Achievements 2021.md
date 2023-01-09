@@ -10,7 +10,15 @@ third_nav_title: Achievements
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
 | <br><br>English Language | <br><br>Speak Up! Kids 2021 | **Category B: 9-10 Years Old**<br>Champion<br><br>**Category C: 11-12 Years Old**<br>Champion<br>Good Performance Award |
-|
+| Chinese Language |  |  | 
+| Science |  |  | 
+| Robotics |  |  | 
+| InfoComm |  |  | 
+| InfoComm & Robotics |  |  | 
+| Malay Language |  |  | 
+| Tamil Language |  |  | 
+| Mathematics
+||  |  | 
 
 #### **Domain: Social**
 
