@@ -16,7 +16,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Mathematics |  |  | 
+| Mathematics | 6th Interschool Sudoku Mania 2018<br> Raffles Institution Primary Mathematics World Contest (RIPMWC)<br>12th Inter School Challenge by Broadrick Secondary School<br>National Mathematical Olympiad Singapore (NUS High School of Maths and Science)<br>Singapore - Asia Pacific Mathematical Olympiad for Primary Schools <br> CMA Mental Arithmetic Centre<br> Annual Mathlympics by ACS (Independent) | Champion<br><br>**Junior Category**<br>High Distinction<br>Distinction<br><br>Runners-up<br><br>**Individual**<br>1 Gold Award<br>2 Silver Awards<br>2 Bronze Awards<br><br>**Individual**<br>Bronze<br><br>**Level 2 Abacus**<br>2nd position<br><br>**Level 2 Mental Arithmetic**<br>2nd position<br><br>**Individual**<br>1 Gold Award<br>2 Bronze Awards | 
 | Chess | 70th National Schools Individual Chess Championships 2018 | Junior Boys - Merit | 
 | Robotics |  |  | 
 | Infocomm |  |  | 
