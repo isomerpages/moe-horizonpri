@@ -36,7 +36,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| 19 to 21 Sept - Cyber Wellness Fair | 27 Sept - P2 Viva La Musica | 30 Aug - Teachers' Day Celebration | 04 to 07 Jul - P5 Trip for International Experience to Sarawak, Malaysia |
+| 19 to 21 Sept - Cyber Wellness Fair | 27 Sept - P2 Viva La Musica | 30 Aug - Teachers' Day Celebration | 04 to 07 Jul -<br> P5 Trip for International<br> Experience to Sarawak, Malaysia |
 
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157688089402825"><img src="/images/2017events12.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/151482373@N02/albums/72157687971127915"><img src="/images/2017events13.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
