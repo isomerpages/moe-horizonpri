@@ -16,8 +16,8 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| English |  |  | 
-| Mathematics |  |  | 
+| English | National Public Speaking Competition 2019 | Champion | 
+| <br><br><br><br><br><br><br>Mathematics | <br><br><br>Raffles Institution's Primary Mathematics World Contest (RIPMWC)<br><br><br><br>Singapore Mathematical Olympiad for Primary School (SMOPS)<br><br><br>National Mathematical Olympiad of Singapore (NMOS) 2019 | **Junior Category**<br>1 High Distinction<br>4 Distinction<br><br>**Open Category**<br>2 Distinction<br><br><br>Gold<br>Bronze<br><br>Honourable Mention<br>2 Silver<br>5 Bronze | 
 | Science |  |  | 
 | Chinese |  |  | 
 | Malay |  |  | 
