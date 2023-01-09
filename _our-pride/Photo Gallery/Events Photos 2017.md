@@ -14,7 +14,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| 16 Nov - P1 Orientation | 15 Nov - Star Awards | 14 Nov - Leadership Day |
 
 <p><a href="webhere"><img src="/images/2017events4.jpg" style="width:22%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="webhere"><img src="/images/2017events5.jpg" style="width:22%;margin-right:15px;" align = "left"></a></p>
