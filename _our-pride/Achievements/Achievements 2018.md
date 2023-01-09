@@ -28,17 +28,17 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Cub Scouts |  |  | 
+| Cub Scouts | Frank Cooper Sands<br><br>National Gangshow 2018 | Gold<br><br>Team - Gold & Silver award | 
 |
 
 #### **Domain: Physical**
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Badminton |  |  | 
-| Football |  |  | 
-| Wushu |  |  | 
-| Rope Skipping |  |  | 
+| <br>Badminton | North Zone Badminton Championship 2018<br><br>National School Games Badminton Championships 2018 | Individual - Sportsmanship<br><br>Individual - Sportsmanship | 
+| Football |  National School Games Football Championships 2018 | Sportsmanship | 
+| <br><br><br>Wushu | 14th National Wushu Primary Schools Championships 2018 | **Senior Boys**<br>5-Duan Changquan - 3rd position<br><br>**Senior Girls**<br>Nangun (Southern Cudgel) - 4th position<br>5-Duan Nanquan (Southern Fist) - 4th position | 
+| <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Rope Skipping |  <br><br><br><br><br><br><br>SPSSC North Zone Primary Schools Rope Skipping Championships 2018<br><br><br><br><br><br><br><br> SPSSC National Primary Schools Rope Skipping Championships 2018<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Singapore National Jump Rope Championships 2018 | **Junior Girls**<br>Team Creative - 2nd position <br><br>**Senior Girls**<br>Overall Division - 3rd position<br><br>Individual Double Under - 3rd position<br>Individual Double Under - 4th position<br><br>Pair Creative - 2nd position<br><br>Team Creative - 2nd position<br>Team Speed Relay Event - 4th position<br>Team Double Dutch - 2nd position<br><br><br>**Junior Girls**<br>Team Creative - 4th position <br><br><br>**Novice Female Division Individual Speed 1x30 12 & Under**<br>Alternate Legs Jump - 2nd position<br>Alternate Legs Jump - 3rd position<br><br>Double Unders - 2nd position<br><br>**Novice Female Division Individual Speed 1x180 12 & Under**<br>Alternate Legs Jump - 2nd position<br><br>**Novice Female Division Individual Speed 2x30 12 & Under**<br>Double Unders - 1st position<br>Double Unders - 2nd position<br>Double Unders - 3rd position<br><br>**Novice Female Division Double Dutch Speed 1x30 12 & Under**<br>Double Dutch Speed - 1st position<br>Double Dutch Speed - 2nd position<br>Double Dutch Speed 3rd position<br><br>**Novice Female Division Double Dutch Speed 1x30 13-14**<br>Double Dutch Speed - 3rd position<br><br>**Senior Female Division Speed 4x30 17 & Older**<br>Alternate Legs Jump - 2nd position<br><br>**Novice Female Division Single Rope Freestyle 12 & Under**<br>2nd position<br>3rd position | 
 | Swimming |  |  | 
 | Tenpin Bowling |  |  | 
 | Taekwondo |  |  | 
