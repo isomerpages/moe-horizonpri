@@ -51,5 +51,5 @@ third_nav_title: Achievements
 | Guitar | Singapore Youth Festival 2018<br>(Instrumental Ensemble) | Certificate of Commendation  |
 | International Dance |  Singapore Youth Festival 2018<br>Chinese Dance | Certificate of Accomplishment  | 
 | Tap Dance | Singapore Youth Festival 2018<br>(International Dance) | Certificate of Accomplishment  | 
-| Art | Singapore Philatelic Museum<br>Draw My Stamp Story Art Competition<br><br>YellowRen Canvas Art Competition  | **Primary School Category (Individual)**<br>3 Bronze awards<br><br>Honourable Mention Trophy | 
+| <br>Art | Singapore Philatelic Museum<br>Draw My Stamp Story Art Competition<br><br>YellowRen Canvas Art Competition  | **Primary School Category (Individual)**<br>3 Bronze awards<br><br>Honourable Mention Trophy | 
 |
