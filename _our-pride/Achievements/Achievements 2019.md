@@ -50,7 +50,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| Tap Dance |  |  |
-| Art |  |  | 
-| Social |  |  | 
+| Tap Dance |  Chinese Street Dance Competition | Best Team Spirit Award |
+| Art |  SYF  Art Exhibition | **Category A**<br>Certificate of Recognition | 
+| Social |  Punggol Digital District Hoarding Design Competition - Primary School Category | 1st Position | 
 |
