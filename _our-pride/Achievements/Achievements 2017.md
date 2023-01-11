@@ -9,7 +9,7 @@ third_nav_title: Achievements
 
 |  |  |
 |:---:|:---:|
-| <br>School Green Awards - <br>Lotus Sustained Achievement Award | ![](/images/2019schaward.png) |
+| <br>School Green Awards - <br>Lotus Sustained Achievement Award | ![](/images/2017schaward.jpg) |
 |
 
 #### **Domain: Cognitive**
