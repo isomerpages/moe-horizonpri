@@ -66,6 +66,6 @@ The MK uniform costs $15 per set. You can purchase individual pieces at $7 for p
 | **Supplier** | Jeep Sing Fashion |
 | **Telephone** | 6456 3198 |
 | **Retail Store Address** | 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628 |
-| **Operating Hours** | Mondays – Fridays: 10am – 6pm<br>_\*Lunch break hour is from 1pm to 2pm (Monday to Friday)\*_<br><br>Saturdays: 10am – 2pm<br>_\*\*Closed on Sundays and Public Holidays\*\*_|
+| <br><br>**Operating Hours** | Mondays – Fridays: 10am – 6pm<br>_\*Lunch break hour is from 1pm to 2pm (Monday to Friday)\*_<br><br>Saturdays: 10am – 2pm<br>_\*\*Closed on Sundays and Public Holidays\*\*_|
 | **e-Store** | Purchase MK uniforms at [www.jeepsinguniform.com](www.jeepsinguniform.com) | 
 |
