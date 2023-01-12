@@ -38,7 +38,7 @@ sections:
       subtitle: horizon primary school
       description: P1 Booklist, Uniform 2023, P1-P6 Booklist, Canteen Menus 2022
       button: click here
-      url: https://staging.d21co4ykjghpsi.amplifyapp.com/our-partners/schools-service-providers/p1-booklist-and-uniform-2023/
+      url: /our-partners/schools-service-providers/p1-booklist-and-uniform-2023/
   - infobar:
       title: Parent Support Group (PSG)
       subtitle: horizon primary school
