@@ -10,4 +10,6 @@ third_nav_title: Photo Gallery
 <img style="width:30%" src="/images/moe2019eventa.jpg">
 </a></p>
 
-<center>18 November - MK Orientation</center>
+| |
+|:---:|
+| 18 November - MK Orientation |
