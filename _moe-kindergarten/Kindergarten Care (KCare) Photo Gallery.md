@@ -10,7 +10,7 @@ description: ""
 
 <p><a href="https://www.flickr.com/photos/185096871@N05/albums/72157714379716938"><img src="/images/kcareevent2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="https://www.flickr.com/photos/185096871@N05/albums/72157714378641586"><img src="/images/kcareevent3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/190713911@N04/sets/72157716551853526/"><img src="/images/kcareevent3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
