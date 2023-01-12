@@ -44,5 +44,5 @@ sections:
       subtitle: horizon primary school
       description: Find out more about PSG at Horizon Primary here!
       button: Click here
-      url: https://staging.d21co4ykjghpsi.amplifyapp.com/our-partners/parents/psg/about-pc/
+      url: /our-partners/parents/psg/about-pc/
 ---
