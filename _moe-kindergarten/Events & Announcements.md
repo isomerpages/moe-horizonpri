@@ -54,3 +54,18 @@ The 2021 MOE Kindergarten (MK) Open House will be conducted online via Zoom on 
 <img src="/images/eventandannouncement3.jpg" style="width:75%">
 
 #### **Sale of MK Uniform**
+**Sale of MK Uniform by Jeep Sing Fashion**<br>
+Dear Parent/ Guardian,
+
+With effect from 1 January 2020, you can purchase MK uniforms directly from our new supplier, **Jeep Sing Fashion**.
+
+The MK uniform costs $15 per set. You can purchase individual pieces at $7 for polo T-shirt and $8 for Khaki shorts or skorts.
+
+|  |  |
+|:---:|:---:|
+| **Supplier** | Jeep Sing Fashion |
+| **Telephone** | 6456 3198 |
+| **Retail Store Address** | 4012 Ang Mo Kio Ave 10, #01-09 Techplace 1, Singapore 569628 |
+| **Operating Hours** | Mondays – Fridays: 10am – 6pm<br>_\*Lunch break hour is from 1pm to 2pm (Monday to Friday)\*_<br><br>Saturdays: 10am – 2pm<br>_\*\*Closed on Sundays and Public Holidays\*\*_|
+| **e-Store** | Purchase MK uniforms at [www.jeepsinguniform.com](www.jeepsinguniform.com) | 
+|
