@@ -13,6 +13,7 @@ third_nav_title: Photo Gallery
 
 |  |  |
 |:---:|:---:|
+| 9 October - MK Children's Day | 3 September - MK Teacher's Day |
 
 <p><a href="web"><img src="/images/moe2020event3.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
@@ -24,4 +25,4 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| 7 August - MK National Day Celebration | 24 January - MK CNY Celebration | 2 January - First Day of School |
