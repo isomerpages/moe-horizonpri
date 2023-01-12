@@ -53,3 +53,9 @@ third_nav_title: Photo Gallery
 |  |  |  |
 |:---:|:---:|:---:|
 |  |  |  |
+
+<p><a href="web"><img src="/images/moe2022event1.jpg" style="width:30%;"></a></p>
+
+|  |
+|:---|
+|  |
