@@ -6,12 +6,11 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2019**
 
-<p><a href="web"><img src="/images/moe2019event.jpg" style="width:30%;margin-right:15px;margin-left:105px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/185096871@N05/albums/72157712138954251">
+<img style="width:30%" src="/images/moe2019eventa.jpg">
+</a></p>
 
-<p><a href="web"><img src="/images/moe2019event.jpg" style="width:30%;margin-left:135px;" align = "left"></a></p>
 
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-|  |  |
+|  |
+|:---:|
+| 18 November - MK Orientation |
