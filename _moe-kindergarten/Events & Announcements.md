@@ -69,3 +69,18 @@ The MK uniform costs $15 per set. You can purchase individual pieces at $7 for p
 | <br><br>**Operating Hours** | Mondays – Fridays: 10am – 6pm<br>_\*Lunch break hour is from 1pm to 2pm (Monday to Friday)\*_<br><br>Saturdays: 10am – 2pm<br>_\*\*Closed on Sundays and Public Holidays\*\*_|
 | **e-Store** | Purchase MK uniforms at [www.jeepsinguniform.com](www.jeepsinguniform.com) | 
 |
+
+##### **Directions**
+
+| By Bus |  |
+|:---:|:---:|
+| Bus Stop along AMK Ave 1 (before/after AMK Ave 10) | 22, 24, 45, 53, 58, 133, 135,136,156, 159 |
+| Bus Stop along AMK Ave 10 (Townsville Primary/opposite Townsville Primary) | 45, 55, 261 |
+|
+
+| By MRT: | |
+|:---:|:---:|
+| **Ang Mo Kio MRT** (NS16) | **Switch to Bus 261** (from bus interchange) |
+| **Bishan MRT** (NS16/CC15) | **Switch to Bus 55** (opp Junction 8) |
+| **Serangoon MRT** (NE12/CC13) | **Switch to Bus 45** (Mrt Exit A or opp Exit F) |
+|
