@@ -31,3 +31,17 @@ Click **[here](/files/orientation2.pdf)** to view the MK@HR K1 Briefing 2021 p
 Click **[here](/files/orientation3.pdf)** to view MK KCare K1 Orientation 2021 presentation slides.  
   
 Watch how a day is like at MK@Horizon.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G7Xbf18aDpU" title="A Day at MK at Horizon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### **2021 MOE Kindergarten Virtual Open House**
+
+The 2021 MOE Kindergarten (MK) Open House was conducted online via Zoom on 30 Jan 2021.
+
+We have included what was shared on that day here. 
+
+Click **[here](/files/orientation4.pdf)** to view the MK@HR Open House 2021 presentation slides.
+
+How does our MK@Horizon and KC@Horizon learning environment look like? Watch the videos below to find out more!
+
+
