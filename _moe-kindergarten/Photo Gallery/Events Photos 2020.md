@@ -6,8 +6,8 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2020**
 
-<p><a href="web"><img src="/images/moe2020event1.jpg" style="width:30%;margin-right:5px;margin-left:145px;" align = "left"></a></p>
-<p><a href="web"><img src="/images/moe2020event2.jpg" style="width:30%;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/190713911@N04/sets/72157716555700117/"><img src="/images/moe2020event1.jpg" style="width:30%;margin-right:5px;margin-left:145px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/190713911@N04/sets/72157716551790871/"><img src="/images/moe2020event2.jpg" style="width:30%;margin-left:15px;" align = "left"></a></p>
 
 <br clear="left">
 
