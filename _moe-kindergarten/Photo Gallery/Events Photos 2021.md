@@ -9,8 +9,8 @@ third_nav_title: Photo Gallery
 <p><a href="web"><img src="/images/moe2021event.jpg" style="width:30%;"></a></p>
 
 |  |
-|:---|
-|  |
+|:---:|
+| K2-Pri Engagement |
 
 <p><a href="web"><img src="/images/moe2021event.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
@@ -22,7 +22,7 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-|  |  |  |
+| In-House Fieldtrip | Cultural Activities through MTL | Teacher's Day Celebration |
 
 <p><a href="web"><img src="/images/moe2021event.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
