@@ -17,3 +17,10 @@ description: ""
 |  |  |  |
 |:---:|:---:|:---:|
 | KCare - Term 3 | KCare - School Term 1 and 2 | KCare - Children's Day |
+
+
+<p><a href="https://www.flickr.com/photos/185096871@N05/albums/72157714378641586"><img src="/images/kcareevent4.jpg" style="width:30%;" align = ></a></p>
+
+|  |
+|:---:|
+| KCare - March Holiday | 	
