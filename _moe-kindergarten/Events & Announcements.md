@@ -44,4 +44,13 @@ Click **[here](/files/orientation4.pdf)** to view the MK@HR Open House 2021 pres
 
 How does our MK@Horizon and KC@Horizon learning environment look like? Watch the videos below to find out more!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ld6XYgTIfn0" title="MK@Horizon Learning Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ceAdi-oJFI" title="KCare@Horizon Learning Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### **Registration - 2021 MOE Kindergarten Virtual Open House**
+The 2021 MOE Kindergarten (MK) Open House will be conducted online via Zoom on **30 Jan 2021**. Find out more about the Virtual Open House and how you can sign up by visiting [MOE’s MK website](https://beta.moe.gov.sg/preschool/moe-kindergarten/mkvirtualopenhouse2021/). Register your interest before 28 Jan 2021. We look forward to seeing you!
+
+<img src="/images/eventandannouncement3.jpg" style="width:75%">
+
+#### **Sale of MK Uniform**
