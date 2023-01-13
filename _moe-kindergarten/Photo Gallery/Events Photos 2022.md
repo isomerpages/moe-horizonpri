@@ -18,11 +18,11 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | January - Back to School | January - Total Defence Day | February - Chinese New Year Celebration |
 
-<p><a href="web"><img src="/images/moe2022event4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301568459/"><img src="/images/moe2022event4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301555321/"><img src="/images/moe2022event5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301588277/"><img src="/images/moe2022event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
