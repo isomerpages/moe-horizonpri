@@ -29,11 +29,11 @@ description: ""
 * [Touch Science](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/touch-science/)
 
 #### **Moral**
-* [Ever-ready to Reduce, Reuse, Recycle (ER3)]()
-* [I-Design]()
-* [MOE Sexuality Education in Schools]()
-* [Values in Action (VIA)]()
-* [Education and Career Guidance (ECG)]()
+* [Ever-ready to Reduce, Reuse, Recycle (ER3)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/er3/)
+* [I-Design](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/idesign/)
+* [MOE Sexuality Education in Schools](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/moe-sex-edu/)
+* [Values in Action (VIA)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/via/)
+* [Education and Career Guidance (ECG)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/ecg/)
 
 #### **Physical**
 * [Junior Olympic Games]()
