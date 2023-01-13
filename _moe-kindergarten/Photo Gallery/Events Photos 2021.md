@@ -36,7 +36,7 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | Read for Joy | Let's Pretend | Horizon Family Day |
 
-<p><a href="web"><img src="/images/moe2021event8.jpg" style="width:29%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="http://4-6%20january%20-%20back%20to%20school/"><img src="/images/moe2021event8.jpg" style="width:29%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
 <p><a href="web"><img src="/images/moe2021event9.jpg" style="width:33%;margin-right:15px;" align = "left"></a></p>
 
@@ -46,4 +46,4 @@ third_nav_title: Photo Gallery
 
 |  |  |  |
 |:---:|:---:|:---:|
-| 4-6 January - Back to School | February - CNY Celebration | Week of Wonder |
+| 4-6 January - Back to School<br> **broken link** | February - CNY Celebration | Week of Wonder |
