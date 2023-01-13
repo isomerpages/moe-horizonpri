@@ -38,9 +38,9 @@ third_nav_title: Photo Gallery
 
 <p><a href="http://4-6%20january%20-%20back%20to%20school/"><img src="/images/moe2021event8.jpg" style="width:29%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event9.jpg" style="width:33%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157718513322383/"><img src="/images/moe2021event9.jpg" style="width:33%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event10.jpg" style="width:29%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157719716794373/"><img src="/images/moe2021event10.jpg" style="width:29%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
