@@ -6,17 +6,17 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2021**
 
-<p><a href="web"><img src="/images/moe2021event1.jpg" style="width:30%;"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157720001007149/"><img src="/images/moe2021event1.jpg" style="width:30%;"></a></p>
 
 |  |
 |:---:|
 | K2-Pri Engagement |
 
-<p><a href="web"><img src="/images/moe2021event2.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157720000992559/"><img src="/images/moe2021event2.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157719999225523/"><img src="/images/moe2021event3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191233549@N08/sets/72157719859066389/"><img src="/images/moe2021event4.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
