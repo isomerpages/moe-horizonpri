@@ -5,20 +5,20 @@ description: ""
 ---
 ### **Our Programmes**
 #### **Signature Programmes**
-* [Learning for Life Programme (LLP)]()
-* [Applied Learning Programme (ALP)]()
+* [Learning for Life Programme (LLP)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/llp/)
+* [Applied Learning Programme (ALP)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/alp/)
 
 #### **Cognitive**
-* [Write@Horizon]()
-* [ReadLit@Horizon]()
-* [Leaders' Trail]()
-* [Mathematics Alive!]()
-* [Excellence 2000 (E2K) Mathematics]()
-* [Excellence 2000 (E2K) Science]()
-* [Science Discovery Day]()
-* [Mother Tongue Language Fortnight]()
-* [In-House EL Programmes]()
-* [EL Fiesta]()
+* [Write@Horizon](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/write/)
+* [ReadLit@Horizon](https://staging.d21co4ykjghpsi.amplifyapp.com/read-lit-at-horizon/)
+* [Leaders' Trail](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/leaders-trail/)
+* [Mathematics Alive!](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/mathematics-alive/)
+* [Excellence 2000 (E2K) Mathematics](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/e2k-mathematics/)
+* [Excellence 2000 (E2K) Science](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/e2k-science/)
+* [Science Discovery Day](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/science-discovery-day/)
+* [Mother Tongue Language Fortnight](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/mtl-fortnight/)
+* [In-House EL Programmes](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/inhouse-el-programmes/)
+* [EL Fiesta](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/el-fiesta/)
 
 #### **Social**
 * [Fresh Me Up]()
