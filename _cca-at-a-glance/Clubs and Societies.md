@@ -30,7 +30,7 @@ Through our Clubs and Societies CCAs, students get to explore and extend their i
 |:---:|:---:|:---:|
 | Innovations Club | Public Speaking Club | Robotics Club |
 
-<p><a href="webhere">
+<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/we-care-club/">
 <img style="width:30%" src="/images/clubandsocieties7.jpg">
 </a></p>
 
