@@ -3,8 +3,6 @@ title: HOD's Message
 permalink: /cca-at-a-glance/hod-message/
 description: ""
 ---
-
-
 ### **HOD's Message**
 Co-Curricular Activities (CCAs) form a very important and integral part of students’ learning experiences in school. Through CCAs, students will be able to discover their interests and talents. Students have the opportunity to build character, develop leadership skills and forge friendships as they deepen their passion for their CCAs. These experiences will provide them with the necessary knowledge, values and skills to achieve a holistic education.
 
