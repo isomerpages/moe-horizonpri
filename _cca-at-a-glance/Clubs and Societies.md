@@ -29,3 +29,11 @@ Through our Clubs and Societies CCAs, students get to explore and extend their i
 |  |  |  |
 |:---:|:---:|:---:|
 |  |  |  |
+
+<p><a href="webhere">
+<img style="width:30%" src="/images/clubandsocieties.jpg">
+</a></p>
+
+|  |
+|:---:|
+|  |
