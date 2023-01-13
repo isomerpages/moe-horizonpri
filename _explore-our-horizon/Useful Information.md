@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Useful Information**
 #### **P1 Registration Information**
-*   [P1 Registration Phases and Timeline](https://horizonpri.moe.edu.sg/others/p1-registration-phases-and-timeline)
+*   [P1 Registration Phases and Timeline](https://horizonpri.moe.edu.sg/others/p1-registration-phases-and-timeline) **private page**
 *   [P1 Registration FAQ](https://www.moe.gov.sg/primary/p1-registration)
 *   [Student Care Centre (SCC)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-partners/scc/about-raffles-student-care/)
 
