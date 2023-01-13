@@ -24,11 +24,11 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | In-House Fieldtrip | Cultural Activities through MTL | Teacher's Day Celebration |
 
-<p><a href="web"><img src="/images/moe2021event5.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157719771805535/"><img src="/images/moe2021event5.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157719736349749/"><img src="/images/moe2021event6.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2021event7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/191172840@N04/sets/72157719701759781/"><img src="/images/moe2021event7.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
