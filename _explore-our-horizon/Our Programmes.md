@@ -21,12 +21,12 @@ description: ""
 * [EL Fiesta](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/el-fiesta/)
 
 #### **Social**
-* [Fresh Me Up]()
-* [Motivational Programme]()
-* [Internationalisation]()
-* [National Education]()
-* [Programme for Active Learning (PAL)]()
-* [Touch Science]()
+* [Fresh Me Up](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/fresh-me-up/)
+* [Motivational Programme](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/motivation/)
+* [Internationalisation](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/internationalisation/)
+* [National Education](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/national-education/)
+* [Programme for Active Learning (PAL)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/pal/)
+* [Touch Science](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/touch-science/)
 
 #### **Moral**
 * [Ever-ready to Reduce, Reuse, Recycle (ER3)]()
