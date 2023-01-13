@@ -36,14 +36,14 @@ description: ""
 * [Education and Career Guidance (ECG)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/ecg/)
 
 #### **Physical**
-* [Junior Olympic Games]()
-* [SafePlay@Recess]()
-* [Swimming]()
-* [Wushu CCA]()
-* [P4 Outdoor Adventure Camp]()
+* [Junior Olympic Games](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/junior-olympic-games/)
+* [SafePlay@Recess](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/safeplay-at-recess/)
+* [Swimming](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/swimming/)
+* [Wushu CCA](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/wushu/)
+* [P4 Outdoor Adventure Camp](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/p4-outdoor-adventure-camp/)
 
 #### **Aesthetics**
-* [Appetite for the Arts]()
-* [Making Thinking Visible]()
-* [Viva La Musica for P1 and P2]()
-* [P4 Museum-based Learning]()
+* [Appetite for the Arts](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/aesthetics/appetite-for-the-arts/)
+* [Making Thinking Visible](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/aesthetics/making-thinking-visible-in-aesthetics/)
+* [Viva La Musica for P1 and P2](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/aesthetics/viva-la-musica/)
+* [P4 Museum-based Learning](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/aesthetics/p4-museum-based-learning/)
