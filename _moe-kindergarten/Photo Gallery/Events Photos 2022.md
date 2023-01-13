@@ -30,11 +30,11 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | March - WoW Project | March - Read for Joy | March - Walkabout |
 
-<p><a href="web"><img src="/images/moe2022event7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301589392/"><img src="/images/moe2022event7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720298648382/"><img src="/images/moe2022event8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299261871/"><img src="/images/moe2022event9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -42,11 +42,11 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | March - Families for Life | April - Earth Day | May - Cultural Exchange Programme |
 
-<p><a href="web"><img src="/images/moe2022event10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301581046/"><img src="/images/moe2022event10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301577425/"><img src="/images/moe2022event11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<p><a href="web"><img src="/images/moe2022event12.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720301581376/"><img src="/images/moe2022event12.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
 <br clear="left">
 
@@ -54,7 +54,7 @@ third_nav_title: Photo Gallery
 |:---:|:---:|:---:|
 | May - Hari Raya Celebration | May - Parents' Day | July - Let's Pretend |
 
-<p><a href="web"><img src="/images/moe2022event13.jpg" style="width:30%;"></a></p>
+<p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720303332574/"><img src="/images/moe2022event13.jpg" style="width:30%;"></a></p>
 
 |  |
 |:---:|
