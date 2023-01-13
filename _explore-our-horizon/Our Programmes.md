@@ -21,12 +21,29 @@ description: ""
 * [EL Fiesta]()
 
 #### **Social**
-
+* [Fresh Me Up]()
+* [Motivational Programme]()
+* [Internationalisation]()
+* [National Education]()
+* [Programme for Active Learning (PAL)]()
+* [Touch Science]()
 
 #### **Moral**
-
+* [Ever-ready to Reduce, Reuse, Recycle (ER3)]()
+* [I-Design]()
+* [MOE Sexuality Education in Schools]()
+* [Values in Action (VIA)]()
+* [Education and Career Guidance (ECG)]()
 
 #### **Physical**
-
+* [Junior Olympic Games]()
+* [SafePlay@Recess]()
+* [Swimming]()
+* [Wushu CCA]()
+* [P4 Outdoor Adventure Camp]()
 
 #### **Aesthetics**
+* [Appetite for the Arts]()
+* [Making Thinking Visible]()
+* [Viva La Musica for P1 and P2]()
+* [P4 Museum-based Learning]()
