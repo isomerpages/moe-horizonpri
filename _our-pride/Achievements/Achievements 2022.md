@@ -31,7 +31,7 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
-| <br><br><br>Taekwondo | <br><br><br>National School Games Taekwondo 2022 | 1st Position, Individual Boys Red 2<br><br>2nd Position, Individual Boys Blue 4<br><br>3rd Position, Individual Boys Poom 1 |
+| <br><br>Taekwondo | <br><br>National School Games Taekwondo 2022 | 1st Position, Individual Boys Red 2<br><br>2nd Position, Individual Boys Blue 4<br><br>3rd Position, Individual Boys Poom 1 |
 | Wushu | National School Games 2022 Wushu  | 3rd Position, 5-Duan Cudgel |
 | Bowling| National School Games 2022 Tenpin Bowling | 1 Gold <br> 2 Bronze |
 | <br><br><br><br><br>Rope Skipping | <br><br><br><br><br>National School Games Rope Skipping 2022 | 1st Position, Double Under (Junior Girls)<br>2nd Position, Pair Freestyle (Junior Girls)<br>2nd Position, Team Freestyle (Junior Girls)<br>2nd Position, Speed Relay (Junior Boys)<br>2nd Position, Speed Relay (Junior Girls)<br>3rd Position, Double Dutch (Junior Girls)<br>3rd Position, Speed (Junior Girls) |
