@@ -45,4 +45,9 @@ sections:
       description: Find out more about PSG at Horizon Primary here!
       button: Click here
       url: /our-partners/parents/psg/about-pc/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
