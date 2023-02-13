@@ -13,9 +13,6 @@ sections:
         - title: Announcement
           description: ""
           url: /announcements/
-        - title: News & Events
-          description: ""
-          url: /news-and-events/
         - title: Quick Links
           description: ""
           url: /quick-links/
