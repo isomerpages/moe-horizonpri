@@ -32,6 +32,8 @@ description: ""
 | ng_pei_rong@schools.gov.sg     | muhammad_raauuf_othman@schools.gov.sg     | dayangku_nuurul_aida_fatima@schools.gov.sg    |
 |     |    |     |
 | **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zhicao Sigmund**   |
-| Text     | Text     | Text     |
+| CCE HOD    | Planning & Engagement HOD    | Innovation HOD    |
+| shieh_siao_yan_carol@schools.gov.sg    | yew_zu_yao_jonathan@schools.gov.sg    | seow_zichao_sigmund@schools.gov.sg     |
+|     |    |     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
