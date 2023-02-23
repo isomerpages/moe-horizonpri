@@ -9,7 +9,7 @@ description: ""
 | Mrs Ong Hui Khim | 
 | -------- |
 | Principal |
-|horizon_ps@moe.edu.sg|
+| [horizon_ps@moe.edu.sg](mailto : horizon_ps@moe.edu.sg)|
 
 | Mr John Ow | Mrs Senthil Poonkodi | Mr Phang Chee Kheng |
 | -------- | -------- | -------- |
