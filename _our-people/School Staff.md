@@ -35,5 +35,6 @@ description: ""
 | CCE HOD    | Planning & Engagement HOD    | Innovation HOD    |
 | shieh_siao_yan_carol@schools.gov.sg    | yew_zu_yao_jonathan@schools.gov.sg    | seow_zichao_sigmund@schools.gov.sg     |
 |     |    |     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
+|Administration Manager    | Operations Manager    | 
+| marvin_lee@schools.gov.sg  | lim_sin_soon@schools.gov.sg   | 
