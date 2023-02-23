@@ -53,7 +53,7 @@ description: ""
 
 ### Teacher Leaders
 
-| Mrs Kalpana Kumar | Mrs Thilagavathi Sivakumar | Mdm Teo Hwee Keng Kelly |
+| **Mrs Kalpana Kumar** | **Mrs Thilagavathi Sivakumar** | **Mdm Teo Hwee Keng Kelly** |
 | -------- | -------- | -------- |
 | English Lead Teacher   | Science Senior Teacher    | Chinese Language Senior Teacher    |
 | [kalpana_letchiman@schools.gov.sg](mailto:kalpana_letchiman@schools.gov.sg) | [thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)|
@@ -62,9 +62,10 @@ description: ""
 | Chinese Language Senior Teacher   | Malay Language Senior Teacher     | Tamil Language Senior Teacher |
 | [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg)  | [sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)    |
 |     |    |     |
+| **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-
+| Text     | Text     | Text     |
 ### School Admin Team
 
 ### Teachers 2023
