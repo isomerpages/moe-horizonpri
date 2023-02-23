@@ -51,11 +51,15 @@ description: ""
 |Administration Manager    | Operations Manager    | 
 | marvin_lee@schools.gov.sg  | lim_sin_soon@schools.gov.sg   |
 
-
 ### Teacher Leaders
 
-
-| Column 1 | Column 2 | Column 3 |
+| Mrs Kalpana Kumar | Mrs Thilagavathi Sivakumar | Mdm Teo Hwee Keng Kelly |
 | -------- | -------- | -------- |
+| English Lead Teacher   | Science Senior Teacher    | Chinese Language Senior Teacher    |
+| kalpana_letchiman@schools.gov.sg   | thilagavathi_kumarasamy@schools.gov.sg    | teo_hwee_keng@schools.gov.sg    |
+|     |    |     |
 | Text     | Text     | Text     |
-
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
