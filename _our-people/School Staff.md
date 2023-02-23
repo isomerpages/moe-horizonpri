@@ -35,6 +35,22 @@ description: ""
 | CCE HOD    | Planning & Engagement HOD    | Innovation HOD    |
 | shieh_siao_yan_carol@schools.gov.sg    | yew_zu_yao_jonathan@schools.gov.sg    | seow_zichao_sigmund@schools.gov.sg     |
 |     |    |     |
+| **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
+| Mathematics LH    | National Education & Social Studies SH     | Student Wellbeing SH   |
+| choon_yoke_chan_felicia@schools.gov.sg     | tan_wei_jian@schools.gov.sg     | chen_kaiying@schools.gov.sg    |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
 | **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
 |Administration Manager    | Operations Manager    | 
 | marvin_lee@schools.gov.sg  | lim_sin_soon@schools.gov.sg   |
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+### Teacher Leaders
