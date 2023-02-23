@@ -33,7 +33,7 @@ description: ""
 |     |    |     |
 | **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zhicao Sigmund**   |
 | CCE HOD    | Planning & Engagement HOD    | Innovation HOD    |
-| shieh_siao_yan_carol@schools.gov.sg    | yew_zu_yao_jonathan@schools.gov.sg    | seow_zichao_sigmund@schools.gov.sg     |
+| [shieh_siao_yan_carol@schools.gov.sg](mailto:shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](mailto:yew_zu_yao_jonathan@schools.gov.sg) | [seow_zichao_sigmund@schools.gov.sg](mailto:seow_zichao_sigmund@schools.gov.sg)|
 |     |    |     |
 | **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
 | Mathematics LH    | National Education & Social Studies SH     | Student Wellbeing SH   |
