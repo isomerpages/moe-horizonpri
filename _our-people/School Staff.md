@@ -29,7 +29,7 @@ description: ""
 |     |    |     |
 | **Mdm Ng Pei Rong** | **Mr Muhammad Raauuf Othman** | **Mdm Dayangku Nuurul** |
 | Mother Tongue Language HOD   | PE & CCA HOD     | ICT HOD     |
-| ng_pei_rong@schools.gov.sg     | muhammad_raauuf_othman@schools.gov.sg     | dayangku_nuurul_aida_fatima@schools.gov.sg    |
+| [ng_pei_rong@schools.gov.sg](mailto:ng_pei_rong@schools.gov.sg) | [muhammad_raauuf_othman@schools.gov.sg](mailto:muhammad_raauuf_othman@schools.gov.sg)| [dayangku_nuurul_aida_fatima@schools.gov.sg](mailto:dayangku_nuurul_aida_fatima@schools.gov.sg) |
 |     |    |     |
 | **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zhicao Sigmund**   |
 | CCE HOD    | Planning & Engagement HOD    | Innovation HOD    |
