@@ -26,10 +26,12 @@ description: ""
 | **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
 | English Language HOD   | Mathematics HOD    | Science HOD     |
 | loh_shuzhen_sheila@schools.gov.sg    | sim_yan_ling_staphni@schools.gov.sg     | low_zihao@schools.gov.sg     |
+|     |    |     |
 | **Mdm Ng Pei Rong** | **Mr Muhammad Raauuf** | **Mdm Dayangku Nuurul** |
 | Mother Tongue Language HOD   | PE & CCA HOD     | ICT HOD     |
 | ng_pei_rong@schools.gov.sg     | muhammad_raauuf_othman@schools.gov.sg     | dayangku_nuurul_aida_fatima@schools.gov.sg    |
-| Text     | Text     | Text     |
+|     |    |     |
+| **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zhicao Sigmund**   |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
