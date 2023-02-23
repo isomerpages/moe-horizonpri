@@ -69,4 +69,21 @@ description: ""
 ### School Admin Team
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
+
 ### Teachers 2023
+
+##### Primary 1
+##### Primary 2
+##### Primary 3
+##### Primary 4
+##### Primary 5
+##### Primary 6
