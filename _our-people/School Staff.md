@@ -41,11 +41,11 @@ description: ""
 |     |    |     |
 | **Mdm April Tan Yun Lin**   | **Mdm Suzanah Bte Yahaya**    | **Mr Choo Yong Guan**     |
 | Aesthetic SH  | Assessment SH    | Partnership SH     |
-| tan_yun_lin_april@schools.gov.sg    | suzanah_yahaya@schools.gov.sg     | choo_yong_guan@schools.gov.sg     |
+| [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg)| [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [choo_yong_guan@schools.gov.sg](mailto:choo_yong_guan@schools.gov.sg) |
 |     |    |     |
 | **Mdm Rozanah Abdul Rahim**     | **Mdm Enn Cai Ying**   | **Mr Roy Chua**    |
 | Student Leadership SH   | Innovation SH    | ICT SH   |
-| rozanah_abdul_rahim@schools.gov.sg | enn_cai_ying@schools.gov.sg     | chua_chun_hua_a@schools.gov.sg     |
+| [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg)| [enn_cai_ying@schools.gov.sg](mailto:enn_cai_ying@schools.gov.sg)| [chua_chun_hua_a@schools.gov.sg](mailto:chua_chun_hua_a@schools.gov.sg) |
 |     |    |     |
 | **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
 |Administration Manager    | Operations Manager    | 
