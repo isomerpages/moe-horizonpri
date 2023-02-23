@@ -37,7 +37,7 @@ description: ""
 |     |    |     |
 | **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
 | Mathematics LH    | National Education & Social Studies SH     | Student Wellbeing SH   |
-| choon_yoke_chan_felicia@schools.gov.sg     | tan_wei_jian@schools.gov.sg     | chen_kaiying@schools.gov.sg    |
+| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)| [chen_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg) |
 |     |    |     |
 | **Mdm April Tan Yun Lin**   | **Mdm Suzanah Bte Yahaya**    | **Mr Choo Yong Guan**     |
 | Aesthetic SH  | Assessment SH    | Partnership SH     |
