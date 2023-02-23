@@ -25,7 +25,7 @@ description: ""
 |     |      |     |
 | **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
 | English Language HOD   | Mathematics HOD    | Science HOD     |
-| loh_shuzhen_sheila@schools.gov.sg    | sim_yan_ling_staphni@schools.gov.sg     | low_zihao@schools.gov.sg     |
+| [loh_shuzhen_sheila@schools.gov.sg ](mailto:loh_shuzhen_sheila@schools.gov.sg )   | [sim_yan_ling_staphni@schools.gov.sg  ](mailto:sim_yan_ling_staphni@schools.gov.sg)   | [low_zihao@schools.gov.sg](mailto:low_zihao@schools.gov.sg)   |
 |     |    |     |
 | **Mdm Ng Pei Rong** | **Mr Muhammad Raauuf Othman** | **Mdm Dayangku Nuurul** |
 | Mother Tongue Language HOD   | PE & CCA HOD     | ICT HOD     |
