@@ -9,7 +9,7 @@ description: ""
 | Mrs Ong Hui Khim | 
 | -------- |
 | Principal |
-| [horizon_ps@moe.edu.sg](mailto : horizon_ps@moe.edu.sg)|
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 
 | Mr John Ow | Mrs Senthil Poonkodi | Mr Phang Chee Kheng |
 | -------- | -------- | -------- |
@@ -21,7 +21,7 @@ description: ""
 | Mrs Shirley Lim Buay Tiang | Mrs Sim Lay Hoon | Mr Timothy WangXiang Rong |
 | -------- | -------- | -------- |
 | Year Head, Lower Pri | Year Head, Middle Pri     | Year Head, Upper Pri    |
-| lim_buay_tiang@schools.gov.sg     | lee_lay_hoon_a@schools.gov.sg   | wang_xiang_rong@schools.gov.sg     |
+| lim_buay_tiang@schools.gov.sg[lim_buay_tiang@schools.gov.sg](mailto:lim_buay_tiang@schools.gov.sg)     | lim_buay_tiang@schools.gov.sg | wang_xiang_rong@schools.gov.sg     |
 |     |      |     |
 | **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
 | English Language HOD   | Mathematics HOD    | Science HOD     |
