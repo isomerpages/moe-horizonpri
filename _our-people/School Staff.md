@@ -63,9 +63,9 @@ description: ""
 | [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg)  | [sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)    |
 |     |    |     |
 | **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Educational Support ST    | Physical Education ST    | CCE ST    |
+|[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) |
+
 ### School Admin Team
 
 ### Teachers 2023
