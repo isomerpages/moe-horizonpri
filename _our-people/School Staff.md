@@ -37,4 +37,4 @@ description: ""
 |     |    |     |
 | **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
 |Administration Manager    | Operations Manager    | 
-| marvin_lee@schools.gov.sg  | lim_sin_soon@schools.gov.sg   | 
+| marvin_lee@schools.gov.sg  | lim_sin_soon@schools.gov.sg   |
