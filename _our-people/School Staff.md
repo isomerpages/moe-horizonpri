@@ -11,17 +11,12 @@ description: ""
 | Principal |
 |horizon_ps@moe.edu.sg|
 
-<hr />
-
 | Mr John Ow | Mrs Senthil Poonkodi | Mr Phang Chee Kheng |
 | -------- | -------- | -------- |
 | Vice-Principal | Vice-Principal |Vice-Principal (Admin) |
 |horizon_ps@moe.edu.sg|horizon_ps@moe.edu.sg|horizon_ps@moe.edu.sg|
 
-<hr/>
-
 ### School Management Team
-
 
 | Mrs Shirley Lim Buay Tiang | Mrs Sim Lay Hoon | Mr Timothy WangXiang Rong |
 | -------- | -------- | -------- |
@@ -35,5 +30,6 @@ description: ""
 | Mother Tongue Language HOD   | PE & CCA HOD     | ICT HOD     |
 | ng_pei_rong@schools.gov.sg     | muhammad_raauuf_othman@schools.gov.sg     | dayangku_nuurul_aida_fatima@schools.gov.sg    |
 | Text     | Text     | Text     |
-
-
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
