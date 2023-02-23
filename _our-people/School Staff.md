@@ -36,6 +36,4 @@ description: ""
 		</tr>
 	</tbody>
 </table>
-
 <hr />
-<p>&nbsp;</p>
