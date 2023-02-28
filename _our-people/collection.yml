@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - School Advisory Committee New.md
+      - School Advisory Committee.md
       - School Staff.md
       - School Advisory Committee (Old).md
       - School Management.md
