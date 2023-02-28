@@ -2,7 +2,6 @@ collections:
   our-horizon:
     output: true
     order:
-      - School Advisory Committee.md
       - Principal's Message.md
       - School History.md
       - School Location.md
