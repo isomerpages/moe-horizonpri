@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - For Parents.md
       - Announcements.md
       - Quick Links.md
       - FAQ.md
