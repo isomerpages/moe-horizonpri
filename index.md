@@ -15,7 +15,7 @@ sections:
           url: /announcements/
         - title: Quick Links
           description: ""
-          url: /quick-links/
+          url: /others/quick-links/
   - infopic:
       title: Explore Our Horizon
       subtitle: horizon primary school
