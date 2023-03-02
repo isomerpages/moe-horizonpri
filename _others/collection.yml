@@ -2,11 +2,11 @@ collections:
   others:
     output: true
     order:
+      - Announcements.md
+      - Quick Links/.keep
       - Quick Links/For Parents.md
       - Quick Links/For Students.md
       - Quick Links/For Staff.md
-      - Quick Links/.keep
-      - Announcements.md
       - FAQ.md
       - P1 Registraion and Phases and Timeline.md
       - Write@Horizon.md
