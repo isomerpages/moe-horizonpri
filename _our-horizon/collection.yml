@@ -2,11 +2,11 @@ collections:
   our-horizon:
     output: true
     order:
-      - Horizon Identity/School House System.md
-      - Horizon Identity/School Song.md
-      - Horizon Identity/School Name & Crest.md
-      - Horizon Identity/School Ethos.md
       - Horizon Identity/.keep
+      - Horizon Identity/School Ethos.md
+      - Horizon Identity/School Name & Crest.md
+      - Horizon Identity/School Song.md
+      - Horizon Identity/School House System.md
       - Principal's Message.md
       - School History.md
       - School Location.md
