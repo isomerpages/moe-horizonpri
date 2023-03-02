@@ -2,7 +2,6 @@ collections:
   our-horizon:
     output: true
     order:
-      - Horizon Identity.md
       - Principal's Message.md
       - School History.md
       - School Location.md
