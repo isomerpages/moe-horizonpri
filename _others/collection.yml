@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Quick Links/.keep
       - For Staff.md
       - For Students.md
       - For Parents.md
