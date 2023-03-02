@@ -24,7 +24,6 @@ I look forward to working together with you to safeguard the well-being and the 
 Thank you.
 
 Yours in partnership,
-
+<br>
 Mrs Ong Hui Khim
-
-Principal
+<br>Principal
