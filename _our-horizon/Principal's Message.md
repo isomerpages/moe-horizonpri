@@ -5,20 +5,26 @@ description: ""
 ---
 ### **Principal's Message**
 
-<img src="/images/principal.jpg" style="width:25%;margin-left:55px;" align = "left">
+Dear Parents/Guardians,  
 
-<br clear="left">
+Warmest Greetings!
 
-Horizon Primary School is into her 13th year and we are heartened that she continues to be the school of choice for many students and parents. Her reputation of having a caring environment with diverse learning opportunities and nurturing motivated students who actively contribute to the community continues to strike a chord with the community.
+First and foremost, I would like to thank the past Principal, Mrs Grace Leong, for her leadership and service to the school.  I feel honoured to be given this opportunity to join the Horizon family and build upon the good work of my predecessors who came before me.  It is the hope of my staff and myself to cater to the diverse interests and needs of our students and to realise our school’s vision of **Confident Individuals, Responsible Citizens.**
 
-Horizon Primary places great emphasis on student leadership and aims to nurture students to be confident and responsible citizens.  Building on holistic development anchored on the five domains – moral, cognitive, physical, social and aesthetics, we strongly believe in the importance of cultivating passion, love and joy for learning.  As such, our programmes and learning experiences are curated to enrich and pique the curiosity and interests of young minds.  In cognizant of the challenges our students will be facing in future, we aspire to develop them to be leaders who value learning and care for the community.  Our firm belief that _Every Child is a Leader!_ continues to anchor our Learning for Life Programme (LLP) on student leadership, where students learn and internalise Stephen Covey’s 7 Habits™ of Highly Effective People.  Our Horizon Stars are given various leadership opportunities and platforms beyond school that instil in them a deep sense of responsibility and pride as self and community leaders.  Having our students as ambassadors to share their love with the Punggol residents through the community events develop in them empathy and compassion towards others.  We received positive feedback and encouragement from our Punggol residents whenever our students reach out to the community through events such as festive seasons sharing with the Punggol Shore residents, spreading kindness messages to the commuters, showing their gratitude to the SBS Transit staff, migrant workers and showing their care and concern to the elders at Bright Hill Evergreen Home, etc.  
+HRPS is also guided by our school mission to nurture every child to lead their lives responsibly and to contribute with joy. We would like them to be ready for the 21st century as effective communicators, inventive thinkers, digital literates, and life-long learners.  Our school philosophy – Every Child is a Leader builds on our belief that every child is a leader in his/her own rights.  We are committed to inculcate in them the school values of Respect, Integrity, Compassion and Excellence so that they can lead meaningful lives, care for their families and serve our nation with pride and joy!
 
-Our students are also provided with authentic, relevant and applicable learning opportunities within and outside of school.  Our Applied Learning Programme (ALP), Computational Thinking in Mathematics, allows our students to develop coding skills and deepen their understanding of mathematical concepts through block-based programming.  Students also get the opportunity to practise the 7 Habits™ as they develop their problem-solving and communication skills, ability to collaborate in teams, creativity and logical thinking.  In support of joyful, holistic education, our co-curriculum activities (CCAs) are weaved into the curriculum time since 2017, ensuring balanced and conducive learning opportunities for all our students.  Under the tabs of Our Experiences and Our Pride, we share with you key programmes, achievements and accolades our students enjoy and have achieved over the years. 
+As COVID-19 restrictions are slowly being lifted nationally, we will also take a cautious and gradual approach towards the resumption of our out-of-school activities.  There will be National School Games, Learning Journeys, Camps and many exciting and enriching experiences. Such learning experiences outside the school often create meaningful and engaging learning for our students, and they develop our students holistically in ways we cannot always create in our classrooms.
 
-Our school has grown from strength to strength.  We have expanded both in capacity and capabilities.  Our cohort size has grown to about 1820 students, including the MOE Kindergarten (MK) children.  With the inclusion of even younger children in the school, collaborative opportunities are created for MK children to interact and to learn from the older ones from the primary school. In doing so, we are confident that the transition to primary school will be a smooth one.  The after-school care service and support we provide to our students continue to focus on quality programmes, taking the needs of our parents into consideration. 
+  
 
-It takes a village to grow a child and we are grateful for the unwavering support, love and commitment of our many stakeholders.  We are thankful for the continued support of our students, staff, parents, former students as young alumni members and our community partners whom we appreciate working with.  We look forward to contribute further to the community, as that is what we are here for as a school – to develop our students as Confident Individuals; Responsible Citizens, and to be blessings to others in big and small ways.
+I would like to also extend my sincere appreciation for the relentless support by yourselves and our stakeholders such as the SAC, Alumni Association and the Punggol community as we develop our children to become the best they can be.  The normalcy and growth within the school would not have been possible without you. 
 
-**Your partner-in-education,** <br>
-**Mrs Grace Leong** <br>
-**Principal**
+I look forward to working together with you to safeguard the well-being and the interests of every child, because it truly takes a village to raise a child.
+
+Thank you.
+
+Yours in partnership,
+
+Mrs Ong Hui Khim
+
+Principal
