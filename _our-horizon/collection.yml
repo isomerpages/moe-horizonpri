@@ -2,6 +2,7 @@ collections:
   our-horizon:
     output: true
     order:
+      - Horizon Identity/School House System.md
       - Horizon Identity/School Song.md
       - Horizon Identity/School Name & Crest.md
       - Horizon Identity/School Ethos.md
