@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Announcements.md
-      - News & Events.md
       - Quick Links.md
+      - News & Events.md
       - FAQ.md
       - P1 Registraion and Phases and Timeline.md
       - Write@Horizon.md
