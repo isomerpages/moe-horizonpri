@@ -2,6 +2,7 @@ collections:
   our-horizon:
     output: true
     order:
+      - School Information/School History.md
       - School Information/School Hours.md
       - School Information/.keep
       - Horizon Identity/.keep
