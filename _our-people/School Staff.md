@@ -76,6 +76,10 @@ description: ""
 | Administration Executive    | ICT Associate    | Management Support Officer     |
 |haslinda_mehad@schools.gov.sg| abdul_rashid_rahmatulla@schools.gov.sg   |cheong_kum_hoe_janet@schools.gov.sg|
 
+| Mdm Peggy Teh |  |  |
+| -------- | -------- | -------- |
+| Management Support Officer |  
+|teh_leong_hong@schools.gov.sg| 
 
 ### Teachers 2023
 
