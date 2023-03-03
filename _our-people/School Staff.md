@@ -92,12 +92,12 @@ description: ""
 | **Ms Charlene Wong** | **Mdm Goh Xiang Ting Diana** | **Mrs Kelly Wong** |
 | -------- | -------- | -------- |
 | P1 Thinker (Form Teacher)   | P1 Creator (Form Teacher) | P1 Creator (Form Teacher)    |
-| [Wong_Hang_Kuan@schools.gov.sg](mailto:Wong_Hang_Kuan@schools.gov.sg) | [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:ctay_soong_kiang@schools.gov.sg)|
+| [wong_hang_kuan@schools.gov.sg](mailto:Wong_Hang_Kuan@schools.gov.sg) | [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:ctay_soong_kiang@schools.gov.sg)|
 
 | **Mdm Geraldine Liew** | **Mdm Dayana Binte Ismail** | **Mdm Kang Pei Yee, Evelyn** |
 | -------- | -------- | -------- |
 | P1 Reflector (Form Teacher)   | P1 Reflector(Form Teacher) | P1 Inventor (Form Teacher)    |
-| [Wong_Hang_Kuan@schools.gov.sg](mailto:Wong_Hang_Kuan@schools.gov.sg) | [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:ctay_soong_kiang@schools.gov.sg)|
+| [liew_zhi_ling_geraldine@schools.gov.sg](mailto:Liew_ZHI_LING_GERALDINE@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [Kang_Pei_Yee_Evelyn@schools.gov.sg](mailto:Kang_Pei_Yee_Evelyn@schools.gov.sg)|
 
 
 ##### Primary 2
