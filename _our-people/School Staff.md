@@ -68,10 +68,10 @@ description: ""
 ### School Admin Team
 
 
-| Column 1 | Column 2 | Column 3 |
+| Mr Marvin Lee | Mdm Nurasyiqin Bte Mohamed Shafei | Mdm Dorothy Lim |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Administration Manager    | Administration Executive    | Administration Executive     |
+| Marvin_LEE@schools.gov.sg  | nurasyiqin_mohamed_shafei@schools.gov.sg    |lim_hwee_leng_a@schools.gov.sg|
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
