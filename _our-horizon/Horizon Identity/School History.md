@@ -6,17 +6,19 @@ third_nav_title: Horizon Identity
 ---
 ### **School History**
 ##### **List of Principals:**
+* Mrs. Ong Hui Khim (2023 – Present)<br>
+*  Mrs. Grace Leong (2016 – 2022)<br>
 * Mrs. Janet Ang (2010 – 2015)<br>
-* Mrs. Grace Leong (2016 – 2022)<br>
-* Mrs. Ong Hui Khim (2023 – Present)
+
 
 ##### **List of Vice-Principals:**
-\- Mdm. S. Anitha (2010 – 2016)<br>
-\- Mr. John Ow (2015 – Present)<br>
-\- Mrs. Senthil Poonkodi (2016 – Present)
+* Mrs. Senthil Poonkodi (2016 – Present)<br>
+* Mdm. S. Anitha (2010 – 2016)<br>
+* Mr. John Ow (2015 – Present)
+
 
 ##### **List of Vice-Principals (Administration):**
-\- Mr. Phang Chee Kheng (2019&nbsp;–&nbsp;Present)
+* Mr. Phang Chee Kheng (2019&nbsp;–&nbsp;Present)
 
 #### **Our humble beginnings**
 Horizon Primary School (HRPS) emphasises itself on a continual journey of growth, change and learning with the philosophy that Every Child can be a Leader. On 4 January 2010, the school started with our inaugural 125 students from Primary 1 to Primary 4 with a team of 13 pioneer staff, led by the founding Principal, Mrs. Janet Ang.&nbsp; In the school’s first phase of development, the pioneers laid a firm foundation for student-centric, values-driven education and the Horizon spirit.
