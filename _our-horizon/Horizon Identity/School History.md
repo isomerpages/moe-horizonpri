@@ -4,12 +4,11 @@ permalink: /our-horizon/school-history/
 description: ""
 third_nav_title: Horizon Identity
 ---
-
-
 ### **School History**
 ##### **List of Principals:**
 \- Mrs. Janet Ang (2010 – 2015)<br>
-\- Mrs. Grace Leong (2016 – Present)
+\- Mrs. Grace Leong (2016 – 2022)<br>
+\- Mrs Ong Hui Khim (2023 – Present)
 
 ##### **List of Vice-Principals:**
 \- Mdm. S. Anitha (2010 – 2016)<br>
