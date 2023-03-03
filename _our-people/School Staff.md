@@ -3,11 +3,10 @@ title: School Staff
 permalink: /our-people/schoolstaff/
 description: ""
 ---
-
 ### Principal & Vice-Principals
 
 
-| Mrs Ong Hui Khim | 
+| [Mrs Ong Hui Khim](mailto:horizon_ps@moe.edu.sg) | 
 | -------- |
 | Principal |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
