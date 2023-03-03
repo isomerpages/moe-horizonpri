@@ -109,6 +109,11 @@ description: ""
 | P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher) | P1 Discoverer (Form Teacher)    |
 | [toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg) | [hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg) | [cheong_shu_hui@schools.gov.sg](mailto:Cheong_shu_hui@schools.gov.sg)|
 
+| **Mdm Alice Yeo Puay Koon** |   | |
+| -------- | -------- | -------- |
+| P1 Discoverer (Form Teacher)   | P1 Explorer (Form Teacher) | P1 Discoverer (Form Teacher)    |
+| [toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg) | [hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg) | [cheong_shu_hui@schools.gov.sg](mailto:Cheong_shu_hui@schools.gov.sg)|
+
 ##### Primary 2
 ##### Primary 3
 ##### Primary 4
