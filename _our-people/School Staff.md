@@ -66,16 +66,15 @@ description: ""
 |[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) |
 
 ### School Admin Team
-
-
 | Mr Marvin Lee | Mdm Nurasyiqin Bte Mohamed Shafei | Mdm Dorothy Lim |
 | -------- | -------- | -------- |
 | Administration Manager    | Administration Executive    | Administration Executive     |
 | Marvin_LEE@schools.gov.sg  | nurasyiqin_mohamed_shafei@schools.gov.sg    |lim_hwee_leng_a@schools.gov.sg|
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
 
+| Mdm Nor Haslinda Bte Mehad | Mr Abdul Rashid | Mdm Cheong Kum Hoe Janet |
+| -------- | -------- | -------- |
+| Administration Executive    | ICT Associate    | Management Support Officer     |
+|haslinda_mehad@schools.gov.sg| abdul_rashid_rahmatulla@schools.gov.sg   |cheong_kum_hoe_janet@schools.gov.sg|
 
 
 ### Teachers 2023
