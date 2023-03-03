@@ -99,6 +99,10 @@ description: ""
 | P1 Reflector (Form Teacher)   | P1 Reflector(Form Teacher) | P1 Inventor (Form Teacher)    |
 | [liew_zhi_ling_geraldine@schools.gov.sg](mailto:Liew_ZHI_LING_GERALDINE@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [Kang_Pei_Yee_Evelyn@schools.gov.sg](mailto:Kang_Pei_Yee_Evelyn@schools.gov.sg)|
 
+| **Mdm Sumathi d/o Krishnasamy** | **Ms Goh Ching Xian Vivian** | **Mdm Norain Binte Ahmad** |
+| -------- | -------- | -------- |
+| P1 Inventor (Form Teacher)   | P1 Inquirer(Form Teacher) | P1 Inquirer (Form Teacher)    |
+| [sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [Kang_Pei_Yee_Evelyn@schools.gov.sg](mailto:Kang_Pei_Yee_Evelyn@schools.gov.sg)|
 
 ##### Primary 2
 ##### Primary 3
