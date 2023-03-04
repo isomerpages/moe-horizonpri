@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Horizon Alumni Committee.md
       - School Advisory Committee.md
       - School Staff.md
       - Parents Connect!/.keep
