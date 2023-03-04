@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Horizon Alumni Committee.md
       - School's Service Providers/School's Service Providers.md
       - School's Service Providers/P1 Booklist and Uniform 2023.md
       - School's Service Providers/P1 to P6 Booklist 2023.md
