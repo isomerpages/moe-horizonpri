@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Experiences.md
-      - Our Experiences (New)/.keep
       - Applied Learning Programme.md
       - Cognitive/Cognitive.md
       - Cognitive/InfoComm Club CCA.md
