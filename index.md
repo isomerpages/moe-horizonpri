@@ -15,7 +15,7 @@ sections:
           url: /announcements/
         - title: Quick Links
           description: ""
-          url: /quick-links/
+          url: /announcements/
   - infopic:
       title: Explore Our Horizon
       subtitle: horizon primary school
@@ -31,4 +31,3 @@ sections:
       image: /images/ccasataglance.png
       alt: Image alt text
 ---
-
