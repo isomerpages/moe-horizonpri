@@ -2,7 +2,7 @@
 layout: homepage
 title: Horizon Primary School
 description: Brief site description here
-image: /images/crest.png
+image: /images/crest.jpg
 permalink: /
 notification: ""
 sections:
@@ -31,3 +31,4 @@ sections:
       image: /images/ccasataglance.png
       alt: Image alt text
 ---
+
