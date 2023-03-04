@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Parents Connect!/.keep
       - School Advisory Committee.md
       - School Staff.md
