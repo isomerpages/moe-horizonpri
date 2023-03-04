@@ -6,9 +6,6 @@ links:
     collection: our-people
   - title: Our Experiences
     collection: our-experiences
-  - title: Our Experiences A
-    url: /our-experiences
-    sublinks: []
   - title: Our Partners
     url: /our-partners/parents/letter-to-parents/
     sublinks:
