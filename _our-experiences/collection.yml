@@ -2,9 +2,10 @@ collections:
   our-experiences:
     output: true
     order:
-      - Learning for Life Programme/.keep
       - Our Experiences.md
       - Applied Learning Programme.md
+      - Learning for Life Programme/.keep
+      - Cognitive/.keep
       - Cognitive/Cognitive.md
       - Cognitive/InfoComm Club CCA.md
       - Cognitive/International Chess Club CCA.md
@@ -17,7 +18,7 @@ collections:
       - Cognitive/Robotics Club CCA.md
       - Cognitive/In House EL Programmes.md
       - Cognitive/EL Fiesta.md
-      - Cognitive/.keep
+      - Moral/.keep
       - Moral/Moral.md
       - Moral/Eco Club CCA.md
       - Moral/Ever ready to Reduce, Reuse, Recycle (ER3).md
@@ -26,7 +27,7 @@ collections:
       - Moral/Values in Action (VIA).md
       - Moral/Education and Career Guidance (ECG).md
       - Moral/We Care Club CCA.md
-      - Moral/.keep
+      - Physical/.keep
       - Physical/Physical.md
       - Physical/Badminton CCA.md
       - Physical/Basketball CCA.md
@@ -38,7 +39,7 @@ collections:
       - Physical/Ten Pin Bowling CCA.md
       - Physical/Wushu CCA.md
       - Physical/P4 Outdoor Adventure Camp.md
-      - Physical/.keep
+      - Social/.keep
       - Social/Social.md
       - Social/Fresh Me Up.md
       - Social/Motivation Programme.md
@@ -49,7 +50,7 @@ collections:
       - Social/Scouts CCA.md
       - Social/Touch Science.md
       - Social/MTL Signature Programmes.md
-      - Social/.keep
+      - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Making Thinking Visible in Aesthetics.md
       - Aesthetics/Appetite For The Arts.md
@@ -62,4 +63,3 @@ collections:
       - Aesthetics/Speech & Drama Club CCA.md
       - Aesthetics/Tap Dance CCA.md
       - Aesthetics/Ukulele and Guitar CCA.md
-      - Aesthetics/.keep
