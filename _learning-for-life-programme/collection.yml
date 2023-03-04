@@ -2,4 +2,5 @@ collections:
   learning-for-life-programme:
     output: true
     order:
+      - Tierred Student Leadership Development.md
       - Learning for Life Programme.md
