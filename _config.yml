@@ -1,6 +1,6 @@
 title: Horizon Primary School
 url: https://horizonprimary.edu.sg
-favicon: /images/crest.png
+favicon: /images/crest.jpg
 colors:
   primary-color: "#f8bf2a"
   secondary-color: "#31329a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d21co4ykjghpsi.amplifyapp.com
 prod: https://master.d21co4ykjghpsi.amplifyapp.com
-shareicon: /images/crest.png
+shareicon: /images/crest.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
