@@ -2,7 +2,6 @@ collections:
   our-experiences:
     output: true
     order:
-      - Learning for Life Programme.md
       - Our Experiences (New)/.keep
       - Our Experiences.md
       - Applied Learning Programme.md
