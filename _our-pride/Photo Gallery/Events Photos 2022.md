@@ -15,16 +15,6 @@ third_nav_title: Photo Gallery
 | ![](/images/2022event7.jpg)| ![](/images/2022event8.jpg)| ![](/images/2022event9.jpg)|
 |[ March - P5 Computational Thinking in Mathematics (CTIM)](https://www.flickr.com/photos/194559165@N03/sets/72177720298651779/)|[March - Celebrate Success (Term 1)](https://www.flickr.com/photos/194559165@N03/sets/72177720299284762/)|[April - P5 Virtual Immersion Programme](https://www.flickr.com/photos/194559165@N03/sets/72177720299228195/)|
 
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720298651779/"><img src="/images/2022event7.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299284762/"><img src="/images/2022event8.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299228195/"><img src="/images/2022event9.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| March -<br> P5 Computational Thinking<br> in Mathematics (CTIM) | March - Celebrate Success <br>(Term 1) | April - P5 Virtual Immersion<br> Programme |
-
 <p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299264489/"><img src="/images/2022event10.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720299263725/"><img src="/images/2022event11.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/195698426@N05/sets/72177720299285382/"><img src="/images/2022event12.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
