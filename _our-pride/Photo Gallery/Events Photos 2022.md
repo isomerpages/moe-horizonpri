@@ -6,15 +6,11 @@ third_nav_title: Photo Gallery
 ---
 ### **Events Photos 2022**
 
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720296063090/"><img src="/images/2022event1.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297059514/"><img src="/images/2022event2.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
-<p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297270361/"><img src="/images/2022event3.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
 
-<br clear="left">
+| ![](/images/2022event1.jpg)| ![](/images/2022event2.jpg) |  ![](/images/2022event3.jpg) |
+| -------- | -------- | -------- |
+| [January - Back to School](https://www.flickr.com/photos/194559165@N03/sets/72177720296063090/)  | [February - CNY Celebration](https://www.flickr.com/photos/194559165@N03/sets/72177720297059514/)    |[February - Total Defence Day](https://www.flickr.com/photos/194559165@N03/sets/72177720297270361/)  |
 
-|  |  |  |
-|:---:|:---:|:---:|
-| January - Back to School | February - Chinese New Year Celebration | February - Total Defence Day |
 
 <p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297275216/"><img src="/images/2022event4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
 <p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297846123/"><img src="/images/2022event5.jpg" style="width:30%;margin-right:15px;" align = "left"></a></p>
