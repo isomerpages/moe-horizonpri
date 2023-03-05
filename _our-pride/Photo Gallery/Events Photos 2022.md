@@ -10,6 +10,8 @@ third_nav_title: Photo Gallery
 | ![](/images/2022event1.jpg)| ![](/images/2022event2.jpg) |  ![](/images/2022event3.jpg) |
 | -------- | -------- | -------- |
 | [January - Back to School](https://www.flickr.com/photos/194559165@N03/sets/72177720296063090/)  | [February - CNY Celebration](https://www.flickr.com/photos/194559165@N03/sets/72177720297059514/)    |[February - Total Defence Day](https://www.flickr.com/photos/194559165@N03/sets/72177720297270361/)  |
+| ![](/images/2022event4.jpg) | ![](/images/2022event5.jpg) | ![](/images/2022event6.jpg)|
+|[February - Founder's Day (Scouts)](https://www.flickr.com/photos/194559165@N03/sets/72177720297275216/)|[February - P3 Science Learning Journey](https://www.flickr.com/photos/194559165@N03/sets/72177720297846123/)|[March - P5 DNA Basics Workshop](https://www.flickr.com/photos/194559165@N03/sets/72177720298211635/)|
 
 
 <p><a href="https://www.flickr.com/photos/194559165@N03/sets/72177720297275216/"><img src="/images/2022event4.jpg" style="width:30%;margin-right:15px;margin-left:15px;" align = "left"></a></p>
