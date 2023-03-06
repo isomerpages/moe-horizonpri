@@ -91,9 +91,10 @@ description: ""
 | Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
-| **Mdm Peggy Teh** | 
-| Management Support Officer    | 
-|[teh_leong_hong@schools.gov.sg](mailto:teh_leong_hong@schools.gov.sg)|
+| **Mdm Intariya Ong**| **Mdm Toh Waraporn**| |
+| Operations Support Officer   | Operations Support Officer   |  |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | []()    |
+|     |    |     |
 
 
 
