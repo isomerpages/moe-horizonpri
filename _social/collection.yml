@@ -2,5 +2,6 @@ collections:
   social:
     output: true
     order:
+      - Motivation Programme.md
       - Fresh Me Up.md
       - Social.md
