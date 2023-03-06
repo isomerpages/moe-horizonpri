@@ -17,7 +17,25 @@ In conclusion, the icon shows that we are all strong individuals with leadership
 Next, the colour of the bird: red, purple, yellow and blue. These colours stand for the houses: Respect, Integrity, Compassion and Excellence respectively. This gives others the message that they should expect these values in us. Last but not least, the school logo along with the word “Horizon Alumni” is to show that we are still part of Horizon Primary School.
 
 #### **Horizon Alumni Committee-Organisation Structure**
-<img src="/images/horizonalumni2.jpg" style="width:85%">
+| Mr Liu Yifeng | Mr Aaron Ng | Ms Celine Tan |
+| -------- | -------- | -------- |
+| Chairman | Vice-Chairman | Secretary   |
+|     |      |     |
+| **Ms Kyra Tan** | **Ms Shah Yashvi Tejas** | **Ms Chloe Choo** |
+Treasurer   |  Head of Programmes 1    | Head of Programmes 2    |
+|     |    |     |
+| **Ms Shyanne Loo** | **Ms Ariel Siow** | **Mr Jedidiah Hoe** |
+| Head of Programmes 3   | Vice-Head of Programmes 1    | Vice-Head of Programmes 2  |
+|     |    |     |
+| **Mr Matthew Jude Thomas** | **Mr Colston Chua** | **Ms Gisele Tan** |
+| Vice-Head of Programmes 3  | Member     | Member   |
+|     |    |     |
+| **Ms Dyanne Loo** | **Mr Jeremy Neo** | **Ms Celeste Yong** |
+| Member | Member     | Member   |
+|     |    |     |
+| **Ms Olivia Qiu** | **Ms Ava Ng** | **Ms Kalepu Sri Akshitha** |
+| Member | Member     | Member   |
+|     |    |     |
 
 #### **Words From The People In The Alumni Committee:**
 The reason I joined the committee is that I wanted to continue to develop my leadership skills and hope to give back to the school. I feel that Horizon Primary holds a lot of great memories I made with friends and the teachers, and I wanted to give others more great memories of Horizon Primary school.<br>
