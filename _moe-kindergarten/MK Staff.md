@@ -3,11 +3,10 @@ title: MK Staff
 permalink: /moe-kindergarten/teaching-staff-2023/
 description: ""
 ---
-
 ### **MK Staff**
 | Mrs Priscilla Lee | Mdm Nurhidaya Bte Abdullah |
 | -------- | -------- |
-| Centre Head | Deputy Centre Head     | Year Head/Upper Primary    |
+| Centre Head | Deputy Centre Head     |
 | [toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) |
 |     |    |     |
 
@@ -38,4 +37,4 @@ description: ""
 |     |    |     |
 | **Ms Lin Chun Yan**  |   
 |MK Educator    |   
-| [lin\_chun\_yan@schools.gov.sg](mailto:lin_chun_yan@schools.gov.sg) 
+| [lin\_chun\_yan@schools.gov.sg](mailto:lin_chun_yan@schools.gov.sg)
