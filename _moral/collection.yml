@@ -1,4 +1,5 @@
 collections:
   moral:
     output: true
-    order: []
+    order:
+      - We Care Club CCA.md
