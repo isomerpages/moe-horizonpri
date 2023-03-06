@@ -4,40 +4,10 @@ permalink: /our-partners/schools-service-providers/canteen-menus-2022/
 description: ""
 third_nav_title: School's Service Providers
 ---
-### **Canteen Menus 2022**
+### **Canteen Menus 2023**
 
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg">
-<img src="/images/stall1.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
 
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg">
-<img src="/images/stall2.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
+|[ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)| [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)| [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)|
+| -------- | -------- | -------- |-------- |
+| [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu5.jpg)| [ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg)| [ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg) | [ ![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg)|
 
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg">
-<img src="/images/stall3.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg">
-<img src="/images/stall4.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
-
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu5.jpg">
-<img src="/images/stall5.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg">
-<img src="/images/stall6.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg">
-<img src="/images/stall7.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<p><a href="https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg">
-<img src="/images/stall8.jpg" style="width:22%;margin-right:15px;" align = "left">
-</a></p>
-
-<br clear="left">
