@@ -87,9 +87,9 @@ description: ""
 | Operations Manager   | Operations Support Officer    | Operations Support Officer   |
 | [lim_sin_soon@schools.gov.sg](mailto:Lim_Sin_Soon@schools.gov.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 |     |    |     |
-| **Mdm Nor Haslinda Bte Mehad**| **Mr Abdul Rashid**| **Mdm Cheong Kum Hoe Janet**|
-| Administration Executive   | ICT Associate/Manager     | Management Support Office |
-| [haslinda_mehad@schools.gov.sg](mailto:haslinda_mehad@schools.gov.sg) | [abdul_rashid_rahmatulla@schools.gov.sg](mailto:abdul_rashid_rahmatulla@schools.gov.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
+| **Mr Bay Ah Hock**| **Mdm Gan Fung Ling**| **Mdm Ow Kum Chee Jennifer**|
+| Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
 | **Mdm Peggy Teh** | 
 | Management Support Officer    | 
