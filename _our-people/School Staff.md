@@ -80,6 +80,23 @@ description: ""
 | Management Support Officer    | 
 |[teh_leong_hong@schools.gov.sg](mailto:teh_leong_hong@schools.gov.sg)|
 
+### School Operations Team
+
+| **Mr Lim Sin Soon** | **Mdm Fung Siew Koon** | **Mdm Chua Lian Hoong** |
+| -------- | -------- | -------- |
+| Operations Manager   | Operations Support Officer    | Operations Support Officer   |
+| [lim_sin_soon@schools.gov.sg](mailto:Lim_Sin_Soon@schools.gov.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
+|     |    |     |
+| **Mdm Nor Haslinda Bte Mehad**| **Mr Abdul Rashid**| **Mdm Cheong Kum Hoe Janet**|
+| Administration Executive   | ICT Associate/Manager     | Management Support Office |
+| [haslinda_mehad@schools.gov.sg](mailto:haslinda_mehad@schools.gov.sg) | [abdul_rashid_rahmatulla@schools.gov.sg](mailto:abdul_rashid_rahmatulla@schools.gov.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
+|     |    |     |
+| **Mdm Peggy Teh** | 
+| Management Support Officer    | 
+|[teh_leong_hong@schools.gov.sg](mailto:teh_leong_hong@schools.gov.sg)|
+
+
+
 ### Teachers 2023
 
 ##### Primary 1
