@@ -14,4 +14,4 @@ third_nav_title: Video Gallery
 <br><hr>
 
 #### **Joyful Learning Experiences**
-<iframe width="700" height="350" src="https://www.youtube.com/embed/I2TmWzWy6w4" title="Joyful Learning Beyond Classroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2TmWzWy6w4" title="Joyful Learning Beyond Classroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
