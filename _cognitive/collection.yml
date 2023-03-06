@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - In House EL Programmes.md
       - Robotics Club CCA.md
       - Mother Tongue Language Fortnight.md
       - Excellence 2000 (E2K) Science.md
