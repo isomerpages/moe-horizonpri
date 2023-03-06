@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - Ever ready to Reduce, Reuse, Recycle (ER3).md
       - iDesign.md
       - MOE Sexuality Education in Schools.md
       - Values in Action (VIA).md
