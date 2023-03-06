@@ -67,10 +67,10 @@ description: ""
 
 ### School Admin Team
 
-| **Mrs Kalpana Kumar** | **Mrs Thilagavathi Sivakumar** | **Mdm Teo Hwee Keng Kelly** |
+| **Mr Marvin Lee** | **Mdm Nurasyiqin Bte Mohamed Shafei** | **Mdm Dorothy Lim** |
 | -------- | -------- | -------- |
-| English Lead Teacher   | Science Senior Teacher    | Chinese Language Senior Teacher    |
-| [kalpana_letchiman@schools.gov.sg](mailto:kalpana_letchiman@schools.gov.sg) | [thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)|
+| Administration Manager   | Administration Executive    | Administration Executive    |
+| [marvin_lee@schools.gov.sg](mailto:Marvin_LEE@schools.gov.sg) | [nurasyiqin_mohamed_shafei@schools.gov.sg](mailto:nurasyiqin_mohamed_shafei@schools.gov.sg) | [lim_hwee_leng_a@schools.gov.sg](mailto:lim_hwee_leng_a@schools.gov.sg)|
 |     |    |     |
 | **Mdm Chang Ma Li**| **Mdm Dayana Binte Ismail**| **Mdm Sumathi D/O Krishnasamy**|
 | Chinese Language Senior Teacher   | Malay Language Senior Teacher     | Tamil Language Senior Teacher |
