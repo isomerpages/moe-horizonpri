@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - P6 Exhibition Module.md
       - P4 Museum Based Learning.md
       - Viva La Musica.md
       - Appetite For The Arts.md
