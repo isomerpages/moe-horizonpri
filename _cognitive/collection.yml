@@ -2,5 +2,6 @@ collections:
   cognitive:
     output: true
     order:
+      - International Chess Club CCA.md
       - InfoComm Club CCA.md
       - Cognitive.md
