@@ -120,9 +120,9 @@ description: ""
 | P1 Thinker (Form Teacher)   | P1 Creator (Form Teacher)     | P1 Creator (Form Teacher) |
 | [wong_hang_kuan@schools.gov.sg](mailto:Wong_Hang_Kuan@schools.gov.sg) | [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg)  | [tay_soong_kiang@schools.gov.sg](mailto:tay_soong_kiang@schools.gov.sg)    |
 |     |    |     |
-| **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
-| Educational Support ST    | Physical Education ST    | CCE ST    |
-|[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) |
+| **Mdm Geraldine Liew** | **Mdm Dayana Binte Ismail**| **Mdm Kang Pei Yee, Evelyn**|
+| P1 Reflector (Form Teacher)   | P1 Reflector (Form Teacher)  | P1 Inventor (Form Teacher)    |
+|[liew_zhi_ling_geraldine@schools.gov.sg](mailto:Liew_ZHI_LING_GERALDINE@schools.gov.sg)|[dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg)|[kang_pei_yee_evelyn@schools.gov.sg](mailto:Kang_Pei_Yee_Evelyn@schools.gov.sg) |
 
 ##### Primary 2
 ##### Primary 3
