@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Wushu CCA.md
       - Ten Pin Bowling CCA.md
       - Swimming.md
       - SafePlay @ Recess.md
