@@ -1,4 +1,3 @@
-
 collections:
   our-experiences:
     output: true
@@ -29,7 +28,6 @@ collections:
       - Moral/MOE Sexuality Education in Schools.md
       - Moral/Values in Action (VIA).md
       - Moral/Education and Career Guidance (ECG).md
-      - Moral/We Care Club CCA.md
       - Physical/.keep
       - Physical/Physical.md
       - Physical/Badminton CCA.md
