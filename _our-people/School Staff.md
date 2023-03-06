@@ -121,6 +121,14 @@ description: ""
 | P1 Thinker (Form Teacher)   | P1 Creator (Form Teacher)    | P1 Creator (Form Teacher)|
 [wong_hang_kuan@schools.gov.sg](mailto:wong_hang_kuan@schools.gov.sg)| [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:tay_soong_kiang@schools.gov.sg)|
 |     |    |     |
+| **Mdm Geraldine Liew** | **Mdm Dayana Bte Ismail** | **Mdm Kang Pei Yee, Evelyn** |
+| P1 Reflector (Form Teacher)   | P1 Reflector (Form Teacher)   | P1 Inventor (Form Teacher)|
+[liew_zhi_ling_geraldine@schools.gov.sg](mailto:liew_zhi_ling_geraldine@schools.gov.sg)| [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [kang_pei_yee_evelyn@schools.gov.sg](mailto:kang_pei_yee_evelyn@schools.gov.sg)|
+|     |    |     |
+| **Mdm Sumathi D/O Krishnasamy** | **Ms Godh Ching Xian Vivian** | **Mdm Norain Bte Ahmad** |
+| P1 Inventor (Form Teacher)   | P1 Inquirer (Form Teacher)   | P1 Inquirer (Form Teacher)|
+[sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)| [ching_xian_vivian_goh@schools.gov.sg](mailto:ching_xian_vivian_goh@schools.gov.sg) | [norain_ahmad@schools.gov.sg](mailto:norain_ahmad@schools.gov.sg)|
+|     |    |     |
 ##### Primary 2
 ##### Primary 3
 ##### Primary 4
