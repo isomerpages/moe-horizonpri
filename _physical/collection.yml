@@ -1,4 +1,5 @@
 collections:
   physical:
     output: true
-    order: []
+    order:
+      - Physical.md
