@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Junior Olympic Games.md
       - Rope Skipping CCA.md
       - Football CCA.md
       - Basketball CCA.md
