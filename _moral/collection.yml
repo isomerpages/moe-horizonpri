@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - Moral.md
       - Eco Club CCA.md
       - Ever ready to Reduce, Reuse, Recycle (ER3).md
       - iDesign.md
