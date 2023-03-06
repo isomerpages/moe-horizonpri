@@ -111,7 +111,7 @@ description: ""
 ### Teachers 2023
 
 ##### Primary 1
-| **Mdm Marleena Binte Jaafar** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
+|**Mdm Marleena Binte Jaafar** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
 | -------- | -------- | -------- |
 | P1 Innovator (Form Teacher)   | P1 Innovator (Form Teacher)     | P1 Thinker (Form Teacher)   |
 | [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg) | [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg) | [chen_zhaochen@schools.gov.sg](mailto:chen_zhaochen@schools.gov.sg)|
