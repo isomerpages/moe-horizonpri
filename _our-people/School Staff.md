@@ -96,6 +96,14 @@ description: ""
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | []()    |
 |     |    |     |
 
+### Support Staff
+
+| **Mdm Koh Lay Wan Agnes** | **Mr Muhammad Aryffin Bin Norazman** | **Mr Ye Ting** |
+| -------- | -------- | -------- |
+| Admin Assistant   | Desktop Engineer    | Desktop Engineer   |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
+|     |    |     |
+
 
 ### Teachers 2023
 
