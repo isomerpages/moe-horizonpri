@@ -27,54 +27,14 @@ description: ""
 | MK Educator    | MK Educator    | MK Educator   |
 [angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [desiree\_ang\_yan\_ting@schools.gov.sg](mailto:desiree_Ang_Yan_Ting@schools.gov.sg) |[bavani\_subramaniam@schools.gov.sg](mailto:bavani_subramaniam@schools.gov.sg) | 
 |     |    |     |
-| **Mdm April Tan Yun Lin**   | **Mdm Suzanah Bte Yahaya**    | **Mr Choo Yong Guan**     |
-| SH/Aesthetics  | SH/Assessment    | SH/Partnership     |
-| [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg)| [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [choo_yong_guan@schools.gov.sg](mailto:choo_yong_guan@schools.gov.sg) |
+| **Ms Bian Ni**   | **Ms Agnes Hong Lai Fun**    | **Ms Sun Biling**     |
+| MK Educator  | MK Educator    | MK Educator |
+| [bian\_ni@schools.gov.sg](mailto:bian_ni@schools.gov.sg) |[chen\_cen@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) | 
 |     |    |     |
-| **Mdm Rozanah Abdul Rahim**     | **Mdm Enn Cai Ying**   | **Mr Roy Chua**    |
-| SH/Student Leadership   | SH/Innovation    | SH/ICT   |
-| [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg)| [enn_cai_ying@schools.gov.sg](mailto:enn_cai_ying@schools.gov.sg)| [chua_chun_hua_a@schools.gov.sg](mailto:chua_chun_hua_a@schools.gov.sg) |
+| **Ms Fu Yuehua**     | **Ms Chen Chen**   | **Ms Yong Moi Ling**    |
+| MK Educator   | MK Educator | MK Educator   |
+| [fu\_yuehua@schools.gov.sg](mailto:fu_yuehua@schools.gov.sg) | [chen\_cen@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) | 
 |     |    |     |
-| **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
-|Administration Manager    | Operations Manager    | 
-| [marvin_lee@schools.gov.sg](mailto:marvin_lee@schools.gov.sg) | [lim_sin_soon@schools.gov.sg](mailto:lim_sin_soon@schools.gov.sg)|
-
-<img src="/images/teachingstaff12.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff13.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff14.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-[angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [Desiree\_Ang\_Yan\_Ting@schools.gov.sg](mailto:Desiree_Ang_Yan_Ting@schools.gov.sg) |
-
-<img src="/images/teachingstaff15.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff16.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff17.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [norlina\_dollah@schools.gov.sg](mailto:norlina_dollah@schools.gov.sg) | [Bavani\_Subramaniam@schools.gov.sg](mailto:Bavani_Subramaniam@schools.gov.sg) | [bian\_ni@schools.gov.sg](mailto:bian_ni@schools.gov.sg) |
-
-<img src="/images/teachingstaff18.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff19.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff20.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [hong\_lai\_fun@schools.gov.sg](mailto:hong_lai_fun@schools.gov.sg) | [sun\_biling@schools.gov.sg](mailto:sun_biling@schools.gov.sg) | [fu\_yuehua@schools.gov.sg](mailto:fu_yuehua@schools.gov.sg) |
-
-<img src="/images/teachingstaff21.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff22.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff23.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [chen\_cen@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) | [lin\_chun\_yan@schools.gov.sg](mailto:lin_chun_yan@schools.gov.sg) |
+| **Ms Lin Chun Yan**  |   
+|MK Educator    |   
+| [lin\_chun\_yan@schools.gov.sg](mailto:lin_chun_yan@schools.gov.sg) 
