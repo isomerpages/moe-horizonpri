@@ -131,6 +131,10 @@ description: ""
 | **Ms Toh Xue Le Cheryl** | **Mdm Hong Bee Yuen**| **Mrs Lim Cheong Shu Hui**|
 | P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)  | P1 Discoverer (Form Teacher)    |
 |[toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[cheong_shu_hui@schools.gov.sg](mailto:Cheong_shu_hui@schools.gov.sg) |
+|     |    |     |
+| **Mdm Alice Yeo Puay Koon** || |
+| P1 Discoverer (Form Teacher)   |   | |
+|[yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg)|
 
 ##### Primary 2
 ##### Primary 3
