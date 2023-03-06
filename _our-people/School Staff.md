@@ -112,6 +112,11 @@ description: ""
 ### Teachers 2023
 
 ##### Primary 1
+| **Mr Marvin Lee** | **Mdm Nurasyiqin Bte Mohamed Shafei** | **Mdm Dorothy Lim** |
+| -------- | -------- | -------- |
+| Administration Manager   | Administration Executive    | Administration Executive    |
+| [marvin_lee@schools.gov.sg](mailto:Marvin_LEE@schools.gov.sg) | [nurasyiqin_mohamed_shafei@schools.gov.sg](mailto:nurasyiqin_mohamed_shafei@schools.gov.sg) | [lim_hwee_leng_a@schools.gov.sg](mailto:lim_hwee_leng_a@schools.gov.sg)|
+|     |    |     |
 
 ##### Primary 2
 ##### Primary 3
