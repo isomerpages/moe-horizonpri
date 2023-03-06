@@ -4,7 +4,6 @@ permalink: /our-partners/parents/psg/about-pc/
 description: ""
 third_nav_title: Parents Connect!
 ---
-
 ### **About PC!**
 Parents-Connect! is Horizon Primary School's Parent Support Group, established in November 2011.  
 
