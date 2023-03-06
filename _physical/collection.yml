@@ -2,6 +2,7 @@ collections:
   physical:
     output: true
     order:
+      - Swimming.md
       - SafePlay @ Recess.md
       - Junior Olympic Games.md
       - Rope Skipping CCA.md
