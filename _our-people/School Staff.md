@@ -105,7 +105,7 @@ description: ""
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 |     |    |     |
 | **Mr Tan Teck Tian Sunny**| ||
-| Operations Support Officer   | | |
+| Gardener   | | |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [](mailto:horizon_ps@moe.edu.sg)  | []()    |
 |     |    |     |
 
