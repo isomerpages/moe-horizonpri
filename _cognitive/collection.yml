@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - Excellence 2000 (E2K) Science.md
       - Excellence 2000 (E2K) Mathematics.md
       - Mathematics Alive!.md
       - Leader's Trail.md
