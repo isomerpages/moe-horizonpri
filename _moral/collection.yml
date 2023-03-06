@@ -2,6 +2,7 @@ collections:
   moral:
     output: true
     order:
+      - iDesign.md
       - MOE Sexuality Education in Schools.md
       - Values in Action (VIA).md
       - Education and Career Guidance (ECG).md
