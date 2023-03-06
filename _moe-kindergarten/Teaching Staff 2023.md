@@ -3,12 +3,11 @@ title: Teaching Staff 2023
 permalink: /moe-kindergarten/teaching-staff-2023/
 description: ""
 ---
-
 ### **Teaching Staff 2023**
 | Mrs Priscilla Lee | Mdm Nurhidaya Bte Abdullah | Mr Timothy WangXiang Rong |
 | -------- | -------- | -------- |
 | Centre Head | Deputy Centre Head     | Year Head/Upper Primary    |
-| [lim_buay_tiang@schools.gov.sg](mailto:lim_buay_tiang@schools.gov.sg)     | [lee_lay_hoon_a@schools.gov.sg](mailto:lee_lay_hoon_a@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
+| [toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
 |     |      |     |
 | **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
 | HOD/English Language   | HOD/Mathematics    | HOD/Science    |
