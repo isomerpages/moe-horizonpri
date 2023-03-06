@@ -3,7 +3,7 @@ title: Teaching Staff 2022
 permalink: /moe-kindergarten/teaching-staff-2022/
 description: ""
 ---
-### **Teaching Staff 2022**
+### **Teaching Staff 2023**
 
 <img src="/images/teachingstaff2.jpg" style="width:30%;margin-right:145px;" align = "right">
 <img src="/images/teachingstaff1.jpg" style="width:30%;margin-left:145px;" align = "left">
