@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Art Club CCA.md
       - P6 Exhibition Module.md
       - P4 Museum Based Learning.md
       - Viva La Musica.md
