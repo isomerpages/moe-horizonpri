@@ -76,10 +76,9 @@ description: ""
 | Administration Executive   | ICT Associate/Manager     | Management Support Office |
 | [haslinda_mehad@schools.gov.sg](mailto:haslinda_mehad@schools.gov.sg) | [abdul_rashid_rahmatulla@schools.gov.sg](mailto:abdul_rashid_rahmatulla@schools.gov.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
-| **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
-| Educational Support ST    | Physical Education ST    | CCE ST    |
-|[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) |
-
+| **Mdm Peggy Teh** | 
+| Management Support Officer    | 
+|[teh_leong_hong@schools.gov.sg](mailto:teh_leong_hong@schools.gov.sg)|
 
 ### Teachers 2023
 
