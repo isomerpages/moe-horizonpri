@@ -150,11 +150,11 @@ description: ""
 |     |    |     |
 | **Mr Muhammad Farouk Bin Rahim** | **Ms Tan Cher Hui Tessari** | **Ms Lin Suting** |
 | P2 Reflector (Form Teacher)   | P2 Reflector (Form Teacher)   | P2 Inventor (Form Teacher)|
-[md_farouk_rahim@schools.gov.sg](mailto:md_farouk_rahim@schools.gov.sg)| [tan_cher_hui_tessari@schools.gov.sg](mailto:tan_cher_hui_tessari@schools.gov.sg) | [kang_pei_yee_evelyn@schools.gov.sg](mailto:kang_pei_yee_evelyn@schools.gov.sg)|
+[md_farouk_rahim@schools.gov.sg](mailto:md_farouk_rahim@schools.gov.sg)| [tan_cher_hui_tessari@schools.gov.sg](mailto:tan_cher_hui_tessari@schools.gov.sg) | [lin_suting@schools.gov.sg](mailto:lin_suting@schools.gov.sg)|
 |     |    |     |
-| **Mdm Sumathi D/O Krishnasamy** | **Ms Goh Ching Xian Vivian** | **Mdm Norain Bte Ahmad** |
-| P1 Inventor (Form Teacher)   | P1 Inquirer (Form Teacher)   | P1 Inquirer (Form Teacher)|
-[sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)| [ching_xian_vivian_goh@schools.gov.sg](mailto:ching_xian_vivian_goh@schools.gov.sg) | [norain_ahmad@schools.gov.sg](mailto:norain_ahmad@schools.gov.sg)|
+| **Mdm Koh Meow Li** | **Mrs Choo Chai Fang Jaslyn** | **Ms Arani Zuliffah Bte Tahar** |
+| P2 Inventor (Form Teacher)   | P2 Inquirer (Form Teacher)   | P2 Inquirer (Form Teacher)|
+[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)| [choo_chai_fang@schools.gov.sg](mailto:choo_chai_fang@schools.gov.sg) | [arani_zuliffah@schools.gov.sg](mailto:arani_zuliffah@schools.gov.sg)|
 |     |    |     |
 | **Ms Toh Xue Le Cheryl** | **Mdm Hong Bee Yuen** | **Mrs Lim-Cheong Shu Hui** |
 | P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)   | P1 Discoverer (Form Teacher)|
