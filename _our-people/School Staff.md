@@ -74,7 +74,7 @@ description: ""
 | [marvin_lee@schools.gov.sg](mailto:Marvin_LEE@schools.gov.sg) | [nurasyiqin_mohamed_shafei@schools.gov.sg](mailto:nurasyiqin_mohamed_shafei@schools.gov.sg) | [lim_hwee_leng_a@schools.gov.sg](mailto:lim_hwee_leng_a@schools.gov.sg)|
 |     |    |     |
 | **Mdm Nor Haslinda Bte Mehad**| **Mr Abdul Rashid**| **Mdm Cheong Kum Hoe Janet**|
-| Administration Executive   | ICT Associate/Manager     | Management Support Office |
+| Administration Executive   | ICT Associate     | Management Support Officer |
 | [haslinda_mehad@schools.gov.sg](mailto:haslinda_mehad@schools.gov.sg) | [abdul_rashid_rahmatulla@schools.gov.sg](mailto:abdul_rashid_rahmatulla@schools.gov.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
 | **Mdm Peggy Teh** | 
