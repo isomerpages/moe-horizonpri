@@ -127,6 +127,10 @@ description: ""
 | **Mdm Sumathi d/o Krishnasamy** | **Ms Goh Ching Xian Vivian**| **Mdm Norain Binte Ahmad**|
 | P1 Inventor (Form Teacher)   | P1 Inquirer (Form Teacher)  | P1 Inquirer (Form Teacher)    |
 |[sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)|[ching_xian_vivian_goh@schools.gov.sg](mailto:ching_xian_vivian_goh@schools.gov.sg)|[norain_ahmad@schools.gov.sg](mailto:norain_ahmad@schools.gov.sg) |
+|     |    |     |
+| **Ms Toh Xue Le Cheryl** | **Mdm Hong Bee Yuen**| **Mrs Lim Cheong Shu Hui**|
+| P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)  | P1 Discoverer (Form Teacher)    |
+|[toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[cheong_shu_hui@schools.gov.sg](mailto:Cheong_shu_hui@schools.gov.sg) |
 
 ##### Primary 2
 ##### Primary 3
