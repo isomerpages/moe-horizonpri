@@ -112,10 +112,10 @@ description: ""
 ### Teachers 2023
 
 ##### Primary 1
-| **Mr Marvin Lee** | **Mdm Nurasyiqin Bte Mohamed Shafei** | **Mdm Dorothy Lim** |
+| **Mdm Marleena Binte Jaafar** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
 | -------- | -------- | -------- |
-| Administration Manager   | Administration Executive    | Administration Executive    |
-| [marvin_lee@schools.gov.sg](mailto:Marvin_LEE@schools.gov.sg) | [nurasyiqin_mohamed_shafei@schools.gov.sg](mailto:nurasyiqin_mohamed_shafei@schools.gov.sg) | [lim_hwee_leng_a@schools.gov.sg](mailto:lim_hwee_leng_a@schools.gov.sg)|
+| P1 Innovator (Form Teacher)   | P1 Innovator (Form Teacher)    | P1 Thinker (Form Teacher)    |
+| [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg) | [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg) | [chen_zhaochen@schools.gov.sg](mailto:chen_zhaochen@schools.gov.sg)|
 |     |    |     |
 
 ##### Primary 2
