@@ -2,6 +2,7 @@ collections:
   cognitive:
     output: true
     order:
+      - EL Fiesta.md
       - In House EL Programmes.md
       - Robotics Club CCA.md
       - Mother Tongue Language Fortnight.md
