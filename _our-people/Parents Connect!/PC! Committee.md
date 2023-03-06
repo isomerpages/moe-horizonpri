@@ -12,7 +12,7 @@ third_nav_title: Parents Connect!
 | -------- | -------- | -------- |
 | Chairman | Vice-Chairman | Vice-Chairman   |
 |     |      |     |
-| **Mr Ong Kim Chai Leslie** | **Mdm Bai Xiuqi Emily** | **Mdm Evon Chiang** |
+| **Mr Leslie Ong** | **Mdm Emily Bai** | **Mdm Evon Chiang** |
 Secretary   |  Assistant Secretary    | Treasurer    |
 |     |    |     |
 | **Mdm Jasey Ong** | **Mr David Teng** | **Mr Colin Wong** |
