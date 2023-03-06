@@ -2,4 +2,5 @@ collections:
   aesthetics:
     output: true
     order:
+      - Making Thinking Visible in Aesthetics.md
       - Aesthetics.md
