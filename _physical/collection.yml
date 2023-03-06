@@ -2,5 +2,6 @@ collections:
   physical:
     output: true
     order:
+      - Basketball CCA.md
       - Badminton CCA.md
       - Physical.md
