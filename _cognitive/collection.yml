@@ -2,4 +2,5 @@ collections:
   cognitive:
     output: true
     order:
+      - InfoComm Club CCA.md
       - Cognitive.md
