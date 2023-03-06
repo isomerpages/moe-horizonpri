@@ -2,4 +2,5 @@ collections:
   social:
     output: true
     order:
+      - Fresh Me Up.md
       - Social.md
