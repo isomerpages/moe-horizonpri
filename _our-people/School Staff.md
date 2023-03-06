@@ -103,7 +103,10 @@ description: ""
 | Admin Assistant   | Desktop Engineer    | Desktop Engineer   |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 |     |    |     |
-
+| **Mr Tan Teck Tian Sunny**| ||
+| Operations Support Officer   | | |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [](mailto:horizon_ps@moe.edu.sg)  | []()    |
+|     |    |     |
 
 ### Teachers 2023
 
