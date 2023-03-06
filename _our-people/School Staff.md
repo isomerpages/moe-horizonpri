@@ -111,8 +111,6 @@ description: ""
 ### Teachers 2023
 
 ##### Primary 1
-
-
 ##### Primary 2
 ##### Primary 3
 ##### Primary 4
