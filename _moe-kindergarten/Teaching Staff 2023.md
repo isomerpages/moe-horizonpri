@@ -3,19 +3,21 @@ title: Teaching Staff 2023
 permalink: /moe-kindergarten/teaching-staff-2023/
 description: ""
 ---
-### **Teaching Staff 2023**
-| Mrs Priscilla Lee | Mdm Nurhidaya Bte Abdullah | Mr Timothy WangXiang Rong |
-| -------- | -------- | -------- |
+### **MK Staff**
+| Mrs Priscilla Lee | Mdm Nurhidaya Bte Abdullah |
+| -------- | -------- |
 | Centre Head | Deputy Centre Head     | Year Head/Upper Primary    |
-| [toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
-|     |      |     |
-| **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
-| HOD/English Language   | HOD/Mathematics    | HOD/Science    |
-| [loh_shuzhen_sheila@schools.gov.sg ](mailto:loh_shuzhen_sheila@schools.gov.sg )   | [sim_yan_ling_staphni@schools.gov.sg  ](mailto:sim_yan_ling_staphni@schools.gov.sg)   | [low_zihao@schools.gov.sg](mailto:low_zihao@schools.gov.sg)   |
+| [toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) |
 |     |    |     |
-| **Mdm Ng Pei Rong** | **Mr Muhammad Raauuf Othman** | **Mdm Dayangku Nuurul** |
-| HOD/Mother Tongue Languages  | HOD/PE & CCA     | HOD/ICT     |
-| [ng_pei_rong@schools.gov.sg](mailto:ng_pei_rong@schools.gov.sg) | [muhammad_raauuf_othman@schools.gov.sg](mailto:muhammad_raauuf_othman@schools.gov.sg)| [dayangku_nuurul_aida_fatima@schools.gov.sg](mailto:dayangku_nuurul_aida_fatima@schools.gov.sg) |
+
+| **Mdm Siti Raudhah Bte Haji Halmi** | **Ms Leo Yek Kwee** | **Ms Vetharupeni Thanalan Rubi** |
+| -------- | -------- | -------- |
+| ST/Malay Language   | ST/English Language    | MK Educator 
+| [siti\_raudhah\_haji\_halimi@schools.gov.sg](mailto:siti_raudhah_haji_halimi@schools.gov.sg) | [leo\_yek\_kwee@schools.gov.sg](mailto:leo_yek_kwee@schools.gov.sg) | [vetharupeni\_thanalan@schools.gov.sg](mailto:vetharupeni_thanalan@schools.gov.sg/) |
+|     |    |     |
+| **Ms Aishawaria Susan D/O Isaac Raju** | **Ms Lim Shan Hui** | **Naasiha Bte Reduan** |
+| MK Educator   | MK Educator      | MK Educator      |
+| [aishwaria\_susan\_isaac\_raju@schools.gov.sg](mailto:aishwaria_susan_isaac_raju@schools.gov.sg) | [lim\_shan\_hui@schools.gov.sg](mailto:lim_shan_hui@schools.gov.sg) | [naasiha\_reduan@schools.gov.sg](mailto:naasiha_reduan@schools.gov.sg) | 
 |     |    |     |
 | **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zichao Sigmund**   |
 | HOD/CCE    | HOD/Planning & Engagement    | HOD/Innovation    |
@@ -36,35 +38,6 @@ description: ""
 | **Mr Marvin Lee**  | **Mr Lim Sin Soon**    | 
 |Administration Manager    | Operations Manager    | 
 | [marvin_lee@schools.gov.sg](mailto:marvin_lee@schools.gov.sg) | [lim_sin_soon@schools.gov.sg](mailto:lim_sin_soon@schools.gov.sg)|
-
-<img src="/images/teachingstaff2.jpg" style="width:30%;margin-right:145px;" align = "right">
-<img src="/images/teachingstaff1.jpg" style="width:30%;margin-left:145px;" align = "left">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| [toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) |
-
-<img src="/images/teachingstaff3.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff4.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff5.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [siti\_raudhah\_haji\_halimi@schools.gov.sg](mailto:siti_raudhah_haji_halimi@schools.gov.sg) | [leo\_yek\_kwee@schools.gov.sg](mailto:leo_yek_kwee@schools.gov.sg) | [vetharupeni\_thanalan@schools.gov.sg](mailto:vetharupeni_thanalan@schools.gov.sg/) |
-
-<img src="/images/teachingstaff6.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff7.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff8.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [aishwaria\_susan\_isaac\_raju@schools.gov.sg](mailto:aishwaria_susan_isaac_raju@schools.gov.sg) | [lim\_shan\_hui@schools.gov.sg](mailto:lim_shan_hui@schools.gov.sg) | [nuraqida\_mohammed\_elias@schools.gov.sg](mailto:nuraqida_mohammed_elias@schools.gov.sg) |
 
 <img src="/images/teachingstaff9.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/teachingstaff10.jpg" style="width:30%;margin-right:15px;" align = "left">
