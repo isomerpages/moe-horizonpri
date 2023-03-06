@@ -67,20 +67,19 @@ description: ""
 
 ### School Admin Team
 
-| Mr Marvin Lee | Mdm Nurasyiqin Bte Mohamed Shafei | Mdm Dorothy Lim |
+| **Mrs Kalpana Kumar** | **Mrs Thilagavathi Sivakumar** | **Mdm Teo Hwee Keng Kelly** |
 | -------- | -------- | -------- |
-| Administration Manager    | Administration Executive    | Administration Executive     |
-| Marvin_LEE@schools.gov.sg  | nurasyiqin_mohamed_shafei@schools.gov.sg    |lim_hwee_leng_a@schools.gov.sg|
+| English Lead Teacher   | Science Senior Teacher    | Chinese Language Senior Teacher    |
+| [kalpana_letchiman@schools.gov.sg](mailto:kalpana_letchiman@schools.gov.sg) | [thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)|
+|     |    |     |
+| **Mdm Chang Ma Li**| **Mdm Dayana Binte Ismail**| **Mdm Sumathi D/O Krishnasamy**|
+| Chinese Language Senior Teacher   | Malay Language Senior Teacher     | Tamil Language Senior Teacher |
+| [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg)  | [sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)    |
+|     |    |     |
+| **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
+| Educational Support ST    | Physical Education ST    | CCE ST    |
+|[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)|[hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) |
 
-| Mdm Nor Haslinda Bte Mehad | Mr Abdul Rashid | Mdm Cheong Kum Hoe Janet |
-| -------- | -------- | -------- |
-| Administration Executive    | ICT Associate    | Management Support Officer     |
-|haslinda_mehad@schools.gov.sg| abdul_rashid_rahmatulla@schools.gov.sg   |cheong_kum_hoe_janet@schools.gov.sg|
-
-| Mdm Peggy Teh |  |  |
-| -------- | -------- | -------- |
-| Management Support Officer |  
-|teh_leong_hong@schools.gov.sg| 
 
 ### Teachers 2023
 
