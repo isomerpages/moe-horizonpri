@@ -20,7 +20,7 @@ description: ""
 
 | Mrs Shirley Lim Buay Tiang | Mrs Sim Lay Hoon | Mr Timothy WangXiang Rong |
 | -------- | -------- | -------- |
-| Year Head, Lower Pri | Year Head, Middle Pri     | Year Head, Upper Pri    |
+| Year Head/Lower Primary | Year Head/Middle Primary     | Year Head/Upper Primary    |
 | [lim_buay_tiang@schools.gov.sg](mailto:lim_buay_tiang@schools.gov.sg)     | [lee_lay_hoon_a@schools.gov.sg](mailto:lee_lay_hoon_a@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
 |     |      |     |
 | **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
