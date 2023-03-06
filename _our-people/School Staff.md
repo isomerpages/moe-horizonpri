@@ -144,9 +144,9 @@ description: ""
 | P2 Innovator (Form Teacher)   | P2 Innovator (Form Teacher)    | P2 Thinker (Form Teacher)    |
 | [wee_si_ya_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [michael_joseph@schools.gov.sg](mailto:michael_joseph@schools.gov.sg)|
 |     |    |     |
-| **Ms Charlene Wong** | **Mdm Goh Xiang Ting Diana** | **Mrs Kelly Wong** |
-| P1 Thinker (Form Teacher)   | P1 Creator (Form Teacher)    | P1 Creator (Form Teacher)|
-[wong_hang_kuan@schools.gov.sg](mailto:wong_hang_kuan@schools.gov.sg)| [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:tay_soong_kiang@schools.gov.sg)|
+| **Ms Nur Ainninah Bte Noor Muhamed** | **Mdm Eka Syafiqah Bte Ahmad Nasir** | **Mdm Chang Ma Li** |
+| P2 Thinker (Form Teacher)   | P2 Creator (Form Teacher)    | P2 Creator (Form Teacher)|
+[nur_ainninah_noor_muhamed@schools.gov.sg](mailto:nur_ainninah_noor_muhamed@schools.gov.sg)| [eka_syafiqah_ahmad_nasir@schools.gov.sg](mailto:eka_syafiqah_ahmad_nasir@schools.gov.sg) | [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg)|
 |     |    |     |
 | **Mdm Geraldine Liew** | **Mdm Dayana Bte Ismail** | **Mdm Kang Pei Yee, Evelyn** |
 | P1 Reflector (Form Teacher)   | P1 Reflector (Form Teacher)   | P1 Inventor (Form Teacher)|
