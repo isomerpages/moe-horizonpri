@@ -19,13 +19,13 @@ description: ""
 | MK Educator   | MK Educator      | MK Educator      |
 | [aishwaria\_susan\_isaac\_raju@schools.gov.sg](mailto:aishwaria_susan_isaac_raju@schools.gov.sg) | [lim\_shan\_hui@schools.gov.sg](mailto:lim_shan_hui@schools.gov.sg) | [naasiha\_reduan@schools.gov.sg](mailto:naasiha_reduan@schools.gov.sg) | 
 |     |    |     |
-| **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zichao Sigmund**   |
-| HOD/CCE    | HOD/Planning & Engagement    | HOD/Innovation    |
-| [shieh_siao_yan_carol@schools.gov.sg](mailto:shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](mailto:yew_zu_yao_jonathan@schools.gov.sg) | [seow_zichao_sigmund@schools.gov.sg](mailto:seow_zichao_sigmund@schools.gov.sg)|
+| **Ms Annabel Kim Wee**  | **Ms Sara Leo**    | **Ms Leck Chi Ling**   |
+| MK Educator     | MK Educator     | MK Educator    |
+[annabel\_kim\_wee@schools.gov.sg](mailto:annabel_kim_wee@schools.gov.sg) | [leo\_tiew\_wei@schools.gov.sg](mailto:leo_tiew_wei@schools.gov.sg) | [leck\_chi\_ling@schools.gov.sg](mailto:leck_chi_ling@schools.gov.sg) | 
 |     |    |     |
-| **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
-| LH/Mathematics    | SH/National Education & Social Studies     | SH/Student Wellbeing   |
-| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)| [chen_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg) |
+| **Mrs Imran**    | **Ms Desiree Ang Yan Ting**    | **Ms Bavani D/O Subramaniam**     |
+| MK Educator    | MK Educator    | MK Educator   |
+[angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [desiree\_ang\_yan\_ting@schools.gov.sg](mailto:desiree_Ang_Yan_Ting@schools.gov.sg) |[bavani\_subramaniam@schools.gov.sg](mailto:bavani_subramaniam@schools.gov.sg) | 
 |     |    |     |
 | **Mdm April Tan Yun Lin**   | **Mdm Suzanah Bte Yahaya**    | **Mr Choo Yong Guan**     |
 | SH/Aesthetics  | SH/Assessment    | SH/Partnership     |
@@ -39,16 +39,6 @@ description: ""
 |Administration Manager    | Operations Manager    | 
 | [marvin_lee@schools.gov.sg](mailto:marvin_lee@schools.gov.sg) | [lim_sin_soon@schools.gov.sg](mailto:lim_sin_soon@schools.gov.sg)|
 
-<img src="/images/teachingstaff9.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff10.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/teachingstaff11.jpg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| [naasiha\_reduan@schools.gov.sg](mailto:naasiha_reduan@schools.gov.sg) | [annabel\_kim\_wee@schools.gov.sg](mailto:annabel_kim_wee@schools.gov.sg) | [leo\_tiew\_wei@schools.gov.sg](mailto:leo_tiew_wei@schools.gov.sg) |
-
 <img src="/images/teachingstaff12.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/teachingstaff13.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/teachingstaff14.jpg" style="width:30%;margin-right:15px;" align = "left">
@@ -57,7 +47,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| [leck\_chi\_ling@schools.gov.sg](mailto:leck_chi_ling@schools.gov.sg) | [angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [Desiree\_Ang\_Yan\_Ting@schools.gov.sg](mailto:Desiree_Ang_Yan_Ting@schools.gov.sg) |
+[angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [Desiree\_Ang\_Yan\_Ting@schools.gov.sg](mailto:Desiree_Ang_Yan_Ting@schools.gov.sg) |
 
 <img src="/images/teachingstaff15.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/teachingstaff16.jpg" style="width:30%;margin-right:15px;" align = "left">
