@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Viva La Musica.md
       - Appetite For The Arts.md
       - Making Thinking Visible in Aesthetics.md
       - Aesthetics.md
