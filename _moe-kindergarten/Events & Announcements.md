@@ -4,54 +4,14 @@ permalink: /moe-kindergarten/events-and-announcements/
 description: ""
 ---
 ### **Events & Announcements**
-#### **Registration - 2022 MOE Kindergarten Virtual Open House**
-Is your child turning 5 years old in 2023? The online registration for MOE Kindergarten (MK) 2023 K1 admissions will open from 9am on Friday, 4 February 2022 and close at 4pm on Tuesday, 8 February 2022. To find out more about the pre-school experience at MK, join us at the MK Virtual Open House taking place on Saturday, 29 January 2022, 9.30am - 12.30pm.
+#### **2023 MOE Kindergarten Virtual Open House**
+For the first time in three years, our MKs will be holding a physical Open House for parents to tour the learning environment and speak to the MK educators in person. We warmly welcome you and your child to sign up for the 2023 MOE Kindergarten Open House on 11 and 18 February 2023 from 9.00am to 1.00pm, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!   
 
-Sign up today at [www.moe.gov.sg/mk](http://www.moe.gov.sg/mk)!
+Open House at MK@Horizon will be held on **18 February 2023, 9.00am to 1.00pm**. You will get an opportunity to get a glimpse of our learning environment and speak with our MK educators to understand more about the MK curriculum as well as our signature programmes.
 
-<img src="/images/eventandannouncement1.jpg" style="width:55%">
+Should you require further details on the other MKs which our schools offer, please visit the [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten) website.
 
-#### **2022 Waitlist Application Form**
-Dear Parents,<br>
-Please scan / click on the link below to submit your application.<br>
-Thank you.
-
-<img src="/images/eventandannouncement2.jpg" style="width:55%">
-
-#### **2021 MOE Kindergarten and KCARE K1 Orientation Briefing**
-
-Then 2021 MOE Kindergarten (MK) Open House was conducted online via Zoom on 18 Nov 2021.  
-  
-We have included what was shared on that day here.  
-
-Click **[here](/files/orientation1.pdf)** to view the MK@HR K1 Orientation 2021 presentation slides.  
-
-Click **[here](/files/orientation2.pdf)** to view the MK@HR K1 Briefing 2021 presentation slides.   
-  
-Click **[here](/files/orientation3.pdf)** to view MK KCare K1 Orientation 2021 presentation slides.  
-  
-Watch how a day is like at MK@Horizon.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G7Xbf18aDpU" title="A Day at MK at Horizon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### **2021 MOE Kindergarten Virtual Open House**
-
-The 2021 MOE Kindergarten (MK) Open House was conducted online via Zoom on 30 Jan 2021.
-
-We have included what was shared on that day here. 
-
-Click **[here](/files/orientation4.pdf)** to view the MK@HR Open House 2021 presentation slides.
-
-How does our MK@Horizon and KC@Horizon learning environment look like? Watch the videos below to find out more!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ld6XYgTIfn0" title="MK@Horizon Learning Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7ceAdi-oJFI" title="KCare@Horizon Learning Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### **Registration - 2021 MOE Kindergarten Virtual Open House**
-The 2021 MOE Kindergarten (MK) Open House will be conducted online via Zoom on **30 Jan 2021**. Find out more about the Virtual Open House and how you can sign up by visiting [MOE’s MK website](https://beta.moe.gov.sg/preschool/moe-kindergarten/mkvirtualopenhouse2021/). Register your interest before 28 Jan 2021. We look forward to seeing you!
-
-<img src="/images/eventandannouncement3.jpg" style="width:75%">
+![Picture1.jpg](https://horizonpri.moe.edu.sg/qql/slot/u174/Picture1.jpg)
 
 #### **Sale of MK Uniform**
 **Sale of MK Uniform by Jeep Sing Fashion**<br>
