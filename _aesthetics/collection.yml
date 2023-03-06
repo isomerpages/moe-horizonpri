@@ -2,5 +2,6 @@ collections:
   aesthetics:
     output: true
     order:
+      - Appetite For The Arts.md
       - Making Thinking Visible in Aesthetics.md
       - Aesthetics.md
