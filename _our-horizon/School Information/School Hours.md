@@ -4,9 +4,8 @@ permalink: /our-horizon/school-hours/
 description: ""
 third_nav_title: School Information
 ---
-
 ### **School Hours**
-Reporting time for the students for 2021: **7.30 am**
+Reporting time for the students for 2023: **7.30 am**
 
 #### **School hours for Primary 1 to 6**
 
