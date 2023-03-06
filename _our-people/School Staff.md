@@ -72,9 +72,9 @@ description: ""
 | Administration Manager   | Administration Executive    | Administration Executive    |
 | [marvin_lee@schools.gov.sg](mailto:Marvin_LEE@schools.gov.sg) | [nurasyiqin_mohamed_shafei@schools.gov.sg](mailto:nurasyiqin_mohamed_shafei@schools.gov.sg) | [lim_hwee_leng_a@schools.gov.sg](mailto:lim_hwee_leng_a@schools.gov.sg)|
 |     |    |     |
-| **Mdm Chang Ma Li**| **Mdm Dayana Binte Ismail**| **Mdm Sumathi D/O Krishnasamy**|
-| Chinese Language Senior Teacher   | Malay Language Senior Teacher     | Tamil Language Senior Teacher |
-| [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg) | [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg)  | [sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)    |
+| **Mdm Nor Haslinda Bte Mehad**| **Mr Abdul Rashid**| **Mdm Cheong Kum Hoe Janet**|
+| Administration Executive   | ICT Associate/Manager     | Management Support Office |
+| [haslinda_mehad@schools.gov.sg](mailto:haslinda_mehad@schools.gov.sg) | [abdul_rashid_rahmatulla@schools.gov.sg](mailto:abdul_rashid_rahmatulla@schools.gov.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
 | **Mdm Koh Meow Li** | **Mdm Hong Bee Yuen**| **Mrs Maurice G O'hara**|
 | Educational Support ST    | Physical Education ST    | CCE ST    |
