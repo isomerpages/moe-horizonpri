@@ -2,5 +2,6 @@ collections:
   moral:
     output: true
     order:
+      - Values in Action (VIA).md
       - Education and Career Guidance (ECG).md
       - We Care Club CCA.md
