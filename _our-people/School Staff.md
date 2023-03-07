@@ -179,7 +179,9 @@ description: ""
 | [thasneem_parveen_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)| [hirman_abdul_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) |
 | | | |
 | Text     | Text     | Text     |
-
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| | | |
 
 ##### Primary 4
 ##### Primary 5
