@@ -161,10 +161,10 @@ description: ""
 | P2 Explorer (Form Teacher)|P2 Explorer (Form Teacher)|P2 Discoverer (Form Teacher)|
 |[sai_syamla_krisna@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)| [lai_hui_ming@schools.gov.sg](mailto:lai_hui_ming@schools.gov.sg) | [ong_zhi_yong_gary@schools.gov.sg](mailto:ong_zhi_yong_gary@schools.gov.sg)|
 | | | |
-| **Ms Rachel Tan** | 
-| P2 Discoverer (Form Teacher)|
-[tan_rachel@schools.gov.sg](mailto:tan_rachel@schools.gov.sg)| 
-|     |    |     |
+|**Ms Rachel Tan**| | | 
+|P2 Discoverer (Form Teacher)| | |
+|[tan_rachel@schools.gov.sg](mailto:tan_rachel@schools.gov.sg)| | |
+| | | |
 
 ##### Primary 3
 ##### Primary 4
