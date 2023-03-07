@@ -206,8 +206,8 @@ description: ""
 | Text     | Text     | Text     |
 | | | |
 | Mrs Veronica Lim | Mdm Ng Kah Suan   |  |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Text     | Text     |    |
+| Text     | Text     |    |
 
 ##### Primary 5
 ##### Primary 6
