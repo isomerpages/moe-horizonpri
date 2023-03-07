@@ -186,8 +186,8 @@ description: ""
 |P3 Inventor (Form Teacher) |P3 Inquirer (Form Teacher) |P3 Inquirer (Form Teacher)|
 |[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) |[thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [norla_jailani@schools.gov.sg](mailto:norla_jailani@schools.gov.sg)    |
 
-
-
 ##### Primary 4
+
+
 ##### Primary 5
 ##### Primary 6
