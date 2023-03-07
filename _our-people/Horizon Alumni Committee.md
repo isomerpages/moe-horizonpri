@@ -19,22 +19,22 @@ Next, the colour of the bird: red, purple, yellow and blue. These colours stand 
 #### **Horizon Alumni Committee-Organisation Structure**
 | Mr Liu Yifeng | Mr Aaron Ng | Ms Celine Tan |
 | -------- | -------- | -------- |
-| Chairman | Vice-Chairman | Secretary   |
+|Chairman|Vice-Chairman|Secretary|
 | | | |
-| **Ms Kyra Tan** | **Ms Shah Yashvi Tejas** | **Ms Chloe Choo** |
-|Treasurer   |  Head of Programmes 1    | Head of Programmes 2    |
+|**Ms Kyra Tan**|**Ms Shah Yashvi Tejas**|**Ms Chloe Choo**|
+|Treasurer|Head of Programmes 1| Head of Programmes 2|
 | | | |
-| **Ms Shyanne Loo** | **Ms Ariel Siow** | **Mr Jedidiah Hoe** |
-| Head of Programmes 3   | Vice-Head of Programmes 1    | Vice-Head of Programmes 2  |
+|**Ms Shyanne Loo**|**Ms Ariel Siow**|**Mr Jedidiah Hoe**|
+|Head of Programmes 3|Vice-Head of Programmes 1|Vice-Head of Programmes 2|
 | | | |
-| **Mr Matthew Jude Thomas** | **Mr Colston Chua** | **Ms Gisele Tan** |
-| Vice-Head of Programmes 3  | Member     | Member   |
+|**Mr Matthew Jude Thomas**|**Mr Colston Chua**|**Ms Gisele Tan**|
+|Vice-Head of Programmes 3|Member|Member|
 | | | |
-| **Ms Dyanne Loo** | **Mr Jeremy Neo** | **Ms Celeste Yong** |
-| Member | Member     | Member   |
+|**Ms Dyanne Loo**|**Mr Jeremy Neo**|**Ms Celeste Yong**|
+|Member|Member|Member|
 | | | |
-| **Ms Olivia Qiu** | **Ms Ava Ng** | **Ms Kalepu Sri Akshitha** |
-| Member | Member     | Member   |
+|**Ms Olivia Qiu**|**Ms Ava Ng**|**Ms Kalepu Sri Akshitha**|
+|Member|Member|Member|
 
 
 #### **Words From The People In The Alumni Committee:**
