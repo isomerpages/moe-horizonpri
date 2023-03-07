@@ -182,13 +182,10 @@ description: ""
 |P3 Reflector (Form Teacher) |P3 Reflector (Form Teacher)| P3 Inventor (Form Teacher)|
 | [saleha_hashim@schools.gov.sg](mailto:saleha_hashim@schools.gov.sg)| [tay_aik_poh@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg) | [glenda_ding_shi_yu@schools.gov.sg](mailto:glenda_ding_shi_yu@schools.gov.sg) |
 | | | |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| | | |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+|**Mdm Nootan Rai**|**Mrs Thilagavathi Sivakumar**|**Ms Norla Jailani**|
+|P3 Inventor (Form Teacher) |P3 Inquirer (Form Teacher) |P3 Inquirer (Form Teacher)|
+|[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) |[thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [norla_jailani@schools.gov.sg](mailto:norla_jailani@schools.gov.sg)    |
+
 
 
 ##### Primary 4
