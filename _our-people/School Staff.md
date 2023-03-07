@@ -167,6 +167,20 @@ description: ""
 | | | |
 
 ##### Primary 3
+
+
+| Mr Ng Kwee Hiong | Mdm Zhang Lingxia | Mr Ang Shih Piow Stanley |
+| -------- | -------- | -------- |
+| P3 Innovator (Form Teacher) | P3 Innovator (Form Teacher) | P3 Thinker (Form Teacher)   |
+|[ng_kwee_hiong@schools.gov.sg](mailto:ng_kwee_hiong@schools.gov.sg)| [zhang_lingxia@schools.gov.sg](mailto:zhang_lingxia@schools.gov.sg) | [ang_shih_piow_stanley@schools.gov.sg](mailto:ang_shih_piow_stanley@schools.gov.sg) |
+| | | |
+|**Mdm Thasneem Parveen D/O Sirazudeen** |**Mr Hirman Abdul Rahim**| **Mrs Felicia Tham**|
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| | | |
+| Text     | Text     | Text     |
+
+
 ##### Primary 4
 ##### Primary 5
 ##### Primary 6
