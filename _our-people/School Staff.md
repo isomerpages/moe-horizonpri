@@ -85,7 +85,7 @@ description: ""
 
 | **Mr Lim Sin Soon** | **Mdm Fung Siew Koon** | **Mdm Chua Lian Hoong** |
 | -------- | -------- | -------- |
-| Operations Manager   | Operations Support Officer | Operations Support Officer |
+| Operations Manager   | Operations Support Officer    | Operations Support Officer   |
 | [lim_sin_soon@schools.gov.sg](mailto:Lim_Sin_Soon@schools.gov.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 |     |    |     |
 | **Mr Bay Ah Hock**| **Mdm Gan Fung Ling**| **Mdm Ow Kum Chee Jennifer**|
@@ -112,31 +112,12 @@ description: ""
 ### Teachers 2023
 
 ##### Primary 1
+
 | **Mdm Marleena Binte Jaafar** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
 | -------- | -------- | -------- |
-| P1 Innovator (Form Teacher)   | P1 Innovator (Form Teacher)    | P1 Thinker (Form Teacher)    |
+| P1 Innovator (Form Teacher)   | P1 Innovator (Form Teacher)    | P1 Thinker (Form Teacher) |
 | [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg) | [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg) | [chen_zhaochen@schools.gov.sg](mailto:chen_zhaochen@schools.gov.sg)|
-|     |    |     |
-| **Ms Charlene Wong** | **Mdm Goh Xiang Ting Diana** | **Mrs Kelly Wong** |
-| P1 Thinker (Form Teacher)   | P1 Creator (Form Teacher)    | P1 Creator (Form Teacher)|
-[wong_hang_kuan@schools.gov.sg](mailto:wong_hang_kuan@schools.gov.sg)| [goh_xiang_ting_diana@schools.gov.sg](mailto:goh_xiang_ting_diana@schools.gov.sg) | [tay_soong_kiang@schools.gov.sg](mailto:tay_soong_kiang@schools.gov.sg)|
-|     |    |     |
-| **Mdm Geraldine Liew** | **Mdm Dayana Bte Ismail** | **Mdm Kang Pei Yee, Evelyn** |
-| P1 Reflector (Form Teacher)   | P1 Reflector (Form Teacher)   | P1 Inventor (Form Teacher)|
-[liew_zhi_ling_geraldine@schools.gov.sg](mailto:liew_zhi_ling_geraldine@schools.gov.sg)| [dayana_ismail@schools.gov.sg](mailto:dayana_ismail@schools.gov.sg) | [kang_pei_yee_evelyn@schools.gov.sg](mailto:kang_pei_yee_evelyn@schools.gov.sg)|
-|     |    |     |
-| **Mdm Sumathi D/O Krishnasamy** | **Ms Goh Ching Xian Vivian** | **Mdm Norain Bte Ahmad** |
-| P1 Inventor (Form Teacher)   | P1 Inquirer (Form Teacher)   | P1 Inquirer (Form Teacher)|
-[sumathi_krishnasamy@schools.gov.sg](mailto:sumathi_krishnasamy@schools.gov.sg)| [ching_xian_vivian_goh@schools.gov.sg](mailto:ching_xian_vivian_goh@schools.gov.sg) | [norain_ahmad@schools.gov.sg](mailto:norain_ahmad@schools.gov.sg)|
-|     |    |     |
-| **Ms Toh Xue Le Cheryl** | **Mdm Hong Bee Yuen** | **Mrs Lim-Cheong Shu Hui** |
-| P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)   | P1 Discoverer (Form Teacher)|
-[toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg)| [hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg) | [cheong_shu_hui@schools.gov.sg](mailto:cheong_shu_hui@schools.gov.sg)|
-|     |    |     |
-| **Mdm Alic Yeo Puay Koon** | 
-| P1 Discoverer (Form Teacher)|
-[yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg)| 
-|     |    |     |
+|     |     | 
 
 ##### Primary 2
 | **Ms Dorcas Wee Si Ya** | **Mdm Suzanah Bte Yahaya** | **Mr Michael Joseph** |
