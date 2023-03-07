@@ -10,7 +10,7 @@ sections:
       background: /images/hero.gif
       url: /contact-us/
       key_highlights:
-        - title: Announcement
+        - title: Announcements
           description: ""
           url: /announcements/
         - title: Quick Links
