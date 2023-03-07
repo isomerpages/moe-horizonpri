@@ -17,7 +17,19 @@ In conclusion, the icon shows that we are all strong individuals with leadership
 Next, the colour of the bird: red, purple, yellow and blue. These colours stand for the houses: Respect, Integrity, Compassion and Excellence respectively. This gives others the message that they should expect these values in us. Last but not least, the school logo along with the word “Horizon Alumni” is to show that we are still part of Horizon Primary School.
 
 #### **Horizon Alumni Committee-Organisation Structure**
-| Mr Liu Yifeng | Mr Aaron Ng | Ms Celine Tan |
+
+
+| Mr Liu Yifeng | Mr Aaron Ng | Ms Celine Tan  |
+| -------- | -------- | -------- |
+|Chairman|Vice-Chairman|Secretary|
+| | | |
+|**Ms Kyra Tan**|**Ms Shah Yashvi Tejas**|**Ms Chloe Choo**|
+|Treasurer|Head of Programmes 1|Head of Programmes 2|
+| | | |
+|**Ms Shyanne Loo**|**Ms Ariel Siow**|**Mr Jedidiah Hoe**|
+|Head of Programmes 3|Vice-Head of Programmes 1|Vice-Head of Programmes 2|
+
+| Mr Liu Yifeng |  | Ms Celine Tan |
 | -------- | -------- | -------- |
 |Chairman|Vice-Chairman|Secretary|
 | | | |
