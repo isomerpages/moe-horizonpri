@@ -39,10 +39,10 @@ Treasurer   |  Head of Programmes 1    | Head of Programmes 2    |
 
 #### **Words From The People In The Alumni Committee:**
 The reason I joined the committee is that I wanted to continue to develop my leadership skills and hope to give back to the school. I feel that Horizon Primary holds a lot of great memories I made with friends and the teachers, and I wanted to give others more great memories of Horizon Primary school.<br>
-**\-Celine \[Treasurer\]**
+**\-Celine \[Secretary\]**
 
 I wanted to join this committee as I think it is a good way to gain experience. Plus, I like giving back to the school so it is a win-win situation.<br>
-**\-Kyra \[Secretary\]**
+**\-Kyra \[Treasurer\]**
 
 I join the committee as it is a good opportunity to develop my leadership and responsibility; and an opportunity to repay the school for accompanying me on my journey for 6 years. Horizon Primary School is a great school that focuses on the values of the students and provides multiple opportunities for the students to flourish. I hope by joining this committee, i can help the alumni to reconnect with the school, to reconnect with one's roots.<br>
 **\-Aaron \[Vice Chairperson\]**
