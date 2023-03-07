@@ -193,15 +193,19 @@ description: ""
 | P4 Innovator (Form Teacher)| P4 Innovator (Form Teacher)|P4 Thinker (Form Teacher)|
 | [siti_nadia_abdul_rahman@schools.gov.sg](mailto:siti_nadia_abdul_rahman@schools.gov.sg)| [quek_ser_kwang@schools.gov.sg](mailto:quek_ser_kwang@schools.gov.sg)    | [nicholas_chang_wenjie@schools.gov.sg](mailto:nicholas_chang_wenjie@schools.gov.sg) |
 | | | |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| | | |
-| Text     | Text     | Text     |
+| Mdm Ning Ning | Mr Ivan Tan Seng Hock  | Mdm Teh Chai Choo  |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | | | |
+| Mrs Gwen Yu|Mdm Zhang Bingjie|Mrs Doreen Lim |
 | Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| | | |
+| Mdm Jayce Chua Siew Fen  | Mdm Fatin Yasirah  | Mrs Cylvi Lin     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| | | |
+| Mrs Veronica Lim | Mdm Ng Kah Suan   |  |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 
