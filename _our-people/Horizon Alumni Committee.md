@@ -28,6 +28,9 @@ Next, the colour of the bird: red, purple, yellow and blue. These colours stand 
 | | | |
 |**Ms Shyanne Loo**|**Ms Ariel Siow**|**Mr Jedidiah Hoe**|
 |Head of Programmes 3|Vice-Head of Programmes 1|Vice-Head of Programmes 2|
+||||
+|**Mr Matthew Jude Thomas**|**Mr Colston Chua**|**Ms Gisele Tan**|
+|Vice-Head of Programmes 3|Member|Member|
 
 | Mr Liu Yifeng |  | Ms Celine Tan |
 | -------- | -------- | -------- |
