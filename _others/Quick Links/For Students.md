@@ -4,8 +4,6 @@ permalink: /forstudents/
 description: ""
 third_nav_title: Quick Links
 ---
-
-
 **Student Learning Space (SLS)**
 --------------------------------
 
@@ -34,12 +32,8 @@ Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-hel
 
 Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-helpdesk)
 
-**Video Conferencing Platforms**
+**Video Conferencing Platform**
 --------------------------------
-
-### _Google Meet_
-
-[https://apps.google.com/meet/](https://apps.google.com/meet/)
 
 ### _Zoom_
 
