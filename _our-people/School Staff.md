@@ -157,10 +157,10 @@ description: ""
 |P2 Inventor (Form Teacher)| P2 Inquirer (Form Teacher)| P2 Inquirer (Form Teacher)|
 |[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)| [choo_chai_fang@schools.gov.sg](mailto:choo_chai_fang@schools.gov.sg) | [arani_zuliffah@schools.gov.sg](mailto:arani_zuliffah@schools.gov.sg)|
 | | | |
-| **Md Sai Syamla Krisna** | **Ms Lai Hui Ming** | **Mr Ong Zhi Yong Gary** |
-| P2 Explorer (Form Teacher)   | P2 Explorer (Form Teacher)   | P2 Discoverer (Form Teacher)|
-[sai_syamla_krisna@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)| [lai_hui_ming@schools.gov.sg](mailto:lai_hui_ming@schools.gov.sg) | [ong_zhi_yong_gary@schools.gov.sg](mailto:ong_zhi_yong_gary@schools.gov.sg)|
-|     |    |     |
+|**Md Sai Syamla Krisna**|**Ms Lai Hui Ming**|**Mr Ong Zhi Yong Gary**|
+| P2 Explorer (Form Teacher)|P2 Explorer (Form Teacher)|P2 Discoverer (Form Teacher)|
+|[sai_syamla_krisna@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)| [lai_hui_ming@schools.gov.sg](mailto:lai_hui_ming@schools.gov.sg) | [ong_zhi_yong_gary@schools.gov.sg](mailto:ong_zhi_yong_gary@schools.gov.sg)|
+| | | |
 | **Ms Rachel Tan** | 
 | P2 Discoverer (Form Teacher)|
 [tan_rachel@schools.gov.sg](mailto:tan_rachel@schools.gov.sg)| 
