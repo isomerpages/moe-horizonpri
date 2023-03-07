@@ -142,9 +142,9 @@ description: ""
 
 |**Ms Dorcas Wee Si Ya**|**Mdm Suzanah Bte Yahaya**|**Mr Michael Joseph**|
 | -------- | -------- | -------- |
-| P2 Innovator (Form Teacher)   | P2 Innovator (Form Teacher)    | P2 Thinker (Form Teacher)    |
-| [wee_si_ya_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [michael_joseph@schools.gov.sg](mailto:michael_joseph@schools.gov.sg)|
-|     |    |     |
+| P2 Innovator (Form Teacher)| P2 Innovator (Form Teacher)| P2 Thinker (Form Teacher)|
+|[wee_si_ya_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [michael_joseph@schools.gov.sg](mailto:michael_joseph@schools.gov.sg)|
+| | | |
 | **Ms Nur Ainninah Bte Noor Muhamed** | **Mdm Eka Syafiqah Bte Ahmad Nasir** | **Mdm Chang Ma Li** |
 | P2 Thinker (Form Teacher)   | P2 Creator (Form Teacher)    | P2 Creator (Form Teacher)|
 [nur_ainninah_noor_muhamed@schools.gov.sg](mailto:nur_ainninah_noor_muhamed@schools.gov.sg)| [eka_syafiqah_ahmad_nasir@schools.gov.sg](mailto:eka_syafiqah_ahmad_nasir@schools.gov.sg) | [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg)|
