@@ -85,7 +85,7 @@ description: ""
 
 | **Mr Lim Sin Soon** | **Mdm Fung Siew Koon** | **Mdm Chua Lian Hoong** |
 | -------- | -------- | -------- |
-| Operations Manager   | Operations Support Officer    | Operations Support Officer   |
+| Operations Manager   | Operations Support Officer | Operations Support Officer |
 | [lim_sin_soon@schools.gov.sg](mailto:Lim_Sin_Soon@schools.gov.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
 |     |    |     |
 | **Mr Bay Ah Hock**| **Mdm Gan Fung Ling**| **Mdm Ow Kum Chee Jennifer**|
