@@ -175,8 +175,8 @@ description: ""
 |[ng_kwee_hiong@schools.gov.sg](mailto:ng_kwee_hiong@schools.gov.sg)| [zhang_lingxia@schools.gov.sg](mailto:zhang_lingxia@schools.gov.sg) | [ang_shih_piow_stanley@schools.gov.sg](mailto:ang_shih_piow_stanley@schools.gov.sg) |
 | | | |
 |**Mdm Thasneem Parveen D/O Sirazudeen** |**Mr Hirman Abdul Rahim**| **Mrs Felicia Tham**|
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| P3 Thinker (Form Teacher)  |P3 Creator (Form Teacher)   | P3 Creator (Form Teacher)  |
+| [thasneem_parveen_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)| [hirman_abdul_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) |
 | | | |
 | Text     | Text     | Text     |
 
