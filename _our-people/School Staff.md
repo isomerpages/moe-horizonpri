@@ -188,10 +188,10 @@ description: ""
 
 ##### Primary 4
 
-| Column 1 | Column 2 | Column 3 |
+| Mdm Siti Nadia Bte Abdul Rahman | Mr Quek Ser Kwang | Mr Nicholas Chang Wenjie |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| P4 Innovator (Form Teacher)| P4 Innovator (Form Teacher)|P4 Thinker (Form Teacher)|
+| [siti_nadia_abdul_rahman@schools.gov.sg](mailto:siti_nadia_abdul_rahman@schools.gov.sg)| [quek_ser_kwang@schools.gov.sg](mailto:quek_ser_kwang@schools.gov.sg)    | [nicholas_chang_wenjie@schools.gov.sg](mailto:nicholas_chang_wenjie@schools.gov.sg) |
 | | | |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
