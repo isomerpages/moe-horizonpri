@@ -15,12 +15,11 @@ third_nav_title: Parents Connect!
 | **Mr Leslie Ong** | **Mdm Emily Bai** | **Mdm Evon Chiang**|
 |Secretary|Assistant Secretary|Treasurer|
 | | | |
-| **Mdm Jasey Ong** | **Mr David Teng** | **Mr Colin Wong** |
+|**Mdm Jasey Ong**|**Mr David Teng**|**Mr Colin Wong**|
 |Member| Member|Member|
 | | | |
-| **Mdm Sathya** | **Mdm Teris Tan** | **Mdm Junita** |
-| Member   | Member     | Member   |
-|     |    |     |
-| **Mrs Christine Shen** |
-| Member   |
-|     |    |     |
+|**Mdm Sathya**|**Mdm Teris Tan**|**Mdm Junita**|
+|Member Member|Member|
+| | | |
+|**Mrs Christine Shen**| | |
+|Member| | |
