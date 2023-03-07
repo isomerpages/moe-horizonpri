@@ -19,8 +19,6 @@ description: ""
 | -------- | -------- | 
 | Member | Member |
 | *Founder, Village Consultancy: Leadership, Parenting & Family Coach* | *Associate Professor, Head of Learning Sciences & Assessment NIE, NTU* |
-
-| Ms Laksha Mehta| Ms Paulin Phoon Lai Yee | 
-| -------- | -------- | 
+| **Ms Laksha Mehta**| **Ms Paulin Phoon Lai Yee** | 
 | Member | Member |
 | *Head of Training, Forward Looking Training and Consultancy* | *Founder, SOOS OIO LLP and COMEBACK Pte Ltd* |
