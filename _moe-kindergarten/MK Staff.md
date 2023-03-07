@@ -11,15 +11,6 @@ description: ""
 |     |    |     |
 
 
-
-
-
-| Mrs Priscilla Lee | Mdm Nurhidaya Bte Abdullah |
-| -------- | -------- |
-| Centre Head | Deputy Centre Head |
-[toh\_oi\_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah\_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) |
-|     |    |     |
-
 | **Mdm Siti Raudhah Bte Haji Halmi** | **Ms Leo Yek Kwee** | **Ms Vetharupeni Thanalan Rubi** |
 | -------- | -------- | -------- |
 | ST/Malay Language   | ST/English Language    | MK Educator 
