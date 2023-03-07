@@ -178,8 +178,8 @@ description: ""
 | P3 Thinker (Form Teacher)  |P3 Creator (Form Teacher)   | P3 Creator (Form Teacher)  |
 | [thasneem_parveen_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)| [hirman_abdul_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) |
 | | | |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| **Ms Saleha Bte Hashim** | **Mr Tay Aik Poh**  | **Ms Glenda Ding Shi Yu** |
+|P3 Reflector (Form Teacher) |P3 Reflector (Form Teacher)| P3 Inventor (Form Teacher)|
 | Text     | Text     | Text     |
 | | | |
 
