@@ -139,7 +139,8 @@ description: ""
 [yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg)| | |
 
 ##### Primary 2
-| **Ms Dorcas Wee Si Ya** | **Mdm Suzanah Bte Yahaya** | **Mr Michael Joseph** |
+
+|**Ms Dorcas Wee Si Ya**|**Mdm Suzanah Bte Yahaya**|**Mr Michael Joseph**|
 | -------- | -------- | -------- |
 | P2 Innovator (Form Teacher)   | P2 Innovator (Form Teacher)    | P2 Thinker (Form Teacher)    |
 | [wee_si_ya_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [michael_joseph@schools.gov.sg](mailto:michael_joseph@schools.gov.sg)|
