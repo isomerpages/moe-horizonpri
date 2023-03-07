@@ -124,7 +124,7 @@ description: ""
 | | | |
 | **Mdm Geraldine Liew** | **Mdm Dayana Bte Ismail** | **Mdm Kang Pei Yee, Evelyn** |  
 | P1 Reflector (Form Teacher) | P1 Reflector (Form Teacher) | P1 Inventor (Form Teacher)|  
-|[liew_zhi_ling_geraldine@schools.gov.sg](mailto:liew_zhi_ling_geraldine@schools.gov.sg)| [dayana_ismail@schools.gov.sg](mailto:dayana\_ismail@schools.gov.sg) | \[[kang\_pei\_yee\_evelyn@schools.gov.sg](mailto:kang_pei_yee_evelyn@schools.gov.sg)\](mailto:kang\_pei\_yee\_evelyn@schools.gov.sg)|
+|[liew_zhi_ling_geraldine@schools.gov.sg](mailto:liew_zhi_ling_geraldine@schools.gov.sg)| [dayana_ismail@schools.gov.sg](mailto:dayana\_ismail@schools.gov.sg) | [kang_pei_yee_evelyn@schools.gov.sg](mailto:kang_pei_yee_evelyn@schools.gov.sg)]|
 
 ##### Primary 2
 | **Ms Dorcas Wee Si Ya** | **Mdm Suzanah Bte Yahaya** | **Mr Michael Joseph** |
