@@ -145,10 +145,10 @@ description: ""
 | P2 Innovator (Form Teacher)| P2 Innovator (Form Teacher)| P2 Thinker (Form Teacher)|
 |[wee_si_ya_dorcas@schools.gov.sg](mailto:wee_si_ya_dorcas@schools.gov.sg) | [suzanah_yahaya@schools.gov.sg](mailto:suzanah_yahaya@schools.gov.sg) | [michael_joseph@schools.gov.sg](mailto:michael_joseph@schools.gov.sg)|
 | | | |
-| **Ms Nur Ainninah Bte Noor Muhamed** | **Mdm Eka Syafiqah Bte Ahmad Nasir** | **Mdm Chang Ma Li** |
-| P2 Thinker (Form Teacher)   | P2 Creator (Form Teacher)    | P2 Creator (Form Teacher)|
-[nur_ainninah_noor_muhamed@schools.gov.sg](mailto:nur_ainninah_noor_muhamed@schools.gov.sg)| [eka_syafiqah_ahmad_nasir@schools.gov.sg](mailto:eka_syafiqah_ahmad_nasir@schools.gov.sg) | [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg)|
-|     |    |     |
+|**Ms Nur Ainninah Bte Noor Muhamed**|**Mdm Eka Syafiqah Bte Ahmad Nasir**|**Mdm Chang Ma Li**|
+| P2 Thinker (Form Teacher)|P2 Creator (Form Teacher)    | P2 Creator (Form Teacher)|
+|[nur_ainninah_noor_muhamed@schools.gov.sg](mailto:nur_ainninah_noor_muhamed@schools.gov.sg)| [eka_syafiqah_ahmad_nasir@schools.gov.sg](mailto:eka_syafiqah_ahmad_nasir@schools.gov.sg)| [chang_ma_li@schools.gov.sg](mailto:chang_ma_li@schools.gov.sg)|
+| | | |
 | **Mr Muhammad Farouk Bin Rahim** | **Ms Tan Cher Hui Tessari** | **Ms Lin Suting** |
 | P2 Reflector (Form Teacher)   | P2 Reflector (Form Teacher)   | P2 Inventor (Form Teacher)|
 [md_farouk_rahim@schools.gov.sg](mailto:md_farouk_rahim@schools.gov.sg)| [tan_cher_hui_tessari@schools.gov.sg](mailto:tan_cher_hui_tessari@schools.gov.sg) | [lin_suting@schools.gov.sg](mailto:lin_suting@schools.gov.sg)|
