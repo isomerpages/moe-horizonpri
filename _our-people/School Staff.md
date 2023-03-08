@@ -207,7 +207,7 @@ description: ""
 | | | |
 | **Mrs Veronica Lim** | **Mdm Ng Kah Suan**   |  |
 |  P4 Explorer (Form Teacher) | P4 Explorer (Form Teacher)  |    |
-| Text     | Text     |    |
+| [tan_choo_keow_veronica@schools.gov.sg](mailto:Tan_CHOO_KEOW_VERONICA@schools.gov.sg)   | [ng_kah_suan@schools.gov.sg](mailto:ng_kah_suan@schools.gov.sg)  |    |
 
 ##### Primary 5
 ##### Primary 6
