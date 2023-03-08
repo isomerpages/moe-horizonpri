@@ -36,8 +36,6 @@ For information on SBB matters, please visit MOE’s website: 
 ### Sexuality Education
 [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 
-[Parents Opt Out Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/2023%20Parents%20opt%20out%20form.pdf)
-
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**<br>
 [HPS SCH ATTIRE SPEC.pdf](/files/p1booklistnuniform2.pdf)<br>
