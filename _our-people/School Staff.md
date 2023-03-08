@@ -195,7 +195,7 @@ description: ""
 | | | |
 | Mdm Ning Ning | Mr Ivan Tan Seng Hock  | Mdm Teh Chai Choo  |
 | P4 Thinker (Form Teacher)| P4 Creator (Form Teacher) |  P4 Creator (Form Teacher) |
-| Text     | Text     | Text     |
+| [ning_ning_a@schools.gov.sg](mailto:ning_ning_a@schools.gov.sg)  | [ivan_tan_seng_hock@schools.gov.sg](mailto:ivan_tan_seng_hock@schools.gov.sg) | [teh_chai_choo@schools.gov.sg](mailto:teh_chai_choo@schools.gov.sg)    |
 | | | |
 | Mrs Gwen Yu|Mdm Zhang Bingjie|Mrs Doreen Lim |
 |  P4 Reflector (Form Teacher)| P4 Reflector (Form Teacher)| P4 Inventor (Form Teacher) |
