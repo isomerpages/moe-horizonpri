@@ -29,10 +29,8 @@ third_nav_title: Quick Links
     *   [Home Access 3.0 Application Form (Online)](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
 
 ### Subject-based Banding
-   
-[Brochure on Subject-based Banding (Primary)](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/1MOE_SBB_ENG_1%20Mar%202018.pdf)
-
-More information available on MOE’s website: [https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
+For information on SBB matters, please visit MOE’s website: 
+[https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
 
 ### Sexuality Education
