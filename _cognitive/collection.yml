@@ -2,15 +2,15 @@ collections:
   cognitive:
     output: true
     order:
+      - Cognitive.md
       - EL Fiesta.md
-      - In House EL Programmes.md
-      - Robotics Club CCA.md
-      - Mother Tongue Language Fortnight.md
       - Excellence 2000 (E2K) Science.md
       - Excellence 2000 (E2K) Mathematics.md
-      - Mathematics Alive!.md
-      - Leader's Trail.md
-      - Science Discovery Day.md
-      - International Chess Club CCA.md
+      - In House EL Programmes.md
       - InfoComm Club CCA.md
-      - Cognitive.md
+      - International Chess Club CCA.md
+      - Leader's Trail.md
+      - Mathematics Alive!.md
+      - Mother Tongue Language Fortnight.md
+      - Robotics Club CCA.md
+      - Science Discovery Day.md
