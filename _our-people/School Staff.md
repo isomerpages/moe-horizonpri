@@ -203,7 +203,7 @@ description: ""
 | | | |
 | **Mdm Jayce Chua Siew Fen** | **Mdm Fatin Yasirah**  | **Mrs Cylvi Lin**     |
 | P4 Inventor (Form Teacher)  | P4 Inquirer (Form Teacher) |  P4 Inquirer (Form Teacher)|
-| Text     | Text     | Text     |
+| [chua_siew_fen@schools.gov.sg](mailto:chua_siew_fen@schools.gov.sg)   | [fatin_yasirah_mohd_yazid@schools.gov.sg](mailto:fatin_yasirah_mohd_yazid@schools.gov.sg)   | [lim_yi_ting_cylvi@schools.gov.sg](mailto:lim_yi_ting_cylvi@schools.gov.sg)  |
 | | | |
 | **Mrs Veronica Lim** | **Mdm Ng Kah Suan**   |  |
 |  P4 Explorer (Form Teacher) | P4 Explorer (Form Teacher)  |    |
