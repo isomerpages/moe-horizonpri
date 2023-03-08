@@ -199,7 +199,7 @@ description: ""
 | | | |
 | Mrs Gwen Yu|Mdm Zhang Bingjie|Mrs Doreen Lim |
 |  P4 Reflector (Form Teacher)| P4 Reflector (Form Teacher)| P4 Inventor (Form Teacher) |
-| [chong_hwei_hwei@schools.gov.sg](mailto:chong_hwei_hwei@schools.gov.sg) | [zhang_bingjie_a@schools.gov.sg](mailto:zhang_bingjie_a@schools.gov.sg)   | Text     |
+| [chong_hwei_hwei@schools.gov.sg](mailto:chong_hwei_hwei@schools.gov.sg) | [zhang_bingjie_a@schools.gov.sg](mailto:zhang_bingjie_a@schools.gov.sg)   | [sin_chui_yi_doreen@schools.gov.sg](mailto:sin_chui_yi_doreen@schools.gov.sg)   |
 | | | |
 | Mdm Jayce Chua Siew Fen  | Mdm Fatin Yasirah  | Mrs Cylvi Lin     |
 | P4 Inventor (Form Teacher)  | P4 Inquirer (Form Teacher) |  P4 Inquirer (Form Teacher)|
