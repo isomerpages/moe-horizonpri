@@ -40,9 +40,8 @@ More information available on MOE’s website: [https://www.moe.gov.sg/primary/
 
 [Parents Opt Out Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/2023%20Parents%20opt%20out%20form.pdf)
 
-### P1 Booklist and Uniform 2023
-**Please find below P1 Booklists and purchasing of school uniform:**<br>
-[P1 Booklist 2023.pdf](/files/p1booklistnuniform1.pdf)<br>
+### School Uniform
+**Please find information on purchasing of school uniforms below:**<br>
 [HPS SCH ATTIRE SPEC.pdf](/files/p1booklistnuniform2.pdf)<br>
 [HPS 2023 Uniform Pricelist.pdf](/files/p1booklistnuniform3.pdf)<br>
 [Uniform Order Form_HPS.pdf](/files/p1booklistnuniform4.pdf)<br>
