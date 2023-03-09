@@ -2,6 +2,7 @@ collections:
   cognitive-main:
     output: true
     order:
+      - InfoComm Club CCA.md
       - In House EL Programmes.md
       - Excellence 2000 (E2K) Mathematics.md
       - Excellence 2000 (E2K) Science.md
