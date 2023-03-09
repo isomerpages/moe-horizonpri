@@ -4,6 +4,15 @@ permalink: /moe-kindergarten/teaching-staff-2023/
 description: ""
 ---
 ### **MK Staff**
+
+
+
+| Mrs Priscilla Lee | Mdm Nur Hidayah Bte Abdullah ||
+| -------- | -------- | -------- |
+| Centre Head     | Deputy Centre Head     | Text     |
+
+
+
 **Mrs Priscilla Lee** | **Mdm Nur Hidayah Bte Abdullah** ||
 | -------- | -------- | -------- |
 | Centre Head   | Deputy Centre Head    | 
