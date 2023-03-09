@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Achievements 2017.md
       - Events Photos 2016.md
       - Canteen Menus 2023.md
       - Achievements 2018.md
