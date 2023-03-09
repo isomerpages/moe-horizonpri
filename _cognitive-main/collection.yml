@@ -2,5 +2,6 @@ collections:
   cognitive-main:
     output: true
     order:
+      - Excellence 2000 (E2K) Science.md
       - EL Fiesta.md
       - Cognitive.md
