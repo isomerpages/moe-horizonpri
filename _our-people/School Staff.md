@@ -134,7 +134,7 @@ description: ""
 | P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)   | P1 Discoverer (Form Teacher)|
 [toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg)| [hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)| [cheong_shu_hui@schools.gov.sg](mailto:cheong_shu_hui@schools.gov.sg)|
 | | | |
-| **Mdm Alic Yeo Puay Koon** | 
+| **Mdm Alice Yeo Puay Koon** | 
 | P1 Discoverer (Form Teacher)|
 [yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg)| | |
 
@@ -157,7 +157,7 @@ description: ""
 |P2 Inventor (Form Teacher)| P2 Inquirer (Form Teacher)| P2 Inquirer (Form Teacher)|
 |[koh_meow_li@schools.gov.sg](mailto:koh_meow_li@schools.gov.sg)| [choo_chai_fang@schools.gov.sg](mailto:choo_chai_fang@schools.gov.sg) | [arani_zuliffah@schools.gov.sg](mailto:arani_zuliffah@schools.gov.sg)|
 | | | |
-|**Md Sai Syamla Krisna**|**Ms Lai Hui Ming**|**Mr Ong Zhi Yong Gary**|
+|**Mdm Sai Syamla Krisna**|**Ms Lai Hui Ming**|**Mr Ong Zhi Yong Gary**|
 | P2 Explorer (Form Teacher)|P2 Explorer (Form Teacher)|P2 Discoverer (Form Teacher)|
 |[sai_syamla_krisna@schools.gov.sg](mailto:sai_syamla_krisna@schools.gov.sg)| [lai_hui_ming@schools.gov.sg](mailto:lai_hui_ming@schools.gov.sg) | [ong_zhi_yong_gary@schools.gov.sg](mailto:ong_zhi_yong_gary@schools.gov.sg)|
 | | | |
@@ -210,4 +210,49 @@ description: ""
 | [tan_choo_keow_veronica@schools.gov.sg](mailto:Tan_CHOO_KEOW_VERONICA@schools.gov.sg)   | [ng_kah_suan@schools.gov.sg](mailto:ng_kah_suan@schools.gov.sg)  |    |
 
 ##### Primary 5
+
+|**Mrs Maurice G O'Hara**|**Mdm Hu Wanchun**|**Mr Ramani Prabhu**|
+| -------- | -------- | -------- |
+| P5 Innovator (Form Teacher)| P5 Innovator (Form Teacher)| P5 Thinker (Form Teacher)|
+|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) | [hu_wanchun@schools.gov.sg](mailto:hu_wanchun@schools.gov.sg) | [ramani_prabhu_r_kalamohan@schools.gov.sg](mailto:ramani_prabhu_r_kalamohan@schools.gov.sg)|
+| | | |
+|**Mrs Zhang Yiyang**|**Mdm Tay Siak Ching**|**Mr Roy Chua**|
+| P5 Thinker (Form Teacher)|P5 Creator (Form Teacher)    | P5 Creator (Form Teacher)|
+|[zhang_yiyang@schools.gov.sg](mailto:zhang_yiyang@schools.gov.sg)| [tay_siak_ching@schools.gov.sg](mailto:tay_siak_ching@schools.gov.sg)| [chua_chun_hua_a@schools.gov.sg](mailto:chua_chun_hua_a@schools.gov.sg)|
+| | | |
+|**Ms Tan Su Hui**|**Mr Choo Yong Guan**|**Ms Lin Qizhen**|
+|P5 Reflector (Form Teacher)|P5 Reflector (Form Teacher)|P5 Inventor (Form Teacher)|
+|[tan_su_hui_a@schools.gov.sg](mailto:tan_su_hui_a@schools.gov.sg)| [choo_yong_guan@schools.gov.sg](mailto:choo_yong_guan@schools.gov.sg)| [lin_qizhen@schools.gov.sg](mailto:lin_qizhen@schools.gov.sg)|
+| | | |
+|**Mrs Karen Goh**|**Mdm Nur Nurulshahqairani**|**Ms Ellen Tjio Giem Swat**|
+|P5 Inventor (Form Teacher)| P5 Inquirer (Form Teacher)| P5 Inquirer (Form Teacher)|
+|[karen_goh@schools.gov.sg](mailto:karen_goh@schools.gov.sg)| [nur_nurul_shahqairani_azmi@schools.gov.sg](mailto:nur_nurul_shahqairani_azmi@schools.gov.sg) | [tjio_giem_swat@schools.gov.sg](mailto:tjio_giem_swat@schools.gov.sg)|
+| | | |
+|**Mdm Parveen Begum d/o Gulam Razul**|**Mr Edwin Yu**|**Mr Chia Der Sheng**|
+| P5 Explorer (Form Teacher)|P5 Explorer (Form Teacher)|P5 Discoverer (Form Teacher)|
+|[parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) | [chia_der_sheng@schools.gov.sg](mailto:chia_der_sheng@schools.gov.sg)|
+| | | |
+|**Mdm Devika d/o Murugaiah**| | | 
+|P5 Discoverer (Form Teacher)| | |
+|[devika_murugaiah@schools.gov.sg](mailto:devika_murugaiah@schools.gov.sg)| | |
+| | | |
+
 ##### Primary 6
+
+| Ms Deborah d/o Moses | Mdm Enn Cai Ying | Ms Usha Ramachandra |
+| -------- | -------- | -------- |
+| P6 Innovator (Form Teacher)| P6 Innovator (Form Teacher)|P6 Thinker (Form Teacher)|
+| [deborah_moses@schools.gov.sg](mailto:deborah_moses@schools.gov.sg)| [enn_cai_ying@schools.gov.sg](mailto:enn_cai_ying@schools.gov.sg)    | [usha_ramachandra@schools.gov.sg](mailto:usha_ramachandra@schools.gov.sg) |
+| | | |
+| **Ms Chen Kaiying** | **Mr Randolph Ong**  | **Ms Ong Yiu Yah**  |
+| P6 Thinker (Form Teacher)| P6 Creator (Form Teacher) |  P6 Creator (Form Teacher) |
+| [chen_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg)  | [ong_yi_qi_randolph@schools.gov.sg](mailto:ong_yi_qi_randolph@schools.gov.sg) | [ong_yiu_yah@schools.gov.sg](mailto:ong_yiu_yah@schools.gov.sg)    |
+| | | |
+| **Mdm Rozanah Abdul Rahim**|**Mdm Teo Hwee Keng Kelly**|**Mr Tan Wei Jian Jason** |
+|  P6 Reflector (Form Teacher)| P6 Reflector (Form Teacher)| P6 Inventor (Form Teacher) |
+| [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg) | [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)   | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)   |
+| | | |
+| **Ms Hazlina Maideen** | **Mdm Parameswary**  | **Mdm Han Yu Chin**     |
+| P6 Inventor (Form Teacher)  | P Inquirer (Form Teacher) |  P6 Inquirer (Form Teacher)|
+| [hazlina_mohamed_maideen@schools.gov.sg](mailto:hazlina_mohamed_maideen@schools.gov.sg)   | [parameswary_sivarajah@schools.gov.sg](mailto:parameswary_sivarajah@schools.gov.sg)   | [han_yu_chin@schools.gov.sg](mailto:han_yu_chin@schools.gov.sg)  |
+| | | |
