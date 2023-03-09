@@ -2,5 +2,4 @@ collections:
   cognitive:
     output: true
     order:
-      - Robotics Club CCA.md
       - Science Discovery Day.md
