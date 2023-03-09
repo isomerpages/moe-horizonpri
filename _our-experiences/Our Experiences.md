@@ -3,7 +3,7 @@ title: Our Experiences
 permalink: /our-experiences/
 description: ""
 ---
- [![](/images/LLP.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/llp/) 
+[![](/images/LLP.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/llp/) 
  
  [![](/images/Applied%20Leaning%20Programme.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/alp/)
 
