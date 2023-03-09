@@ -1,4 +1,5 @@
 collections:
   cognitive-main:
     output: true
-    order: []
+    order:
+      - Cognitive.md
