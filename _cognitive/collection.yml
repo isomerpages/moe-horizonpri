@@ -2,6 +2,5 @@ collections:
   cognitive:
     output: true
     order:
-      - Mother Tongue Language Fortnight.md
       - Robotics Club CCA.md
       - Science Discovery Day.md
