@@ -1,5 +1,4 @@
 collections:
   cognitive:
     output: true
-    order:
-      - Science Discovery Day.md
+    order: []
