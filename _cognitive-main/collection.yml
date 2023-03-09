@@ -2,4 +2,5 @@ collections:
   cognitive-main:
     output: true
     order:
+      - EL Fiesta.md
       - Cognitive.md
