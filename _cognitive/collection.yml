@@ -2,7 +2,6 @@ collections:
   cognitive:
     output: true
     order:
-      - Mathematics Alive!.md
       - Mother Tongue Language Fortnight.md
       - Robotics Club CCA.md
       - Science Discovery Day.md
