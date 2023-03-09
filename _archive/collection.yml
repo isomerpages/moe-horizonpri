@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - P1 to P6 Booklist 2023.md
       - ReadLit@Horizon.md
       - School Advisory Committee (Old).md
       - School Management.md
