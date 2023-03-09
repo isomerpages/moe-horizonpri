@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - faq.md
       - privacy.md
