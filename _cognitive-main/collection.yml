@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Cognitive Main Page.md
-      - EL Fiesta.md
       - Cognitive.md
