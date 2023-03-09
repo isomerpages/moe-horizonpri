@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - Teacher Leaders.md
       - faq.md
       - privacy.md
