@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - School Management.md
       - Write@Horizon.md
       - Teaching Staff 2023.md
       - Teacher Leaders.md
