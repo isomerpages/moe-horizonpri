@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - ReadLit@Horizon.md
       - School Advisory Committee (Old).md
       - School Management.md
       - Write@Horizon.md
