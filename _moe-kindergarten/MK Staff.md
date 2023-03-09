@@ -9,7 +9,7 @@ description: ""
 
 | Mrs Priscilla Lee | Mdm Nur Hidayah Bte Abdullah ||
 | -------- | -------- | -------- |
-| Centre Head     | Deputy Centre Head     | Text     |
+| Centre Head     | Deputy Centre Head     ||
 
 
 
