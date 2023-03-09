@@ -1,5 +1,4 @@
 collections:
   cog:
     output: true
-    order:
-      - Cognitive.md
+    order: []
