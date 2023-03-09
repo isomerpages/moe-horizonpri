@@ -1,5 +1,0 @@
-collections:
-  cognitive-main:
-    output: true
-    order:
-      - Cognitive Main Page.md
