@@ -6,7 +6,7 @@ description: ""
 ### **MK Staff**
 | Mrs Priscilla Lee | Mdm Nur Hidayah Bte Abdullah ||
 | -------- | -------- | -------- |
-| Centre Head     | Deputy Centre Head     ||
+| Centre Head     | Deputy Centre Head   ||
 | [toh_oi_leng@schools.gov.sg](mailto:toh_oi_leng@schools.gov.sg) | [nurhidayah_abdullah@schools.gov.sg](mailto:nurhidayah_abdullah@schools.gov.sg) |  |
 |     |    |     |
 
