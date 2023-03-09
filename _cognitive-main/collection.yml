@@ -2,6 +2,7 @@ collections:
   cognitive-main:
     output: true
     order:
+      - Robotics Club CCA.md
       - Mother Tongue Language Fortnight.md
       - Mathematics Alive!.md
       - Leader's Trail.md
