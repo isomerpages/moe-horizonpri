@@ -4,12 +4,9 @@ permalink: /our-horizon/school-song/
 description: ""
 third_nav_title: Horizon Identity
 ---
-
 ### **School Song**
 
-**Require audio to be uploaded to youtube**
-
-#### **Horizon Stars**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_65Wjn9NuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Horizon is our school where we<br>
 Learn values and truths, 
