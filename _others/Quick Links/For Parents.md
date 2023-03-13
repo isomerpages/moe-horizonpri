@@ -11,7 +11,7 @@ third_nav_title: Quick Links
   
 ### Forms & Guides
 1.  MOE Financial Assistance Scheme (FAS)
-    *   [Application Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/MOE-FAS-application-form.pdf) (updated on 21st September 2021)
+    *   [Application Form](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx) (updated on 21st September 2021)
     *   [Pamphlet](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/MOE_FAS_Pamphlet_2023.pdf) (updated on 23rd November 2022)
 2.  [Leave of absence form](https://go.gov.sg/nhps-loa-application-form)
 
