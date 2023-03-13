@@ -7,7 +7,7 @@ third_nav_title: Quick Links
 ### Useful Information
 [Traffic Management Plan for Academic Year 2023](https://www.nanhuapri.moe.edu.sg/trafficmanagementplan/)
 
-[Information on Primary School Transfer Service for Change of Address](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/Annex%20B%20-%20Information%20sheet%20for%20parents.pdf)
+[Information on Primary School Transfer Service for Change of Address](https://www.moe.gov.sg/-/media/files/primary/step-by-step-guide-for-primary-school-transfer-service.ashx)
   
 ### Forms & Guides
 1.  MOE Financial Assistance Scheme (FAS)
