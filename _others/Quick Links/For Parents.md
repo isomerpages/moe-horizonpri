@@ -13,7 +13,7 @@ third_nav_title: Quick Links
 1.  MOE Financial Assistance Scheme (FAS)
     *   [Application Form](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx) (updated on 21st September 2021)
     *   [Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance) (updated on 23rd November 2022)
-2.  [Leave of absence form](https://go.gov.sg/nhps-loa-application-form)
+2.  [Leave of absence form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
 
 4.  [Updating of student’s official address](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf) _(updated on 15th October 2019)_  
     
