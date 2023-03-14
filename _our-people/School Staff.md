@@ -256,3 +256,15 @@ description: ""
 | P6 Inventor (Form Teacher)  | P Inquirer (Form Teacher) |  P6 Inquirer (Form Teacher)|
 | [hazlina_mohamed_maideen@schools.gov.sg](mailto:hazlina_mohamed_maideen@schools.gov.sg)   | [parameswary_sivarajah@schools.gov.sg](mailto:parameswary_sivarajah@schools.gov.sg)   | [han_yu_chin@schools.gov.sg](mailto:han_yu_chin@schools.gov.sg)  |
 | | | |
+
+##### SEN Officers
+
+| **Mdm Koh Bee Cheng Dawn** | **Ms Chew Poh Choo Cheryl** | **Mdm Nurazmiah Binte Azman** |
+| -------- | -------- | -------- |
+| Senior School Counsellor   | Senior SEN Officer  | SEN Officer |
+| [koh_bee_cheng@schools.gov.sg](mailto:koh_bee_cheng@schools.gov.sg) | [chew_poh_choo@schools.gov.sg](mailto:chew_poh_choo@schools.gov.sg) | [nurazimah_azman@schools.gov.sg](mailto:nurazimah_azman@schools.gov.sg)|
+| | | |
+| **Mdm Farhana Binte Hassan** |  
+| SEN Officer|  
+|[farhana_hassan@schools.gov.sg](mailto:farhana_hassan@schools.gov.sg)||
+| | | |
