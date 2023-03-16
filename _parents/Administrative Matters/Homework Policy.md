@@ -22,8 +22,7 @@ Our school’s recommendations are as follows:-
     school hours till 3.30p.m.
 2. The approximate time allocation during school term per day / week and holidays are stipulated
     in the table below.
-		
-      
+	
 <table style="width:466.5pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid #EAEAEA .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in" width="622" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid black 1.0pt;mso-border-alt:solid black .75pt;
   background:#F28216;padding:5.25pt 5.25pt 5.25pt 5.25pt"><p style="margin-bottom:0in;text-align:center;
