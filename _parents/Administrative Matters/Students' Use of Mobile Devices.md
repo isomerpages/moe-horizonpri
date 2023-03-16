@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 ### **Students' Use of Mobile Devices**
-We understand that parents/guardians may at times require their children to bring mobile devices to school. The school policy on the use of mobile devices ensures that students are focussed during school hours and not distracted by calls, messaging or using the social media, multimedia and internet functions of the mobile device. Please note the following conditions :
+We understand that parents/guardians may at times require their children to bring mobile devices to school. The school policy on the use of mobile devices ensures that students are focussed during school hours and not distracted by calls, messaging or using the social media, multimedia and internet functions of the mobile device. Please note the following conditions:
 
 1\. The mobile device must be switched off by 7.25 am every morning. The device must remain switched  off till the end of school hours, inclusive of Supplementary / Enrichment lessons; Small Group Teaching  sessions; CCAs and Higher Mother Tongue lessons.
 
