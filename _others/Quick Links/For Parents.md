@@ -38,10 +38,18 @@ For information on SBB matters, please visit MOE’s website: 
 
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**<br>
-[HPS SCH ATTIRE SPEC.pdf](/files/p1booklistnuniform2.pdf)<br>
-[HPS 2023 Uniform Pricelist.pdf](/files/p1booklistnuniform3.pdf)<br>
-[Uniform Order Form_HPS.pdf](/files/p1booklistnuniform4.pdf)<br>
-[Step by step guide to purchase online.pdf](/files/p1booklistnuniform5.pdf)
+
+**BEAU VOIX UNIFORM**
+
+2 Sims Close 
+#03-08 Gemini@Sims
+Singapore 387298 
+Tel: 67436645 / 67447084
+Fax: +(65) 67460687
+Email: info@beauvoix.com.sg
+ 
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com. Delivery is charged at $5 per transaction and no minimum order amount is required.
+
 
 ### P1 to P6 Booklist 2023
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
