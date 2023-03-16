@@ -15,7 +15,7 @@ third_nav_title: Quick Links
     *   [Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance) (updated on 23rd November 2022)
 2.  [Leave of absence form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
 
-4.  [Updating of student’s official address](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Request%20Form%20For%20Updating%20of%20Student%20Address-Annex%201B2%20-%202019.pdf) _(updated on 15th October 2019)_  
+4.  [Updating of student’s official address]([](/files/Form%20C%20(Address%20Updates)_11Mar19.pdf)) _(updated on 15th October 2019)_  
     
 4.  [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Product%20Fact%20Sheet%20Year%202023.pdf) (Under NTUC Income Insurance Co-Operative Ltd)
     
