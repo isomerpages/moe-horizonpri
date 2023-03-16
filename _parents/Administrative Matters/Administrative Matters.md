@@ -6,4 +6,7 @@ third_nav_title: Administrative Matters
 ---
 ### **Administrative Matters**
 #### **Registration for Associate Parent Volunteer (APV) 2023**
-This is a private page viewable only by selected users.
+
+  
+Please click on the form below or scan the QR Code to register  
+[Associate Parent Volunteer (APV) Application Form](https://form.gov.sg/61e6499a860fdd0014a8ee99)
