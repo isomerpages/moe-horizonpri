@@ -39,8 +39,7 @@ For information on SBB matters, please visit MOE’s website: 
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**<br>
 
-**BEAU VOIX UNIFORM**
-
+**BEAU VOIX UNIFORM** <br>
 2 Sims Close 
 #03-08 Gemini@Sims
 Singapore 387298 
