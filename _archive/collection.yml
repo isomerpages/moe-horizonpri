@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Events Photos 2020old.md
       - Events Photos 2019.md
       - Achievements 2015.md
       - Achievements 2016.md
