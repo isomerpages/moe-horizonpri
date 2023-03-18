@@ -8,7 +8,7 @@ third_nav_title: Photo Gallery
 
 [![](/images/Events%20Photos/Events%20Photos%202022.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721534949598/)
 
-[2021](https://www.flickr.com/photos/197473948@N06/collections/72157721537073079/)
+[![](/images/Events%20Photos/Events%20Photos%202021%20(Updated).png)](https://www.flickr.com/photos/197473948@N06/collections/72157721537073079/)
 
 [![](/images/Events%20Photos/Events%20Photos%202020.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721589032455/)
 
