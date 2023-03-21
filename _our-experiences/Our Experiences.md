@@ -9,7 +9,7 @@ description: ""
 
 [![](/images/Our%20Experiences%20Banner/Cognitive%20New.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/cognitive/cognitive/)
 
-[![](/images/social.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/)
+[![](/images/Our%20Experiences%20Banner/Social%20New.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/social/)
 
 [![](/images/physical.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/)
 
