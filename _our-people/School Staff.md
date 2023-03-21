@@ -113,10 +113,10 @@ description: ""
 
 ##### Primary 1
 
-| **Mdm Marleena Binte Jaafar** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
+| **Mdm Lin Suting** | **Mdm April Tan Yun Lin** | **Mdm Chen Zhaochen Cynthia** |
 | -------- | -------- | -------- |
 | P1 Innovator (Form Teacher)   | P1 Innovator (Form Teacher)    | P1 Thinker (Form Teacher) |
-| [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg) | [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg) | [chen_zhaochen@schools.gov.sg](mailto:chen_zhaochen@schools.gov.sg)|
+| [lin_suting@schools.gov.sg](mailto:lin_suting@schools.gov.sg) | [tan_yun_lin_april@schools.gov.sg](mailto:tan_yun_lin_april@schools.gov.sg) | [chen_zhaochen@schools.gov.sg](mailto:chen_zhaochen@schools.gov.sg)|
 | | | |
 | **Ms Charlene Wong** | **Mdm Goh Xiang Ting Diana** | **Mrs Kelly Wong** |  
 | P1 Thinker (Form Teacher) | P1 Creator (Form Teacher) | P1 Creator (Form Teacher)|  
@@ -182,9 +182,9 @@ description: ""
 |P3 Reflector (Form Teacher) |P3 Reflector (Form Teacher)| P3 Inventor (Form Teacher)|
 | [saleha_hashim@schools.gov.sg](mailto:saleha_hashim@schools.gov.sg)| [tay_aik_poh@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg) | [glenda_ding_shi_yu@schools.gov.sg](mailto:glenda_ding_shi_yu@schools.gov.sg) |
 | | | |
-|**Mdm Nootan Rai**|**Mrs Thilagavathi Sivakumar**|**Ms Norla Jailani**|
+|**Mdm Nootan Rai**|**Mrs Thilagavathi Sivakumar**|**Mdm Marleena Bte Jaafar**|
 |P3 Inventor (Form Teacher) |P3 Inquirer (Form Teacher) |P3 Inquirer (Form Teacher)|
-|[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) |[thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [norla_jailani@schools.gov.sg](mailto:norla_jailani@schools.gov.sg)    |
+|[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) |[thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg)   |
 
 ##### Primary 4
 
