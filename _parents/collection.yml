@@ -2,11 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Useful Information/Sexuality Education.md
-      - Useful Information/Students' Use of Mobile Devices.md
-      - Useful Information/Homework Policy.md
-      - Useful Information/Dispensing or Administering of Medication.md
-      - Useful Information/.keep
       - Letter to Parents.md
       - Administrative Matters/.keep
       - Administrative Matters/Associate Parent Volunteer.md
@@ -14,3 +9,8 @@ collections:
       - Administrative Matters/Application & Claims.md
       - Administrative Matters/Financial Assistance.md
       - Administrative Matters/Useful Information.md
+      - Useful Information/.keep
+      - Useful Information/Sexuality Education.md
+      - Useful Information/Students' Use of Mobile Devices.md
+      - Useful Information/Homework Policy.md
+      - Useful Information/Dispensing or Administering of Medication.md
