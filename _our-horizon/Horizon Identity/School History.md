@@ -13,8 +13,8 @@ third_nav_title: Horizon Identity
 
 ##### **List of Vice-Principals:**
 * Mrs. Senthil Poonkodi (2016 – Present)<br>
-* Mdm. S. Anitha (2010 – 2016)<br>
-* Mr. John Ow (2015 – Present)
+* Mr. John Ow (2015 – Present)<br>
+* Mdm. S. Anitha (2010 – 2016)
 
 
 ##### **List of Vice-Principals (Administration):**
@@ -28,7 +28,7 @@ The school was officially opened by Mr. Heng Swee Keat, then Minister of Educati
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSexoV51eEQR5nLdEoosEg1HiXLdkfpgOpBZoqGsMDvqFW-Q4FYbajGf7-Po_2Sd6uBbCjm02IDR5Oo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Blossoming achievements through the years**
-Through the successive leadership of Mrs Grace Leong on 1 Jan 2016, the school, in its second phase of development, takes strength from its initial phase and focuses in developing lifelong learners through the joy of learning and in providing a holistic education anchored on strong values.&nbsp; In 2017, the school has a student enrolment close to 1600 and a staff strength of 127.&nbsp;
+Through the successive leadership of Mrs. Grace Leong on 1 Jan 2016, the school, in its second phase of development, takes strength from its initial phase and focuses in developing lifelong learners through the joy of learning and in providing a holistic education anchored on strong values.&nbsp; In 2017, the school has a student enrolment close to 1600 and a staff strength of 127.&nbsp;
 
 Co-Curriculum Activities (CCAs) are weaved into the school hours since 2017 to allow all Primary 3 to 6 students to experience platforms for both character and leadership development and to deepen their interests and skill set.&nbsp; Another milestone effort towards holistic education, is the Computational Thinking in Mathematics programme which gained the Applied Learning Programme (ALP) status in 2018. It provides students with opportunities to learn and develop mathematical and computational thinking and dispositions such as persistence and resilience through block-based programming. The programme also provides students with the opportunity to practise the 7 habits™ as they develop their problem-solving and communication skills, ability to collaborate in teams, creativity and logical thinking.
 
