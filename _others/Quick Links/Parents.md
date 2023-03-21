@@ -29,7 +29,7 @@ third_nav_title: Quick Links
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ### Useful Information
-* Dispensing or Administering of Medication
+* [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
 * Student's Use of Mobile Devices
 * [Homework Policy](https://horizonprimary.edu.sg/homeworkpolicy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
