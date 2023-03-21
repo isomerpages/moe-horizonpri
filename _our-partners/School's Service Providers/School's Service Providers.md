@@ -54,20 +54,6 @@ Operating Hours (Mon - Fri) : <br>
 Sch Term: 7.15 a.m. to 3.45 p.m.<br> 
 Sch Holiday: 7.30 a.m. to 3.45 p.m.
 
-
-
-
-#### **School-Based Student Care Services**
-**Raffles Student Care Centre LLP (Horizon)**<br>
-Tel: 8922 8794<br>
-E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
-
-Operating Hours (Mon - Fri):<br>
-Sch Term: 1.45 p.m. to 6.55 p.m. <br>
-Sch Holiday: 7.30 a.m to 6.55 p.m.
-
-
-
 #### **Dental Service**
 **Dental Clinic @ Horizon**<br>
 Dental service:<br>
@@ -82,6 +68,15 @@ Website: [http://www.btntan.com](http://www.btntan.com/)<br>
 Tel: 6483 4527 / 64837260<br>
 Fax: 6483 7261<br>
 Email: [admin@btntan.com](mailto:admin@btntan.com)
+
+#### **School-Based Student Care Services**
+**Raffles Student Care Centre LLP (Horizon)**<br>
+Tel: 8922 8794<br>
+E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
+
+Operating Hours (Mon - Fri):<br>
+Sch Term: 1.45 p.m. to 6.55 p.m. <br>
+Sch Holiday: 7.30 a.m to 6.55 p.m.
 
 #### **External Organisations**
 **Dylexia Association of Singapore**<br>
