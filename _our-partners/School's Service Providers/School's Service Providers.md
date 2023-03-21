@@ -51,8 +51,7 @@ In support of the national movement, we encourage parents to opt for online orde
 Tel: 6753 5411 (Ext. 340)
 
 Operating Hours (Mon - Fri) : <br>
-Sch Term: 7.15 a.m. to 3.45 p.m.<br> 
-Sch Holiday: 7.30 a.m. to 3.45 p.m.
+Sch Term: 7.15 a.m. to 3.45 p.m.<br>Sch Holiday: 7.30 a.m. to 3.45 p.m.
 
 #### **Dental Service**
 **Dental Clinic @ Horizon**<br>
