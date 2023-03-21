@@ -1,0 +1,15 @@
+collections:
+  physical:
+    output: true
+    order:
+      - Physical.md
+      - Badminton CCA.md
+      - Basketball CCA.md
+      - Football CCA.md
+      - Junior Olympic Games.md
+      - P4 Outdoor Adventure Camp.md
+      - Rope Skipping CCA.md
+      - SafePlay @ Recess.md
+      - Swimming.md
+      - Ten Pin Bowling CCA.md
+      - Wushu CCA.md

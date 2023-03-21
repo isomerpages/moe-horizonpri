@@ -1,15 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/crest.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Our Horizon
+    collection: our-horizon
+  - title: Our People
+    collection: our-people
+  - title: Our Experiences
+    collection: our-experiences
+  - title: Our Partners
+    url: /our-partners/parents/letter-to-parents/
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents/letter-to-parents/
+      - title: School's Service Providers
+        url: /our-partners/schools-service-providers/
+  - title: Our Pride
+    collection: our-pride
+  - title: MOE Kindergarten
+    collection: moe-kindergarten
