@@ -4,7 +4,6 @@ permalink: /our-partners/scc/about-raffles-student-care/
 description: ""
 third_nav_title: School's Service Providers
 ---
-
 ### **About Raffles Student Care**
 ![](/images/rafflesstudentcare.png)
 
@@ -15,6 +14,8 @@ For more information on Raffles Student Care Centre, please visit this link: [h
 #### **Daily Schedule and Operating Hours**
 Operating hours during **school term**<br>
 Mon - Fri: 1:00pm to 7:00pm  
-  
+
 Operating hours during **school holidays**<br>
 Mon - Fri: 7:30am to 7:00pm
+Tel: 8922 8794<br>
+E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
