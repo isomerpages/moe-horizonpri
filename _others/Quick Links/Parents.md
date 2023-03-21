@@ -27,7 +27,7 @@ third_nav_title: Quick Links
 * [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
 * School-based Financial Assistance Scheme - *Under Construction*
 * Lee Wee Kheng Fund for Needy School Children - *Under Construction*
-* Straits Time Pocket Money Fund - *Under Construction*
+* [Straits Times Pocket Money Fund](https://www.spmf.org.sg/howtoapply)
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ### Useful Information
