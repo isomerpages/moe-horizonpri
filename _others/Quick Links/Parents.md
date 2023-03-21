@@ -19,7 +19,7 @@ third_nav_title: Quick Links
 * Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
 * 
 * Parents Gateway Mobile Application
-* [Leave of Absence Form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
+* [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
 * [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)
