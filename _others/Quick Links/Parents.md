@@ -22,7 +22,7 @@ third_nav_title: Quick Links
 * School-based Financial Assistance Scheme
 * Lee Wee Kheng Fund for Needy School Children
 * Straits Time Pocket Money Fund
-* NEU PC Plus Programme
+* [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ### Useful Information
 * Dispensing or Administering of Medication
