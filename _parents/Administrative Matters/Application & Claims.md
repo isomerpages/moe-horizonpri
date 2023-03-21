@@ -28,8 +28,7 @@ Please download the application in your mobile device by following the step-by-s
 You may also visit the website [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) or click on the video [link](https://www.youtube.com/watch?v=EKpiTM5axNA) to learn more about Parents Gateway.<br>
 
 ### **Leave of Absence Form**
-
-
+[Form Download]((https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx))
 
 
 
