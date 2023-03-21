@@ -26,10 +26,6 @@ third_nav_title: Quick Links
 
 [https://classroom.google.com/](https://classroom.google.com/)
 
-### \- _GC Helpdesk_
-
-Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-helpdesk)
-
 **Video Conferencing Platform**
 --------------------------------
 
