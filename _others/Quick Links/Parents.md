@@ -9,7 +9,9 @@ third_nav_title: Quick Links
 * School Vacancies by Phases
 * [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/61e6499a860fdd0014a8ee99)
 * [Direct Schools Admission](https://www.moe.gov.sg/secondary/dsa)
-* [Letters to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
+
+### Letter to Parents
+* [Letter to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### P1 Matters
 * [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
