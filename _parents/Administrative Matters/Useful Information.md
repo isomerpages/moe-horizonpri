@@ -36,6 +36,12 @@ d. Gate C dismissal area.
 
 10\. Parents/ guardians will be required to personally collect their child’s mobile device from the school’s  Operations Manager.
 
+### **Homework Policy**
 * [Homework Policy](/homeworkpolicy)
+
+### **Sexuality Eduation Programme**
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
+
+### **Subject Based Banding**
+
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
