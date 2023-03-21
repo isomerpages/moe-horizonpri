@@ -4,9 +4,26 @@ permalink: /parents/
 description: ""
 third_nav_title: Quick Links
 ---
+### Letter to Parents
+* Letter to Parents 2023
+
+### P1 Matters
+* P1 Orientation Booklet 2023
+* P1 Booklist and Uniform 2023
+
+### Applications & Claims
+* Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
+* Parents Gateway Mobile Application
+* Leave of Absence Form
+
+### Financial Assistance
+* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)
+* School-based Financial Assistance Scheme
+* Lee Wee Kheng Fund for Needy School Children
+* Straits Time Pocket Money Fund
+* NEU PC Plus Programme
 
 ### Useful Information
-[Traffic Management Plan for Academic Year 2023](https://www.nanhuapri.moe.edu.sg/trafficmanagementplan/)
 
 [Information on Primary School Transfer Service for Change of Address](https://www.moe.gov.sg/-/media/files/primary/step-by-step-guide-for-primary-school-transfer-service.ashx)
   
