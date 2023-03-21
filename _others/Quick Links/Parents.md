@@ -24,8 +24,12 @@ third_nav_title: Quick Links
 * NEU PC Plus Programme
 
 ### Useful Information
+* Dispensing or Administering of Medication
+* Student's Use of Mobile Devices
+* Homework Policy
+* [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
+* [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
-[Information on Primary School Transfer Service for Change of Address](https://www.moe.gov.sg/-/media/files/primary/step-by-step-guide-for-primary-school-transfer-service.ashx)
   
 ### Forms & Guides
 1.  MOE Financial Assistance Scheme (FAS)
