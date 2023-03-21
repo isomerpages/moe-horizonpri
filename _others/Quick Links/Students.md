@@ -11,7 +11,7 @@ third_nav_title: Quick Links
 
 ### \- _SLS Helpdesk_
 
-[SLS HELPDESK.pdf](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/SLS%20HELPDESK.pdf)
+[SLS Help Guide](/files/SLS%20HELPDESK.pdf)
 
 ### \- _Requirements to run SLS_
 
