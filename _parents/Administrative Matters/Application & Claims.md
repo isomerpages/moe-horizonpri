@@ -25,6 +25,16 @@ Please download the application in your mobile device by following the step-by-s
 
 **Note**: Supported OS versions – **Android 5.0** or later & **iOS 8.0** or later
 
-You may also visit the website [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) or click on the video [link](https://www.youtube.com/watch?v=EKpiTM5axNA) to learn more about Parents Gateway.
+You may also visit the website [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) or click on the video [link](https://www.youtube.com/watch?v=EKpiTM5axNA) to learn more about Parents Gateway.<br>
 
 ### **Leave of Absence Form**
+
+
+
+
+
+
+
+
+
+##
