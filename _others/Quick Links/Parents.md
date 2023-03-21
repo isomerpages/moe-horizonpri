@@ -4,7 +4,7 @@ permalink: /parents/
 description: ""
 third_nav_title: Quick Links
 ---
-### Letter to Parents
+### Admission Matters
 * Letter to Parents 2023
 
 ### P1 Matters
