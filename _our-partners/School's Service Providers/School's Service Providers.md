@@ -21,6 +21,8 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 1.30 p.m. to 2.05 p.m.  (Dismissal Time)
 
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
+**P1 Uniform**<br>
+[P1 Uniform 2023](/files/p1booklistnuniform1.pdf)
 
 **P1-P6 Booklists 2023**<br>
 [P1 Booklist 2023.pdf](/files/booklistp1.pdf)<br>
