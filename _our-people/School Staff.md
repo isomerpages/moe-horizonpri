@@ -134,9 +134,9 @@ description: ""
 | P1 Explorer (Form Teacher)   | P1 Explorer (Form Teacher)   | P1 Discoverer (Form Teacher)|
 [toh_xue_le_cheryl@schools.gov.sg](mailto:toh_xue_le_cheryl@schools.gov.sg)| [hong_bee_yuen@schools.gov.sg](mailto:hong_bee_yuen@schools.gov.sg)| [cheong_shu_hui@schools.gov.sg](mailto:cheong_shu_hui@schools.gov.sg)|
 | | | |
-| **Mdm Alice Yeo Puay Koon** | 
-| P1 Discoverer (Form Teacher)|
-[yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg)| | |
+| **Mdm Alice Yeo Puay Koon** | **Ms Koh Yu Ying**|
+| P1 Discoverer (Form Teacher)| P1 Discoverer (Form Teacher)|
+[yeo_puay_koon_alice@schools.gov.sg](mailto:yeo_puay_koon_alice@schools.gov.sg) | [koh_yu_ying@schools.gov.sg](mailto:koh_yu_ying@schools.gov.sg) | | |
 
 ##### Primary 2
 
