@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Useful Information/Homework Policy.md
       - Useful Information/Dispensing or Administering of Medication.md
       - Useful Information/.keep
       - Letter to Parents.md
