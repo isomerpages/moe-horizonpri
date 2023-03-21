@@ -8,7 +8,6 @@ third_nav_title: Administrative Matters
 * Under NTUC Income Insurance Co-Operative Ltd
 [Policy Factsheet](/files/Product%20Fact%20Sheet%20Year%202023.pdf)
 
-
 ### **Parent's Gateway Mobile Application**
 
 Parents Gateway is one of our school's official communication platforms.
