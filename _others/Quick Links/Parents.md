@@ -12,7 +12,7 @@ third_nav_title: Quick Links
 ### Letter to Parents
 * [Letter to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
 
-### P1 Matters
+### Primary 1 Matters
 * [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
@@ -22,14 +22,12 @@ third_nav_title: Quick Links
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
-* [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
 * [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
-* School-based Financial Assistance Scheme - *Under Construction*
-* Lee Wee Kheng Fund for Needy School Children - *Under Construction*
+* [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
 * [Straits Times Pocket Money Fund](https://www.spmf.org.sg/howtoapply)
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
-### Useful Information
+###  Useful Information
 * [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
 * [Students' Use of Mobile Devices](https://horizonprimary.edu.sg/studentsuseofmobiledevices/)
 * [Homework Policy](https://horizonprimary.edu.sg/homeworkpolicy/)
