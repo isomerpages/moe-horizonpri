@@ -34,9 +34,6 @@ third_nav_title: Quick Links
   
 ### Forms & Guides
 
-2.  [Leave of absence form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
-
-4.  [Updating of student’s official address]([]([](/files/Letters%20to%20Parents/Form%20C%20(Address%20Updates)_11Mar19.pdf)) _(updated on 15th October 2019)_  
     
 4.  [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Product%20Fact%20Sheet%20Year%202023.pdf) (Under NTUC Income Insurance Co-Operative Ltd)
     
@@ -48,14 +45,6 @@ third_nav_title: Quick Links
     *   [Home Access 3.0 Application Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Home%20Access%2030%20Application%20Form.pdf)
     *   [Home Access 3.0 Application Form - Auto Inclusion](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Home%20Access%2030%20Application%20Form%20-%20Auto%20Inclusion.pdf)
     *   [Home Access 3.0 Application Form (Online)](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
-
-### Subject-based Banding
-For information on SBB matters, please visit MOE’s website: 
-[https://www.moe.gov.sg/primary/curriculum/subject-based-banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
-
-
-### Sexuality Education
-[Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**<br>
