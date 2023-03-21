@@ -7,5 +7,5 @@ third_nav_title: Administrative Matters
 ### **P1 Orientation Booklet 2023**
 2023 Primary 1 - A Guide For Parents<br>
 [P1 Orientation Booklet 2023.pdf](/files/P1%20Orientation%20Booklet%202023.pdf)
-
-[Booklist & Uniform](/files/p1booklistnuniform1.pdf)
+<br>
+[P1 Booklist & Uniform](/files/Booklists/booklistp1.pdf)
