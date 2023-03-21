@@ -4,7 +4,11 @@ permalink: /parents/
 description: ""
 third_nav_title: Quick Links
 ---
-### Letter to Parents
+### Admission Matters
+* P1 Registration
+* School Vacancies by Phases
+* [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/61e6499a860fdd0014a8ee99)
+* [Direct Schools Admission](https://www.moe.gov.sg/secondary/dsa)
 * Letter to Parents 2023
 
 ### P1 Matters
@@ -13,6 +17,7 @@ third_nav_title: Quick Links
 
 ### Applications & Claims
 * Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
+* 
 * Parents Gateway Mobile Application
 * [Leave of Absence Form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
 
@@ -33,7 +38,9 @@ third_nav_title: Quick Links
 
   
 ### Forms & Guides
+
     
+4.  [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Product%20Fact%20Sheet%20Year%202023.pdf) (Under NTUC Income Insurance Co-Operative Ltd)
     
 5.  NEU PC Plus Programme
     *   [NEU PC Plus](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/NEU%20PC%20Plus%20Infographic.pdf)
