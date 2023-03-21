@@ -35,3 +35,7 @@ d. Gate C dismissal area.
 9\. Non-compliance with the school policy on the use of mobile devices will require students to hand over  their devices to school authorities.
 
 10\. Parents/ guardians will be required to personally collect their child’s mobile device from the school’s  Operations Manager.
+
+* [Homework Policy](/homeworkpolicy)
+* [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
+* [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
