@@ -30,7 +30,7 @@ third_nav_title: Quick Links
 
 ### Useful Information
 * [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
-* Student's Use of Mobile Devices
+* [Students' Use of Mobile Devices](https://horizonprimary.edu.sg/studentsuseofmobiledevices/)
 * [Homework Policy](https://horizonprimary.edu.sg/homeworkpolicy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
