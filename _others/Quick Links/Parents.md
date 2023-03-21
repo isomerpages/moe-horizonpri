@@ -17,8 +17,7 @@ third_nav_title: Quick Links
 
 ### Applications & Claims
 * Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
-* 
-* Parents Gateway Mobile Application
+* [Parents Gateway Mobile Application](https://horizonprimary.edu.sg/parentsgateway/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
@@ -32,7 +31,7 @@ third_nav_title: Quick Links
 ### Useful Information
 * Dispensing or Administering of Medication
 * Student's Use of Mobile Devices
-* [Homework Policy](/homeworkpolicy)
+* [Homework Policy](https://horizonprimary.edu.sg/homeworkpolicy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
