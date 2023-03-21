@@ -13,6 +13,6 @@ description: ""
 
 [![](/images/Our%20Experiences%20Banner/Physical%20New.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/physical/)
 
-[![](/images/moral.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/)
+[![](/images/Our%20Experiences%20Banner/Moral%20New.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/)
 
 |[![](/images/aesthetics.png)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/aesthetics/)
