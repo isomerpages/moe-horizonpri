@@ -17,7 +17,7 @@ third_nav_title: Quick Links
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
-* Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd) - *Under Construction*
+* [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
 * [Parents Gateway Mobile Application](https://horizonprimary.edu.sg/parentsgateway/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
