@@ -9,7 +9,7 @@ third_nav_title: Quick Links
 
 ### P1 Matters
 * [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
-* P1 Booklist and Uniform 2023
+* [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
 * Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
