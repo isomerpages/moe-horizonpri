@@ -18,6 +18,7 @@ third_nav_title: Quick Links
 
 ### Financial Assistance
 * [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)
+* [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
 * School-based Financial Assistance Scheme
 * Lee Wee Kheng Fund for Needy School Children
 * Straits Time Pocket Money Fund
@@ -32,9 +33,7 @@ third_nav_title: Quick Links
 
   
 ### Forms & Guides
-1.  MOE Financial Assistance Scheme (FAS)
-    *   [Application Form](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx) (updated on 21st September 2021)
-    *   [Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance) (updated on 23rd November 2022)
+
 2.  [Leave of absence form](https://www.moe.gov.sg/-/media/files/returning-singaporeans/leave-of-absence-application-form.ashx)
 
 4.  [Updating of student’s official address]([]([](/files/Letters%20to%20Parents/Form%20C%20(Address%20Updates)_11Mar19.pdf)) _(updated on 15th October 2019)_  
