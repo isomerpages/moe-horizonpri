@@ -4,7 +4,6 @@ permalink: /students/
 description: ""
 third_nav_title: Quick Links
 ---
-
 **Student Learning Space (SLS)**
 --------------------------------
 
@@ -13,8 +12,6 @@ third_nav_title: Quick Links
 ### \- _SLS Helpdesk_
 
 [SLS HELPDESK.pdf](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/SLS%20HELPDESK.pdf)
-
-Fill up the form @ [https://go.gov.sg/nhps-helpdesk](https://go.gov.sg/nhps-helpdesk)
 
 ### \- _Requirements to run SLS_
 
