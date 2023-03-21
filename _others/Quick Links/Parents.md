@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Quick Links
 ---
 ### Admission Matters
-* P1 Registration - on matters pertaining to P1 Registration and the key phases, please visit the [MOE P1 Registration site](https://www.moe.gov.sg/primary/p1-registration). 
+* **P1 Registration** - on matters pertaining to P1 Registration and the key phases, please visit the [MOE P1 Registration site](https://www.moe.gov.sg/primary/p1-registration). 
 * [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/61e6499a860fdd0014a8ee99)
-* [Direct Schools Admission](https://www.moe.gov.sg/secondary/dsa)
+* **Direct School Admission** - Details on DSA can be found [here](https://www.moe.gov.sg/secondary/dsa)
 
 ### Letter to Parents
 * [Letter to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
