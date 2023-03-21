@@ -5,16 +5,7 @@ description: ""
 third_nav_title: School's Service Providers
 ---
 ### **School's Service Providers**
-#### **School-Based Student Care Services**
-**Raffles Student Care Centre LLP (Horizon)**<br>
-Tel: 8922 8794<br>
-E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
-
-Operating Hours (Mon - Fri):<br>
-Sch Term: 1.45 p.m. to 6.55 p.m. <br>
-Sch Holiday: 7.30 a.m to 6.55 p.m.
-
-#### **School Bookshop**
+#### **School Bookshop**<br>
 **Popular @ Horizon**<br>
 Tel: 6484 5033
 
@@ -30,6 +21,7 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 1.30 p.m. to 2.05 p.m.  (Dismissal Time)
 
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
+
 **P1-P6 Booklists 2023**<br>
 [P1 Booklist 2023.pdf](/files/booklistp1.pdf)<br>
 [P2 Booklist 2023.pdf](/files/booklistp2.pdf)<br>
@@ -47,7 +39,6 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 Singapore 387298 <br>
 Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687<br>
-
 Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 **Purchase of School Uniform in School**<br>
@@ -62,6 +53,20 @@ Tel: 6753 5411 (Ext. 340)
 Operating Hours (Mon - Fri) : <br>
 Sch Term: 7.15 a.m. to 3.45 p.m.<br> 
 Sch Holiday: 7.30 a.m. to 3.45 p.m.
+
+
+
+
+#### **School-Based Student Care Services**
+**Raffles Student Care Centre LLP (Horizon)**<br>
+Tel: 8922 8794<br>
+E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
+
+Operating Hours (Mon - Fri):<br>
+Sch Term: 1.45 p.m. to 6.55 p.m. <br>
+Sch Holiday: 7.30 a.m to 6.55 p.m.
+
+
 
 #### **Dental Service**
 **Dental Clinic @ Horizon**<br>
