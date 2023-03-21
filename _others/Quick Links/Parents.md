@@ -8,7 +8,7 @@ third_nav_title: Quick Links
 * Letter to Parents 2023
 
 ### P1 Matters
-* P1 Orientation Booklet 2023
+* [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
 * P1 Booklist and Uniform 2023
 
 ### Applications & Claims
