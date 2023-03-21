@@ -36,24 +36,11 @@ third_nav_title: Quick Links
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 
   
-### Forms & Guides
-
-    
-4.  [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Product%20Fact%20Sheet%20Year%202023.pdf) (Under NTUC Income Insurance Co-Operative Ltd)
-    
-5.  NEU PC Plus Programme
-    *   [NEU PC Plus](https://www.nanhuapri.moe.edu.sg/files/Information%20Sheets/NEU%20PC%20Plus%20Infographic.pdf)
-    *   [NEU PC Plus PC-Bundle Application Form for MOE-SPED FAS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/NPP-Application-Form-for-MOE-SPED-FAS.pdf)
-    *   [NEU PC Plus PC-Bundle Application Form for Non MOE-SPED FAS](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/NPP-Application-Form-for-NON-MOE-SPED-FAS.pdf)
-    *   [NEU PC Plus IMDA Fibre Broadband Service Application Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/NEU%20PC%20Plus%20IMDA%20FBB%20Svc%20Appl%202023.pdf)
-    *   [Home Access 3.0 Application Form](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Home%20Access%2030%20Application%20Form.pdf)
-    *   [Home Access 3.0 Application Form - Auto Inclusion](https://www.nanhuapri.moe.edu.sg/files/Application%20Forms/Home%20Access%2030%20Application%20Form%20-%20Auto%20Inclusion.pdf)
-    *   [Home Access 3.0 Application Form (Online)](https://eservice.imda.gov.sg/das/singpasslogin?strParam=login&notprotected=true)
 
 ### School Uniform
-**Please find information on purchasing of school uniforms below:**<br>
+**Please find information on purchasing of school uniforms below:**
 
-**BEAU VOIX UNIFORM** <br>
+**BEAU VOIX UNIFORM**
 2 Sims Close 
 #03-08 Gemini@Sims
 Singapore 387298 
@@ -62,7 +49,6 @@ Fax: +(65) 67460687
 Email: info@beauvoix.com.sg
  
 In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com. Delivery is charged at $5 per transaction and no minimum order amount is required.
-
 
 ### P1 to P6 Booklist 2023
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
