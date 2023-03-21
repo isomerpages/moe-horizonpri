@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Quick Links
 ---
 ### Admission Matters
-* P1 Registration
-* School Vacancies by Phases
+* P1 Registration - *Under Construction*
+* School Vacancies by Phases - *Under Construction*
 * [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/61e6499a860fdd0014a8ee99)
 * [Direct Schools Admission](https://www.moe.gov.sg/secondary/dsa)
 
@@ -18,16 +18,16 @@ third_nav_title: Quick Links
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
-* Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)
+* Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd) - *Under Construction*
 * [Parents Gateway Mobile Application](https://horizonprimary.edu.sg/parentsgateway/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
 * [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
 * [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
-* School-based Financial Assistance Scheme
-* Lee Wee Kheng Fund for Needy School Children
-* Straits Time Pocket Money Fund
+* School-based Financial Assistance Scheme - *Under Construction*
+* Lee Wee Kheng Fund for Needy School Children - *Under Construction*
+* Straits Time Pocket Money Fund - *Under Construction*
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ### Useful Information
@@ -37,8 +37,6 @@ third_nav_title: Quick Links
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)
-
-  
 
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
