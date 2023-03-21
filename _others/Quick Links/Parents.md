@@ -32,7 +32,6 @@ third_nav_title: Quick Links
 ### Useful Information
 * Dispensing or Administering of Medication
 * Student's Use of Mobile Devices
-* Homework Policy
 * [Homework Policy](/homeworkpolicy)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
