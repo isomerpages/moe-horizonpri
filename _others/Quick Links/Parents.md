@@ -21,7 +21,7 @@ third_nav_title: Quick Links
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
-* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/-/media/2a3bf498a09a4e7b9088d1a60f761c67.ashx)
+* [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
 * [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
 * School-based Financial Assistance Scheme
 * Lee Wee Kheng Fund for Needy School Children
