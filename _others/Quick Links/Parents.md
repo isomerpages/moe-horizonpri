@@ -28,7 +28,7 @@ third_nav_title: Quick Links
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ###  Useful Information
-* [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
+* [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
 * [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/students-use-of-mobile-devices/)
 * [Homework Policy](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/homework-policy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
