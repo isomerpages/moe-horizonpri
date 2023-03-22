@@ -174,18 +174,22 @@ description: ""
 | P3 Innovator (Form Teacher) | P3 Innovator (Form Teacher) | P3 Thinker (Form Teacher)   |
 |[ng_kwee_hiong@schools.gov.sg](mailto:ng_kwee_hiong@schools.gov.sg)| [zhang_lingxia@schools.gov.sg](mailto:zhang_lingxia@schools.gov.sg) | [ang_shih_piow_stanley@schools.gov.sg](mailto:ang_shih_piow_stanley@schools.gov.sg) |
 | | | |
-|**Mdm Thasneem Parveen D/O Sirazudeen** |**Mr Hirman Abdul Rahim**| **Mrs Felicia Tham**|
+|**Mdm Thasneem Parveen D/O Sirazudeen** |**Mr Hirman Abdul Rahim**| **Mr Ramani Prabhu**|
 | P3 Thinker (Form Teacher)  |P3 Creator (Form Teacher)   | P3 Creator (Form Teacher)  |
-| [thasneem_parveen_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)| [hirman_abdul_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)| [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) |
+| [thasneem_parveen_sirazudee@schools.gov.sg](mailto:thasneem_parveen_sirazudee@schools.gov.sg)| [hirman_abdul_rahim@schools.gov.sg](mailto:hirman_abdul_rahim@schools.gov.sg)| [ramani\_prabhu\_r\_kalamohan@schools.gov.sg](mailto:ramani_prabhu_r_kalamohan@schools.gov.sg) |
 | | | |
-| **Ms Saleha Bte Hashim** | **Mr Tay Aik Poh**  | **Ms Glenda Ding Shi Yu** |
-|P3 Reflector (Form Teacher) |P3 Reflector (Form Teacher)| P3 Inventor (Form Teacher)|
-| [saleha_hashim@schools.gov.sg](mailto:saleha_hashim@schools.gov.sg)| [tay_aik_poh@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg) | [glenda_ding_shi_yu@schools.gov.sg](mailto:glenda_ding_shi_yu@schools.gov.sg) |
+| **Ms Saleha Bte Hashim** | **Mr Tay Aik Poh**  | **Ms Ng Shu Ling, Debbie Michelle** |
+|P3 Creator (Form Teacher) |P3 Reflector (Form Teacher)| P3 Reflector (Form Teacher)|
+| [saleha_hashim@schools.gov.sg](mailto:saleha_hashim@schools.gov.sg)| [tay_aik_poh@schools.gov.sg](mailto:tay_aik_poh@schools.gov.sg) | [ng_shu_ling_debbie@schools.gov.sg](mailto:ng_shu_ling_debbie@schools.gov.sg) |
 | | | |
-|**Mdm Nootan Rai**|**Mrs Thilagavathi Sivakumar**|**Mdm Marleena Bte Jaafar**|
-|P3 Inventor (Form Teacher) |P3 Inquirer (Form Teacher) |P3 Inquirer (Form Teacher)|
-|[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) |[thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) | [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg)   |
-
+|**Ms Glenda Ding Shi Yu**|**Mdm Nootan Rai**|**Mrs Thilagavathi Sivakumar**|
+|P3 Inventor (Form Teacher) |P3 Inventor (Form Teacher) |P3 Inquirer (Form Teacher)|
+|[glenda_ding_shi_yu@schools.gov.sg](mailto:glenda_ding_shi_yu@schools.gov.sg) |[nootan_rai@schools.gov.sg](mailto:nootan_rai@schools.gov.sg) | [thilagavathi_kumarasamy@schools.gov.sg](mailto:thilagavathi_kumarasamy@schools.gov.sg) |
+| | | |
+|**Mdm Marleena Bte Jaafar**|
+|P3 Inquirer (Form Teacher) |
+ | [marleena_jaafar@schools.gov.sg](mailto:marleena_jaafar@schools.gov.sg)   |
+ 
 ##### Primary 4
 
 | Mdm Siti Nadia Bte Abdul Rahman | Mr Quek Ser Kwang | Mr Nicholas Chang Wenjie |
