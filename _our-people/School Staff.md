@@ -252,9 +252,9 @@ description: ""
 | P6 Thinker (Form Teacher)| P6 Creator (Form Teacher) |  P6 Creator (Form Teacher) |
 | [chen_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg)  | [ong_yi_qi_randolph@schools.gov.sg](mailto:ong_yi_qi_randolph@schools.gov.sg) | [ong_yiu_yah@schools.gov.sg](mailto:ong_yiu_yah@schools.gov.sg)    |
 | | | |
-| **Mdm Rozanah Abdul Rahim**|**Mdm Teo Hwee Keng Kelly**|**Mr Tan Wei Jian Jason** |
+| **Mdm Rozanah Abdul Rahim**|**Mdm Jayce Chua**|**Mr Tan Wei Jian Jason** |
 |  P6 Reflector (Form Teacher)| P6 Reflector (Form Teacher)| P6 Inventor (Form Teacher) |
-| [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg) | [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)   | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)   |
+| [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg) | [chua_siew_fen@schools.gov.sg](mailto:chua_siew_fen@schools.gov.sg)   | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)   |
 | | | |
 | **Ms Hazlina Maideen** | **Mdm Parameswary**  | **Mdm Han Yu Chin**     |
 | P6 Inventor (Form Teacher)  | P Inquirer (Form Teacher) |  P6 Inquirer (Form Teacher)|
