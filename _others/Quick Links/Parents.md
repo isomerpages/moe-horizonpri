@@ -10,7 +10,7 @@ third_nav_title: Quick Links
 * **Direct School Admission** - Details on DSA can be found [here](https://www.moe.gov.sg/secondary/dsa)
 
 ### Letter to Parents
-* [Letter to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
+* [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
