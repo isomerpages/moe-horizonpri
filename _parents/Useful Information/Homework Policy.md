@@ -2,8 +2,9 @@
 title: Homework Policy
 permalink: /our-partners/parents/administrative-matters/homework-policy/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Useful Information
 ---
+
 ### **Homework Policy**
 
 At Horizon Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude.

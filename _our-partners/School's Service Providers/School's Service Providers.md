@@ -5,16 +5,7 @@ description: ""
 third_nav_title: School's Service Providers
 ---
 ### **School's Service Providers**
-#### **School-Based Student Care Services**
-**Raffles Student Care Centre LLP (Horizon)**<br>
-Tel: 8922 8794<br>
-E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
-
-Operating Hours (Mon - Fri):<br>
-Sch Term: 1.45 p.m. to 6.55 p.m. <br>
-Sch Holiday: 7.30 a.m to 6.55 p.m.
-
-#### **School Bookshop**
+#### **School Bookshop**<br>
 **Popular @ Horizon**<br>
 Tel: 6484 5033
 
@@ -30,6 +21,13 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 1.30 p.m. to 2.05 p.m.  (Dismissal Time)
 
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
+**Uniform Information**<br>
+[Uniform Doc 1](/files/p1booklistnuniform1.pdf)<br>
+[Uniform Doc 2](/files/p1booklistnuniform2.pdf)<br>
+[Uniform Doc 3](/files/p1booklistnuniform3.pdf)<br>
+[Uniform Doc 4](/files/p1booklistnuniform4.pdf)<br>
+[Uniform Doc 5](/files/p1booklistnuniform5.pdf)
+
 **P1-P6 Booklists 2023**<br>
 [P1 Booklist 2023.pdf](/files/booklistp1.pdf)<br>
 [P2 Booklist 2023.pdf](/files/booklistp2.pdf)<br>
@@ -47,7 +45,6 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 Singapore 387298 <br>
 Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687<br>
-
 Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 **Purchase of School Uniform in School**<br>
@@ -60,8 +57,7 @@ In support of the national movement, we encourage parents to opt for online orde
 Tel: 6753 5411 (Ext. 340)
 
 Operating Hours (Mon - Fri) : <br>
-Sch Term: 7.15 a.m. to 3.45 p.m.<br> 
-Sch Holiday: 7.30 a.m. to 3.45 p.m.
+Sch Term: 7.15 a.m. to 3.45 p.m.<br>Sch Holiday: 7.30 a.m. to 3.45 p.m.
 
 #### **Dental Service**
 **Dental Clinic @ Horizon**<br>
@@ -77,6 +73,20 @@ Website: [http://www.btntan.com](http://www.btntan.com/)<br>
 Tel: 6483 4527 / 64837260<br>
 Fax: 6483 7261<br>
 Email: [admin@btntan.com](mailto:admin@btntan.com)
+
+### Canteen Menu 2023
+[ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)| [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)| [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)|
+| -------- | -------- | -------- |-------- |
+| [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu5.jpg)| [ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg)| [ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg) | [ ![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg)|
+
+#### **School-Based Student Care Services**
+**Raffles Student Care Centre LLP (Horizon)**<br>
+Tel: 8922 8794<br>
+E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
+
+Operating Hours (Mon - Fri):<br>
+Sch Term: 1.45 p.m. to 6.55 p.m. <br>
+Sch Holiday: 7.30 a.m to 6.55 p.m.
 
 #### **External Organisations**
 **Dylexia Association of Singapore**<br>

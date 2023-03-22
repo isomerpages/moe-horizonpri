@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /students/
+permalink: /qlstudents/
 description: ""
 third_nav_title: Quick Links
 ---
@@ -11,7 +11,7 @@ third_nav_title: Quick Links
 
 ### \- _SLS Helpdesk_
 
-[SLS Help Guide](/files/SLS%20HELPDESK.pdf)
+[SLS Help Guide](/files/SLS%20HELPDESK%20Edited.pdf)
 
 ### \- _Requirements to run SLS_
 

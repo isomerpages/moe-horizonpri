@@ -1,9 +1,10 @@
 ---
 title: Staff
-permalink: /staff/
+permalink: /qlstaff/
 description: ""
 third_nav_title: Quick Links
 ---
+
 
 
 

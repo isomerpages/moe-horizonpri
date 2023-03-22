@@ -15,5 +15,5 @@ sections:
           url: /announcements/
         - title: Quick Links
           description: ""
-          url: /forparents/
+          url: /qlparents/
 ---
