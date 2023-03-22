@@ -18,7 +18,7 @@ third_nav_title: Quick Links
 
 ### Applications & Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
-* [Parents Gateway Mobile Application](https://horizonprimary.moe.edu.sg/parentsgateway/)
+* [Parents Gateway Mobile Application](https://pg.moe.edu.sg/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
