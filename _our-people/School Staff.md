@@ -215,10 +215,10 @@ description: ""
 
 ##### Primary 5
 
-|**Mrs Maurice G O'Hara**|**Mdm Hu Wanchun**|**Mr Ramani Prabhu**|
+|**Mrs Maurice G O'Hara**|**Mdm Hu Wanchun**|**Mdm Felicia Choon**|
 | -------- | -------- | -------- |
 | P5 Innovator (Form Teacher)| P5 Innovator (Form Teacher)| P5 Thinker (Form Teacher)|
-|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) | [hu_wanchun@schools.gov.sg](mailto:hu_wanchun@schools.gov.sg) | [ramani_prabhu_r_kalamohan@schools.gov.sg](mailto:ramani_prabhu_r_kalamohan@schools.gov.sg)|
+|[brenda_joan_perera@schools.gov.sg](mailto:brenda_joan_perera@schools.gov.sg) | [hu_wanchun@schools.gov.sg](mailto:hu_wanchun@schools.gov.sg) | [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg)|
 | | | |
 |**Mrs Zhang Yiyang**|**Mdm Tay Siak Ching**|**Mr Roy Chua**|
 | P5 Thinker (Form Teacher)|P5 Creator (Form Teacher)    | P5 Creator (Form Teacher)|
