@@ -16,7 +16,6 @@ The responsibilities of the each Horizon student include the following:
   
 
 Our school’s recommendations are as follows:-
-* Minimal or no homework will be assigned to students on Wednesdays due to the extended school hours till 3.30p.m.
 * The approximate time allocation during school term per day/week and holidays are stipulated in the table below.
 
 ![](/images/homeworkpolicytable.png)
