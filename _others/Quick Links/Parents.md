@@ -29,8 +29,8 @@ third_nav_title: Quick Links
 
 ###  Useful Information
 * [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
-* [Students' Use of Mobile Devices](https://horizonprimary.edu.sg/studentsuseofmobiledevices/)
-* [Homework Policy](https://horizonprimary.moe.edu.sg/homeworkpolicy/)
+* [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/students-use-of-mobile-devices/)
+* [Homework Policy](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/homework-policy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)
