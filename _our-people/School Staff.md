@@ -232,13 +232,13 @@ description: ""
 |P5 Inventor (Form Teacher)| P5 Inquirer (Form Teacher)| P5 Inquirer (Form Teacher)|
 |[karen_goh@schools.gov.sg](mailto:karen_goh@schools.gov.sg)| [nur_nurul_shahqairani_azmi@schools.gov.sg](mailto:nur_nurul_shahqairani_azmi@schools.gov.sg) | [tjio_giem_swat@schools.gov.sg](mailto:tjio_giem_swat@schools.gov.sg)|
 | | | |
-|**Mdm Parveen Begum d/o Gulam Razul**|**Mr Edwin Yu**|**Mr Chia Der Sheng**|
-| P5 Explorer (Form Teacher)|P5 Explorer (Form Teacher)|P5 Discoverer (Form Teacher)|
-|[parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) | [chia_der_sheng@schools.gov.sg](mailto:chia_der_sheng@schools.gov.sg)|
+|**Ms Chermine Lau**|**Mdm Parveen Begum d/o Gulam Razul**|**Mr Edwin Yu**|
+| P5 Inquirer (Form Teacher)|P5 Explorer (Form Teacher)|P5 Explorer (Form Teacher)|
+|[chermine_lau_ying_jie@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) )|
 | | | |
-|**Mdm Devika d/o Murugaiah**| | | 
-|P5 Discoverer (Form Teacher)| | |
-|[devika_murugaiah@schools.gov.sg](mailto:devika_murugaiah@schools.gov.sg)| | |
+|**Mr Chia Der Sheng**|**Mdm Devika d/o Murugaiah** | | 
+|P5 Discoverer (Form Teacher)|P5 Discoverer (Form Teacher) | |
+|[chia_der_sheng@schools.gov.sg](mailto:chia_der_sheng@schools.gov.sg)| [devika_murugaiah@schools.gov.sg](mailto:devika_murugaiah@schools.gov.sg) | |
 | | | |
 
 ##### Primary 6
