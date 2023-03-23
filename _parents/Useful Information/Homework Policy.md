@@ -4,7 +4,6 @@ permalink: /our-partners/parents/administrative-matters/homework-policy/
 description: ""
 third_nav_title: Useful Information
 ---
-
 ### **Homework Policy**
 
 At Horizon Primary School, we give due consideration to how much time is appropriate for students to complete their homework at each level, according to their aptitude.
@@ -19,9 +18,7 @@ The responsibilities of each Horizon student include the following:
 
 Our school’s recommendations are as follows:-
 
-1. Minimal or no homework will be assigned to students on Wednesdays due to the extended
-    school hours till 3.30p.m.
-2. The approximate time allocation during school term per day / week and holidays are stipulated
+1. The approximate time allocation during school term per day / week and holidays are stipulated
     in the table below.
 	
 <table style="width:466.5pt;background:white;border-collapse:collapse;border:none;

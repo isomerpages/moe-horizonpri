@@ -10,7 +10,7 @@ third_nav_title: Quick Links
 * **Direct School Admission** - Details on DSA can be found [here](https://www.moe.gov.sg/secondary/dsa)
 
 ### Letter to Parents
-* [Letter to Parents 2023](https://horizonprimary.edu.sg/our-partners/parents/letter-to-parents/)
+* [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
@@ -18,7 +18,7 @@ third_nav_title: Quick Links
 
 ### Applications & Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
-* [Parents Gateway Mobile Application](https://horizonprimary.edu.sg/parentsgateway/)
+* [Parents Gateway Mobile Application](https://pg.moe.edu.sg/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
@@ -28,9 +28,9 @@ third_nav_title: Quick Links
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
 ###  Useful Information
-* [Dispensing or Administering of Medication](/files/Administering%20of%20Medication.pdf)
-* [Students' Use of Mobile Devices](https://horizonprimary.edu.sg/studentsuseofmobiledevices/)
-* [Homework Policy](https://horizonprimary.edu.sg/homeworkpolicy/)
+* [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
+* [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/students-use-of-mobile-devices/)
+* [Homework Policy](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/homework-policy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)
