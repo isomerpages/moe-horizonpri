@@ -13,7 +13,7 @@ third_nav_title: Quick Links
 * [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
-
+* [P1 Orientation Booklet]()
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
