@@ -38,11 +38,11 @@ third_nav_title: Quick Links
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
-**BEAU VOIX UNIFORM**
-2 Sims Close 
-#03-08 Gemini@Sims
+**BEAU VOIX UNIFORM** <br>
+2 Sims Close <br>
+#03-08 Gemini@Sims<br>
 Singapore 387298 
-Tel: 67436645 / 67447084
+Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687
 Email: info@beauvoix.com.sg
  
