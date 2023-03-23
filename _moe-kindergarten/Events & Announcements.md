@@ -11,8 +11,6 @@ Open House at MK@Horizon will be held on **18 February 2023, 9.00am to 1.00pm**
 
 Should you require further details on the other MKs which our schools offer, please visit the [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten) website.
 
-![Picture1.jpg](https://horizonpri.moe.edu.sg/qql/slot/u174/Picture1.jpg)
-
 #### **Sale of MK Uniform**
 **Sale of MK Uniform by Jeep Sing Fashion**<br>
 Dear Parent/ Guardian,

@@ -13,7 +13,7 @@ third_nav_title: Quick Links
 * [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
-* [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
+* [P1 Orientation Booklet]()
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
@@ -38,11 +38,11 @@ third_nav_title: Quick Links
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
-**BEAU VOIX UNIFORM**
-2 Sims Close 
-#03-08 Gemini@Sims
+**BEAU VOIX UNIFORM** <br>
+2 Sims Close <br>
+#03-08 Gemini@Sims<br>
 Singapore 387298 
-Tel: 67436645 / 67447084
+Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687
 Email: info@beauvoix.com.sg
  
@@ -51,17 +51,18 @@ In support of the national movement, we encourage parents to opt for online orde
 ### P1 to P6 Booklist 2023
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **P1-P6 Booklists 2023**<br>
-[P1 Booklist 2023](/files/Booklists/booklistp1.pdf)<br>
-[P2 Booklist 2023.pdf](/files/Booklists/booklistp2.pdf)<br>
-[P3 Booklist 2023.pdf](/files/Booklists/booklistp3.pdf)<br>
-[P4 Booklist 2023.pdf](/files/Booklists/booklistp4.pdf)<br>
-[P5 Booklist 2023.pdf](/files/Booklists/booklistp5.pdf)<br>
-[P5F Booklist 2023.pdf](/files/Booklists/booklistp5f.pdf)<br>
-[P6 Booklist 2023.pdf](/files/Booklists/booklistp6.pdf)<br>
-[P6F Booklist 2023.pdf](/files/Booklists/booklistp6f.pdf)
 
+| [P1 Booklist 2023](/files/Booklists/booklistp1.pdf)| [P2 Booklist 2023](/files/Booklists/booklistp2.pdf) |
+| -------- | -------- |
+| **[P3 Booklist 2023](/files/Booklists/booklistp3.pdf)**| **[P4 Booklist 2023](/files/Booklists/booklistp4.pdf)** |
+| **[P5 Booklist 2023](/files/Booklists/booklistp5.pdf)** | **[P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)**   |
+| **[P6 Booklist 2023](/files/Booklists/booklistp6.pdf)** | **[P6F Booklist 2023](/files/Booklists/booklistp6f.pdf)** |
 
 ### Canteen Menu 2023
-|[ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg)|[ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)|[ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)|[ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)|
-| -------- | -------- | -------- |-------- |
-| [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu5.jpg)|[ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg)|[ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg)|[ ![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg)|
+
+
+|  [ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg) |
+| -------- | -------- |
+| [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)| [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg) |
+| [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu5.jpg)  | [ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg) |
+| [ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg) | [ ![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg) |
