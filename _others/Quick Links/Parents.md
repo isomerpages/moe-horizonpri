@@ -54,9 +54,9 @@ In support of the national movement, we encourage parents to opt for online orde
 
 | [P1 Booklist 2023](/files/Booklists/booklistp1.pdf)| [P2 Booklist 2023](/files/Booklists/booklistp2.pdf) |
 | -------- | -------- |
-| **[P3 Booklist 2023](/files/Booklists/booklistp3.pdf)**| [P4 Booklist 2023](/files/Booklists/booklistp4.pdf) |
-| [P5 Booklist 2023](/files/Booklists/booklistp5.pdf) | [P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)   |
-| [P6 Booklist 2023](/files/Booklists/booklistp6.pdf) | [P6F Booklist 2023](/files/Booklists/booklistp6f.pdf) |**
+| **[P3 Booklist 2023](/files/Booklists/booklistp3.pdf)**| **[P4 Booklist 2023](/files/Booklists/booklistp4.pdf)** |
+| **[P5 Booklist 2023](/files/Booklists/booklistp5.pdf)** | **[P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)**   |
+| **[P6 Booklist 2023](/files/Booklists/booklistp6.pdf)** | **[P6F Booklist 2023](/files/Booklists/booklistp6f.pdf)** |
 
 ### Canteen Menu 2023
 
