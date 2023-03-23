@@ -13,7 +13,7 @@ third_nav_title: Quick Links
 * [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
-* [P1 Orientation Booklet 2023](/files/P1%20Orientation%20Booklet%202023.pdf)
+* [P1 Orientation Booklet](/files/orientation1.pdf)
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
@@ -56,9 +56,9 @@ In support of the national movement, we encourage parents to opt for online orde
 
 | [P1 Booklist 2023](/files/Booklists/booklistp1.pdf)| [P2 Booklist 2023](/files/Booklists/booklistp2.pdf) |
 | -------- | -------- |
-| **[P3 Booklist 2023](/files/Booklists/booklistp3.pdf)** | **[P4 Booklist 2023](/files/Booklists/booklistp4.pdf)** |
-| **[P5 Booklist 2023](/files/Booklists/booklistp5.pdf)** | **[P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)**   |
-| **[P6 Booklist 2023](/files/Booklists/booklistp6.pdf)** | **[P6F Booklist 2023](/files/Booklists/booklistp6f.pdf)** |
+| [P3 Booklist 2023](/files/Booklists/booklistp3.pdf) | [P4 Booklist 2023](/files/Booklists/booklistp4.pdf) |
+| [P5 Booklist 2023](/files/Booklists/booklistp5.pdf) | [P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)   |
+| [P6 Booklist 2023](/files/Booklists/booklistp6.pdf) | [P6F Booklist 2023](/files/Booklists/booklistp6f.pdf)     |
 
 ### Canteen Menu 2023
 
