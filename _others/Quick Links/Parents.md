@@ -52,8 +52,6 @@ In support of the national movement, we encourage parents to opt for online orde
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **P1-P6 Booklists 2023**<br>
 
-
-
 | [P1 Booklist 2023](/files/Booklists/booklistp1.pdf)| [P2 Booklist 2023](/files/Booklists/booklistp2.pdf) |
 | -------- | -------- |
 | [P3 Booklist 2023](/files/Booklists/booklistp3.pdf) | [P4 Booklist 2023](/files/Booklists/booklistp4.pdf) |
