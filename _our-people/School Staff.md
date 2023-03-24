@@ -23,7 +23,7 @@ description: ""
 | Year Head/Lower Primary | Year Head/Middle Primary     | Year Head/Upper Primary    |
 | [lim_buay_tiang@schools.gov.sg](mailto:lim_buay_tiang@schools.gov.sg)     | [lee_lay_hoon_a@schools.gov.sg](mailto:lee_lay_hoon_a@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
 |     |      |     |
-| **Mrs Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
+| **Ms Loh Shuzhen Sheila** | **Mrs Staphni Ong** | **Mr Low Zihao Davis** |
 | HOD/English Language   | HOD/Mathematics    | HOD/Science    |
 | [loh_shuzhen_sheila@schools.gov.sg ](mailto:loh_shuzhen_sheila@schools.gov.sg )   | [sim_yan_ling_staphni@schools.gov.sg  ](mailto:sim_yan_ling_staphni@schools.gov.sg)   | [low_zihao@schools.gov.sg](mailto:low_zihao@schools.gov.sg)   |
 |     |    |     |
