@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 ---
 ### The Inspiring Teacher of English Award 2023
-Know of an English teacher in Horizon who has inspired your child and ignited your child’s love for English? Please [click here](/ilovemyenglishteacher/) for more information. 
+Know of an English teacher in Horizon who has inspired your child and ignited your child’s love for English? Please [click here](https://www.horizonpri.moe.edu.sg/ilovemyenglishteacher/) for more information. 
 
 ### Application for Associate Parent Volunteer (APV)
 
