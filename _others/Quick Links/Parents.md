@@ -13,7 +13,7 @@ third_nav_title: Quick Links
 * [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
-* [P1 Orientation Booklet]()
+* [P1 Orientation Booklet](/files/P1%20Orientation%20Booklet%202023.pdf)
 * [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
 
 ### Applications & Claims
@@ -29,8 +29,8 @@ third_nav_title: Quick Links
 
 ###  Useful Information
 * [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
-* [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/students-use-of-mobile-devices/)
-* [Homework Policy](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/homework-policy/)
+* [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/studentsuseofmobiledevices/)
+* [Homework Policy](https://www.horizonpri.moe.edu.sg/homeworkpolicy/)
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)

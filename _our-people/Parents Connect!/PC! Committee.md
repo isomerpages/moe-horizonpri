@@ -19,7 +19,7 @@ third_nav_title: Parents Connect!
 |Member| Member|Member|
 | | | |
 |**Mdm Sathya**|**Mdm Teris Tan**|**Mdm Junita**|
-|Member Member|Member|
+|Member |Member|Member|
 | | | |
 |**Mrs Christine Shen**| | |
 |Member| | |
