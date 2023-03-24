@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - ILoveMyEnglishTeacher.md
       - Announcements.md
       - Quick Links/.keep
       - Quick Links/Parents.md
