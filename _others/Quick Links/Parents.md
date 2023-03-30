@@ -27,6 +27,8 @@ third_nav_title: Quick Links
 * [Straits Times Pocket Money Fund](https://www.spmf.org.sg/howtoapply)
 * [NEU PC Plus Programme](https://www.imda.gov.sg/neupc)
 
+### Student's Waitlist
+
 ###  Useful Information
 * [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
 * [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/studentsuseofmobiledevices/)
