@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.00am - 6.00pm
+        time: 7.00am - 5.00pm
         description: (School Days)
       - days: Days of Closure
         time: ""
