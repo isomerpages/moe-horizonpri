@@ -16,8 +16,8 @@ locations:
     title: School Location
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6753 5411
+      - email: horizon_ps@moe.edu.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---
