@@ -11,7 +11,11 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.00am - 6.00pm
-        description: (Closed on Saturday, Sundays & Public Holidays)
+        description: (School Days)
+      - days: Days of Closure
+        time: ""
+        description: The School General Office is closed on Saturdays, Sundays and
+          Public Holidays
     maps_link: ""
     title: School Location
 contacts:
