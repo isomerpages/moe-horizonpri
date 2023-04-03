@@ -11,4 +11,4 @@ description: ""
 
 [3. March- WE-CONNECT! (3)](/files/Letters%20to%20Parents/2023/WECONNECT%203%202023_%20final.pdf)
 
-[4. April-WE-CONNECT! (4)](/files/we-connect!%20(4)_%20final.pdf)
+[4. April - WE-CONNECT! (4)](/files/we-connect!%20(4)_%20final.pdf)
