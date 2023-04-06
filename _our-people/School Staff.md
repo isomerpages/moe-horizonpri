@@ -253,7 +253,7 @@ description: ""
 | [rozanah_abdul_rahim@schools.gov.sg](mailto:rozanah_abdul_rahim@schools.gov.sg) | [chua_siew_fen@schools.gov.sg](mailto:chua_siew_fen@schools.gov.sg)   | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)   |
 | | | |
 | **Ms Hazlina Maideen** | **Mdm Parameswary**  | **Mdm Han Yu Chin**     |
-| P6 Inventor (Form Teacher)  | P Inquirer (Form Teacher) |  P6 Inquirer (Form Teacher)|
+| P6 Inventor (Form Teacher)  | P6 Inquirer (Form Teacher) |  P6 Inquirer (Form Teacher)|
 | [hazlina_mohamed_maideen@schools.gov.sg](mailto:hazlina_mohamed_maideen@schools.gov.sg)   | [parameswary_sivarajah@schools.gov.sg](mailto:parameswary_sivarajah@schools.gov.sg)   | [han_yu_chin@schools.gov.sg](mailto:han_yu_chin@schools.gov.sg)  |
 | | | |
 
