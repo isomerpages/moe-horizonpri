@@ -92,21 +92,17 @@ description: ""
 | Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
 |     |    |     |
-| **Mdm Intariya Ong**| **Mdm Toh Waraporn**| |
-| Operations Support Officer   | Operations Support Officer   |  |
-| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | []()    |
+| **Mdm Intariya Ong**| **Mdm Toh Waraporn**|**Mdm Koh Lay Wan Agnes**  |
+| Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [horizon_ps@moe.edu.sg]()    |
 |     |    |     |
 
 ### Support Staff
 
-| **Mdm Koh Lay Wan Agnes**     | **Mr Muhammad Aryffin Bin Norazman**      | **Mr Ye Ting** |
+|**Mr Muhammad Aryffin Bin Norazman**  | **Mr Ye Ting**   |**Mr Tan Teck Tian Sunny**  |
 | -------- | -------- | -------- |
-| Admin Assistant   | Desktop Engineer    | Desktop Engineer   |
+| Desktop Engineer  | Desktop Engineer    | Gardener  |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
-|     |    |     |
-| **Mr Tan Teck Tian Sunny**| ||
-| Gardener   | | |
-| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [](mailto:horizon_ps@moe.edu.sg)  | []()    |
 |     |    |     |
 
 ### Teachers 2023
