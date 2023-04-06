@@ -90,7 +90,7 @@ description: ""
 |     |    |     |
 | **Mr Bay Ah Hock**| **Mdm Gan Fung Ling**| **Mdm Ow Kum Chee Jennifer**|
 | Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
-| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [cheong_kum_hoe_janet@schools.gov.sg](mailto:cheong_kum_hoe_janet@schools.gov.sg)    |
+| [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)  | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)     |
 |     |    |     |
 | **Mdm Intariya Ong**| **Mdm Toh Waraporn**|**Mdm Koh Lay Wan Agnes**  |
 | Operations Support Officer   | Operations Support Officer   | Operations Support Officer |
