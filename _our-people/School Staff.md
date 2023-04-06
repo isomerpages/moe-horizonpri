@@ -264,7 +264,7 @@ description: ""
 | Senior School Counsellor   | Senior SEN Officer  | SEN Officer |
 | [koh_bee_cheng@schools.gov.sg](mailto:koh_bee_cheng@schools.gov.sg) | [chew_poh_choo@schools.gov.sg](mailto:chew_poh_choo@schools.gov.sg) | [nurazimah_azman@schools.gov.sg](mailto:nurazimah_azman@schools.gov.sg)|
 | | | |
-| **Mdm Farhana Binte Hassan** |  
-| SEN Officer|  
-|[farhana_hassan@schools.gov.sg](mailto:farhana_hassan@schools.gov.sg)||
+| **Mdm Farhana Binte Hassan** |**Miss Rachel Sim**
+| SEN Officer| SEN Officer|  
+|[farhana_hassan@schools.gov.sg](mailto:farhana_hassan@schools.gov.sg)|[sim_ruijing_rachel@schools.gov.sg](mailto:Sim_Ruijing_Rachel@schools.gov.sg)
 | | | |
