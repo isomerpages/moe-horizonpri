@@ -20,6 +20,7 @@ If this sounds like a teacher you know, nominate him or her for the award now! <
 Students, parents, fellow teachers and school leaders can nominate teachers online at :
 https://bit.ly/dclta2023
 
-For more information : 
+For more information : Click [Here](/files/distinguished%20cl%20teachers%20awards%20poster%202023.pdf)
+
 
 
