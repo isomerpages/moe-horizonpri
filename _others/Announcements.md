@@ -3,6 +3,10 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
+### The Distinguished Teacher of Chinese Language 2023
+Know of an CL teacher in Horizon who has inspired your child and ignited your child’s love for the language ? Please [click here](https://horizonprimary.edu.sg/distinguishedclteacher/) for more information.
+
+
 ### MK Wait List Application Form 2023
 Keen to register your child/ward? 
 Click the link [here](https://go.gov.sg/horizonmkwaitlistapplicationform2023)
