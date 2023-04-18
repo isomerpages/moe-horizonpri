@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 Please click on the link below to register  
-[Wait List Application Form 2023](https://go.gov.sg/wla23)
+[School Waitlist Application Form 2023](https://go.gov.sg/wla23)
