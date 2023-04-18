@@ -19,7 +19,7 @@ Horizon Primary School<br>
 61 Edgedale Plains<br>
 Singapore 828819<br>
 Tel: 6235 6960<br>
-Email: mk_horizon@moe.edu.sg 
+Email: [mk_horizon@moe.edu.sg](mailto:mk_horizon@moe.edu.sg)
 
 #### **Operating Hours**
 MK: 8am – 5pm (Tel: 6235 6960)<br>
