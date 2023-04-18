@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Administrative Matters
 ---
 Please click on the link below to register  
-[Pri School Waitlist Application Form](https://go.gov.sg/wla23)
+[Pri School Waitlist Application Form 2023](https://go.gov.sg/wla23)
