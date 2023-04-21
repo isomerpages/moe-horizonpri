@@ -1,5 +1,5 @@
 title: Horizon Primary School
-url: https://horizonprimary.edu.sg
+url: https://www.horizonpri.moe.edu.sg
 favicon: /images/crest.jpg
 colors:
   primary-color: "#f8bf2a"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
