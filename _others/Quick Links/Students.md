@@ -32,3 +32,8 @@ third_nav_title: Quick Links
 ### _Zoom_
 
 [https://zoom.us/join](https://zoom.us/join)
+
+**MTL Celebrate Writing e-Book**
+--------------------
+To access the online e-book, please click here
+[HRPS ebook ](https://www.etutorlearning.com/HRPSebook2022/)
