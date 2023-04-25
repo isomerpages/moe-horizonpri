@@ -29,7 +29,7 @@ description: ""
 |     |    |     |
 | **Ms Bian Ni**   | **Ms Agnes Hong Lai Fun**    | **Ms Sun Biling**     |
 | MK Educator  | MK Educator    | MK Educator |
-| [bian\_ni@schools.gov.sg](mailto:bian_ni@schools.gov.sg) |[chen\_cen@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) | 
+| [bian\_ni@schools.gov.sg](mailto:hong_lai_fun@schools.gov.sg) |[hong_lai_fun@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) | 
 |     |    |     |
 | **Ms Fu Yuehua**     | **Ms Chen Chen**   | **Ms Yong Moi Ling**    |
 | MK Educator   | MK Educator | MK Educator   |
