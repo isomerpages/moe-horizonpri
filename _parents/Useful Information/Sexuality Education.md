@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /parents/useful-information/permalink/
+permalink: /parents/useful-information/sexuality-education/
 description: ""
 third_nav_title: Useful Information
 ---

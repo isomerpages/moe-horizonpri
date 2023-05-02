@@ -1,6 +1,6 @@
 ---
 title: Wait Lists 2023
-permalink: /parents/administrative-matters/permalink/
+permalink: /parents/administrative-matters/waitlists-2023/
 description: ""
 third_nav_title: Administrative Matters
 ---
