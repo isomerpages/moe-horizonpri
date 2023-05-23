@@ -5,6 +5,29 @@ description: ""
 third_nav_title: Accolades
 ---
 ### **Staff**
+#### **MOE Service Excellence Award (MSEA) 2022**
+The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.
+
+This year we are proud to recognize five members of our Horizon Family as MOE Ambassadors who have been awarded the MSEA 2022.
+
+They are:
+
+**Platinum/Gold Award**<br>
+Mdm Chua Lian Hoong
+
+**Gold Award**<br>
+Mdm Ow Kum Chee Jennifer <br>
+Mdm Intariya Ong (Kim)
+
+  **Silver Award**<br>
+	Mdm Cheong Kum Hoe Janet<br>
+	Mdm Fung Siew Koon
+	
+
+Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
+
+
+
 #### **Dr Ong Yong Peng Book Prize**
 
 <img src="/images/staff1.jpg" style="width:20%;margin-right:55px;" align="left">
