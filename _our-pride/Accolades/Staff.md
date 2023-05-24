@@ -12,7 +12,7 @@ This year we are proud to recognize six members of our Horizon Family as MOE Amb
 
 They are:<br>
 
-<img src="/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg" style="width:22%;margin-right:145px;" align="right">
+<img src="/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg" style="width:22%;margin-centre:145px;" align="centre">
 
 
 
