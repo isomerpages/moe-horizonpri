@@ -11,6 +11,11 @@ The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate 
 This year we are proud to recognize six members of our Horizon Family as MOE Ambassadors who have been awarded the MSEA 2022.
 
 They are:<br>
+
+<img src="/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg" style="width:22%;margin-right:145px;" align="right">
+
+
+
 **Platinum Award**<br>
 ![](/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg)
 **Gold Award**
