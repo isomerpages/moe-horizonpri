@@ -25,7 +25,7 @@ Mdm Intariya Yoong (Kim)
 
   **Silver Award**<br>
 	![](/images/MSEA%202022/horizon%20pri_silver_cheong%20kum%20hoe.jpg)
-	Mdm Cheong Kum Hoe Janet<br>
+	Mdm Cheong Kum Hoe Janet<br>![](/images/MSEA%202022/horizon%20pri_silver_fung%20siew%20koon.jpg) Mdm Fung Siew Koon<br>
 
 	
 
