@@ -13,19 +13,13 @@ This year we are proud to recognize six members of our Horizon Family as MOE Amb
 They are:<br>
 **Platinum Award**<br>
 ![](/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg)
-
 **Gold Award**
 ![](/images/MSEA%202022/horizon%20pri_gold_chua%20lian%20hoong.jpg)
 ![](/images/MSEA%202022/horizon%20pri_gold_ow%20kum%20chee.jpg)
 ![](/images/MSEA%202022/horizon%20pri_gold_yeo%20soon%20seng%20gary.jpg)
   **Silver Award**<br>
 	![](/images/MSEA%202022/horizon%20pri_silver_cheong%20kum%20hoe.jpg)![](/images/MSEA%202022/horizon%20pri_silver_fung%20siew%20koon.jpg)![](/images/MSEA%202022/horizon%20pri_silver_intariya%20yoong.jpg)
-
-	
-
 Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
-
-
 
 #### **Dr Ong Yong Peng Book Prize**
 
