@@ -5,6 +5,23 @@ description: ""
 third_nav_title: Accolades
 ---
 ### **Staff**
+#### **MOE Service Excellence Award (MSEA) 2022**
+The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate in their service delivery, consistently serve internal and external customers with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness), and inspire their colleagues to do likewise.
+
+This year we are proud to recognize six members of our Horizon Family as MOE Ambassadors who have been awarded the MSEA 2022.
+
+They are:<br>
+
+**Platinum Award**<br>
+![](/images/MSEA%202022/horizon%20pri_platinum_chua%20lian%20hoong.jpg)
+**Gold Award**
+![](/images/MSEA%202022/horizon%20pri_gold_chua%20lian%20hoong.jpg)
+![](/images/MSEA%202022/horizon%20pri_gold_ow%20kum%20chee.jpg)
+![](/images/MSEA%202022/horizon%20pri_gold_yeo%20soon%20seng%20gary.jpg)
+  **Silver Award**<br>
+	![](/images/MSEA%202022/horizon%20pri_silver_cheong%20kum%20hoe.jpg)![](/images/MSEA%202022/horizon%20pri_silver_fung%20siew%20koon.jpg)![](/images/MSEA%202022/horizon%20pri_silver_intariya%20yoong.jpg)
+Our heartiest congratulations to them and join me in sharing the joy as one Horizon Family.
+
 #### **Dr Ong Yong Peng Book Prize**
 
 <img src="/images/staff1.jpg" style="width:20%;margin-right:55px;" align="left">
