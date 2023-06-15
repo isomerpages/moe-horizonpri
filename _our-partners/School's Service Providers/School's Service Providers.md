@@ -6,8 +6,8 @@ third_nav_title: School's Service Providers
 ---
 ### **School's Service Providers**
 #### **School Bookshop**<br>
-**Popular @ Horizon**<br>
-Tel: 6484 5033
+**The Continental Book Centre**<br>
+Tel: 6247 8482 (Main Office)
 
 Operating Hours:<br>
 Mondays to Fridays<br>
@@ -18,7 +18,7 @@ Please note the following time for purchasing items at our school bookshop:<br>
 
 Please avoid visiting the bookshop at the following time for the safety of our students and reduce disruption of school activities:<br>
 9.00 a.m. to 10.45 a.m. (Recess Time)<br>
-1.30 p.m. to 2.05 p.m.  (Dismissal Time)
+1.30 p.m. to 2.05 p.m.&nbsp; (Dismissal Time)
 
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **Uniform Information**<br>
@@ -42,21 +42,21 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 **Beau Voix Uniform**<br>
 2 Sims Close<br>
 #03-08 Gemini@Sims<br>
-Singapore 387298 <br>
+Singapore 387298&nbsp;<br>
 Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687<br>
-Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
+Email:&nbsp;[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 **Purchase of School Uniform in School**<br>
-Purchasing of school uniform will resume on 18 January 2021 at the school bookshop. 
+Purchasing of school uniform will resume on 18 January 2021 at the school bookshop.&nbsp;
 
-In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: [https://www.beauvoix.com](https://www.beauvoix.com/). Delivery is charged at $5 per transaction and no minimum order amount is required.
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at:&nbsp;[https://www.beauvoix.com](https://www.beauvoix.com/). Delivery is charged at $5 per transaction and no minimum order amount is required.
 
 #### **School Library**
 **LEADers Hub @ Horizon**<br>
 Tel: 6753 5411 (Ext. 340)
 
-Operating Hours (Mon - Fri) : <br>
+Operating Hours (Mon - Fri) :&nbsp;<br>
 Sch Term: 7.15 a.m. to 3.45 p.m.<br>Sch Holiday: 7.30 a.m. to 3.45 p.m.
 
 #### **Dental Service**
@@ -68,11 +68,11 @@ Opening dates: Alternate weeks<br>
 Tel: 8522 9106
 
 #### **Bus Operator**
-**BT & Tan Bus Transport Service**<br>
-Website: [http://www.btntan.com](http://www.btntan.com/)<br>
+**BT &amp; Tan Bus Transport Service**<br>
+Website:&nbsp;[http://www.btntan.com](http://www.btntan.com/)<br>
 Tel: 6483 4527 / 64837260<br>
 Fax: 6483 7261<br>
-Email: [admin@btntan.com](mailto:admin@btntan.com)
+Email:&nbsp;[admin@btntan.com](mailto:admin@btntan.com)
 
 ### Canteen Menu 2023
 [ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)| [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)| [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)|
@@ -85,13 +85,13 @@ Tel: 8922 8794<br>
 E-mail: [HZ@rafflesstudentcare.com](mailto:HZ@rafflesstudentcare.com)
 
 Operating Hours (Mon - Fri):<br>
-Sch Term: 1.45 p.m. to 6.55 p.m. <br>
+Sch Term: 1.45 p.m. to 6.55 p.m.&nbsp;<br>
 Sch Holiday: 7.30 a.m to 6.55 p.m.
 
 #### **External Organisations**
 **Dylexia Association of Singapore**<br>
 **For Learning Disablity**<br>
-Website: [https://www.das.org.sg](https://www.das.org.sg/)<br>
+Website:&nbsp;[https://www.das.org.sg](https://www.das.org.sg/)<br>
 Tel: 6444 5700<br>
 Fax: 6444 7900
 
@@ -99,23 +99,23 @@ Fax: 6444 7900
 **Touchline**<br>
 For gaming addiction, Internet-related issues and information on youth programmes.
 
-Website: [https://www.touch.org.sg/our-services](https://www.touch.org.sg/our-services)
+Website:&nbsp;[https://www.touch.org.sg/our-services](https://www.touch.org.sg/our-services)
 
 Tel: 1800-377 2252
 
-Operating Hours (Mon - Fri) : 9.00 a.m. to 6.00 p.m.
+Operating Hours (Mon - Fri) :&nbsp;9.00 a.m. to 6.00 p.m.
 
 **Samaritans of Singapore (SOS)**<br>
 If you are feeling distressed, or know someone who is feeling suicidal, get help immediately. Talk to somebody.
 
-Website:  [https://sos.org.sg/](https://sos.org.sg/)<br>
+Website: &nbsp;[https://sos.org.sg/](https://sos.org.sg/)<br>
 Tel: 1800-221 4444 (24hrs)
 
 **Tinkle Friend**<br>
 Primary school children who need a listening ear, this helpline provides support, advice and information to lonely and distressed children especially in situations when their parents or main caregivers are unavailable.
 
-Website: [https://www.childrensociety.org.sg](https://www.childrensociety.org.sg/) <br>
-Tel: 1800-274 4788 
+Website:&nbsp;[https://www.childrensociety.org.sg](https://www.childrensociety.org.sg/)&nbsp;<br>
+Tel: 1800-274 4788&nbsp;
 
 Operating Hours (Mon - Fri):<br>
 9.30 a.m. to 11.30 a.m.<br>
