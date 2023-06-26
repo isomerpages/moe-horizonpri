@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Horizon Primary School
-description: Brief site description here
+description: A Singapore Government site built with Isomer
 image: /images/crest.jpg
 permalink: /
 notification: ""
