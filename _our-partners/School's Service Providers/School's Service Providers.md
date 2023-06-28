@@ -14,7 +14,7 @@ Mondays to Fridays<br>
 9.00 a.m. to 4.00 p.m.
 
 Please note the following time for purchasing items at our school bookshop:<br>
-11.00 a.m. to 1.15 p.m.
+11.00 a.m. to 1.15 p.m
 
 Please avoid visiting the bookshop at the following time for the safety of our students and reduce disruption of school activities:<br>
 9.00 a.m. to 10.45 a.m. (Recess Time)<br>
