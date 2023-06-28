@@ -23,13 +23,13 @@ description: ""
 | MK Educator     | MK Educator     | MK Educator    |
 [annabel\_kim\_wee@schools.gov.sg](mailto:annabel_kim_wee@schools.gov.sg) | [leo\_tiew\_wei@schools.gov.sg](mailto:leo_tiew_wei@schools.gov.sg) | [leck\_chi\_ling@schools.gov.sg](mailto:leck_chi_ling@schools.gov.sg) | 
 |     |    |     |
-| **Mrs Imran**    | **Ms Desiree Ang Yan Ting**    | **Ms Bavani D/O Subramaniam**     |
-| MK Educator    | MK Educator    | MK Educator   |
-[angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) | [desiree\_ang\_yan\_ting@schools.gov.sg](mailto:desiree_Ang_Yan_Ting@schools.gov.sg) |[bavani\_subramaniam@schools.gov.sg](mailto:bavani_subramaniam@schools.gov.sg) | 
+| **Mrs Imran**    | **Ms Bavani D/O Subramaniam** |  **Ms Bian Ni**     |
+| MK Educator    | MK Educator   | MK Educator   |
+[angeline\_carmen\_foong@schools.gov.sg](mailto:angeline_carmen_foong@schools.gov.sg) |[bavani\_subramaniam@schools.gov.sg](mailto:bavani_subramaniam@schools.gov.sg) |[bian\_ni@schools.gov.sg](mailto:bian_ni@schools.gov.sg) | 
 |     |    |     |
-| **Ms Bian Ni**   | **Ms Agnes Hong Lai Fun**    | **Ms Sun Biling**     |
+ **Ms Agnes Hong Lai Fun**    | **Ms Sun Biling**     | **Ms Fu Yuehua**
 | MK Educator  | MK Educator    | MK Educator |
-| [bian\_ni@schools.gov.sg](mailto:bian_ni@schools.gov.sg) |[hong_lai_fun@schools.gov.sg](mailto:hong_lai_fun@schools.gov.sg) | [sun_biling@schools.gov.sg](mailto:sun_biling@schools.gov.sg) | 
+|[hong_lai_fun@schools.gov.sg](mailto:hong_lai_fun@schools.gov.sg) | [sun_biling@schools.gov.sg](mailto:sun_biling@schools.gov.sg) |[fu\_yuehua@schools.gov.sg](mailto:fu_yuehua@schools.gov.sg) | 
 |     |    |     |
 | **Ms Fu Yuehua**     | **Ms Chen Cen**   | **Ms Yong Moi Ling**    |
 | MK Educator   | MK Educator | MK Educator   |
