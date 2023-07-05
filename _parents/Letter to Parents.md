@@ -14,3 +14,5 @@ description: ""
 [4. April - WE-CONNECT! (4)](/files/we-connect!%20(4)_%20final.pdf)
 
 [5. May - WE-CONNECT! (5)](/files/we_connect!%20(5)_%202023.pdf)
+
+[6.July - WE-CONNECT!(7)](/files/we-connect!%20(7)%202023_staff.pdf)
