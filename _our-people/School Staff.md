@@ -230,7 +230,7 @@ description: ""
 | | | |
 |**Ms Chermine Lau**|**Mdm Parveen Begum d/o Gulam Razul**|**Mr Edwin Yu**|
 | P5 Inquirer (Form Teacher)|P5 Explorer (Form Teacher)|P5 Explorer (Form Teacher)|
-|[chermine_lau_ying_jie@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) )|
+|[chermine_lau_ying_jie@schools.gov.sg](mailto:chermine_lau_ying_jie@schools.gov.sg)| [parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) )|
 | | | |
 |**Mr Chia Der Sheng**|**Mdm Devika d/o Murugaiah** | | 
 |P5 Discoverer (Form Teacher)|P5 Discoverer (Form Teacher) | |
