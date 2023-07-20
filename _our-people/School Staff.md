@@ -31,9 +31,9 @@ description: ""
 | HOD/Mother Tongue Languages  | HOD/PE & CCA     | HOD/ICT     |
 | [ng_pei_rong@schools.gov.sg](mailto:ng_pei_rong@schools.gov.sg) | [muhammad_raauuf_othman@schools.gov.sg](mailto:muhammad_raauuf_othman@schools.gov.sg)| [dayangku_nuurul_aida_fatima@schools.gov.sg](mailto:dayangku_nuurul_aida_fatima@schools.gov.sg) |
 |     |    |     |
-| **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    | **Mr Seow Zichao Sigmund**   |
-| HOD/CCE    | HOD/Planning & Engagement    | HOD/Innovation    |
-| [shieh_siao_yan_carol@schools.gov.sg](mailto:shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](mailto:yew_zu_yao_jonathan@schools.gov.sg) | [seow_zichao_sigmund@schools.gov.sg](mailto:seow_zichao_sigmund@schools.gov.sg)|
+| **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    |   |
+| HOD/CCE    | HOD/Planning & Engagement    |    |
+| [shieh_siao_yan_carol@schools.gov.sg](mailto:shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](mailto:yew_zu_yao_jonathan@schools.gov.sg) | |
 |     |    |     |
 | **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
 | LH/Mathematics    | SH/National Education & Social Studies     | SH/Student Wellbeing   |
@@ -230,7 +230,7 @@ description: ""
 | | | |
 |**Ms Chermine Lau**|**Mdm Parveen Begum d/o Gulam Razul**|**Mr Edwin Yu**|
 | P5 Inquirer (Form Teacher)|P5 Explorer (Form Teacher)|P5 Explorer (Form Teacher)|
-|[chermine_lau_ying_jie@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg) )|
+|[chermine_lau_ying_jie@schools.gov.sg](mailto:chermine_lau_ying_jie@schools.gov.sg)| [parveen_begum_gulam_razul@schools.gov.sg](mailto:parveen_begum_gulam_razul@schools.gov.sg)| [edwin_yu@schools.gov.sg](mailto:edwin_yu@schools.gov.sg)|
 | | | |
 |**Mr Chia Der Sheng**|**Mdm Devika d/o Murugaiah** | | 
 |P5 Discoverer (Form Teacher)|P5 Discoverer (Form Teacher) | |
