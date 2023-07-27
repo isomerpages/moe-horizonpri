@@ -18,7 +18,7 @@ description: ""
 
 ### School Management Team
 
-| Mrs Shirley Lim Buay Tiang | Mrs Sim Lay Hoon | Mr Timothy WangXiang Rong |
+| Mrs Shirley Lim Buay Tiang | Mrs Sim Lay Hoon | Mr Timothy Wang Xiang Rong |
 | -------- | -------- | -------- |
 | Year Head/Lower Primary | Year Head/Middle Primary     | Year Head/Upper Primary    |
 | [lim_buay_tiang@schools.gov.sg](mailto:lim_buay_tiang@schools.gov.sg)     | [lee_lay_hoon_a@schools.gov.sg](mailto:lee_lay_hoon_a@schools.gov.sg) | [wang_xiang_rong@schools.gov.sg   ](mailto:wang_xiang_rong@schools.gov.sg)  |
@@ -195,15 +195,15 @@ description: ""
 | | | |
 | **Mdm Kelly Teo Hwee Keng** | **Ms Tan Sook Leng**  | **Mr Ivan Tan Seng Hock**   |
 | P4 Thinker (Form Teacher)| P4 Thinker (Form Teacher) |  P4 Creator (Form Teacher) |
-| [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)  | tbc | [ivan_tan_seng_hock@schools.gov.sg](mailto:ivan_tan_seng_hock@schools.gov.sg)   |
+| [teo_hwee_keng@schools.gov.sg](mailto:teo_hwee_keng@schools.gov.sg)  | [tan_sook_leng@schools.gov.sg](mailto:tan_sook_leng@schools.gov.sg) | [ivan_tan_seng_hock@schools.gov.sg](mailto:ivan_tan_seng_hock@schools.gov.sg)   |
 | | | |
 |  **Mdm Teh Chai Choo**|**Mrs Gwen Yu**|**Mdm Zhang Bingjie** |
 |  P4 Creator (Form Teacher)| P4 Reflector (Form Teacher)| P4 Reflector (Form Teacher) |
 | [teh_chai_choo@schools.gov.sg](mailto:teh_chai_choo@schools.gov.sg)  | [chong_hwei_hwei@schools.gov.sg](mailto:chong_hwei_hwei@schools.gov.sg)   | [zhang_bingjie_a@schools.gov.sg](mailto:zhang_bingjie_a@schools.gov.sg)  |
 | | | |
-| **Mrs Doreen Lim** | **Ms Nur Addina Bte Zainuddin**  | **Mdm Fatin Yasirah**     |
+| **Mrs Doreen Lim** | **Ms Nur Addina Bte Zainudin**  | **Mdm Fatin Yasirah**     |
 | P4 Inventor (Form Teacher)  | P4 Inventor (Form Teacher) |  P4 Inquirer (Form Teacher)|
-| [sin_chui_yi_doreen@schools.gov.sg](mailto:sin_chui_yi_doreen@schools.gov.sg)   | [nur_addina_zainuddin@schools.gov.sg](mailto:nur_addina_zainuddin@schools.gov.sg)   | [fatin_yasirah_mohd_yazid@schools.gov.sg](mailto:fatin_yasirah_mohd_yazid@schools.gov.sg)   |
+| [sin_chui_yi_doreen@schools.gov.sg](mailto:sin_chui_yi_doreen@schools.gov.sg)   | [nur_addina_zainudin@schools.gov.sg](mailto:nur_addina_zainudin@schools.gov.sg)   | [fatin_yasirah_mohd_yazid@schools.gov.sg](mailto:fatin_yasirah_mohd_yazid@schools.gov.sg)   |
 | | | |
 | **Mrs Cylvi Lin**   | **Mrs Veronica Lim**  | **Mdm Ng Kah Suan** |
 |   P4 Inquirer (Form Teacher) | P4 Explorer (Form Teacher)  | P4 Explorer (Form Teacher)   |
