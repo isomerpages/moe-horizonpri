@@ -19,6 +19,8 @@ Procedure below.
 •	Address: 61 Edgedale Plains, Singapore 828819<br>
 •	Contact No: 67535411<br>
 •	Email: horizonps@moe.edu.sg<br>
-•	Contact Person: Mr Marvin Lee***
+•	Contact Person: Mr Marvin Lee
 
-
+#### How to get here?<br>
+•	Nearest LRT: Oasis and Kadaloor <br>
+•	Buses Nearby: 3,39,50,83,85,386
