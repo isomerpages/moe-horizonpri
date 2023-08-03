@@ -15,3 +15,10 @@ Procedure below.
 ##### Application Procedure<br>
 1. Complete the [Call for Proposals - Annex A](/files/call%20for%20proposals%20-%20annex%20a.pdf)
 2. Submit the completed Call for Proposal – Annex A by closing date, 15 Aug 2023, to the School’s General Office.
+
+•	Address: 61 Edgedale Plains, Singapore 828819<br>
+•	Contact No: 67535411<br>
+•	Email: horizonps@moe.edu.sg<br>
+•	Contact Person: Mr Marvin Lee***
+
+
