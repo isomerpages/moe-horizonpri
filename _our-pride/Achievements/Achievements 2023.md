@@ -23,3 +23,8 @@ third_nav_title: Achievements
 
 | Group | Competition | Achievement |
 |:---:|:---:|:---:|
+| <br><br>Taekwondo | <br><br>National School Games Taekwondo 2023 | 2nd Position, Senior Boys Poom Belt Under 38kg (Kyorugi)<br>2nd Position, Senior Boys Poom Belt Under 34kg (Kyorugi)<br> 3rd Position, Senior Boys Red 2 |
+| Wushu | National School Games Wushu 2023  | 3rd Position, Nandao |
+| Swimming| National School Games Swimming 2023 | 3rd Position, 50m Backstroke |
+| <br><br><br>Rope Skipping | <br><br><br>National School Games Rope Skipping 2023 | 1st Position, Individual Freestyle (Junior Girls)<br>1st Position, Pair Freestyle (Junior Girls)<br>2nd Position, Team Freestyle (Junior Girls)<br>2nd Position, Speed Relay (Senior Girls)<br>2nd Position, Speed Relay (Junior Girls)<br>3rd Position, Pair Freestyle (Junior Boys)<br>3rd Position, Speed Relay (Junior Boys) |
+|
