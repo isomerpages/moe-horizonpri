@@ -18,7 +18,7 @@ Procedure below.
 
 •	Address: 61 Edgedale Plains, Singapore 828819<br>
 •	Contact No: 67535411<br>
-•	Email: horizonps@moe.edu.sg<br>
+•	Email: horizon_ps@moe.edu.sg<br>
 •	Contact Person: Mr Marvin Lee
 
 #### How to get here?<br>
