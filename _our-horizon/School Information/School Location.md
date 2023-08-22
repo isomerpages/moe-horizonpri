@@ -13,8 +13,8 @@ third_nav_title: School Information
 
 ### **Contact Us**
 **General Enquiries &amp; Feedback**<br>
-[+65 6753 5411](+65 6753 5411)<br>
-[horizon_ps@moe.edu.sg](horizon_ps@moe.edu.sg)
+[+65 6753 5411](tel:+6567535411)<br>
+[horizon\_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)
 
 
 #### **Locality Map**
