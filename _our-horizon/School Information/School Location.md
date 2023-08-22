@@ -11,7 +11,7 @@ third_nav_title: School Information
 
 ### **Contact Us**
 
-| General Enquiries &amp; Feedback | Email Address |  |
+|General Enquiries &amp; Feedback | Email Address |  |
 | -------- | -------- | -------- |
 |   [+6567535411](+6567535411)   |  [horizon_ps@moe.edu.sg](horizon_ps@moe.edu.sg)    |     |
 
