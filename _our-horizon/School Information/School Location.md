@@ -8,9 +8,7 @@ third_nav_title: School Information
 
 | School Address: | Transportation: |
 |---|---|
-| Horizon Primary School<br>61 Edgedale Plains<br>Singapore 828819 | MRT: Punggol [NE17]<br>LRT: Kadaloor [PE5] or Oasis [PE6]<br>Bus: 3, 50, 83, 85, 569 |
-|
-
+| Horizon Primary School<br>61 Edgedale Plains<br>Singapore 828819 | MRT: Punggol [NE17]<br>LRT: Kadaloor [PE5] or Oasis [PE6]<br>Bus: 3, 50, 83, 85, 569 ||<br>
 ### **Contact Us**
 **General Enquiries &amp; Feedback**<br>
 [+65 6753 5411](tel:+6567535411)<br>
