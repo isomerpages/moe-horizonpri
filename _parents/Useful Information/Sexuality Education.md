@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Useful Information
 ---
 For more info on our Sexuality education programme, please click the link below. 
-* [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
+* [Information on Sexuality Education](/files/2023%20info%20on%20sed_for%20hrps%20sch%20website_sept%202023.pdf)
