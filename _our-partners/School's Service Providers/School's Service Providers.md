@@ -68,11 +68,13 @@ Opening dates: Alternate weeks<br>
 Tel: 8522 9106
 
 #### **Bus Operator**
-**BT &amp; Tan Bus Transport Service**<br>
-Website:&nbsp;[http://www.btntan.com](http://www.btntan.com/)<br>
-Tel: 6483 4527 / 64837260<br>
-Fax: 6483 7261<br>
-Email:&nbsp;[admin@btntan.com](mailto:admin@btntan.com)
+To arrange school bus service for your child/ward, please register with BT &amp; Tan Bus Transport Service through their link <br>
+[https://forms.gle/FFo6m6Ws1XLZiDYR9](https://forms.gle/FFo6m6Ws1XLZiDYR9)<br>
+Tel: 6483 7260 / 6483 4527<br>
+Mobile : 8484 1373<br>
+Email: Sch2@btntan.com
+#### Prices for 2024 
+![](/images/screenshot%202023-09-29%20160528.jpg)
 
 ### Canteen Menu 2023
 [ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)| [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)| [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)|
