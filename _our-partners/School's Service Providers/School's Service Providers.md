@@ -69,11 +69,10 @@ Tel: 8522 9106
 
 #### **Bus Operator**
 To arrange school bus service for your child/ward, please register with BT &amp; Tan Bus 
-Transport Service through their link https://forms.gle/FFo6m6Ws1XLZiDYR9.
-
+Transport Service through their link [https://forms.gle/FFo6m6Ws1XLZiDYR9.](https://forms.gle/FFo6m6Ws1XLZiDYR9.)<br>
 Tel: 6483 7260 / 6483 4527<br>
 Mobile : 8484 1373<br>
-Email: Sch2@btntan.com<br>
+Email: Sch2@btntan.com
 #### Prices for 2024
 ![](/images/screenshot%202023-09-29%20160528.jpg)
 
