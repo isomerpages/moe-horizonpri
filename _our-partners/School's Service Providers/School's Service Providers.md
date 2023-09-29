@@ -73,7 +73,7 @@ Transport Service through their link [https://forms.gle/FFo6m6Ws1XLZiDYR9.](http
 Tel: 6483 7260 / 6483 4527<br>
 Mobile : 8484 1373<br>
 Email: Sch2@btntan.com
-#### Prices for 2024
+#### Prices for 2024 
 ![](/images/screenshot%202023-09-29%20160528.jpg)
 
 ### Canteen Menu 2023
