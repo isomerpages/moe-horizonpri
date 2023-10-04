@@ -30,8 +30,8 @@ To downlod the form, please click on the link below.<br>
 
 ### **Group Personal Accident Insurance for Students**
 * NTUC Income Insurance Co-Operative Ltd.<br>
-[E-Submission Portal](https://studentgpa.incomegroupins.com.sg/#/)
-
+[E-Submission Portal](https://studentgpa.incomegroupins.com.sg/#/)<br>
+[Product Fact Sheet](/files/productfactsheet(year2022).pdf)
 
 
 ##
