@@ -1,5 +1,5 @@
 ---
-title: Wait Lists 2023
+title: Wait Lists 2024
 permalink: /parents/administrative-matters/waitlists-2023/
 description: ""
 third_nav_title: Administrative Matters
