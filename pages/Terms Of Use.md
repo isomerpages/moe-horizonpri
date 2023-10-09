@@ -42,7 +42,7 @@ By accessing and using this website, you shall be deemed to have accepted to be 
 
 ##### Links from This website to Other websites
 
-1.  This website contains hyperlinks to websites which are not maintained by Horizon Primary School.Horizon Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such websites are entirely at your own risk.
+1.  This website contains hyperlinks to websites which are not maintained by Horizon Primary School.Horizon Primary School is not responsible for the contents of those web sites and shall not be liable for any damages or loss arising from access to those web sites. Use of the hyperlinks and access to such websites are **entirely at your own risk.**
     
 2.  Hyperlinks to other websites are provided as a convenience. In no circumstances shall Horizon Primary School be considered to be associated or affiliated with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this website is linked.
     
