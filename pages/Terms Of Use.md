@@ -16,10 +16,9 @@ By accessing and using this website, you shall be deemed to have accepted to be 
     
 2.  The materials located on this website including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Horizon Primary School.
     
-
 ##### Privacy Policy
 
-Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
+1. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
 
 ##### Restrictions on Use of Materials
 
