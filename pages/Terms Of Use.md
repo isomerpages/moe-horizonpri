@@ -10,7 +10,7 @@ By accessing and using this website, you shall be deemed to have accepted to be 
 
 1.  These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
 
-Proprietary Rights
+**Proprietary Rights**
 
 1.  This website is maintained and owned by Horizon Primary School.
     
@@ -19,7 +19,7 @@ Proprietary Rights
 
 ##### Privacy Policy
 
-1. Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
+Click here to review this website [Privacy Statement](https://www.gov.sg/privacy-statement).
 
 ##### Restrictions on Use of Materials
 
@@ -27,7 +27,6 @@ Proprietary Rights
     
 2.  Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Horizon Primary School's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Horizon Primary School. 
     
-
 ##### Right of Access
 
 1. Horizon Primary School reserves all rights to deny or restrict access to this website to any particular person, or to block access from a particular external address to this website, at any time, without ascribing any reasons whatsoever.
