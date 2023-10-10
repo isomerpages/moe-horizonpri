@@ -15,8 +15,8 @@ third_nav_title: School Information
 7\.  Students must have a permission pass to leave the classroom.<br>
 8\.  Students are to keep the school compound clean.<br>
 9\.  Students must display integrity and honesty during examinations.<br>
-10\.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.<br>
-11\.  Being clean shaven e.g. All male students must be clean-shaven at all times. Moustache and beards are not allowed.
+10\.  Being clean shaven e.g. All male students must be clean-shaven at all times. Moustache and beards are not allowed.<br>
+11\.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.<br>
 
 #### **Uniforms**
 *   Students must wear the prescribed school uniform. Modification to the school uniform is not allowed.
