@@ -7,7 +7,7 @@ third_nav_title: School Information
 ### **School Rules**
 #### **General Rules**
 1\.  Students who are Singapore Citizens must sing the National Anthem       and take the pledge. Students will take the Pledge with the right fist       over the heart.<br>
-2\.  Students are to wear the prescribed school uniform and modification to the uniform is not allowed.<br>
+2\.  Students are to wear the prescribed school uniform and   modification to the uniform is not allowed.<br>
 3\.  Students must respect property belonging to the school and others.<br>
 4\.  Students must be punctual for school and all school activities.<br>
 5\.  Daily attendance is compulsory. Disciplinary action will be taken against cases of truancy.<br>
