@@ -4,11 +4,10 @@ permalink: /our-horizon/school-rules/
 description: ""
 third_nav_title: School Information
 ---
-
 ### **School Rules**
 #### **General Rules**
-1\.  Students who are Singapore citizens must sing the National Anthem and take the Pledge with the right fist over their heart.<br>
-2\.  Students must wear the prescribed school uniform and modification to the uniform is not allowed.<br>
+1\.  Students who are Singapore Citizens must sing the National Anthem       and take the pledge. Students will take the Pledge with the right fist       over the heart.<br>
+2\.  Students are to wear the prescribed school uniform and   modification to the uniform is not allowed.<br>
 3\.  Students must respect property belonging to the school and others.<br>
 4\.  Students must be punctual for school and all school activities.<br>
 5\.  Daily attendance is compulsory. Disciplinary action will be taken against cases of truancy.<br>
@@ -16,8 +15,8 @@ third_nav_title: School Information
 7\.  Students must have a permission pass to leave the classroom.<br>
 8\.  Students are to keep the school compound clean.<br>
 9\.  Students must display integrity and honesty during examinations.<br>
-10\.  All students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.<br>
-11\.  Boys are not allowed to spot moustache and must be clean shaven.
+10\.  Being clean shaven e.g. All male students must be clean-shaven at all times. Moustache and beards are not allowed.<br>
+11\.  Students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is intended to be used to cause harm to others.<br>
 
 #### **Uniforms**
 *   Students must wear the prescribed school uniform. Modification to the school uniform is not allowed.
@@ -28,13 +27,13 @@ third_nav_title: School Information
 *   For safety reasons, any form of jewellery is not allowed except for simple ear studs for girls. Identical pair of small ear studs with simple geometric designs is allowed, one on each ear lobe. Multiple ear studs and earrings are not allowed.
 *   Students' nails must be kept short and clean at all times.
 
-<img src="/images/schrules1.jpg" style="width:49%" align=left>
-<img src="/images/schrules2.jpg" style="width:49%" align=right>
+<img src="/images/schrules1.jpg" style="width:49%" align="left">
+<img src="/images/schrules2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
 #### **Hairstyles - Boys**
-*   Hair must be kept short and neat. 
+*   Hair must be kept short and neat.&nbsp;
 *   No dyed or highlighted hair allowed.
 *   No styling of hair. Use of hair gel is not allowed.
 *   Hair must not touch the ears, the eyebrows or the collar of the shirt.

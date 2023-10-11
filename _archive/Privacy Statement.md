@@ -3,8 +3,6 @@ title: Privacy Statement
 permalink: /our-horizon/privacy-statement/
 description: ""
 ---
-
-
 ### **Privacy Statement**
 1\. This is a government school website, Horizon Primary School website. Thank you for examining our privacy statement.
 
