@@ -259,7 +259,7 @@ description: ""
 
 ##### SEN Officers
 
-| **Mdm Koh Bee Cheng Dawn** | **Ms Chew Poh Choo Cheryl** | **Mdm Nurazmiah Binte Azman** |
+| **Mdm Koh Bee Cheng Dawn** | **Ms Chew Poh Choo Cheryl** | **Mdm Nurazimah Binte Azman** |
 | -------- | -------- | -------- |
 | Senior School Counsellor   | Senior SEN Officer  | SEN Officer |
 | [koh_bee_cheng@schools.gov.sg](mailto:koh_bee_cheng@schools.gov.sg) | [chew_poh_choo@schools.gov.sg](mailto:chew_poh_choo@schools.gov.sg) | [nurazimah_azman@schools.gov.sg](mailto:nurazimah_azman@schools.gov.sg)|
