@@ -17,5 +17,6 @@ description: ""
 
 6. June - Term Break <br>
 
-[7.July - WE-CONNECT!(7)](/files/we-connect!%20(7)%202023_staff.pdf)
-[8. Augut - WE-CONNECT!(8)]files/WE-CONNECT! (8) 2023_Final (4).pdf 
+[7.July - WE-CONNECT! (7)](/files/we-connect!%20(7)%202023_staff.pdf)
+
+[8.July - WE-CONNECT! (8)](/files/WE-CONNECT!%20(8)%202023_Final%20(4).pdf)
