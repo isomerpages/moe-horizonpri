@@ -15,7 +15,7 @@ description: ""
 
 [5. May - WE-CONNECT! (5)](/files/we_connect!%20(5)_%202023.pdf)
 
-6. June - Term Break <br>
+June - Term Break <br>
 
 [7. July - WE-CONNECT! (7)](/files/we-connect!%20(7)%202023_staff.pdf)
 
