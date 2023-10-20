@@ -6,5 +6,9 @@ third_nav_title: Administrative Matters
 ---
 ### Financial Assistance
 
-* [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
-* [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
+For more information on Ministry of Educations's Financial Assistance Scheme:
+* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
+
+To download the application form, please click on link below
+
+* [2024 MOE FAS Application Form](/files/2024%20moe%20fas%20application%20form.pdf)
