@@ -14,16 +14,15 @@ third_nav_title: Quick Links
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet](/files/P1%20Orientation%20Booklet%202023.pdf)
-* [P1 Booklist & Uniform 2023](/files/Booklists/booklistp1.pdf)
+* [P1 Booklist &amp; Uniform 2023](/files/Booklists/booklistp1.pdf)
 
-### Applications & Claims
+### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
 * [Parents Gateway Mobile Application](https://pg.moe.edu.sg/)
 * [Leave of Absence Form](https://form.gov.sg/60ff8bf95f725c0011dd6188)
 
 ### Financial Assistance
-* [MOE Financial Assistance Scheme Pamphlet](https://www.moe.gov.sg/financial-matters/financial-assistance)
-* [MOE Financial Assistance Scheme](/files/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Sep%202022.pdf)
+* [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ###  Useful Information
 * [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
