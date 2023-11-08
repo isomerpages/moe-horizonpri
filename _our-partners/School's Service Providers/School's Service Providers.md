@@ -3,6 +3,7 @@ title: School's Service Providers
 permalink: /our-partners/schools-service-providers/
 description: ""
 third_nav_title: School's Service Providers
+variant: markdown
 ---
 ### **School's Service Providers**
 #### **School Bookshop**<br>
@@ -50,7 +51,7 @@ Email:&nbsp;[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 **Purchase of School Uniform in School**<br>
 Purchasing of school uniform will resume on 18 January 2021 at the school bookshop.&nbsp;
 
-In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at:&nbsp;[https://www.beauvoix.com](https://www.beauvoix.com/). Delivery is charged at $5 per transaction and no minimum order amount is required.
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at:&nbsp;[https://www.beauvoix.com.sg](http://www.beauvoix.com.sg/). Delivery is charged at $5 per transaction and no minimum order amount is required.
 
 #### **School Library**
 **LEADers Hub @ Horizon**<br>
