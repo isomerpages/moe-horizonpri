@@ -3,6 +3,7 @@ title: Parents
 permalink: /qlparents/
 description: ""
 third_nav_title: Quick Links
+variant: markdown
 ---
 ### Admission Matters
 * **P1 Registration** - on matters pertaining to P1 Registration and the key phases, please visit the [MOE P1 Registration site](https://www.moe.gov.sg/primary/p1-registration). 
@@ -43,7 +44,7 @@ Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687
 Email: info@beauvoix.com.sg
  
-In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com. Delivery is charged at $5 per transaction and no minimum order amount is required.
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com.sg Delivery is charged at $7 per transaction and no minimum order amount is required.
 
 ### P1 to P6 Booklist 2023
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
