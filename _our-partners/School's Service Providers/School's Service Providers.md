@@ -29,7 +29,7 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 [Uniform Doc 4](/files/p1booklistnuniform4.pdf)<br>
 [Uniform Doc 5](/files/p1booklistnuniform5.pdf)
 
-**P1-P6 Booklists 2023**<br>
+**P1-P6 Booklists 2024**<br>
 [P1 Booklist 2023.pdf](/files/booklistp1.pdf)<br>
 [P2 Booklist 2023.pdf](/files/booklistp2.pdf)<br>
 [P3 Booklist 2023.pdf](/files/booklistp3.pdf)<br>
