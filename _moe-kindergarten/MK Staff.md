@@ -38,5 +38,5 @@ variant: markdown
 |     |    |     |
 **Ms Zhang Zhen Zhen**    |      | 
 | MK Educator  |     |  |
-|[Zhang_Zhenzhen@schools.gov.sg](mailto:Zhang_Zhenzhen@schools.gov.sg) |  || 
+|[zhang_zhenzhen@schools.gov.sg](mailto:Zhang_Zhenzhen@schools.gov.sg) |  || 
 |     |    |     |
