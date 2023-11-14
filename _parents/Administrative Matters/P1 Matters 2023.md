@@ -3,9 +3,10 @@ title: P1 Matters 2023
 permalink: /our-partners/parents/administrative-matters/p1-orientation-booklet-2023/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
-### **P1 Orientation Booklet 2023**
-2023 Primary 1 - A Guide For Parents<br>
-[P1 Orientation Booklet 2023.pdf](/files/P1%20Admission/P1%20Orientation%20Booklet%202023.pdf)
-<br>
-[P1 Booklist & Uniform](/files/Booklists/booklistp1.pdf)
+### **P1 Orientation Booklet 2024**
+2024 Primary 1 - A Guide For Parents<br>
+[P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf)<br>
+For more information on school uniform, 
+[https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
