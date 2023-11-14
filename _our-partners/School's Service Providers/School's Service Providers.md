@@ -23,21 +23,18 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **Uniform Information**<br>
-[Uniform Doc 1](/files/p1booklistnuniform1.pdf)<br>
-[Uniform Doc 2](/files/p1booklistnuniform2.pdf)<br>
-[Uniform Doc 3](/files/p1booklistnuniform3.pdf)<br>
-[Uniform Doc 4](/files/p1booklistnuniform4.pdf)<br>
-[Uniform Doc 5](/files/p1booklistnuniform5.pdf)
+[School Uniform Information](https://thecontinental.sg/horizon/)<br>
+[Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 
 **P1-P6 Booklists 2024**<br>
-[P1 Booklist 2023.pdf](/files/booklistp1.pdf)<br>
-[P2 Booklist 2023.pdf](/files/booklistp2.pdf)<br>
-[P3 Booklist 2023.pdf](/files/booklistp3.pdf)<br>
-[P4 Booklist 2023.pdf](/files/booklistp4.pdf)<br>
-[P5 Booklist 2023.pdf](/files/booklistp5.pdf)<br>
-[P5F Booklist 2023.pdf](/files/booklistp5f.pdf)<br>
-[P6 Booklist 2023.pdf](/files/booklistp6.pdf)<br>
-[P6F Booklist 2023.pdf](/files/booklistp6f.pdf)
+[P1 Booklist](/files/Horizon_Booklist_2024_Primary_1.pdf)<br>
+[P2 Booklist](/files/Horizon_Booklist_2024_Primary_2.pdf)<br>
+[P3 Booklist](/files/Horizon_Booklist_2024_Primary_3.pdf)<br>
+[P4 Booklist](/files/Horizon_Booklist_2024_Primary_4.pdf)<br>
+[P5 Booklist](/files/Horizon_Booklist_2024_Primary_5.pdf)<br>
+[P5 Foundation Booklist](/files/Horizon_Booklist_2024_Primary_5F.pdf)<br>
+[P6 Booklist](/files/Horizon_Booklist_2024_Primary_6.pdf)<br>
+[P6 Foundation Booklist](/files/Horizon_Booklist_2024_Primary_6F.pdf)
 
 #### **School Uniform**
 **Beau Voix Uniform**<br>
