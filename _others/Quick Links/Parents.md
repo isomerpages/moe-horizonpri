@@ -15,8 +15,8 @@ variant: markdown
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet](/files/P1%20Orientation%20Booklet%202023.pdf)
-* [P1 Booklist &amp; Uniform 2023](/files/Booklists/booklistp1.pdf)
-
+* [P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf)
+* [Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 ### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
 * [Parents Gateway Mobile Application](https://pg.moe.edu.sg/)
@@ -36,6 +36,8 @@ variant: markdown
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
+School Uniform Information Portal : [https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
+
 **BEAU VOIX UNIFORM** <br>
 2 Sims Close <br>
 #03-08 Gemini@Sims<br>
@@ -46,15 +48,15 @@ Email: info@beauvoix.com.sg
  
 In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com.sg Delivery is charged at $7 per transaction and no minimum order amount is required.
 
-### P1 to P6 Booklist 2023
+### P1 to P6 Booklist 2024
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
-**P1-P6 Booklists 2023**<br>
+**P1-P6 Booklists 2024**<br>
 
-| [P1 Booklist 2023](/files/Booklists/booklistp1.pdf)| [P2 Booklist 2023](/files/Booklists/booklistp2.pdf) |
+|[P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf) | [P2 Booklist 2024](/files/Horizon_Booklist_2024_Primary_2.pdf) |
 | -------- | -------- |
-| **[P3 Booklist 2023](/files/Booklists/booklistp3.pdf)**| **[P4 Booklist 2023](/files/Booklists/booklistp4.pdf)** |
-| **[P5 Booklist 2023](/files/Booklists/booklistp5.pdf)** | **[P5F Booklist 2023](/files/Booklists/booklistp5f.pdf)**   |
-| **[P6 Booklist 2023](/files/Booklists/booklistp6.pdf)** | **[P6F Booklist 2023](/files/Booklists/booklistp6f.pdf)** |
+| **[P3 Booklist 2024](/files/Horizon_Booklist_2024_Primary_3.pdf)**| **[P4 Booklist 2024](/files/Horizon_Booklist_2024_Primary_4.pdf)**|
+| **[P5 Booklist 2024](/files/Horizon_Booklist_2024_Primary_5.pdf)** | **[P5F Booklist](/files/Horizon_Booklist_2024_Primary_5F.pdf)**   |
+| **[P6 Booklist](/files/Horizon_Booklist_2024_Primary_6.pdf)** | **[P6F Booklist](/files/Horizon_Booklist_2024_Primary_6F.pdf)** |
 
 ### Canteen Menu 2023
 

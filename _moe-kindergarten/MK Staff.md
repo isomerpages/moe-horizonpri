@@ -2,6 +2,7 @@
 title: MK Staff
 permalink: /moe-kindergarten/teaching-staff-2023/
 description: ""
+variant: markdown
 ---
 ### **MK Staff**
 
@@ -34,4 +35,8 @@ description: ""
 **Ms Chen Cen**    | **Ms Yong Moi Ling**     | **Ms Lin Chun Yan** 
 | MK Educator  | MK Educator    | MK Educator |
 |[chen\_cen@schools.gov.sg](mailto:chen_cen@schools.gov.sg) | [yong\_moi\_ling@schools.gov.sg](mailto:yong_moi_ling@schools.gov.sg) |[lin\_chun\_yan@schools.gov.sg](mailto:lin_chun_yan@schools.gov.sg) | 
+|     |    |     |
+**Ms Zhang Zhen Zhen**    |      | 
+| MK Educator  |     |  |
+|[zhang_zhenzhen@schools.gov.sg](mailto:Zhang_Zhenzhen@schools.gov.sg) |  || 
 |     |    |     |

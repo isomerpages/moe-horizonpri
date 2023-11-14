@@ -3,11 +3,8 @@ title: Staff
 permalink: /qlstaff/
 description: ""
 third_nav_title: Quick Links
+variant: markdown
 ---
-
-
-
-
 [HRP](https://www.hrp.gov.sg/)  
 [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  
 [MIMS Password Reset](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?%20forceAuth=TRUE&logoutURL=https://portal.mims.moe.gov.sg/AGLogout)  
