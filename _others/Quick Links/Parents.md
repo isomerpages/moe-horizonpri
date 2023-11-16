@@ -14,7 +14,7 @@ variant: markdown
 * [Letter to Parents 2023](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
-* [P1 Orientation Booklet](/files/P1%20Orientation%20Booklet%202023.pdf)
+* [P1 Orientation Booklet 2024](/files/P1%20Admission/P1_Orientation_Booklet_2024.pdf)
 * [P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf)
 * [Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 ### Applications &amp; Claims
