@@ -46,8 +46,6 @@ Fax: +(65) 67460687<br>
 Email:&nbsp;[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 
 **Purchase of School Uniform in School**<br>
-Purchasing of school uniform will resume on 18 January 2021 at the school bookshop.&nbsp;
-
 In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at:&nbsp;[https://www.beauvoix.com.sg](http://www.beauvoix.com.sg/). Delivery is charged at $7 per transaction and no minimum order amount is required.
 
 #### **School Library**
@@ -66,7 +64,7 @@ Opening dates: Alternate weeks<br>
 Tel: 8522 9106
 
 #### **Bus Operator**
-To arrange school bus service for your child/ward, please register with BT &amp; Tan Bus Transport Service through their link <br>
+To arrange school bus service for your child/ward, please register with BT &amp; Tan Bus Transport Service through their weblink <br>
 [https://forms.gle/FFo6m6Ws1XLZiDYR9](https://forms.gle/FFo6m6Ws1XLZiDYR9)<br>
 Tel: 6483 7260 / 6483 4527<br>
 Mobile : 8484 1373<br>
