@@ -32,7 +32,6 @@ Please avoid visiting the bookshop at the following time for the safety of our s
 [P3 Booklist](/files/Horizon_Booklist_2024_Primary_3.pdf)<br>
 [P4 Booklist](/files/Horizon_Booklist_2024_Primary_4.pdf)<br>
 [P5 Booklist](/files/Horizon_Booklist_2024_Primary_5.pdf)<br>
-[P5 Foundation Booklist](/files/Horizon_Booklist_2024_Primary_5F.pdf)<br>
 [P6 Booklist](/files/Horizon_Booklist_2024_Primary_6.pdf)<br>
 [P6 Foundation Booklist](/files/Horizon_Booklist_2024_Primary_6F.pdf)
 

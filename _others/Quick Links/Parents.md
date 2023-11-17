@@ -55,7 +55,7 @@ In support of the national movement, we encourage parents to opt for online orde
 |[P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf) | [P2 Booklist 2024](/files/Horizon_Booklist_2024_Primary_2.pdf) |
 | -------- | -------- |
 | **[P3 Booklist 2024](/files/Horizon_Booklist_2024_Primary_3.pdf)**| **[P4 Booklist 2024](/files/Horizon_Booklist_2024_Primary_4.pdf)**|
-| **[P5 Booklist 2024](/files/Horizon_Booklist_2024_Primary_5.pdf)** | **[P5F Booklist](/files/Horizon_Booklist_2024_Primary_5F.pdf)**   |
+| **[P5 Booklist 2024](/files/Horizon_Booklist_2024_Primary_5.pdf)** |  |
 | **[P6 Booklist](/files/Horizon_Booklist_2024_Primary_6.pdf)** | **[P6F Booklist](/files/Horizon_Booklist_2024_Primary_6F.pdf)** |
 
 ### Canteen Menu 2023
