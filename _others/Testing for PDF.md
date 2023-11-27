@@ -6,4 +6,5 @@ description: ""
 ---
 # Display PDF in Isomer Website
 
-<iframe height="600px" width="100%" src="/files/oca2023.pdf"></iframe>
+<iframe height="600px" width="100%" src=""></iframe>
+
