@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Testing for PDF.md
       - Announcements.md
       - Quick Links/.keep
       - Quick Links/Parents.md
