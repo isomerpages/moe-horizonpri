@@ -4,7 +4,8 @@ permalink: /others/permalink/
 variant: markdown
 description: ""
 ---
-# Display PDF in Isomer Website
+markdown
+Copy code
+# Display Image in Isomer Website
 
-<iframe height="600px" width="100%" src=""></iframe>
-
+![Description of the image](/images/page1.jpg)
