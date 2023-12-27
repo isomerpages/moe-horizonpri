@@ -2,6 +2,7 @@
 title: School Staff
 permalink: /our-people/schoolstaff/
 description: ""
+variant: markdown
 ---
 ### Principal & Vice-Principals
 
@@ -11,7 +12,7 @@ description: ""
 | Principal |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | 
 
-| Mr John Ow | Mrs Senthil Poonkodi | Mr Phang Chee Kheng |
+| Ms Pamela Seet | Mrs Senthil Poonkodi | Mr Phang Chee Kheng |
 | -------- | -------- | -------- |
 | Vice-Principal | Vice-Principal |Vice-Principal (Admin) |
 | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) | [horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg) |[horizon_ps@moe.edu.sg](mailto:horizon_ps@moe.edu.sg)|
