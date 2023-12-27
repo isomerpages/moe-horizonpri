@@ -3,6 +3,7 @@ title: School History
 permalink: /our-horizon/school-history/
 description: ""
 third_nav_title: Horizon Identity
+variant: markdown
 ---
 ### **School History**
 ##### **List of Principals:**
@@ -13,8 +14,9 @@ third_nav_title: Horizon Identity
 
 ##### **List of Vice-Principals:**
 * Mrs. Senthil Poonkodi (2016 – Present)<br>
-* Mr. John Ow (2015 – Present)<br>
+* Mr. John Ow (2015 – 2023)<br>
 * Mdm. S. Anitha (2010 – 2016)
+* Ms Pamela Seet (2024 – Present)
 
 
 ##### **List of Vice-Principals (Administration):**
