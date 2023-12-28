@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Principals & Vice-Principals
+
 | Mrs Ong Hui Khim | 
 | -------- |
 | Principal |
