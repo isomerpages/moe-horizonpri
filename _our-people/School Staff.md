@@ -4,9 +4,7 @@ permalink: /our-people/schoolstaff/
 description: ""
 variant: markdown
 ---
-<iframe frameborder="0" style="width:600px; height:800px;" src="https://docs.google.com/gview?url=https://docs.google.com/document/d/1i829kGoj0zWL-TQUkaG1xgzrRBEh1gnc/edit?usp=sharing&amp;ouid=118083023146086103760&amp;rtpof=true&amp;sd=true"></iframe>
-
-### Principals &amp; Vice-Principals
+### Principals & Vice-Principals
 | Mrs Ong Hui Khim | 
 | -------- |
 | Principal |
@@ -29,15 +27,15 @@ variant: markdown
 | [loh_shuzhen_sheila@schools.gov.sg ](mailto:loh_shuzhen_sheila@schools.gov.sg )   | [sim_yan_ling_staphni@schools.gov.sg  ](mailto:sim_yan_ling_staphni@schools.gov.sg)   | [low_zihao@schools.gov.sg](mailto:low_zihao@schools.gov.sg)   |
 |     |    |     |
 | **Mdm Ng Pei Rong** | **Mr Muhammad Raauuf Othman** | **Mdm Dayangku Nuurul** |
-| HOD/Mother Tongue Languages  | HOD/PE &amp; CCA     | HOD/ICT     |
+| HOD/Mother Tongue Languages  | HOD/PE & CCA     | HOD/ICT     |
 | [ng_pei_rong@schools.gov.sg](mailto:ng_pei_rong@schools.gov.sg) | [muhammad_raauuf_othman@schools.gov.sg](mailto:muhammad_raauuf_othman@schools.gov.sg)| [dayangku_nuurul_aida_fatima@schools.gov.sg](mailto:dayangku_nuurul_aida_fatima@schools.gov.sg) |
 |     |    |     |
 | **Mrs Ng-Shieh Siao Yan Carol**  | **Mr Yew Zu Yao Jonathan**    |   |
-| HOD/CCE    | HOD/Planning &amp; Engagement    |    |
+| HOD/CCE    | HOD/Planning & Engagement    |    |
 | [shieh_siao_yan_carol@schools.gov.sg](mailto:shieh_siao_yan_carol@schools.gov.sg) | [yew_zu_yao_jonathan@schools.gov.sg](mailto:yew_zu_yao_jonathan@schools.gov.sg) | |
 |     |    |     |
 | **Mrs Felicia Tham**    | **Mr Tan Wei Jian Jason**    | **Ms Chen Kaiying**     |
-| LH/Mathematics    | SH/National Education &amp; Social Studies     | SH/Student Wellbeing   |
+| LH/Mathematics    | SH/National Education & Social Studies     | SH/Student Wellbeing   |
 | [choon_yoke_chan_felicia@schools.gov.sg](mailto:choon_yoke_chan_felicia@schools.gov.sg) | [tan_wei_jian@schools.gov.sg](mailto:tan_wei_jian@schools.gov.sg)| [chen_kaiying@schools.gov.sg](mailto:chen_kaiying@schools.gov.sg) |
 |     |    |     |
 | **Mdm April Tan Yun Lin**   | **Mdm Suzanah Bte Yahaya**    | **Mr Choo Yong Guan**     |
