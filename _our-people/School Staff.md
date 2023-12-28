@@ -4,7 +4,6 @@ permalink: /our-people/schoolstaff/
 description: ""
 variant: markdown
 ---
-
 <iframe frameborder="0" style="width:600px; height:800px;" src="https://docs.google.com/gview?url=https://docs.google.com/document/d/1i829kGoj0zWL-TQUkaG1xgzrRBEh1gnc/edit?usp=sharing&amp;ouid=118083023146086103760&amp;rtpof=true&amp;sd=true"></iframe>
 
 ### Principals &amp; Vice-Principals
