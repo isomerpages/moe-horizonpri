@@ -2,8 +2,13 @@
 title: Letter to Parents
 permalink: /our-partners/parents/letter-to-parents/
 description: ""
+variant: markdown
 ---
 ### **Letter to parents**
+##### **2024 We-Connect!**
+[1. January- WE-CONNECT! (1)](/files/Letters%20to%20Parents/2024/2024_WE_CONNECT__1.pdf)
+
+
 ##### **2023 We-Connect!**
 [1. January - WE-CONNECT! (1)](/files/Letters%20to%20Parents/2023/WE-CONNECT%201_final.pdf)
 
