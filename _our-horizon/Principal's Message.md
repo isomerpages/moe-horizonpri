@@ -11,7 +11,7 @@ Dear Parents/Guardians,
 
 Warmest Greetings!
 
-I am filed with excitement as we gear up for the start of a new academic year at Horizon Primary School and MK@Horizon!  It is my great pleasure to extend a warm welcome to our returning students and families and extend an equally warm greeting to those joining our school community for the first time.
+I am filled with excitement as we gear up for the start of a new academic year at Horizon Primary School and MK@Horizon!  It is my great pleasure to extend a warm welcome to our returning students and families and extend an equally warm greeting to those joining our school community for the first time.
 
 This year holds a special significance for all of us as we commemorate a remarkable milestone in the history of our beloved institution – **the 15th Anniversary of Horizon Primary School!**
 
