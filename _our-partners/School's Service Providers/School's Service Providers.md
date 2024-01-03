@@ -75,13 +75,13 @@ Email: Sch2@btntan.com
 * **Disclaimer** : Please do note that canteen prices are currently undergoing review 
 
 [ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall1_update.jpg)
-[ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)
-[ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)
-[ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)
+[ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall2_update.jpg)
+[ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall3_update.jpg)
+[ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall4_update.jpg)
 [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall5_update.jpg)
-[ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu6.jpg) 
-[ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu7.jpg) 
-[![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu8.jpg)
+[ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall6_update.jpg) 
+[ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall7_update.jpg) 
+[![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall8_update.jpg)
 
 #### **School-Based Student Care Services**
 **Raffles Student Care Centre LLP (Horizon)**<br>
