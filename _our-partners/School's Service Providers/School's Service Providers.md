@@ -80,7 +80,7 @@ Email: Sch2@btntan.com
 [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall4_update.jpg)
 [ ![](/images/stall5.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall5_update.jpg)
 [ ![](/images/stall6.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall6_update.jpg) 
-[ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall7_update.jpg) 
+[ ![](/images/stall7.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall_7_update.jpg) 
 [![](/images/stall8.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall8_update.jpg)
 
 #### **School-Based Student Care Services**
