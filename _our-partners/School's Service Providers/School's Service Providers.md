@@ -73,7 +73,8 @@ Email: Sch2@btntan.com
 
 ### Canteen Menu 2024
 * **Disclaimer** : Please do note that canteen prices are currently undergoing review 
-[ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg)
+
+[ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/Stall1_update.jpg)
 [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg)
 [ ![](/images/stall3.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu3.jpg)
 [ ![](/images/stall4.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu4.jpg)
