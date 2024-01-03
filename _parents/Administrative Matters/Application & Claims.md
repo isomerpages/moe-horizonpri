@@ -3,6 +3,7 @@ title: Application & Claims
 permalink: /parents/administrative-matters/application-claims/
 description: ""
 third_nav_title: Administrative Matters
+variant: markdown
 ---
 ### **Parent's Gateway Mobile Application**
 
@@ -31,6 +32,4 @@ To downlod the form, please click on the link below.<br>
 ### **Group Personal Accident Insurance for Students**
 * NTUC Income Insurance Co-Operative Ltd.<br>
 [E-Submission Portal](https://studentgpa.incomegroupins.com.sg/#/)<br>
-[Product Fact Sheet](/files/productfactsheet(year2022).pdf)
-
-
+[Product Fact Sheet](/files/Application%20Forms/Product_Fact_Sheet_Year_2024.pdf)
