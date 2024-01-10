@@ -3,6 +3,7 @@ title: Students
 permalink: /qlstudents/
 description: ""
 third_nav_title: Quick Links
+variant: markdown
 ---
 **Student Learning Space (SLS)**
 --------------------------------
@@ -35,4 +36,4 @@ third_nav_title: Quick Links
 
 **MTL Celebrate Writing e-Book**
 --------------------------------
-To access the e-book, please access the link here:  [HRPS MTL E-Book](https://www.etutorlearning.com/HRPSebook2022/)
+To access the e-book, please access the link here:  [HRPS MTL E-Book](https://www.etutorlearning.com/HRPSebook2023/)
