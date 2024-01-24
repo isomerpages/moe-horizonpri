@@ -1,0 +1,19 @@
+logo: /images/crest.jpg
+links:
+  - title: Our Horizon
+    collection: our-horizon
+  - title: Our People
+    collection: our-people
+  - title: Our Experiences
+    collection: our-experiences
+  - title: Our Partners
+    url: /our-partners/parents/letter-to-parents/
+    sublinks:
+      - title: Parents
+        url: /our-partners/parents/letter-to-parents/
+      - title: School's Service Providers
+        url: /our-partners/schools-service-providers/
+  - title: Our Pride
+    collection: our-pride
+  - title: MOE Kindergarten
+    collection: moe-kindergarten
