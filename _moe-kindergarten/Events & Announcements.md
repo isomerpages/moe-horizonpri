@@ -2,24 +2,26 @@
 title: Events & Announcements
 permalink: /moe-kindergarten/events-and-announcements/
 description: ""
+variant: markdown
 ---
-### **Events & Announcements**
+### **Events &amp; Announcements**
 
 #### **MK Waitlist Application form 2023**
 
 To submit your child/ward's information, click [here](https://go.gov.sg/horizonmkwaitlistapplicationform2023)
-#### **2023 MOE Kindergarten Virtual Open House**
-For the first time in three years, our MKs will be holding a physical Open House for parents to tour the learning environment and speak to the MK educators in person. We warmly welcome you and your child to sign up for the 2023 MOE Kindergarten Open House on 11 and 18 February 2023 from 9.00am to 1.00pm, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!   
+#### **2024 MOE Kindergarten Open House**
+FMK@Horizon will be holding an Open House for parents to tour the learning environment and speak to our MK educators in person. We warmly welcome you and your child to sign up for the 2024 MOE Kindergarten 
+Open House.
 
-Open House at MK@Horizon will be held on **18 February 2023, 9.00am to 1.00pm**. You will get an opportunity to get a glimpse of our learning environment and speak with our MK educators to understand more about the MK curriculum as well as our signature programmes.
+Open House at MK@Horizon will be held on Saturday, 3rd February 2024, 8.30am to 12.30pm. Parents and your child will have the opportunity to get a glimpse of our learning environment and speak with our MK educators to understand more about the MK curriculum as well as our signature programmes.
 
-Should you require further details on the other MKs which our schools offer, please visit the [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten) website.
+Should you require further details on the other MKs which our schools offer, please visit the [MOE Kindergarten](https://www.moe.gov.sg/preschool/moe-kindergarten)&nbsp;website.
 
 #### **Sale of MK Uniform**
 **Sale of MK Uniform by Jeep Sing Fashion**<br>
 Dear Parent/ Guardian,
 
-With effect from 1 January 2020, you can purchase MK uniforms directly from our new supplier, **Jeep Sing Fashion**.
+With effect from 1 January 2020, you can purchase MK uniforms directly from our new supplier,&nbsp;**Jeep Sing Fashion**.
 
 The MK uniform costs $15 per set. You can purchase individual pieces at $7 for polo T-shirt and $8 for Khaki shorts or skorts.
 
