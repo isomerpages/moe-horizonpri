@@ -6,11 +6,8 @@ variant: markdown
 ---
 ### **Events &amp; Announcements**
 
-#### **MK Waitlist Application form 2023**
-
-To submit your child/ward's information, click [here](https://go.gov.sg/horizonmkwaitlistapplicationform2023)
 #### **2024 MOE Kindergarten Open House**
-FMK@Horizon will be holding an Open House for parents to tour the learning environment and speak to our MK educators in person. We warmly welcome you and your child to sign up for the 2024 MOE Kindergarten 
+MK@Horizon will be holding an Open House for parents to tour the learning environment and speak to our MK educators in person. We warmly welcome you and your child to sign up for the 2024 MOE Kindergarten 
 Open House.
 
 Open House at MK@Horizon will be held on Saturday, 3rd February 2024, 8.30am to 12.30pm. Parents and your child will have the opportunity to get a glimpse of our learning environment and speak with our MK educators to understand more about the MK curriculum as well as our signature programmes.
