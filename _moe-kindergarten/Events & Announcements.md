@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 ### **Events &amp; Announcements**
-
+#### **MK@Horizon Waitlist 2024**
+[Click Here ](https://go.gov.sg/horizonmkwaitlist)
 #### **2024 MOE Kindergarten Open House**
 MK@Horizon will be holding an Open House for parents to tour the learning environment and speak to our MK educators in person. We warmly welcome you and your child to sign up for the 2024 MOE Kindergarten 
 Open House.
