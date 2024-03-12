@@ -3,9 +3,10 @@ title: School Hours
 permalink: /our-horizon/school-hours/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### **School Hours**
-Reporting time for the students for 2023: **7.30 am**
+Reporting time for the students for 2024:&nbsp;**7.30 am**
 
 #### **School hours for Primary 1 to 6**
 
@@ -14,11 +15,9 @@ Reporting time for the students for 2023: **7.30 am**
 | **School hours** | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. |
 | **CCA** |  |   | 7.45 a.m - 9.15 a.m. |  |  |
 | **Small Group Teaching (SGT)** |   |  |   | 2.15 p.m - 3.45 p.m |   |
-| **E2K Mathematics & Science Programmes<br>(P4 & P5)** |   |   |   |  2.15 p.m - 4.15 p.m |   |
-| **P5 Supp Class** |   |  2.15 p.m - 3.45 p.m |   |  |   |
-| **P6 Supp Class** |   | 2.15 p.m - 3.45 p.m |   |  2.15 p.m - 3.45 p.m |   |
-| **Higher Mother Tongue<br>(P5 & 6)** | 2.15 p.m - 3.15 p.m  |   |   |   |   |
-| **Foundation Subject<br>(P5 & 6)** | 2.15 p.m - 3.15 p.m  |   |  |   |   |
+| **E2K Mathematics &amp; Science Programmes<br>(P4 &amp; P5)** |   |   |   |  2.15 p.m - 4.15 p.m |   |
+| **Higher Mother Tongue<br>(P5 &amp; 6)** | 2.15 p.m - 3.15 p.m  |   |   |   |   |
+| **Foundation Subject<br>(P5 &amp; 6)** | 2.15 p.m - 3.15 p.m  |   |  |   |   |
 |
 
 The opening hours of the school gates are as follows:
@@ -32,4 +31,4 @@ The opening hours of the school gates are as follows:
 |  | 6.00 p.m. to 6.45 p.m.<br>(Mon to Fri) | 6.00 p.m. to 6.30 p.m.<br>(Mon to Fri) |
 |
 
-For the safety and security of students and staff, visitors to the school are required to enter the school at **Gate A** and sign in at the security post with a photo ID as proof of identity. Visitors will be issued with a pass which they will have to wear at all times while in the school. Visitors’ movements are restricted to the General Office and the ground level non-teaching areas, e.g. the book shop and dental clinic.
+For the safety and security of students and staff, visitors to the school are required to enter the school at&nbsp;**Gate A**&nbsp;and sign in at the security post with a photo ID as proof of identity. Visitors will be issued with a pass which they will have to wear at all times while in the school. Visitors’ movements are restricted to the General Office and the ground level non-teaching areas, e.g. the book shop and dental clinic.
