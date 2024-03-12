@@ -8,7 +8,7 @@ variant: markdown
 ### **School's Service Providers**
 #### **School Bookshop**<br>
 **The Continental Book Centre**<br>
-Tel: 6247 8482 (Main Office)
+Tel: 80142319
 
 Operating Hours:<br>
 Mondays to Fridays<br>
