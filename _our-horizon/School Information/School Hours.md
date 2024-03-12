@@ -6,7 +6,7 @@ third_nav_title: School Information
 variant: markdown
 ---
 ### **School Hours**
-Reporting time for the students for 2023:&nbsp;**7.30 am**
+Reporting time for the students for 2024:&nbsp;**7.30 am**
 
 #### **School hours for Primary 1 to 6**
 
