@@ -1061,7 +1061,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Puspalm Pamela Ann</strong>
+<p><strong>Mdm V Devi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1086,7 +1086,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>pamela_ann_puspalm@moe.edu.sg</u></a>
+<p><a href="mailto:v_devi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">v_devi@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1161,11 +1161,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rachel Tan</strong>
+<p><strong>Mrs Choo Chai Fang Jaslyn</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Choo Chai Fang Jaslyn</strong>
+<p><strong>Mr Bashir Bin Mammad</strong>
 </p>
 </td>
 </tr>
@@ -1174,7 +1174,7 @@ variant: tiptap
 <p>P1 Explorer (Form Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 Explorer (Form Teacher)</p>
+<p>P1 Discoverer (Form Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 Discoverer (Form Teacher)</p>
@@ -1186,52 +1186,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_rachel@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:choo_chai_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_chai_fang@schools.gov.sg</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Bashir Bin Mammad</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 Discoverer (Form Teacher)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_bashir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_bashir@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1851,7 +1816,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Ng Shu Ling, Debbie Michelle</strong>
+<p><strong>Ms Ng Shu Ling, Debbie Michelle</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
