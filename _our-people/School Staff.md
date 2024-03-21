@@ -1305,7 +1305,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tessari</strong>
+<p><strong>Miss Crystal Yong Ting</strong>
 </p>
 </td>
 </tr>
@@ -1330,7 +1330,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:crystal_yong_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_yong_ting_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
