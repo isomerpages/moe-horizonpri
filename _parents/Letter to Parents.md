@@ -12,6 +12,8 @@ variant: markdown
 
 [3. March- WE-CONNECT! (3)](/files/WECONNECT___3__2024.pdf)
 
+[4. April- WE-CONNECT! (4)](/files/WE_CONNECT___4__2024.pdf)
+
 ##### **2023 We-Connect!**
 [1. January - WE-CONNECT! (1)](/files/Letters%20to%20Parents/2023/WE-CONNECT%201_final.pdf)
 
