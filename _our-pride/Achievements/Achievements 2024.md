@@ -144,7 +144,11 @@ third_nav_title: Achievements
 <p>Telok Blangah CC Tamil Language Competition</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>1st Position, Oratorical Competition</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -323,7 +327,11 @@ third_nav_title: Achievements
 <p>Singapore Schools Cyber Wellness Challenge (SSCWC)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Gold Award</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
