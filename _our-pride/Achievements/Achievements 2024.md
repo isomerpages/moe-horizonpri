@@ -191,7 +191,7 @@ third_nav_title: Achievements
 <p>1st Position, Speed, Team Relay (Junior Boys)</p>
 </li>
 <li>
-<p>3rd Position, Freestyle, Pair (Junior Girl)</p>
+<p>3rd Position, Freestyle, Pair (Junior Girls)</p>
 </li>
 <li>
 <p>3rd Position, Freestyle, Team (Junior Girls)</p>
