@@ -472,7 +472,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Senior Teacher Leaders</h3>
+<h3>Teacher Leaders</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
