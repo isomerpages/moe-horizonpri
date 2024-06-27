@@ -472,7 +472,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Teacher Leaders</h3>
+<h3>Senior Teacher Leaders</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1765,7 +1765,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Devika Tay</strong>
+<p><strong>Mrs Devika Murugaiah</strong>
 </p>
 </td>
 </tr>
