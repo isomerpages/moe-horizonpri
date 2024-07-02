@@ -1765,7 +1765,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Devika Tay</strong>
+<p><strong>Mrs Devika Murugaiah</strong>
 </p>
 </td>
 </tr>
