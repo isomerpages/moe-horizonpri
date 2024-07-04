@@ -1661,7 +1661,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Nur Addina Binte Zainuddin</strong>
+<p><strong>Miss Nur Addina Binte Zainudin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
