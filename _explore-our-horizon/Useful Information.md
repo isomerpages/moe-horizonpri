@@ -2,6 +2,7 @@
 title: Useful Information
 permalink: /explore-our-horizon/useful-info/
 description: ""
+variant: markdown
 ---
 ### **Useful Information**
 #### **P1 Registration Information**
@@ -12,12 +13,16 @@ description: ""
 #### **School History**
 ##### **List of Principals:**
 \- Mrs. Janet Ang (2010 – 2015)<br>
-\- Mrs. Grace Leong (2016 – Present)
+\- Mrs. Grace Leong (2016 – 2022)<br>
+\- Mrs. Ong Hui Khim (2023 – Present)
 
 ##### **List of Vice-Principals:**
 \- Mdm. S. Anitha (2010 – 2016)<br>
-\- Mr. John Ow (2015 – Present)<br>
-\- Mrs. Senthil Poonkodi (2016 – Present)
+\- Mr. John Ow (2015 – 2023)<br>
+\- Mrs. Senthil Poonkodi (2016 – Present)<br>
+\- Ms. Pamela Seet (2024 – Present)
+
+
 
 ##### **List of Vice-Principals (Administration):**
 \- Mr. Phang Chee Kheng (2019&nbsp;–&nbsp;Present)
@@ -50,12 +55,12 @@ The Parent Connect! – the school’s parent support group - was established in
 
 <figure>
 <img src="/images/crest.jpg" style="width:65%"><br>
-<figcaption>Horizon’s crest was designed with the school vision that depicts the growth and achievement of our students.  The yellow speaks of Horizon’s philosophy that Every Child is a Leader.  Purple defines the mission we commit ourselves to nurturing every child to lead their lives responsibly and to contribute with joy.  Blue represents our school values Respect, Integrity, Compassion and Excellence that anchor our students and Red is symbolic of the vision we espouse for our students – Confident Individuals Responsible Citizens. </figcaption></figure>
+<figcaption>Horizon’s crest was designed with the school vision that depicts the growth and achievement of our students.&nbsp; The yellow speaks of Horizon’s philosophy that&nbsp;Every Child is a Leader.&nbsp; Purple defines the mission we commit ourselves to nurturing every child to lead their lives responsibly and to contribute with joy.&nbsp; Blue represents our school values Respect, Integrity, Compassion and Excellence that anchor our students and Red is symbolic of the vision we espouse for our students –&nbsp;Confident Individuals Responsible Citizens. </figcaption></figure>
 
 #### **School Ethos**
 ##### **Vision**
 **Confident Individuals, Responsible Citizens**<br>
-In Horizon, we dare to dream! <br>
+In Horizon, we dare to dream!&nbsp;<br>
 Every child who comes into Horizon Primary School will leave as a stellar leader who is ready to take on the challenges of the next level of education with confidence and responsibility.
 
 ##### **Mission**
@@ -85,7 +90,7 @@ To strive to be exemplary
 3\.  Fostering Partnership with stakeholders - Quality tripartite home-school-community partnership that achieve student and organisation outcomes.
 
 #### **School Hours**
-Reporting time for the students for 2021: **7.30 am**
+Reporting time for the students for 2021:&nbsp;**7.30 am**
 
 ##### **School hours for Primary 1 to 6**
 
@@ -94,11 +99,11 @@ Reporting time for the students for 2021: **7.30 am**
 | **School hours** | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. | 7.45 a.m - 1.45 p.m. |
 | **CCA** |  |   | 7.45 a.m - 9.15 a.m. |  |  |
 | **Small Group Teaching (SGT)** |   |  |   | 2.15 p.m - 3.45 p.m |   |
-| **E2K Mathematics & Science Programmes<br>(P4 & P5)** |   |   |   |  2.15 p.m - 4.15 p.m |   |
+| **E2K Mathematics &amp; Science Programmes<br>(P4 &amp; P5)** |   |   |   |  2.15 p.m - 4.15 p.m |   |
 | **P5 Supp Class** |   |  2.15 p.m - 3.45 p.m |   |  |   |
 | **P6 Supp Class** |   | 2.15 p.m - 3.45 p.m |   |  2.15 p.m - 3.45 p.m |   |
-| **Higher Mother Tongue<br>(P5 & 6)** | 2.15 p.m - 3.15 p.m  |   |   |   |   |
-| **Foundation Subject<br>(P5 & 6)** | 2.15 p.m - 3.15 p.m  |   |  |   |   |
+| **Higher Mother Tongue<br>(P5 &amp; 6)** | 2.15 p.m - 3.15 p.m  |   |   |   |   |
+| **Foundation Subject<br>(P5 &amp; 6)** | 2.15 p.m - 3.15 p.m  |   |  |   |   |
 |
 
 The opening hours of the school gates are as follows:
@@ -142,7 +147,7 @@ The opening hours of the school gates are as follows:
 </tbody>
 </table>
 
-For the safety and security of students and staff, visitors to the school are required to enter the school at **Gate A** and sign in at the security post with a photo ID as proof of identity. Visitors will be issued with a pass which they will have to wear at all times while in the school. Visitors’ movements are restricted to the General Office and the ground level non-teaching areas, e.g. the book shop and dental clinic.
+For the safety and security of students and staff, visitors to the school are required to enter the school at&nbsp;**Gate A**&nbsp;and sign in at the security post with a photo ID as proof of identity. Visitors will be issued with a pass which they will have to wear at all times while in the school. Visitors’ movements are restricted to the General Office and the ground level non-teaching areas, e.g. the book shop and dental clinic.
 
 #### **School Location**
 
