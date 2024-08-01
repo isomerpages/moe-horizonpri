@@ -18,7 +18,9 @@ variant: markdown
 
 June - Term Break <br>
 
-[7. May- WE-CONNECT! (7)](/files/WE_CONNECT___7__2024.pdf) 
+[7. July- WE-CONNECT! (7)](/files/WE_CONNECT___7__2024.pdf)
+
+[8. August- W[](/files/WE_CONNECT___8__2024.pdf)E-CONNECT! (7)]
 
 ##### **2023 We-Connect!**
 [1. January - WE-CONNECT! (1)](/files/Letters%20to%20Parents/2023/WE-CONNECT%201_final.pdf)
