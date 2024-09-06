@@ -22,6 +22,10 @@ June - Term Break <br>
 
 [8. August- WE-CONNECT! (8)](/files/WE_CONNECT___8__2024.pdf)
 
+[9. September- WE-CONNECT! (9)](/files/We_Connect___9__2024.pdf)
+
+
+
 ##### **2023 We-Connect!**
 [1. January - WE-CONNECT! (1)](/files/Letters%20to%20Parents/2023/WE-CONNECT%201_final.pdf)
 
