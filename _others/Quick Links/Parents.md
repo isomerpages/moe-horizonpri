@@ -32,6 +32,7 @@ variant: markdown
 * [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)
+* [OPAC (School Library)](https://schoolibrary.moe.edu.sg/horizonpri/)
 
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
