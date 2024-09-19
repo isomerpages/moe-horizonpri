@@ -211,6 +211,9 @@ third_nav_title: Achievements
 <li>
 <p>2nd Divisional Championships (Senior Girls)</p>
 </li>
+<li>
+<p>NSG Sportsmanship Award (6 Awardees)</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -226,11 +229,17 @@ third_nav_title: Achievements
 <li>
 <p>Champion, Singles Event (Senior Girls)</p>
 </li>
+<li>
+<p>Junior Achievement Bronze Badge (2 Awardees)</p>
+</li>
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,6 +252,49 @@ third_nav_title: Achievements
 </li>
 <li>
 <p>3rd Position, 1st International Cudgel (Senior Boys)</p>
+</li>
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Shaolin Games 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Duan Broadsword (Gold)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th Beijing International Wushu Cultural Festival &amp; 14th Beijing International
+Wushu Invitation Tournament 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>International Compulsory Southern Style Boxing - Gold</p>
+</li>
+<li>
+<p>International Compulsory Southern Style Broadsword - Gold</p>
+</li>
+<li>
+<p>International Compulsory Southern Style Cudgel - Gold</p>
+</li>
+<li>
+<p>Taichi Boxing - Gold</p>
+</li>
+<li>
+<p>Taichi Sword - Gold</p>
+</li>
+<li>
+<p>Primary Spear Play - Silver</p>
 </li>
 </ul>
 </td>
@@ -280,6 +332,9 @@ third_nav_title: Achievements
 <li>
 <p>1st Position, Poom 2 (Senior Boys)</p>
 </li>
+<li>
+<p>NSG Sportsmanship Award (1 Awardee)</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -294,6 +349,36 @@ third_nav_title: Achievements
 <ul data-tight="true" class="tight">
 <li>
 <p>Certificate of Accomplishment</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Seniors)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Sportsmanship Award (2 Awardees)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Seniors)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
 </li>
 </ul>
 </td>
