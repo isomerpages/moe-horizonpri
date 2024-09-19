@@ -151,6 +151,27 @@ third_nav_title: Achievements
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'Saya Boleh Mengarang' Malay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold with Honours</p>
+</li>
+<li>
+<p>1 Gold</p>
+</li>
+<li>
+<p>1 Silver</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Domain: Physical</h2>
@@ -420,14 +441,30 @@ Wushu Invitation Tournament 2024</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Scouts Akela Awardees 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>6 Awardees</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts North Area Amazing Michelin Hawker Food Trail 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Runner-Up</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
