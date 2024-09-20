@@ -28,7 +28,7 @@ third_nav_title: Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -46,6 +46,21 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Infocomm League 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Best Presentation</p>
+</li>
+<li>
+<p>Champion</p>
+</li>
+</ul>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ukulele &amp; Guitar</p>
@@ -83,7 +98,7 @@ third_nav_title: Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,6 +138,21 @@ third_nav_title: Achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Mathematical Olympiad of Singapore 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Silver</p>
+</li>
+<li>
+<p>9 Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,6 +177,96 @@ third_nav_title: Achievements
 <ul data-tight="true" class="tight">
 <li>
 <p>1st Position, Oratorical Competition</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'Saya Boleh Mengarang' Malay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Gold with Honours</p>
+</li>
+<li>
+<p>1 Gold</p>
+</li>
+<li>
+<p>1 Silver</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Robotics Programming Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Best Robot Performance (2nd Position)</p>
+</li>
+<li>
+<p>Overall Champion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation, Design and Engineering (IDE) Series 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>IDE Sumobot (1st Position)</p>
+</li>
+<li>
+<p>Maker (Primary) Category (Champion)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pei Hwa Hackathon 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st unner-up</p>
+</li>
+<li>
+<p>People's Choice Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communications Challenge (HCIC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award</p>
+</li>
+<li>
+<p>Silver Award</p>
+</li>
+<li>
+<p>Gold Award</p>
+</li>
+<li>
+<p>Platinum Award</p>
 </li>
 </ul>
 </td>
@@ -211,6 +331,9 @@ third_nav_title: Achievements
 <li>
 <p>2nd Divisional Championships (Senior Girls)</p>
 </li>
+<li>
+<p>NSG Sportsmanship Award (6 Awardees)</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -226,11 +349,17 @@ third_nav_title: Achievements
 <li>
 <p>Champion, Singles Event (Senior Girls)</p>
 </li>
+<li>
+<p>Junior Achievement Bronze Badge (2 Awardees)</p>
+</li>
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
+</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,6 +372,49 @@ third_nav_title: Achievements
 </li>
 <li>
 <p>3rd Position, 1st International Cudgel (Senior Boys)</p>
+</li>
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Shaolin Games 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Duan Broadsword (Gold)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5th Beijing International Wushu Cultural Festival &amp; 14th Beijing International
+Wushu Invitation Tournament 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>International Compulsory Southern Style Boxing - Gold</p>
+</li>
+<li>
+<p>International Compulsory Southern Style Broadsword - Gold</p>
+</li>
+<li>
+<p>International Compulsory Southern Style Cudgel - Gold</p>
+</li>
+<li>
+<p>Taichi Boxing - Gold</p>
+</li>
+<li>
+<p>Taichi Sword - Gold</p>
+</li>
+<li>
+<p>Primary Spear Play - Silver</p>
 </li>
 </ul>
 </td>
@@ -280,6 +452,9 @@ third_nav_title: Achievements
 <li>
 <p>1st Position, Poom 2 (Senior Boys)</p>
 </li>
+<li>
+<p>NSG Sportsmanship Award (1 Awardee)</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -294,6 +469,36 @@ third_nav_title: Achievements
 <ul data-tight="true" class="tight">
 <li>
 <p>Certificate of Accomplishment</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Seniors)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Sportsmanship Award (2 Awardees)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Seniors)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Sportsmanship Award (4 Awardees)</p>
 </li>
 </ul>
 </td>
@@ -335,14 +540,30 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="2" colspan="1">
+<p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Scouts Akela Awardees 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>6 Awardees</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts North Area Amazing Michelin Hawker Food Trail 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st Runner-Up</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
