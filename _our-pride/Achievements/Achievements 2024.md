@@ -28,7 +28,7 @@ third_nav_title: Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Infocomm Club</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -48,6 +48,21 @@ third_nav_title: Achievements
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>National Infocomm League 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Best Presentation</p>
+</li>
+<li>
+<p>Champion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ukulele &amp; Guitar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,6 +72,78 @@ third_nav_title: Achievements
 <ul data-tight="true" class="tight">
 <li>
 <p>Certificate of Accomplishment</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Robotics Programming Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Best Robot Performance (2nd Position)</p>
+</li>
+<li>
+<p>Overall Champion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation, Design and Engineering (IDE) Series 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>IDE Sumobot (1st Position)</p>
+</li>
+<li>
+<p>Maker (Primary) Category (Champion)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pei Hwa Hackathon 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st unner-up</p>
+</li>
+<li>
+<p>People's Choice Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communications Challenge (HCIC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award</p>
+</li>
+<li>
+<p>Silver Award</p>
+</li>
+<li>
+<p>Gold Award</p>
+</li>
+<li>
+<p>Platinum Award</p>
 </li>
 </ul>
 </td>
