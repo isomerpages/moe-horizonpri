@@ -76,78 +76,6 @@ third_nav_title: Achievements
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Robotics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Robotics Programming Competition 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Best Robot Performance (2nd Position)</p>
-</li>
-<li>
-<p>Overall Champion</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Innovation, Design and Engineering (IDE) Series 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>IDE Sumobot (1st Position)</p>
-</li>
-<li>
-<p>Maker (Primary) Category (Champion)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pei Hwa Hackathon 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>1st unner-up</p>
-</li>
-<li>
-<p>People's Choice Award</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hwa Chong Info-Communications Challenge (HCIC) 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Bronze Award</p>
-</li>
-<li>
-<p>Silver Award</p>
-</li>
-<li>
-<p>Gold Award</p>
-</li>
-<li>
-<p>Platinum Award</p>
-</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
 <h2>Domain: Cognitive</h2>
@@ -255,6 +183,75 @@ third_nav_title: Achievements
 </li>
 <li>
 <p>1 Silver</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Robotics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Robotics Programming Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Best Robot Performance (2nd Position)</p>
+</li>
+<li>
+<p>Overall Champion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Innovation, Design and Engineering (IDE) Series 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>IDE Sumobot (1st Position)</p>
+</li>
+<li>
+<p>Maker (Primary) Category (Champion)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pei Hwa Hackathon 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1st unner-up</p>
+</li>
+<li>
+<p>People's Choice Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong Info-Communications Challenge (HCIC) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze Award</p>
+</li>
+<li>
+<p>Silver Award</p>
+</li>
+<li>
+<p>Gold Award</p>
+</li>
+<li>
+<p>Platinum Award</p>
 </li>
 </ul>
 </td>
