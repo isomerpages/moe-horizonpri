@@ -242,7 +242,7 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>1st unner-up</p>
+<p>1st Runner-up</p>
 </li>
 <li>
 <p>People's Choice Award</p>
