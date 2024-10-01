@@ -683,7 +683,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Cheong Kum Hoe Janet</strong>
+<p><strong>Mdm New Ai Li</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -696,7 +696,7 @@ variant: tiptap
 <p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
+<p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Management Support Officer</p>
@@ -708,58 +708,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_kum_hoe_janet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_kum_hoe_janet@schools.gov.sg</a>
+<p><a href="mailto:New_ai_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">new_ai_li_a@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_leong_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_leong_hong@schools.gov.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm New Ai Li</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:New_ai_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">new_ai_li_a@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -925,45 +879,33 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Support Staff</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Aryffin Bin Norazman</strong>
+<p><strong>Mr Mohammad Ihsan</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Rekha</strong>
 </p>
 </td>
-<th rowspan="1" colspan="1">
-<p><strong>Mr Tan Teck Tian Sunny</strong>
-</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gardener</p>
+<p>Desktop Engineer 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:mohammad_ihsan_mohd_yaccob@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_ihsan_mohd_yaccob@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -972,9 +914,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
