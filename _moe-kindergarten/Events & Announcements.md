@@ -26,7 +26,6 @@ from our new suppliers,&nbsp;<strong>Jeep Sing Fashion &amp; Beau Voix</strong>.
 <p>The MK uniform costs $15 per set. You can purchase individual pieces at
 $7 for polo T-shirt and $8 for Khaki shorts or skorts.
 <br>
-<br>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
