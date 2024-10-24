@@ -22,7 +22,7 @@ offer, please visit the <a href="https://www.moe.gov.sg/preschool/moe-kindergart
 <p><strong>Sale of MK Uniform by Jeep Sing Fashion</strong>
 <br>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
-from our new suppliers,&nbsp;**Jeep Sing Fashion &amp; Beau Voix **.</p>
+from our new suppliers,&nbsp;<strong>Jeep Sing Fashion &amp; Beau Voix</strong>.</p>
 <p>The MK uniform costs $15 per set. You can purchase individual pieces at
 $7 for polo T-shirt and $8 for Khaki shorts or skorts.</p>
 <table style="minWidth: 75px">
