@@ -104,11 +104,11 @@ $7 for polo T-shirt and $8 for Khaki shorts or skorts.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Purchase MK uniforms at <a href="www.jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com</a>
+<p>Purchase MK uniforms <a href="www.jeepsinguniform.com" rel="noopener noreferrer nofollow" target="_blank">www.jeepsinguniform.com</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Purchase MK uniforms at <a href="https://beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://beauvoix.com.sg</a>
+<p>Purchase MK uniforms <a href="https://beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://beauvoix.com.sg</a>
 </p>
 </td>
 </tr>
