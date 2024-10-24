@@ -18,11 +18,10 @@ get a glimpse of our learning environment and speak with our MK educators
 to understand more about the MK curriculum as well as our signature programmes.</p>
 <p>Should you require further details on the other MKs which our schools
 offer, please visit the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten</a>&nbsp;website.</p>
-<h4><strong>Sale of MK Uniform</strong></h4>
-<p><strong>Sale of MK Uniform by Jeep Sing Fashion</strong>
-<br>Dear Parent/ Guardian,</p>
+<h4><strong>Sale of MK Uniform</strong><br></h4>
+<p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
-from our new suppliers,&nbsp;<strong>Jeep Sing Fashion &amp; Beau Voix</strong>.</p>
+from our new suppliers,&nbsp;<strong>Beau Voix &amp; Jeep Sing Fashion</strong>.</p>
 <p>The MK uniform costs $15 per set. You can purchase individual pieces at
 $7 for polo T-shirt and $8 for Khaki shorts or skorts.
 <br>
@@ -76,6 +75,14 @@ $7 for polo T-shirt and $8 for Khaki shorts or skorts.
 <td rowspan="1" colspan="1">
 <p>Purchase MK uniforms <a href="https://beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://beauvoix.com.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
