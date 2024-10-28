@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-people/schooladvisorycommittee/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee
 
@@ -19,6 +20,6 @@ description: ""
 | -------- | -------- | 
 | Member | Member |
 | *Founder, Village Consultancy: Leadership, Parenting & Family Coach* | *Associate Professor, Head of Learning Sciences & Assessment NIE, NTU* |
-| **Ms Laksha Mehta**| **Ms Pauline Phoon Lai Yee** | 
+| **Ms Laksha Mehta**| **Dr Goh Kia Hong** | 
 | Member | Member |
-| *Head of Training, Forward Looking Training and Consultancy* | *Founder, SOOS OIO LLP and COMEBACK Pte Ltd* |
+| *Head of Training, Forward Looking Training and Consultancy* | *Senior Lecturer, College of Business, Nanyang Business School - Division of Accounting* |
