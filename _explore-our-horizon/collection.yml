@@ -2,7 +2,6 @@ collections:
   explore-our-horizon:
     output: true
     order:
-      - Our CCAs.md
       - Our School.md
       - Our Students' Experiences.md
       - Our Programmes.md
