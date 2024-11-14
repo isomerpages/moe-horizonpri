@@ -239,7 +239,7 @@ third_nav_title: Achievements
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>2 Siver(Individual)</p>
+<p>2 Siver (Individual)</p>
 </li>
 <li>
 <p>4 Bronze (Group)</p>
