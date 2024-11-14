@@ -36,4 +36,7 @@ variant: markdown
 
 **MTL Celebrate Writing e-Book**
 --------------------------------
-To access the e-book, please access the link here:  [HRPS MTL E-Book](https://www.etutorlearning.com/HRPSebook2023/)
+To access the e-book, please access the link here:  
+[HRPS MTL E-Book 2023](https://www.etutorlearning.com/HRPSebook2023/)
+
+[HRPS MTL E-Book 2024](https://www.etutorlearning.com/HRPSebook2024/index.html)
