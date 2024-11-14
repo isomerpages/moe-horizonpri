@@ -15,7 +15,8 @@ variant: markdown
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet 2024](/files/P1_Orientation_Booklet_2024__School_Website_.pdf)
-* [P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf)
+* [P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+
 * [Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 ### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
