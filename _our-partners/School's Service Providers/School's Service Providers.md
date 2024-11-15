@@ -81,7 +81,7 @@ BT &amp; Tan Bus Transport Service through their weblink
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot%202023-09-29%20160528.jpg">
 </div>
-<h3>Canteen Menu 2024</h3>
+<h3>Canteen Menu 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Disclaimer</strong> : Please do note that canteen prices are currently
