@@ -23,7 +23,7 @@ of our students and reduce disruption of school activities:
 <br><a href="https://thecontinental.sg/horizon/" rel="noopener noreferrer nofollow" target="_blank">School Uniform Information</a>
 <br><a href="/files/Uniform_Pricelist.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Pricelist</a>
 </p>
-<p><strong>P1-P6 Booklists 2024</strong>
+<p><strong>P1-P6 Booklists 2025</strong>
 </p>
 <p><a href="/files/Horizon_Booklist_2025_Primary_1.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>
 </p>
