@@ -6,7 +6,7 @@ third_nav_title: Parents Connect!
 variant: markdown
 ---
 ### **PC! Executive Committee (PC! EXCO)**
-#### **Parents-Connect! Executive Committee For 2024**
+#### **Parents-Connect! Executive Committee 2024**
 
 
 |**Mr Shah Tejas Jayant** | **Mr Jaysen Lim** |**Mdm Jasmine Chu** |
