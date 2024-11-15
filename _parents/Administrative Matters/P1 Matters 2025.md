@@ -9,7 +9,7 @@ variant: markdown
 2025 Primary 1 - A Guide For Parents<br>
 [Orientation Booklet](/files/P1_Orientation_Booklet_2025_compressed.pdf)
 
-[P1 Booklet 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+[P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
 
 For more information on school uniform, 
 [https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
