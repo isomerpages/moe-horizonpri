@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Administrative Matters
 variant: markdown
 ---
-### **P1 Orientation Booklet 2024**
-2024 Primary 1 - A Guide For Parents<br>
-[Orientation Booklet](/files/P1_Orientation_Booklet_2024__School_Website_.pdf)<br>
-[P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf)<br>
+### **P1 Orientation Booklet 2025**
+2025 Primary 1 - A Guide For Parents<br>
+[Orientation Booklet](/files/P1_Orientation_Booklet_2025_compressed.pdf)
+
+[P1 Booklet 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+
 For more information on school uniform, 
 [https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
