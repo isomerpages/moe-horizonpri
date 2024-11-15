@@ -21,7 +21,7 @@ of our students and reduce disruption of school activities:
 <p><strong>Please follow the time slot and bookshop opening dates stated in the booklists:</strong>
 <br><strong>Uniform Information</strong>
 <br><a href="https://thecontinental.sg/horizon/" rel="noopener noreferrer nofollow" target="_blank">School Uniform Information</a>
-<br><a href="/files/Uniform_Pricelist.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Pricelist</a>
+<br><a href="https://www.beauvoix.com.sg/products/horizon-primary-school" rel="noopener nofollow" target="_blank">Uniform Pricelist</a>
 </p>
 <p><strong>P1-P6 Booklists 2025</strong>
 </p>
