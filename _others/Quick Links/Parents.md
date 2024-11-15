@@ -17,6 +17,7 @@ variant: markdown
 * [P1 Orientation Booklet 2024](/files/P1_Orientation_Booklet_2024__School_Website_.pdf)
 * [P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
 
+
 * [Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 ### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
@@ -50,16 +51,18 @@ Email: info@beauvoix.com.sg
  
 In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com.sg Delivery is charged at $7 per transaction and no minimum order amount is required.
 
-### P1 to P6 Booklist 2024
+### P1 to P6 Booklist 2025
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
-**P1-P6 Booklists 2024**<br>
+**P1-P6 Booklists 2025**<br>
 
-|[P1 Booklist 2024](/files/Horizon_Booklist_2024_Primary_1.pdf) | [P2 Booklist 2024](/files/Horizon_Booklist_2024_Primary_2.pdf) |
-| -------- | -------- |
-| **[P3 Booklist 2024](/files/Horizon_Booklist_2024_Primary_3.pdf)**| **[P4 Booklist 2024](/files/Horizon_Booklist_2024_Primary_4.pdf)**|
-| **[P5 Booklist 2024](/files/Horizon_Booklist_2024_Primary_5.pdf)** |  |
-| **[P6 Booklist](/files/Horizon_Booklist_2024_Primary_6.pdf)** | **[P6F Booklist](/files/Horizon_Booklist_2024_Primary_6F.pdf)** |
-
+* [P1 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_1.pdf)
+* [P2 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_2.pdf)
+* [P3 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_3.pdf)
+* [P4 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_4.pdf)
+* [P5 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_5.pdf)
+* [P5F Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_5F.pdf)
+* [P6 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_6.pdf)
+* [P6F Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_6F.pdf)
 ### Canteen Menu 2024
 * **Disclaimer** : Please do note that canteen prices are currently undergoing review 
 |  [ ![](/images/stall1.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu1.jpg) | [ ![](/images/stall2.jpg)](https://staging.d21co4ykjghpsi.amplifyapp.com/images/menu2.jpg) |
