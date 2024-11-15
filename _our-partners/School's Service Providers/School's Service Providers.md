@@ -23,16 +23,27 @@ of our students and reduce disruption of school activities:
 <br><a href="https://thecontinental.sg/horizon/" rel="noopener noreferrer nofollow" target="_blank">School Uniform Information</a>
 <br><a href="/files/Uniform_Pricelist.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Pricelist</a>
 </p>
-<p><strong>P1-P6 Booklists 2024</strong>
-<br><a href="/files/Horizon_Booklist_2024_Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_6.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist</a>
-<br><a href="/files/Horizon_Booklist_2024_Primary_6F.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Foundation Booklist</a>
+<p><strong>P1-P6 Booklists 2025</strong>
 </p>
-<h4><strong>School Uniform</strong></h4>
+<p><a href="/files/Horizon_Booklist_2025_Primary_1.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_2.pdf" rel="noopener nofollow" target="_blank">2025 P2 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_3.pdf" rel="noopener nofollow" target="_blank">2025 P3 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_4.pdf" rel="noopener nofollow" target="_blank">2025 P4 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_5.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_5F.pdf" rel="noopener nofollow" target="_blank">2025 P5F Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_6.pdf" rel="noopener nofollow" target="_blank">2025 P6 Booklist</a>
+</p>
+<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_6F.pdf" rel="noopener nofollow" target="_blank">2025 P6F Booklist</a>
+<br>
+</p>
+<p><strong>School Uniform</strong>
+</p>
 <p><strong>Beau Voix Uniform</strong>
 <br>2 Sims Close
 <br>#03-08 Gemini@Sims
@@ -70,7 +81,7 @@ BT &amp; Tan Bus Transport Service through their weblink
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot%202023-09-29%20160528.jpg">
 </div>
-<h3>Canteen Menu 2024</h3>
+<h3>Canteen Menu 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Disclaimer</strong> : Please do note that canteen prices are currently
