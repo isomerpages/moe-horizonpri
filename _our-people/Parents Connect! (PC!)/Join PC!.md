@@ -2,7 +2,7 @@
 title: Join PC!
 permalink: /our-partners/parents/psg/join-pc/
 description: ""
-third_nav_title: Parents Connect!
+third_nav_title: Parents Connect! (PC!)
 ---
 ### **Join PC!**
 #### **Benefits of Volunteering**

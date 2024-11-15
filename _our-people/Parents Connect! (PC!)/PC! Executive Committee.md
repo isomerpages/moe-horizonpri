@@ -1,12 +1,12 @@
 ---
-title: PC! Committee
+title: PC! Executive Committee
 permalink: /our-partners/parents/psg/pc-committee/
 description: ""
-third_nav_title: Parents Connect!
+third_nav_title: Parents Connect! (PC!)
 variant: markdown
 ---
-### **PC! Committee**
-#### **Parents-Connect! Committee For 2024**
+### **PC! Executive Committee (PC! EXCO)**
+#### **Parents-Connect! Executive Committee 2024**
 
 
 |**Mr Shah Tejas Jayant** | **Mr Jaysen Lim** |**Mdm Jasmine Chu** |
