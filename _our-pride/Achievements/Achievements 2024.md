@@ -152,7 +152,7 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +162,21 @@ third_nav_title: Achievements
 <ul data-tight="true" class="tight">
 <li>
 <p>1 Silver</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 Silver</p>
+</li>
+<li>
+<p>4 Bronze</p>
 </li>
 </ul>
 </td>
@@ -182,7 +197,7 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +218,49 @@ third_nav_title: Achievements
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
+<p>N4 ML Cluster Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Place (Group)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>2 Siver (Individual)</p>
+</li>
+<li>
+<p>4 Bronze (Group)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Chinese Moo-O Awards 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Bronze (Group)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p>Robotics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,6 +324,24 @@ third_nav_title: Achievements
 </li>
 <li>
 <p>Platinum Award</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Robot Olympiad (RoboMission Elementary) 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Spirit Award/Best Performing School</p>
+</li>
+<li>
+<p>2nd Place</p>
+</li>
+<li>
+<p>Champion</p>
 </li>
 </ul>
 </td>
@@ -489,7 +564,7 @@ Wushu Invitation Tournament 2024</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -498,7 +573,19 @@ Wushu Invitation Tournament 2024</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Sportsmanship Award (4 Awardees)</p>
+<p>NSG Sportsmanship Award (8 Awardees)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Tier 3 (1st Position)</p>
 </li>
 </ul>
 </td>
@@ -540,7 +627,7 @@ Wushu Invitation Tournament 2024</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -562,6 +649,46 @@ Wushu Invitation Tournament 2024</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>1st Runner-Up</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award (Cub Scouts)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Gold</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Others</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speak Up! Kids 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Category B (P3/P4)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd Place</p>
+</li>
+<li>
+<p>1st Place</p>
+</li>
+</ul>
+<p>Category C (P5/P6)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2nd Place</p>
+</li>
+<li>
+<p>1st Place</p>
 </li>
 </ul>
 </td>
