@@ -16,9 +16,8 @@ variant: markdown
 ### Primary 1 Matters
 * [P1 Orientation Booklet 2025](/files/P1_Orientation_Booklet_2025_compressed.pdf)
 * [P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+* [School Uniform](https://www.beauvoix.com.sg/)
 
-
-* [Uniform Pricelist](/files/Uniform_Pricelist.pdf)
 ### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
 * [Parents Gateway Mobile Application](https://pg.moe.edu.sg/)
@@ -39,7 +38,7 @@ variant: markdown
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
-School Uniform Information Portal : [https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
+School Uniform Information Portal : https://www.beauvoix.com.sg/
 
 **BEAU VOIX UNIFORM** <br>
 2 Sims Close <br>
