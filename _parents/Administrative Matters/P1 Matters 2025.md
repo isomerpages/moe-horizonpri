@@ -12,4 +12,4 @@ variant: markdown
 [P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
 
 For more information on school uniform, 
-[https://thecontinental.sg/horizon/](https://thecontinental.sg/horizon/)
+https://www.beauvoix.com.sg/
