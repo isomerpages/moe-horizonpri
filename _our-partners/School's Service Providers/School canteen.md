@@ -43,10 +43,14 @@ third_nav_title: School's Service Providers
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.
-<br>
+hardcopy from the School’s General Office.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Application_form_2024__snacks_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 <br>
 </p>
+</li>
+</ul>
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
