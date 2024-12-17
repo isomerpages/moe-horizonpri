@@ -74,7 +74,7 @@ etc
 email OR to the School’s General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 61 Edgedale Plains</p>
+<p>Address: 61 Edgedale Plains 828819</p>
 </li>
 <li>
 <p>Contact No: 6753 5411</p>
@@ -98,7 +98,7 @@ email OR to the School’s General Office.</p>
 <p>Nearest LRT: Kadaloor [PE5] or Oasis [PE6]</p>
 </li>
 <li>
-<p>Bus: 3, 50, 83, 85, 569
+<p>Bus: 3, 50, 83, 85, 569, 386
 <br>
 </p>
 </li>
