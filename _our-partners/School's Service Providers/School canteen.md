@@ -27,13 +27,13 @@ third_nav_title: School's Service Providers
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Snack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27 December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Provide snacks for students and staff.</p>
 </td>
 </tr>
 </tbody>
@@ -84,7 +84,7 @@ email OR to the School’s General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person:
+<p>Contact Person: Mr Marvin Lee / Mdm Dorothy Lim
 <br>
 </p>
 </li>
