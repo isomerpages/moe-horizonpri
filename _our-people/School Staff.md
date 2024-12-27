@@ -605,7 +605,8 @@ variant: tiptap
 <p>Mdm Fung Siew Koon</p>
 </td>
 <td rowspan="8" colspan="1">
-<p></p>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -985,7 +986,8 @@ variant: tiptap
 <p>Mdm Lim Geok Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1086,7 +1088,8 @@ variant: tiptap
 <p>Mdm Melati Muhaiyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1203,7 +1206,8 @@ variant: tiptap
 <p>Mdm Lim Chin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1487,7 +1491,8 @@ variant: tiptap
 <p>Ms Tong Yan Yi Kiara</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
