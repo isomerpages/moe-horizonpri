@@ -924,7 +924,190 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Teachers 2024</h3>
-<h5>Primary 1</h5>
+<h5><strong>Primary 1</strong></h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="2" colspan="1">
+<p>P1 Innovator</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Ching Xian Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ching_xian_vivian_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ching_xian_vivian_goh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Ainninah Binte Noor Muhamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_ainninah_noor_muhamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ainninah_noor_muhamed@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Thinker</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Xue Le Chery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_xue_le_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xue_le_cheryl@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Bashir Bin Mammad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_bashir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_bashir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Creator</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Yu Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_yu_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yu_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm April Tan Yun Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yun_lin_april@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yun_lin_april@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Reflector</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Zhaochen Cynthia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_zhaochen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhaochen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Leo Yek Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Inventor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Jit Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_jit_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_jit_sim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teh Chai Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Teh_Chai_Choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teh_Chai_Choo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Inquirer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lin Suting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_suting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_suting@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Alice Yeo Puay Koon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_puay_koon_alice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_puay_koon_alice@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Explorer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lucy Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Cheng_Peng_Cheng_Nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Cheng_Peng_Cheng_Nee@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Usha Ramachandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:usha_ramachandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">usha_ramachandra@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>P1 Discoverer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Zhi Yong Gary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_zhi_yong_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_zhi_yong_gary@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hong Bee Yuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hong_bee_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hong_bee_yuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
