@@ -90,9 +90,9 @@ undergoing review</p>
 </ul>
 <p></p>
 <h4><strong>School-Based Student Care Services</strong></h4>
-<p><strong>Raffles Student Care Centre LLP (Horizon)</strong>
-<br>Tel: 8922 8794
-<br>E-mail: <a href="mailto:HZ@rafflesstudentcare.com" rel="noopener noreferrer nofollow" target="_blank">HZ@rafflesstudentcare.com</a>
+<p><strong>Nascans Pte Ltd (Horizon)</strong>
+<br>Tel: 86614352
+<br>Email: <a href="mailto:hzscc@nascans.com" rel="noopener noreferrer nofollow" target="_blank">hzscc@nascans.com</a>
 </p>
 <p>Operating Hours (Mon - Fri):
 <br>Sch Term: 1.45 p.m. to 6.55 p.m.&nbsp;
