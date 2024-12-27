@@ -4,7 +4,7 @@ permalink: /our-people/schoolstaff/
 description: ""
 variant: tiptap
 ---
-<h3>Principals &amp; Vice-Principals</h3>
+<h3><strong>Principals &amp; Vice-Principals</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,7 +51,7 @@ variant: tiptap
 </table>
 <p>Email: <a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
 </p>
-<h3>School Management Team</h3>
+<h3><strong>School Management Team</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -373,7 +373,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Teacher Leaders</h3>
+<h3><strong>Teacher Leaders</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -487,7 +487,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Admin Team</h3>
+<h3><strong>School Admin Team</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -575,7 +575,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Operations Team</h3>
+<h3><strong>School Operations Team</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -667,7 +667,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p><strong>ICT Associate</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohd Ihsan</p>
@@ -679,7 +680,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer 1</p>
+<p><strong>Desktop Engineer 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rekha</p>
@@ -692,7 +694,7 @@ variant: tiptap
 </tbody>
 </table>
 <h3><strong>Teachers 2025</strong></h3>
-<h5><strong>Primary 1</strong></h5>
+<h5><strong>Primary 1 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -889,7 +891,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5><strong>Primary 2</strong></h5>
+<h5><strong>Primary 2 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1106,7 +1108,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5><strong>Primary 3</strong></h5>
+<h5><strong>Primary 3 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1268,7 +1270,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5><strong>Primary 4</strong></h5>
+<h5><strong>Primary 4 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1422,7 +1424,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5><strong>Primary 5</strong></h5>
+<h5><strong>Primary 5 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1575,8 +1577,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h5><strong>Primary 6</strong></h5>
-<p></p>
+<h5><strong>Primary 6 Form Teachers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1750,7 +1751,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>SEN Officers</h5>
+<h5><strong>SEN Officers</strong></h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
