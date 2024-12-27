@@ -6,7 +6,7 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h3><strong>School Hours</strong></h3>
-<p>Reporting time for the students:&nbsp;<strong>7.30 am</strong>
+<p>Reporting time for the students:&nbsp;<strong>7.30 a.m.</strong>
 </p>
 <h4><strong>School hours for Primary 1 to 6</strong></h4>
 <table style="minWidth: 150px">
@@ -45,19 +45,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 1.45 p.m.</p>
+<p>7.45 a.m. to 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 1.45 p.m.</p>
+<p>7.45 a.m. to 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 1.45 p.m.</p>
+<p>7.45 a.m. to 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 1.45 p.m.</p>
+<p>7.45 a.m. to 1.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 1.45 p.m.</p>
+<p>7.45 a.m. to 1.45 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7.45 a.m - 9.15 a.m.</p>
+<p>7.45 a.m. to 9.15 a.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -96,7 +96,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m - 3.45 p.m</p>
+<p>2.15 p.m. to 3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -117,7 +117,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m - 4.15 p.m</p>
+<p>2.15 p.m. to 4.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -129,7 +129,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m - 3.15 p.m</p>
+<p>2.15 p.m. - 3.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -150,7 +150,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m - 3.15 p.m</p>
+<p>2.15 p.m. - 3.15 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
