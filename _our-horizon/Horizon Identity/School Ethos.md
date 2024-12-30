@@ -17,7 +17,7 @@ We are taught to be ready for the 21st century as effective communicators, inven
 
 #### **Philosophy**
 **Every Child is a Leader!**<br>
-They instil in us good habits to self-manage and lead a meaningful life!
+Our school leaders and teachers believe that every one of us is a leader! They instil in us good habits to self-manage and lead a meaningful life!
 
 #### **Core Values**
 **Respect**<br>
