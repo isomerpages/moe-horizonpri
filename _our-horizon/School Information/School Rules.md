@@ -25,13 +25,15 @@ variant: markdown
 * Students must wear the school PE attire with name tag on days with PE lessons, CCAs or activities as instructed. School captains shall put on the stipulated badge. 
 * Students must wear plain white socks that cover the ball of the ankle. 
 * Students must wear plain, all black, low-cut canvas shoes. 
-#### **School Rules on Grooming**
-* Students must keep their hair neat, proper and in its original colour
+
 
 <img src="/images/schrules1.jpg" style="width:49%" align="left">
 <img src="/images/schrules2.jpg" style="width:49%" align="right">
 
 <br clear="left">
+
+#### **School Rules on Grooming**
+* Students must keep their hair neat, proper and in its original colour
 
 #### **Hairstyles - Boys**
 *   Hair must not touch the eyebrows, ears or shirt collar.
