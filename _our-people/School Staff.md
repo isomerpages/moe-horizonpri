@@ -729,7 +729,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Xue Le Chery</p>
+<p>Ms Toh Xue Le Cheryl</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:toh_xue_le_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_xue_le_cheryl@schools.gov.sg</a>
