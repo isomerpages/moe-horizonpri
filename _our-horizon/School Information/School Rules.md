@@ -38,7 +38,7 @@ variant: markdown
 #### **Hairstyles - Boys**
 *   Hair must not touch the eyebrows, ears or shirt collar.
 *   Side-burns must be very short and not beyond the top of the ear. 
-*   No fanciful hair-cut is allowed. (E.g., extreme contrasts in lengths or patterns and/or side shaved hairstyles
+*   No fanciful hair-cut is allowed. (E.g., extreme contrasts in lengths or patterns and/or side shaved hairstyles)
 
 <img src="/images/schrules3.jpg" style="width:65%">
 
