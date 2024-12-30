@@ -6,7 +6,7 @@ third_nav_title: School Information
 variant: tiptap
 ---
 <h3><strong>School Hours</strong></h3>
-<p>Reporting time for the students:&nbsp;<strong>7.30 a.m.</strong>
+<p>Reporting time:&nbsp;All students are to report to school by <strong>7.30 a.m.</strong>
 </p>
 <p>Flag Raising Ceremony:<strong> 7.35 a.m.</strong>
 </p>
