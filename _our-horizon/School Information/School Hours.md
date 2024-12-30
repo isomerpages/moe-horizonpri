@@ -8,6 +8,8 @@ variant: tiptap
 <h3><strong>School Hours</strong></h3>
 <p>Reporting time for the students:&nbsp;<strong>7.30 a.m.</strong>
 </p>
+<p>Flag Raising Ceremony:<strong> 7.35 a.m.</strong>
+</p>
 <h4><strong>School hours for Primary 1 to 6</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
@@ -83,41 +85,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Small Group Teaching (SGT)</strong>
+<p><strong>After school programme (For Selected students/levels)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2.15 p.m. to 3.15 p.m./3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. to 3.45 p.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>E2K Mathematics &amp; Science Programmes<br>(P4 &amp; P5)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.15 p.m. to 4.15 p.m.</p>
+<p>2.15 p.m. to 3.15 p.m./3.45 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
