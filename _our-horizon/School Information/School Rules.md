@@ -19,14 +19,12 @@ variant: markdown
 
 *Bullying involves repeated and persistent behaviours that causes hurt, distress or humiliations. It can be physical, verbal, psychological or social in nature. It includes behaviours that are carried out through electronic or digital media. 
 
+#### **School Rules on Attire**
 #### **Uniforms**
-*   Students must wear the prescribed school uniform. Modification to the school uniform is not allowed.
-*   Students should be properly and neatly attired at all times.
-*   The name tag should be attached on the right side of the uniform and aligned with the school logo.
-*   Students must put on white socks and black shoes. High cut shoes are not allowed. Socks should be clearly visible above the top-line of the shoes.
-*   On days where there are PE lessons, students are allowed to wear their PE attire to school. The name tag must be attached to the PE T-shirt.
-*   For safety reasons, any form of jewellery is not allowed except for simple ear studs for girls. Identical pair of small ear studs with simple geometric designs is allowed, one on each ear lobe. Multiple ear studs and earrings are not allowed.
-*   Students' nails must be kept short and clean at all times.
+* Students must wear the school uniform, with name tag affixed on the right side and aligned with the school logo, on normal school days. School captains shall put on the stipulated scarf and badge 
+* Students must wear the school PE attire with name tag on days with PE lessons, CCAs or activities as instructed. School captains shall put on the stipulated badge. 
+* Students must wear plain white socks that cover the ball of the ankle. 
+* Students must wear plain, all black, low-cut canvas shoes. 
 #### **School Rules on Grooming**
 * Students must keep their hair neat, proper and in its original colour
 
