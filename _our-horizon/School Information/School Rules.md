@@ -33,7 +33,9 @@ variant: markdown
 <br clear="left">
 
 #### **School Rules on Grooming**
-* Students must keep their hair neat, proper and in its original colour
+* Students must keep their hair neat, proper and in its original colour.
+* Students must keep their nails short and clean.
+* Students mus not wear fashion accessories or jewellery; except girls who may wear one identical pair of small ear studs, one on each ear lobe. 
 
 #### **Hairstyles - Boys**
 *   Hair must not touch the eyebrows, ears or shirt collar.
