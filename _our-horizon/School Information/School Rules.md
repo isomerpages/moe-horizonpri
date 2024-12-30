@@ -15,7 +15,7 @@ variant: markdown
 6.  Students must be respectful towards teachers and school staff.  
 7.  Students must respect and care for property belonging to the school and others.<br>
 8.  Students must treat each other with respect and compassion. *Bullying is a serious offence with severe consequences and will not be tolerated.
-9.  Students must display integrity and honesty during examinations.<br>
+9.  Students must display integrity at all times, especially during examinations.<br>
 
 *Bullying involves repeated and persistent behaviours that causes hurt, distress or humiliations. It can be physical, verbal, psychological or social in nature. It includes behaviours that are carried out through electronic or digital media. 
 
