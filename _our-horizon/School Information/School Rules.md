@@ -27,6 +27,8 @@ variant: markdown
 *   On days where there are PE lessons, students are allowed to wear their PE attire to school. The name tag must be attached to the PE T-shirt.
 *   For safety reasons, any form of jewellery is not allowed except for simple ear studs for girls. Identical pair of small ear studs with simple geometric designs is allowed, one on each ear lobe. Multiple ear studs and earrings are not allowed.
 *   Students' nails must be kept short and clean at all times.
+#### **School Rules on Grooming**
+* Students must keep their hair neat, proper and in its original colour
 
 <img src="/images/schrules1.jpg" style="width:49%" align="left">
 <img src="/images/schrules2.jpg" style="width:49%" align="right">
@@ -34,23 +36,20 @@ variant: markdown
 <br clear="left">
 
 #### **Hairstyles - Boys**
-*   Hair must be kept short and neat.&nbsp;
-*   No dyed or highlighted hair allowed.
-*   No styling of hair. Use of hair gel is not allowed.
-*   Hair must not touch the ears, the eyebrows or the collar of the shirt.
-*   Side-burns must be very short and not beyond the orifice / top of the ear.
-*   Boys are not allowed to spot moustache and must be clean shaven.
+*   Hair must not touch the eyebrows, ears or shirt collar.
+*   Side-burns must be very short and not beyond the top of the ear. 
+*   No fanciful hair-cut is allowed. (E.g., extreme contrasts in lengths or patterns and/or side shaved hairstyles
 
 <img src="/images/schrules3.jpg" style="width:65%">
 
 #### **Hairstyles - Girls**
-*   Hair must be kept neat and tidy.
-*   Fringes must be kept at least 1cm above the eyebrows.
-*   Long fringes must be pinned up neatly.
+
 
 <img src="/images/schrules4.jpg" style="width:65%">
 
-*   Long hair must be plaited or tied.
-*   Only black ribbons, clips or hair bands are to be used.
 
 <img src="/images/schrules5.jpg" style="width:65%">
+
+*   Fringe must be kept above the eyebrown.
+*   Hair must be tied up if it touches the base of the collar. 
+*   Hair accessories must be black.
