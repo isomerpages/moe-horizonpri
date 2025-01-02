@@ -223,11 +223,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 p.m. to 3.35 p.m.
+<p>3.15 p.m. to 3.30 p.m.
 <br>(Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 p.m. to 3.35 p.m.
+<p>3.15 p.m. to 3.30 p.m.
 <br>(Mon)</p>
 </td>
 </tr>
@@ -236,11 +236,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45 p.m. to 4.05 p.m.
+<p>3.15 p.m. to 4.00 p.m.
 <br>(Tue and Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45 p.m. to 4.05 p.m.
+<p>3.15 p.m. to 4.00 p.m.
 <br>(Tue and Thurs)</p>
 </td>
 </tr>
@@ -249,7 +249,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00 p.m. to 6.45 p.m.
+<p>6.00 p.m. to 6.30 p.m.
 <br>(Mon to Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,14 +258,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>Gate D (Only for MK@Horizon and KCare@Horizon)</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>7.00 a.m. to 7.00 p.m. (Mon – Fri)</p>
 </td>
 </tr>
 </tbody>
