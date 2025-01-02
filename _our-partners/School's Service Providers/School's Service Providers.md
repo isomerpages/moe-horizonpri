@@ -84,8 +84,8 @@ BT &amp; Tan Bus Transport Service through their weblink
 <h3>Canteen Menu 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Disclaimer</strong> : Please do note that canteen prices are currently
-undergoing review</p>
+<p><strong>Click <a href="/files/Canteen_Stalls_Menu_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the Canteen Menu</strong>
+</p>
 </li>
 </ul>
 <p></p>
