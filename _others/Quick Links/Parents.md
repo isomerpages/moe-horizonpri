@@ -63,4 +63,4 @@ In support of the national movement, we encourage parents to opt for online orde
 * [P6 Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_6.pdf)
 * [P6F Booklist](/files/Booklists/Horizon_Booklist_2025_Primary_6F.pdf)
 ### Canteen Menu 2025
-Click [Here](/files/Canteen_Stalls_Menu_2025.pdf)Here to Access Canteen Menu
+Click [Here](/files/Canteen_Stalls_Menu_2025.pdf) to Access Canteen Menu
