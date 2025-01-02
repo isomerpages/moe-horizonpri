@@ -277,3 +277,14 @@ will be issued with a pass which they will have to wear at all times while
 in the school. Visitors’ movements are restricted to the General Office
 and the ground level non-teaching areas, e.g. the book shop and dental
 clinic.</p>
+<p></p>
+<p><strong>Please Note:</strong> Due to a delay in the completion of the sheltered
+walkway, pedestrian traffic during school arrival in the morning and school
+dismissal in the afternoon at Gate A will be affected. For safety reasons,
+as school arrival and dismissal involve vehicular movements at Gate A including
+school buses, pedestrian traffic at Gate A will not be available from Thursday
+2 Jan 2025 onwards. Pedestrian school arrival and dismissal will be via
+Gate B and Gate C. Vehicular traffic via Gate A remains available during
+school arrival. Construction of the sheltered walkway is re-scheduled for
+completion by end of Jan 2025 and the pedestrian traffic during school
+arrival and dismissal can resume as reflected in the table above.</p>
