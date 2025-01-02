@@ -77,7 +77,7 @@ BT &amp; Tan Bus Transport Service through their weblink
 <br>Tel: 6483 7260 / 6483 4527
 <br>Mobile : 8484 1373
 <br>Email: Sch2@btntan.com</p>
-<h4>Prices for 2024</h4>
+<h4>Prices for 2025</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot%202023-09-29%20160528.jpg">
 </div>
