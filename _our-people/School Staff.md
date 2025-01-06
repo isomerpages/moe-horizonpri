@@ -409,32 +409,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ST/Chinese Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Hwee Keng Kelly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hwee_keng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hwee_keng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>ST/Chinese Language</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chang Ma Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chang_ma_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_ma_li@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>ST/Malay Language</strong>
 </p>
 </td>
