@@ -33,7 +33,7 @@ To show empathy and care for others.
 To strive to be exemplary
 
 #### **Strategic Thrusts**
-* Lifelong Learner equipped with E21CC.<br>
+* Lifelong Learner equipped with E21CC<br>
 * R.I.C.E Leader equipped with E21CC<br>
 * Positively Engaged Staff committed to Excellence 
 * Quality partnership and collaboration between school and community
