@@ -396,14 +396,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ST/Science Senior Teacher</strong>
+<p><strong>ST/English Language</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Thilagavathi Sivakumar</p>
+<p>Mr Ramani Prabhu s/o R Kalamohan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:thilagavathi_kumarasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thilagavathi_kumarasamy@schools.gov.sg</a>
+<p><a href="mailto:ramani_prabhu_r_kalamohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ramani_prabhu_r_kalamohan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
