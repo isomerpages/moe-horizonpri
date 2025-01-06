@@ -37,3 +37,10 @@ To strive to be exemplary
 * R.I.C.E Leader equipped with E21CC<br>
 * Positively Engaged Staff committed to Excellence 
 * Quality partnership and collaboration between school and community
+
+#### **Student Outcomes**
+* Effective and Empathetic Communicators.<br>
+* Inventive Thinkers<br>
+* Purpose-driven Reflectors
+* Civic literates
+* Digital Literates
