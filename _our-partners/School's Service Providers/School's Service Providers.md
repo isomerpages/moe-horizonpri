@@ -84,7 +84,8 @@ BT &amp; Tan Bus Transport Service through their weblink
 <h3>Canteen Menu 2025</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Click <a href="/files/Canteen_Stalls_Menu_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to access the Canteen Menu</strong>
+<p><strong>Click <a href="/files/Canteen_Stalls_Menu_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">her</a></strong>
+<a href="/files/Canteen_Stalls_Menu_2025_Ver2__1_.pdf" rel="noopener nofollow" target="_blank">e</a><strong> to access the Canteen Menu</strong>
 </p>
 </li>
 </ul>
