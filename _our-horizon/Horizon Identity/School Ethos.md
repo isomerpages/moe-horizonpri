@@ -39,7 +39,7 @@ To strive to be exemplary
 * Quality partnership and collaboration between school and community
 
 #### **Student Outcomes**
-* Effective and Empathetic Communicators.<br>
+* Effective and Empathetic Communicators<br>
 * Inventive Thinkers<br>
 * Purpose-driven Reflectors
 * Civic literates
