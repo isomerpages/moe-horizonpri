@@ -1182,7 +1182,7 @@ variant: tiptap
 <p>Mdm Lim Chin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:lim_chin_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_chin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1467,7 +1467,7 @@ variant: tiptap
 <p>Ms Tong Yan Yi Kiara</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:tong_yan_yi_kiara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tong_yan_yi_kiara@schools.gov.sg</a>
 </p>
 </td>
 </tr>
