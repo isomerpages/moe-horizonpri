@@ -30,9 +30,9 @@ variant: markdown
 **Video Conferencing Platform**
 --------------------------------
 
-### _Zoom_
+### Google Meet
 
-[https://zoom.us/join](https://zoom.us/join)
+[https://meet.google.com/](https://meet.google.com/)
 
 **MTL Celebrate Writing e-Book**
 --------------------------------
