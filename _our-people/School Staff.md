@@ -781,7 +781,7 @@ variant: tiptap
 <p>Mdm Teh Chai Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teh_Chai_Choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teh_Chai_Choo@schools.gov.sg</a>
+<p><a href="mailto:Teh_Chai_Choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chai_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -816,7 +816,7 @@ variant: tiptap
 <p>Mrs Lucy Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Cheng_Peng_Cheng_Nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Cheng_Peng_Cheng_Nee@schools.gov.sg</u></a>
+<p><a href="mailto:Cheng_Peng_Cheng_Nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_peng_cheng_Nee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -881,7 +881,7 @@ variant: tiptap
 <p>Ms Dorcas Wee Si Ya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wee_SI_YA_DORCAS@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Wee_SI_YA_DORCAS@schools.gov.sg</a>
+<p><a href="mailto:Wee_SI_YA_DORCAS@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_si_ya_dorcas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -899,7 +899,7 @@ variant: tiptap
 <p>Mr Simon Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:quek_ser_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_ser_kwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -911,7 +911,7 @@ variant: tiptap
 <p>Mdm Parveen Begum d/o Gulam Razul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Parveen_begum_GULAM_RAZUL@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Parveen_begum_GULAM_RAZUL@schools.gov.sg</a>
+<p><a href="mailto:Parveen_begum_GULAM_RAZUL@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">parveen_begum_gulam_razul@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -932,7 +932,7 @@ variant: tiptap
 <p>Ms Ong Zu Hua, Jayne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Zu_Hua_Jayne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Zu_Hua_Jayne@schools.gov.sg</a>
+<p><a href="mailto:Ong_Zu_Hua_Jayne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_zu_hua_jayne@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -953,7 +953,7 @@ variant: tiptap
 <p>Ms Ng Shu Ling, Debbie Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Shu_Ling_Debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Shu_Ling_Debbie@schools.gov.sg</a>
+<p><a href="mailto:Ng_Shu_Ling_Debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_ling_debbie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1025,7 +1025,7 @@ variant: tiptap
 <p>Ms Maisarah Syazwina Binte Muhammad Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Maisarah_Syazwina_Bt_Muhamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Maisarah_Syazwina_Bt_Muhamad@schools.gov.sg</a>
+<p><a href="mailto:Maisarah_Syazwina_Bt_Muhamad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maisarah_syazwina_bt_muhamad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1034,7 +1034,7 @@ variant: tiptap
 <p>Miss Glenda Ding Shi Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Glenda_DING_SHI_YU@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Glenda_DING_SHI_YU@schools.gov.sg</a>
+<p><a href="mailto:Glenda_DING_SHI_YU@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">glenda_ding_shi_yu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1043,7 +1043,7 @@ variant: tiptap
 <p>Mr Kevin Kwan Wei Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kevin_Kwan_Wei_Peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kevin_Kwan_Wei_Peng@schools.gov.sg</a>
+<p><a href="mailto:Kevin_Kwan_Wei_Peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kevin_kwan_wei_peng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
