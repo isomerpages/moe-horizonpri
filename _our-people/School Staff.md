@@ -1010,7 +1010,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Goh Xiang Ting</p>
+<p>Ms Diana Goh Xiang Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xiang_ting_diana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xiang_ting_diana@schools.gov.sg</a>
