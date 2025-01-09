@@ -484,14 +484,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Executive</strong>
+<p><strong>Administration Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurasyiqin Bte Mohamed Shafei</p>
+<p>Mdm Dorothy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurasyiqin_mohamed_shafei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurasyiqin_mohamed_shafei@schools.gov.sg</a>
+<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">im_hwee_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -501,10 +501,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dorothy Lim</p>
+<p>Mdm Nurasyiqin Bte Mohamed Shafei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">im_hwee_leng_a@schools.gov.sg</a>
+<p><a href="mailto:nurasyiqin_mohamed_shafei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurasyiqin_mohamed_shafei@schools.gov.sg</a>
 </p>
 </td>
 </tr>

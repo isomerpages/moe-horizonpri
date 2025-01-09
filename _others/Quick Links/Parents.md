@@ -30,7 +30,7 @@ variant: markdown
 * [Dispensing or Administering of Medication](https://www.horizonpri.moe.edu.sg/our-partners/parents/administrative-matters/dispensing-or-administering-of-medication/)
 * [Students' Use of Mobile Devices](https://www.horizonpri.moe.edu.sg/studentsuseofmobiledevices/)
 * [Homework Policy](https://www.horizonpri.moe.edu.sg/homeworkpolicy/)
-* [Sexuality Education Programme 2023](/files/Sexuality%20Education/2023%20Info%20on%20SEd_HRPS.pdf)
+
 * [Subject-based Banding](https://www.moe.gov.sg/primary/curriculum/subject-based-banding)
 * [Parents-in-Education](https://www.schoolbag.edu.sg/)
 * [OPAC (School Library)](https://schoolibrary.moe.edu.sg/horizonpri/)
@@ -38,7 +38,7 @@ variant: markdown
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
-School Uniform Information Portal : https://www.beauvoix.com.sg/
+School Uniform Information Portal : [https://www.beauvoix.com.sg/](https://www.beauvoix.com.sg/)
 
 **BEAU VOIX UNIFORM** <br>
 2 Sims Close <br>
@@ -46,9 +46,9 @@ School Uniform Information Portal : https://www.beauvoix.com.sg/
 Singapore 387298 
 Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687
-Email: info@beauvoix.com.sg
+Email: [info@beauvoix.com.sg](info@beauvoix.com.sg)
  
-In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com.sg Delivery is charged at $8 per transaction and no minimum order amount is required.
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: [https://www.beauvoix.com.sg](https://www.beauvoix.com.sg) . Delivery is charged at $8 per transaction and no minimum order amount is required.
 
 ### P1 to P6 Booklist 2025
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
