@@ -491,7 +491,7 @@ variant: tiptap
 <p>Mdm Dorothy Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">im_hwee_leng_a@schools.gov.sg</a>
+<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
