@@ -38,7 +38,7 @@ variant: markdown
 ### School Uniform
 **Please find information on purchasing of school uniforms below:**
 
-School Uniform Information Portal : https://www.beauvoix.com.sg/
+School Uniform Information Portal : [https://www.beauvoix.com.sg/](https://www.beauvoix.com.sg/)
 
 **BEAU VOIX UNIFORM** <br>
 2 Sims Close <br>
@@ -46,9 +46,9 @@ School Uniform Information Portal : https://www.beauvoix.com.sg/
 Singapore 387298 
 Tel: 67436645 / 67447084<br>
 Fax: +(65) 67460687
-Email: info@beauvoix.com.sg
+Email: [info@beauvoix.com.sg](info@beauvoix.com.sg)
  
-In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: https://www.beauvoix.com.sg Delivery is charged at $8 per transaction and no minimum order amount is required.
+In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at: [https://www.beauvoix.com.sg](https://www.beauvoix.com.sg) . Delivery is charged at $8 per transaction and no minimum order amount is required.
 
 ### P1 to P6 Booklist 2025
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
