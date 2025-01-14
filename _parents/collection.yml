@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Letter to Parents.md
       - Administrative Matters/.keep
       - Administrative Matters/Associate Parent Volunteer Application.md
       - Administrative Matters/P1 Matters 2025.md
