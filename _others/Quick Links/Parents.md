@@ -7,11 +7,10 @@ variant: markdown
 ---
 ### Admission Matters
 * **P1 Registration** - on matters pertaining to P1 Registration and the key phases, please visit the [MOE P1 Registration site](https://www.moe.gov.sg/primary/p1-registration). 
-* [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/61e6499a860fdd0014a8ee99)
+* [Application for Associate Parent Volunteer (APV)](https://form.gov.sg/65b1dcdd3f3702432b342a56)
+
 * **Direct School Admission** - Details on DSA can be found [here](https://www.moe.gov.sg/secondary/dsa)
 
-### Letter to Parents
-* [Letter to Parents](https://www.horizonpri.moe.edu.sg/our-partners/parents/letter-to-parents/)
 
 ### Primary 1 Matters
 * [P1 Orientation Booklet 2025](/files/P1_Orientation_Booklet_2025_compressed.pdf)
