@@ -816,7 +816,7 @@ variant: tiptap
 <p>Mrs Lucy Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Cheng_Peng_Cheng_Nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_peng_cheng_Nee@schools.gov.sg</u></a>
+<p><a href="mailto:cheng_peng_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_peng_cheng_nee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -881,7 +881,7 @@ variant: tiptap
 <p>Ms Dorcas Wee Si Ya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wee_SI_YA_DORCAS@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_si_ya_dorcas@schools.gov.sg</a>
+<p><a href="mailto:wee_si_ya_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_si_ya_dorcas@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -953,7 +953,7 @@ variant: tiptap
 <p>Ms Ng Shu Ling, Debbie Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ng_Shu_Ling_Debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_ling_debbie@schools.gov.sg</a>
+<p><a href="mailto:ng_shu_ling_debbie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_shu_ling_debbie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1010,7 +1010,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Diana Goh Xiang Ting</p>
+<p>Ms Diana Goh Xiang Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_xiang_ting_diana@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_xiang_ting_diana@schools.gov.sg</a>

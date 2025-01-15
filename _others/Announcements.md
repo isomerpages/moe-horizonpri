@@ -4,11 +4,10 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-
 ### Application for Associate Parent Volunteer (APV)
 
-Click [here](https://form.gov.sg/61e6499a860fdd0014a8ee99) to register,now!
+Click [here](https://form.gov.sg/65b1dcdd3f3702432b342a56) to register,now!
 
 ### Parents Gateway Mobile Application
 
-Parents Gateway is one of our school's official communication platforms...  [Read More](https://horizonpri.moe.edu.sg/announcement/parents-gateway-mobile-application)
+[Parents Gateway](https://pg.moe.edu.sg/) is one of our school's official communication platforms.
