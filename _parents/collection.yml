@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Administrative Matters/.keep
-      - Administrative Matters/Wait Lists 2025.md
       - Useful Information/.keep
       - Useful Information/Dispensing or Administering of Medication.md
       - Useful Information/Students' Use of Mobile Devices.md
