@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Subject Based Banding.md
       - Parents/Sexuality Education.md
       - Parents/Homework Policy.md
       - Parents/Students' Use of Mobile Devices.md
