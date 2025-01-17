@@ -6,13 +6,8 @@ links:
     collection: our-people
   - title: Our Experiences
     collection: our-experiences
-  - title: Our Partners
-    url: https://www.horizonpri.moe.edu.sg/parents/
-    sublinks:
-      - title: Parents
-        url: /our-partners/parents/letter-to-parents/
-      - title: School's Service Providers
-        url: /our-partners/schools-service-providers/
+  - title: Our partners
+    collection: our-partners
   - title: Our Pride
     collection: our-pride
   - title: MOE Kindergarten
