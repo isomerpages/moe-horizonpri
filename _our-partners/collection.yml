@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Homework Policy.md
       - Parents/Students' Use of Mobile Devices.md
       - Parents/Dispensing or Administering of Medication.md
       - Parents/Wait Lists 2025.md
