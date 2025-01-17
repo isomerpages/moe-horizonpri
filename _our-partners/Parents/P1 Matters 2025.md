@@ -2,7 +2,7 @@
 title: P1 Matters 2025
 permalink: /our-partners/parents/administrative-matters/p1-orientation-booklet-2024/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Parents
 variant: markdown
 ---
 ### **P1 Orientation Booklet 2025**

@@ -3,6 +3,16 @@ collections:
     output: true
     order:
       - Parents/.keep
+      - Parents/Application & Claims.md
+      - Parents/Associate Parent Volunteer Application.md
+      - Parents/Dispensing or Administering of Medication.md
+      - Parents/Financial Assistance.md
+      - Parents/Homework Policy.md
+      - Parents/P1 Matters 2025.md
+      - Parents/Sexuality Education.md
+      - Parents/Students' Use of Mobile Devices.md
+      - Parents/Subject Based Banding.md
+      - Parents/Wait Lists 2025.md
       - School's Service Providers/.keep
       - School's Service Providers/School's Service Providers.md
       - School's Service Providers/School canteen.md

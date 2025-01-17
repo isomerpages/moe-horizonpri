@@ -2,7 +2,7 @@
 title: Financial Assistance
 permalink: /parents/administrative-matters/financial-assistance/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Parents
 ---
 ### Financial Assistance
 

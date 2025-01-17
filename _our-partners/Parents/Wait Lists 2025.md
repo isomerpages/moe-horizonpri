@@ -2,7 +2,7 @@
 title: Wait Lists 2025
 permalink: /parents/administrative-matters/waitlists-2023/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Parents
 variant: tiptap
 ---
 <p><strong>Horizon Primary School Waitlist:</strong>

@@ -2,7 +2,7 @@
 title: Subject Based Banding
 permalink: /parents/useful-information/subject-based-banding/
 description: ""
-third_nav_title: Useful Information
+third_nav_title: Parents
 ---
 ### **Subject Based Banding**
 

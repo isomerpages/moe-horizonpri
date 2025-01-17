@@ -2,7 +2,7 @@
 title: Application & Claims
 permalink: /parents/administrative-matters/application-claims/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Parents
 variant: markdown
 ---
 ### **Parent's Gateway Mobile Application**

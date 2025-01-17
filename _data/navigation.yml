@@ -7,12 +7,7 @@ links:
   - title: Our Experiences
     collection: our-experiences
   - title: Our Partners
-    url: /our-partners/parents/letter-to-parents/
-    sublinks:
-      - title: Parents
-        url: /our-partners/parents/letter-to-parents/
-      - title: School's Service Providers
-        url: /our-partners/schools-service-providers/
+    collection: our-partners
   - title: Our Pride
     collection: our-pride
   - title: MOE Kindergarten

@@ -2,7 +2,7 @@
 title: Associate Parent Volunteer Application
 permalink: /our-partners/parents/administrative-matters/
 description: ""
-third_nav_title: Administrative Matters
+third_nav_title: Parents
 variant: markdown
 ---
 #### **Parent Volunteer Application for 2026 P1**
