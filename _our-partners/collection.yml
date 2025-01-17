@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Financial Assistance.md
       - Parents/Application & Claims.md
       - Parents/P1 Matters 2025.md
       - Parents/Associate Parent Volunteer Application.md
