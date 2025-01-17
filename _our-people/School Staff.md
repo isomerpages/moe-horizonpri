@@ -1064,7 +1064,8 @@ variant: tiptap
 <p>Mdm Melati Muhaiyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:melati_muhaiyah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melati_muhaiyah@schools.gov.sg</a>
+<a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
