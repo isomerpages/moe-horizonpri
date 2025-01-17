@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Associate Parent Volunteer Application.md
       - Parents/Parents.md
       - Parents/.keep
       - School's Service Providers/.keep
