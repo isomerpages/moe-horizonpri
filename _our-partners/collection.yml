@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents/Administrative Matters.md
       - Parents/Wait Lists 2025.md
       - Parents/Financial Assistance.md
       - Parents/Application & Claims.md
