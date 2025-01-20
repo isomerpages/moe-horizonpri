@@ -6,7 +6,7 @@ third_nav_title: Parents Connect! (PC!)
 variant: tiptap
 ---
 <h3><strong>PC! Executive Committee (PC! EXCO)</strong></h3>
-<h4><strong>Parents-Connect! Executive Committee 2024</strong></h4>
+<h4><strong>Parents-Connect! Executive Committee 2025</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
