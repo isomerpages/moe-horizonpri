@@ -33,6 +33,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice-Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Asikin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Secretary</strong>
 </p>
 </td>
@@ -46,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Connie Wang</p>
+<p>Mdm Saidatul Akmal</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Junita</p>
+<p>Ms. Jesslyn Li</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jesslyn Li</p>
+<p>Mdm Amanda Han</p>
 </td>
 </tr>
 <tr>
@@ -78,11 +87,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Member</strong>
+<p><strong>Communication Coordinator</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Asikin</p>
+<p>Mdm Connie Wang</p>
 </td>
 </tr>
 <tr>
@@ -91,7 +100,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amanda Han</p>
+<p>Mdm Rozana</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +109,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Chong</p>
+<p>Ms Grace Lau</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +118,25 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Saidatul Akmal</p>
+<p>Ms Joey Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vanessa Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Anguru Goutam Raju</p>
 </td>
 </tr>
 </tbody>
