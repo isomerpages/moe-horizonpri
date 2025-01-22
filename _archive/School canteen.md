@@ -3,7 +3,6 @@ title: School canteen
 permalink: /school-canteen/
 variant: tiptap
 description: ""
-third_nav_title: School's Service Providers
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
 <p></p>
