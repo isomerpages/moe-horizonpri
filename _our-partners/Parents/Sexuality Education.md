@@ -19,6 +19,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
@@ -53,6 +54,7 @@ curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click here for
 more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
@@ -73,6 +75,7 @@ our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
+<p></p>
 </li>
 <li>
 <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
