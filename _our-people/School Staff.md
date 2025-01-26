@@ -347,6 +347,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH/ Physical Education &amp; Co-Curricular Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Farouk Bin Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:md_farouk_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>md_farouk_rahim@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Administration Manager</strong>
 </p>
 </td>
@@ -1065,7 +1078,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:melati_muhaiyah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">melati_muhaiyah@schools.gov.sg</a>
-<a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
