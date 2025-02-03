@@ -1,5 +1,5 @@
 collections:
-  department:
+  school-programme:
     output: true
     order:
       - Mathematics Department/Department Signature Programme.md
