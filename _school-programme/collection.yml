@@ -2,9 +2,9 @@ collections:
   school-programme:
     output: true
     order:
-      - CCA/International Chess Club.md
-      - CCA/InfoComm Club.md
-      - CCA/.keep
+      - CCA (Clubs and Societies)/International Chess Club.md
+      - CCA (Clubs and Societies)/InfoComm Club.md
+      - CCA (Clubs and Societies)/.keep
       - CCE/Department Signature Programme.md
       - CCE/Department Programme.md
       - CCE/.keep
