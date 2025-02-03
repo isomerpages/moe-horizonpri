@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Mother Tongue Department/.keep
+      - English Department/Department Programme.md
       - English Department/Department Signature Programme.md
       - English Department/.keep
