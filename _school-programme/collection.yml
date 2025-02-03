@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA (Sports and Games)/.keep
+      - CCA (Uniformed Group)/Scouts.md
       - CCA (Uniformed Group)/.keep
       - CCA (Performing Arts Groups)/.keep
       - CCA (Clubs and Societies)/Innovations Club.md
