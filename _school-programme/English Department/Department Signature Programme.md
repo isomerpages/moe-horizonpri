@@ -24,6 +24,6 @@ experiences during&nbsp;ReadLit@Horizon&nbsp;lesson.</p>
 and produce creative works of their own!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Fiesta.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Fiesta1.png">
 </div>
 <p></p>
