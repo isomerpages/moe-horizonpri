@@ -26,7 +26,7 @@ to visit&nbsp;<a href="http://www.moe.gov.sg/moekindergarten" rel="noopener nore
 <br>Email: <a href="mailto:mk_horizon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_horizon@moe.edu.sg</a>
 </p>
 <h4><strong>Operating Hours</strong></h4>
-<p>MK: 8am - 12pm Tel: 6235 6960</p>
+<p>MK: 8am - 12pm, Tel: 6235 6960</p>
 <p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday), Tel: 91835934</p>
 <h4><strong>Collaboration with Early Years Centre(s)</strong></h4>
 <p>This MOE Kindergarten is in collaboration with an Early Years Centre(s)
