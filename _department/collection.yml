@@ -2,6 +2,7 @@ collections:
   department:
     output: true
     order:
+      - Mathematics Department/.keep
       - Mother Tongue Department/.keep
       - English Department/.keep
       - English Department/Department Signature Programme.md
