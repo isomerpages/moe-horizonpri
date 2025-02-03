@@ -2,6 +2,7 @@ collections:
   school-programme:
     output: true
     order:
+      - CCA (Sports and Games)/Badminton.md
       - CCA (Sports and Games)/.keep
       - CCA (Uniformed Group)/Scouts.md
       - CCA (Uniformed Group)/.keep
