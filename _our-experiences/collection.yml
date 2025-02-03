@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Departments Programme/English Department.md
       - Departments Programme/.keep
       - Our Experiences.md
       - Applied Learning Programme.md
