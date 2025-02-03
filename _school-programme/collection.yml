@@ -2,7 +2,6 @@ collections:
   school-programme:
     output: true
     order:
-      - English Department.md
       - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/.keep
       - Learning for Life Programme/.keep
