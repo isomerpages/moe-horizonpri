@@ -11,6 +11,6 @@ Some of the school programmes that support the development of the moral domain i
 
 
 * [ER3 (Ever Ready to Reduce, Reuse and Recycle)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/er3/)
-* [I-Design](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/idesign/)
+
 * [Education and Career Guidance (ECG)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/ecg/)
 * [Values in Action (VIA)](https://staging.d21co4ykjghpsi.amplifyapp.com/our-experiences/moral/via/)
