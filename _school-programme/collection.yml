@@ -2,6 +2,7 @@ collections:
   school-programme:
     output: true
     order:
+      - CCA/InfoComm Club.md
       - CCA/.keep
       - CCE/Department Signature Programme.md
       - CCE/Department Programme.md
