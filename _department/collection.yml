@@ -2,4 +2,5 @@ collections:
   department:
     output: true
     order:
+      - Mother Tongue Department/.keep
       - English Department/.keep
