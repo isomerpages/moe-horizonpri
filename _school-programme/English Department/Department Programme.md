@@ -45,6 +45,6 @@ to pepper their stories with idioms, humour and irony. &nbsp;&nbsp;</p>
 writing by recognising their pieces of work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Write_EL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Write_EL1.png">
 </div>
 <p></p>
