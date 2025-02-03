@@ -2,19 +2,10 @@ collections:
   school-programme:
     output: true
     order:
-      - CCA (Sports and Games)/.keep
-      - CCA (Sports and Games)/Badminton.md
-      - CCA (Sports and Games)/Basketball.md
-      - CCA (Sports and Games)/Football.md
-      - CCA (Sports and Games)/Rope Skipping.md
-      - CCA (Sports and Games)/Swimming.md
-      - CCA (Sports and Games)/Ten Pin Bowling.md
-      - CCA (Uniformed Group)/Scouts.md
-      - CCA (Uniformed Group)/.keep
-      - CCA (Performing Arts Groups)/.keep
-      - CCA (Performing Arts Groups)/International Dance.md
-      - CCA (Performing Arts Groups)/Speech & Drama Club.md
-      - CCA (Performing Arts Groups)/Ukulele and Guitar.md
+      - Applied Learning Programme/.keep
+      - Learning for Life Programme/.keep
+      - Learning for Life Programme/Tierred Student Leadership Development.md
+      - Learning for Life Programme/Learning for Life Programme.md
       - CCA (Clubs and Societies)/.keep
       - CCA (Clubs and Societies)/Art Club.md
       - CCA (Clubs and Societies)/InfoComm Club.md
@@ -22,22 +13,31 @@ collections:
       - CCA (Clubs and Societies)/International Chess Club.md
       - CCA (Clubs and Societies)/Robotics Club.md
       - CCA (Clubs and Societies)/Wushu.md
-      - CCE/Department Signature Programme.md
-      - CCE/Department Programme.md
-      - CCE/.keep
+      - CCA (Performing Arts Groups)/.keep
+      - CCA (Performing Arts Groups)/International Dance.md
+      - CCA (Performing Arts Groups)/Speech & Drama Club.md
+      - CCA (Performing Arts Groups)/Ukulele and Guitar.md
+      - CCA (Sports and Games)/.keep
+      - CCA (Sports and Games)/Badminton.md
+      - CCA (Sports and Games)/Basketball.md
+      - CCA (Sports and Games)/Football.md
+      - CCA (Sports and Games)/Rope Skipping.md
+      - CCA (Sports and Games)/Swimming.md
+      - CCA (Sports and Games)/Ten Pin Bowling.md
+      - CCA (Uniformed Group)/.keep
+      - CCA (Uniformed Group)/Scouts.md
+      - Aesthetics Department/.keep
       - Aesthetics Department/Department Signature Programme.md
       - Aesthetics Department/Department Programme.md
-      - Aesthetics Department/.keep
-      - Learning for Life Programme/Tierred Student Leadership Development.md
-      - Learning for Life Programme/Learning for Life Programme.md
-      - Learning for Life Programme/.keep
-      - Applied Learning Programme/.keep
-      - Mathematics Department/Department Signature Programme.md
-      - Mathematics Department/Department Programme.md
-      - Mathematics Department/.keep
-      - Mother Tongue Department/Department Signature Programmes.md
-      - Mother Tongue Department/Department Programme.md
-      - Mother Tongue Department/.keep
+      - CCE/.keep
+      - CCE/Department Signature Programme.md
+      - CCE/Department Programme.md
       - English Department/.keep
       - English Department/Department Signature Programme.md
       - English Department/Department Programme.md
+      - Mathematics Department/.keep
+      - Mathematics Department/Department Signature Programme.md
+      - Mathematics Department/Department Programme.md
+      - Mother Tongue Department/.keep
+      - Mother Tongue Department/Department Signature Programmes.md
+      - Mother Tongue Department/Department Programme.md
