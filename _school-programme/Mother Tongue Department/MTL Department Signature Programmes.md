@@ -1,6 +1,6 @@
 ---
-title: Department Signature Programmes
-permalink: /department-signature-programmes/
+title: MTL Department Signature Programmes
+permalink: /mtl/signature-programme/
 variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Department

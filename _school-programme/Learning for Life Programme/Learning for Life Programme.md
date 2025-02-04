@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /learning-for-life-programme/
+permalink: /llp/llp/
 variant: tiptap
 description: ""
 third_nav_title: Learning for Life Programme

@@ -1,6 +1,6 @@
 ---
-title: Department Programme
-permalink: /department-programme/
+title: MTL Department Programme
+permalink: /mtl/programme/
 variant: tiptap
 description: ""
 third_nav_title: Mother Tongue Department

@@ -2,8 +2,7 @@ collections:
   school-programme:
     output: true
     order:
-      - Applied Learning Programme/Applied Learning Programme.md
-      - Applied Learning Programme/.keep
+      - Applied Learning Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/Tierred Student Leadership Development.md
@@ -28,20 +27,20 @@ collections:
       - CCA (Uniformed Group)/.keep
       - CCA (Uniformed Group)/Scouts.md
       - Aesthetics Department/.keep
-      - Aesthetics Department/Department Signature Programme.md
-      - Aesthetics Department/Department Programme.md
+      - Aesthetics Department/AES Department Signature Programme.md
+      - Aesthetics Department/AES Department Programme.md
       - CCE Department/.keep
-      - CCE Department/Department Signature Programme.md
-      - CCE Department/Department Programme.md
+      - CCE Department/CCE Department Signature Programme.md
+      - CCE Department/CCE Department Programme.md
       - English Department/.keep
-      - English Department/Department Signature Programme.md
-      - English Department/Department Programme.md
+      - English Department/EL Department Signature Programme.md
+      - English Department/EL Department Programme.md
       - Mathematics Department/.keep
-      - Mathematics Department/Department Signature Programme.md
-      - Mathematics Department/Department Programme.md
+      - Mathematics Department/Math Department Signature Programme.md
+      - Mathematics Department/Math Department Programme.md
       - Mother Tongue Department/.keep
-      - Mother Tongue Department/Department Signature Programmes.md
-      - Mother Tongue Department/Department Programme.md
-      - Physical Education Department/Department Signature Programme.md
-      - Physical Education Department/Department Programme.md
+      - Mother Tongue Department/MTL Department Signature Programmes.md
+      - Mother Tongue Department/MTL Department Programme.md
+      - Physical Education Department/PE Department Signature Programme.md
+      - Physical Education Department/PE Department Programme.md
       - Physical Education Department/.keep

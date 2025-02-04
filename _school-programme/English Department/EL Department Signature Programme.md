@@ -1,6 +1,6 @@
 ---
-title: Department Signature Programme
-permalink: /department-signature-programme/
+title: EL Department Signature Programme
+permalink: /el/signature-programme/
 variant: tiptap
 description: ""
 third_nav_title: English Department
