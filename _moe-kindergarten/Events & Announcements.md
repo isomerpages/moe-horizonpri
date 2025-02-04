@@ -5,19 +5,30 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events &amp; Announcements</strong></h3>
-<h4><strong>MK@Horizon Waitlist 2024</strong></h4>
-<p><a href="https://go.gov.sg/horizonmkwaitlist" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-<h4><strong>2024 MOE Kindergarten Open House</strong></h4>
-<p>MK@Horizon will be holding an Open House for parents to tour the learning
-environment and speak to our MK educators in person. We warmly welcome
-you and your child to sign up for the 2024 MOE Kindergarten Open House.</p>
-<p>Open House at MK@Horizon will be held on Saturday, 3rd February 2024,
-8.30am to 12.30pm. Parents and your child will have the opportunity to
-get a glimpse of our learning environment and speak with our MK educators
-to understand more about the MK curriculum as well as our signature programmes.</p>
-<p>Should you require further details on the other MKs which our schools
-offer, please visit the <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">MOE Kindergarten</a>&nbsp;website.</p>
+<h4><strong>2025 MOE Kindergarten Open House</strong></h4>
+<p>At MOE Kindergarten (MK), we provide quality and affordable Kindergarten
+1 (K1) and Kindergarten 2 (K2) education. We believe that children are
+joyful, curious, active and competent learners and we are committed to
+giving every child a strong start. Our holistic curriculum and programmes
+nurture children’s confidence, social skills, bilingualism and build a
+good foundation in literacy and numeracy.</p>
+<p>Our curriculum is developed by MOE’s curriculum specialists and trained
+educators with knowledge and experience in early childhood education. They
+are also familiar with the primary school curriculum to help your child’s
+transition to primary school. Your child will embark on an exciting learning
+journey through our two flagship programmes – the HI-Light Programme and
+the Starlight Literacy Programme for English and Mother Tongue Languages.
+These programmes focus on the holistic development of children and ignite
+the joy of learning in them.</p>
+<p>We offer Kindergarten Care (KCare) at all MKs should you require full-day
+service for your child.</p>
+<p>We would like to warmly welcome you to the 2025 MOE Kindergarten Open
+House at MK@Horizon located within our primary school’s premises, on Saturday,
+8 February 2025 from 8.30 a.m. to 12.30 p.m. (last walk-in at 12.15 p.m.).
+During the Open House, you can tour the learning environment, and speak
+to our MK educators to find out why MK is the choice for quality preschool
+and why our children love MK.</p>
+<p></p>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
