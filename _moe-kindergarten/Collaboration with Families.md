@@ -14,5 +14,8 @@ ways. Involving themselves during festive celebrations, conducting storytelling
 sessions, or assisting in classroom activities, their participation strengthens
 the home-school partnership. This collaboration creates a supportive and
 engaging learning environment that benefits the children's overall development.</p>
-<p><a href="https://www.youtube.com/watch?v=rUELSjxflKY" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=rUELSjxflKY</a>
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="396" width="704" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUELSjxflKY"></iframe>
+</div>
+<p></p>
