@@ -2,11 +2,11 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Collaboration with Primary School.md
       - Events & Announcements.md
       - MOE Kindergarten @ Horizon.md
       - MK Curriculum.md
       - Collaboration with Families.md
+      - Collaboration with Primary School.md
       - Our Centre Head.md
       - MK Staff.md
       - Photo Gallery/.keep
