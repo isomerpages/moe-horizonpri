@@ -28,7 +28,12 @@ House at MK@Horizon located within our primary school’s premises, on Saturday,
 During the Open House, you can tour the learning environment, and speak
 to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
-<p></p>
+<p>To register by scanning the QR code above or click on the attached link</p>
+<p><a href="https://form.gov.sg/67440d2352ba8c426f31566e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67440d2352ba8c426f31566e</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MK Open House Registration 2025" src="/images/QR_code_for_MK_Registration.png">
+</div>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
