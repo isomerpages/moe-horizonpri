@@ -30,7 +30,25 @@ to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
 <p>To register by scanning the QR code above or click on the attached link</p>
 <p><a href="https://form.gov.sg/67440d2352ba8c426f31566e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67440d2352ba8c426f31566e</a>
-</p><a class="isomer-image-wrapper" href="https://form.gov.sg/67440d2352ba8c426f31566e"><img style="width: 40%;" height="auto" width="100%" alt="MK Open House Registration 2025" src="/images/QR_code_for_MK_Registration.png"></a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/QR_code_for_MK_Registration.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
