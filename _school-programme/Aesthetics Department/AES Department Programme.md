@@ -72,6 +72,9 @@ begin to use the language without prompting. They start to notice something
 unfamiliar and wonder about it. They make their thinking visible which
 makes it available for exploration, reflection and growth.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART2.png">
+</div>
 <h4><strong>Music Lessons</strong></h4>
 <p>Music making is an enjoyable experience for all our students. During music
 lessons, the students experience different music making through music exploration,
@@ -87,6 +90,10 @@ the artworks by applying the knowledge they have learnt. They discuss with
 their peers and share various perspectives.&nbsp;With the use of MTV routines
 in art lessons, it creates a comprehensive and enriching art learning experience
 for the students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART3.png">
+</div>
 <h4><strong>Playing The Ukelele</strong></h4>
 <p>The ukulele is a very versatile and portable instrument that has grown
 in popularity over the past few years. It is a great choice for our P3
