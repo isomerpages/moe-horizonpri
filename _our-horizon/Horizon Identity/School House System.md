@@ -28,4 +28,3 @@ Every department plans programmes and activities that allow students to particip
 (5) Aesthetics.
 
 Through collaboration and interaction with fellow students, fueled by a spirit of excellence, students contribute to earning points for their respective Houses through a host of programmes and activities. While each House works towards the title of a House champion, the spirit behind the students' synergy is to establish a sense of belonging to Horizon.
-
