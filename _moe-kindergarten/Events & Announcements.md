@@ -40,7 +40,7 @@ and why our children love MK.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/QR_code_for_MK_Registration.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/QR_code_for_MK_Registration.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
