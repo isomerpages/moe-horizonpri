@@ -2,7 +2,6 @@ collections:
   school-programme:
     output: true
     order:
-      - Science Department/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
@@ -42,6 +41,7 @@ collections:
       - Mother Tongue Department/.keep
       - Mother Tongue Department/MTL Department Signature Programmes.md
       - Mother Tongue Department/MTL Department Programme.md
+      - Physical Education Department/.keep
       - Physical Education Department/PE Department Signature Programme.md
       - Physical Education Department/PE Department Programme.md
-      - Physical Education Department/.keep
+      - Science Department/.keep
