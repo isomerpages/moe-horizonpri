@@ -2,6 +2,7 @@ collections:
   school-programme:
     output: true
     order:
+      - Science Department/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
