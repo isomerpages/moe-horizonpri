@@ -27,7 +27,7 @@ check for vacancies.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_MK_Registration_Exercise.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025_MK_Registration_Exercise.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,9 +36,6 @@ check for vacancies.
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="height:2.906in;width:2.864in" height="279" width="275">
-</div>
 <h4><strong>2025 MOE Kindergarten Open House</strong></h4>
 <p>At MOE Kindergarten (MK), we provide quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education. We believe that children are
