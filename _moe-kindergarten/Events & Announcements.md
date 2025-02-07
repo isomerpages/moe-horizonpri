@@ -5,6 +5,37 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events &amp; Announcements</strong></h3>
+<h4><strong>2025 MOE Kindergarten Registration Exercise</strong></h4>
+<p>The online registration exercise for Open Admissions (OA) and Early Years
+Centre (EYC) children open from&nbsp;<strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
+<p>It is for Singapore Citizen and Permanent Resident children born between
+2 Jan 2021 and 1 Jan 2022 (both dates inclusive).
+<br>
+<br>Parents will be informed of the registration outcome by 15 April 2025.
+Outside this registration period, parents can contact our MK directly to
+check for vacancies.
+<br>
+<br>To register by scanning the QR code or click on the link below
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025_MK_Registration_Exercise.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>2025 MOE Kindergarten Open House</strong></h4>
 <p>At MOE Kindergarten (MK), we provide quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education. We believe that children are
