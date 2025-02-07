@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Science Department
 ---
-<h4>Empowering Sustainability Through ER3</h4>
+<h4><strong>Empowering Sustainability Through ER3</strong></h4>
 <p>The Ever Ready to Reduce, Reuse, and Recycle (ER3) programme at Horizon
 Primary School inspires students to take ownership of sustainable practices
 and integrate them into their daily lives. Through initiatives such as
@@ -25,7 +25,7 @@ on the environment and the lives of others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ER3.png">
 </div>
-<h4>Developing Confident Problem Solvers</h4>
+<h4><strong>Developing Confident Problem Solvers</strong></h4>
 <p>In Horizon Primary School, we seek to inspire curiosity, creativity, and
 critical thinking in our students through the power of STEM—Science, Technology,
 Engineering, and Mathematics in our Science curriculum. STEM encourages
