@@ -15,7 +15,7 @@ Centre (EYC) children open from&nbsp;<strong>9am on Friday, 7 February 2025 and 
 Outside this registration period, parents can contact our MK directly to
 check for vacancies.
 <br>
-<br>To register by scanning the QR code above or click on the attached link
+<br>To register by scanning the QR code or click on the link below
 <br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
 </p>
 <table style="minWidth: 50px">
