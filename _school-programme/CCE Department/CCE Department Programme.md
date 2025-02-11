@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE Department
 ---
-<p><strong>School Outreach Programmes/Events</strong>
-</p>
+<h4><strong>School Outreach Programmes/Events</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
