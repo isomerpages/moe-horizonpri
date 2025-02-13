@@ -23,3 +23,7 @@ of their learning style and attributes to their own learning.</p>
 learning; and
 <br>- To recognise and reflect on the impact and consequences of one’s actions
 and decisions on self and others.</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1QA0sH8BlaD1LN_58Bp8X4FXYj7RuLppJm5ZwWI6UEPVp0a27WIbm9sexTWtEULBi-6V3BQLdbalA/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000"></iframe>
+</div>
+<p></p>
