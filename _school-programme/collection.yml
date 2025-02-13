@@ -2,8 +2,6 @@ collections:
   school-programme:
     output: true
     order:
-      - Student Development Team/Signature Programme.md
-      - Student Development Team/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
@@ -49,3 +47,5 @@ collections:
       - Science Department/.keep
       - Science Department/Sci Department Signature Programmes.md
       - Science Department/Sci Department Programmes.md
+      - Student Development Team/.keep
+      - Student Development Team/Signature Programme.md
