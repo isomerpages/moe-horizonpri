@@ -2,6 +2,7 @@ collections:
   school-programme:
     output: true
     order:
+      - Student Development Team/Signature Programme.md
       - Student Development Team/.keep
       - Applied Learning Programme.md
       - Learning for Life Programme/.keep
