@@ -69,6 +69,29 @@ responsible <strong>leaders</strong>.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Project LOVE for P5 and P6</strong></h4>
+<p>Project LOVE (Listening Openly, Valuing Emotions) is an initiative by
+the SDT to facilitate better understanding of our students’ well-being
+needs and emergent concerns through focused conversations. The conversation
+also hopes to understand the challenges faced by the children given their
+pre-teen phase.</p>
+<p>Through an intimate touch point with the cohort, the SDT hopes to touch
+upon the following areas:</p>
+<p><strong>1. Student Motivation</strong>
+<br>- To understand deeply what motivates them to give their best, not just
+in learning, to whatever they undertake. With that understanding, we hope
+to be able to maximise their potential.</p>
+<p><strong>2. Joyful Learning Experiences and Environment</strong>
+<br>- To understand how pre-teens are learning now, what are some key influences
+that they have and how joyful learning is like to them.</p>
+<p><strong>3. Challenges and Coping Strategies</strong>
+<br>- To understand what the pre-teens are struggling with, and what do they
+perceive as stressors in their lives. Most importantly, we would also want
+to understand the strategies which they employ to help them cope with these
+stressors.</p>
+<p>With insights gleaned from these conversations, it would then inform us
+better of the effectiveness of our student engagement strategies in the
+classroom as well as at the school level.</p>
 <h4><strong>Study Skills and Motivation Programme for P5 and P6</strong></h4>
 <p>The Study Skills and Motivation Programme is a 2-year programme organised
 by the Student Development Team (SDT) for our Primary 5 and Primary 6 students.
