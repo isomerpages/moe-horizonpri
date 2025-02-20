@@ -42,9 +42,6 @@ At the end of each year, students would have learned to code a microprocessor
 called Micro:bit using a web-based software, Makecode.org. Purposeful age-appropriate
 opportunities are provided for real-life application of learning. This
 allows students to make meaningful connections across various disciplines.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/alp3.jpg">
-</div>
 <p>Most importantly, through the learning experiences of Computational Thinking
 in Mathematics, students become more confident and show greater resilience
 in persisting to solve Mathematical and task-based problems. They embrace
