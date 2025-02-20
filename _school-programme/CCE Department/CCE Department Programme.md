@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE Department
 ---
-<h4><strong>Education and Career Guidance (ECG)</strong></h4>
+<h3><strong>Education and Career Guidance (ECG)</strong></h3>
 <p>Education and Career Guidance (ECG) is about equipping students with the
 necessary knowledge, skills and values to make informed decisions at each
 key education stage for successful transition from school to further education
@@ -49,8 +49,7 @@ the paths they want to pursue.</p>
 to showcase their schools’ events and programmes are put up to provide
 students with enriching experiences to find out more about their next phase
 in their educational pathway.</p>
-<p>&nbsp;</p>
-<h4><strong>National Education</strong></h4>
+<h3><strong>National Education</strong></h3>
 <p>Character and Citizenship Education are one entity since values and character
 are the basis to become responsible citizens. &nbsp;In line with the 21st
 Century Competencies Framework, we aim to nurture students with sound values
