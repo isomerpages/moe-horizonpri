@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events &amp; Announcements</strong></h3>
+<h4><strong>2025 MOE Kindergarten Waitlist Form</strong></h4>
+<p>Click on the link below, to apply for MK@HORIZON under our wait list.
+Thank you.</p>
+<p><strong><a href="https://go.gov.sg/mkhorizonwaitlistform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkhorizonwaitlistform2025</a></strong>
+</p>
 <h4><strong>2025 MOE Kindergarten Registration Exercise</strong></h4>
 <p>The online registration exercise for Open Admissions (OA) and Early Years
 Centre (EYC) children open from&nbsp;<strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
