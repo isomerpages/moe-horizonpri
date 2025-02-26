@@ -829,7 +829,7 @@ variant: tiptap
 <p>Mrs Lucy Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_peng_cheng_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_peng_cheng_nee@schools.gov.sg</u></a>
+<p><a href="mailto:cheng_peng_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheng_peng_cheng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
