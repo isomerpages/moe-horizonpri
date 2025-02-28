@@ -14,3 +14,7 @@ third_nav_title: CCA (Clubs and Societies)
 <p>Our goal is to help students become creative thinkers and problem-solvers
 who can make a positive impact on our community.</p>
 <p>Join us in the Innovation Club and let's innovate together!</p>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nnxwca9hQI8"></iframe>
+</div>
+<p></p>
