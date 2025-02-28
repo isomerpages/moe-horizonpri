@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Visual & Performing Arts)
 ---
+<h4><strong>Art Club</strong></h4>
 <p>The Art Club CCA takes a student-centric approach, focusing on exploration
 of different art media and forms, creation of artworks and appreciation
 for ideas, concepts and communication. Students acquire the knowledge and
