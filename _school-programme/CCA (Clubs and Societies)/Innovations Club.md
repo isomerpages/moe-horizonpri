@@ -17,4 +17,7 @@ who can make a positive impact on our community.</p>
 <div class="iframe-wrapper">
 <iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nnxwca9hQI8"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe height="450" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0sdz3zENc7QW_7bgjc1moLpDvyKzUdcMOpOkVkDzAy-00fgerJh6kkjooUgoGKFDpAm6YrsJuFuao/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
