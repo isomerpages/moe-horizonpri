@@ -23,3 +23,10 @@ we take part in, not including other adhoc competitions:</p>
 <p>• School Digital Media Awards (SDMA)</p>
 <p>• National Infocomm League (NIL)</p>
 <p>• National Primary Games Creation Competition (NPGCC)</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TaVoNGiM9aI"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStWp-pK_LN-UimKGTk-XiviPBUsg2xfAXZRO7JYRPt6gI9FRBno9xpd7-9Wef5x8IR6iUjjm7xlgPS/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000"></iframe>
+</div>
+<p></p>
