@@ -11,7 +11,8 @@ environment for students to develop their athletic abilities while learning
 important values. Open to students of all skill levels, this programme
 aims to nurture a love for the sport, improve physical fitness, and build
 strong character through teamwork and discipline.</p>
-<p>Skills Development</p>
+<p><strong>Skills Development</strong>
+</p>
 <p>Through structured training sessions, students will learn essential basketball
 techniques, including:</p>
 <p>🏀 Dribbling – Enhancing ball control and movement on the court.</p>
@@ -21,7 +22,8 @@ team play.</p>
 <p>🏀 Defence – Learning how to guard opponents and block shots effectively.</p>
 <p>🏀 Game Strategy – Understanding team formations and tactics for half-court
 and full-court play.</p>
-<p>Values and Team Spirit</p>
+<p><strong>Values and Team Spirit</strong>
+</p>
 <p>Beyond physical skills, basketball instills important values that shape
 students into well-rounded individuals. Our CCA promotes:</p>
 <p>✅ Teamwork – Players learn to trust and support one another to achieve
