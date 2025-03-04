@@ -71,7 +71,7 @@ beyond the school.</p>
 <img style="width:49%" height="auto" width="100%" src="/images/2ndtier1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/2ndtier2.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/2ndtier2.jpg">
 </div>
 </th>
 </tr>
