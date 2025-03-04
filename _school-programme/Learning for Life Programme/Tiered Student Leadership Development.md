@@ -54,7 +54,7 @@ peers. They also play key roles in school events and captains-led initiatives,
 taking the lead in planning and execution. Additionally, they engage in
 community involvement efforts, fostering a spirit of service and responsibility
 beyond the school.</p>
-<h5><strong>Tier 2 Leadership Development</strong></h5>
+<h4><strong>Tier 2 Leadership Development</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -121,7 +121,7 @@ beyond the school.</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Tier 2 Service Leadership</strong></h5>
+<h4><strong>Tier 2 Service Leadership</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
