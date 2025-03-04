@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+<div class="iframe-wrapper">
+<iframe height="351" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u8wkE4v3jPc"></iframe>
+</div>
 <p>Horizon Primary is committed to nurture every child to lead their lives
 responsibly and to contribute with joy.&nbsp;A whole-school Student Leadership
 Development Programme through CCE, I-LEAD is Horizon’s flagship programme
