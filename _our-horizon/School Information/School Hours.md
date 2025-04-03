@@ -240,7 +240,8 @@ variant: tiptap
 <br>(Tue and Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 p.m. to 4.00 p.m.
+<p>3.15 p.m. to 3.30 p.m.</p>
+<p>3.45 p.m. to 4.00p.m.
 <br>(Tue and Thurs)</p>
 </td>
 </tr>
