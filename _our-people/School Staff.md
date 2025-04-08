@@ -582,7 +582,7 @@ variant: tiptap
 <p>Mdm Sharon Cheam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharon_cheam_siew_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_cheam_siew_tee@schools.gov.sg</a> 
+<p><a href="mailto:sharon_cheam_siew_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_cheam_siew_tee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1177,7 +1177,7 @@ variant: tiptap
 <p>Ms Jamie Liang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:liang_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_ying@schools.gov.sg</a> 
+<p><a href="mailto:liang_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1842,7 +1842,7 @@ variant: tiptap
 <p>Ms Foo Si En Denise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_si_en_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_si_en_denise@schools.gov.sg</a> 
+<p><a href="mailto:foo_si_en_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_si_en_denise@schools.gov.sg</a>
 </p>
 </td>
 </tr>
