@@ -373,6 +373,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Dorothy Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_leng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
@@ -557,6 +570,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_leong_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_leong_hong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Management Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sharon Cheam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharon_cheam_siew_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharon_cheam_siew_tee@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -1125,7 +1151,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>P3 Thinker</strong>
 </p>
 </td>
@@ -1143,6 +1169,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ning_ning_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ning_ning_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jamie Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="mailto:liang_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liang_ying@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
@@ -1761,19 +1796,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Senior SEN Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chew Poh Choo Cheryl</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_poh_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_poh_choo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SEN Officer</strong>
 </p>
 </td>
@@ -1795,6 +1817,45 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farhana_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farhana_hassan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Ulfah Binte Abdul Kadir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_ulfah_abdul_kadir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_ulfah_abdul_kadir@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Si En Denise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_si_en_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_si_en_denise@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SEN Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Xinyue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:hu_xinyue_q@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xinyue_q@moe.edu.sg</a>
 </p>
 </td>
 </tr>
