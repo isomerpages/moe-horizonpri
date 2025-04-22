@@ -1471,7 +1471,7 @@ variant: tiptap
 <p>Mdm Kang Siew Ngoh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sin_chui_yi_doreen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kang_siew_ngoh@schools.gov.sg</u></a>
+<p><a href="mailto:kang_siew_ngoh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kang_siew_ngoh@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
