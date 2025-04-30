@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Physical Sports)
 ---
-<h4>Rope Skipping</h4>
+<h4><strong>Rope Skipping</strong></h4>
 <p>Rope skipping at Horizon offers students a unique opportunity to develop
 their skills. Through this CCA, students build physical strength, cardiovascular
 fitness, agility, and resilience.
