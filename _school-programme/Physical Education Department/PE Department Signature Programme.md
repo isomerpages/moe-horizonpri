@@ -111,7 +111,7 @@ to be learned.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Primary 5 Outdoor Adventure Camp: Dare to Dream</h4>
+<h4><strong>Primary 5 Outdoor Adventure Camp: Dare to Dream</strong></h4>
 <p><strong><u>Introduction</u></strong>
 </p>
 <p>Each year, our Primary 5 students embark on an exciting journey to develop
@@ -160,7 +160,7 @@ and joy.</p>
 experience, creating lasting memories and valuable lessons for our Primary
 5 students at Horizon Primary School!</p>
 <p></p>
-<h4>Junior Olympic Games (JOG)</h4>
+<h4><strong>Junior Olympic Games (JOG)</strong></h4>
 <p>An integral part of the Horizon experience, the Junior Olympic Games (JOG)
 is a highly anticipated event held in conjunction with the Children’s Day
 celebrations. This exciting event is designed to encourage students' active
