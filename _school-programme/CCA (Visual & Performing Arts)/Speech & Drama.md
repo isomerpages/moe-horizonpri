@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Visual & Performing Arts)
 ---
+<h4><strong>Speech &amp; Drama</strong></h4>
 <p>Step into the spotlight, it's time to shine,
 <br>In the Speech and Drama Club, you’ll do just fine!
 <br>With stories and laughter, we’ll act and play,
@@ -25,3 +26,4 @@ and performances that will make you feel like a star!
 <br>
 <br>Come join us and let your imagination soar! Whether you’re shy or bold,
 there’s a place for YOU in the Speech and Drama Club.</p>
+<p></p>
