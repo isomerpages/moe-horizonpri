@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Physical Sports)
 ---
+<h4>Ten-Pin Bowling</h4>
 <p>Ten-Pin Bowling is a fun and interesting CCA which requires good leg,
 hand and eye coordination. It develops Horizon Bowlers’ self-awareness
 and self-management skills as they take charge of their learning and persevere
