@@ -76,7 +76,7 @@ and holistic! 🚀</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Performing_Arts.png">
 </div>
-<h4>P3 and P4 SwimSafer</h4>
+<h4><strong>P3 and P4 SwimSafer</strong></h4>
 <p>At Horizon, students learn swimming at P3 as part of the PE Curriculum
 through the SwimSafer Programme. SwimSafer is a national initiative designed
 to teach students swimming skills and water survival techniques. The programme
