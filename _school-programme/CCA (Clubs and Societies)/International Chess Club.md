@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Clubs and Societies)
 ---
-<h4>International Chess Club</h4>
+<h4><strong>International Chess Club</strong></h4>
 <p>The International Chess Club CCA aims to develop the students’ analytical
 and thinking skills to solve problems on the fly. One of the benefits of
 playing chess includes developing brain functions, improving memory as
