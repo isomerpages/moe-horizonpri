@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCA (Clubs and Societies)
 ---
-<h4>Robotics</h4>
+<h4><strong>Robotics</strong></h4>
 <p>The Robotics Club is a vibrant and engaging CCA for students who are passionate
 about technology, engineering, and innovation. Merging Science, Technology,
 Engineering and Mathematics (STEM), robots provide an excellent platform
