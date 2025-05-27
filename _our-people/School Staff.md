@@ -704,6 +704,19 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Desktop Engineer 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Xing Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Teachers 2025</strong></h3>
@@ -1796,6 +1809,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Xinyue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="hu_xinyue_d@schools.gov.sg" rel="noopener nofollow" target="_blank">hu_xinyue_d@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SEN Officer</strong>
 </p>
 </td>
@@ -1843,19 +1869,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_si_en_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_si_en_denise@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SEN Officer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hu Xinyue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hu_xinyue_q@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_xinyue_q@moe.edu.sg</a>
 </p>
 </td>
 </tr>
