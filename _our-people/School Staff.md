@@ -1164,24 +1164,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>P3 Thinker</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kwee Hiong</p>
+<p>Mrs Evelyn Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kwee_hiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_kwee_hiong@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ning Ning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ning_ning_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ning_ning_a@schools.gov.sg</u></a>
+<p><a href="mailto:Kang_Pei_Yee_Evelyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kang_Pei_Yee_Evelyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
