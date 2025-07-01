@@ -42,21 +42,22 @@ of our students and reduce disruption of school activities:
 <p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_6F.pdf" rel="noopener nofollow" target="_blank">2025 P6F Booklist</a>
 <br>
 </p>
-<p><strong>School Uniform</strong>
-</p>
-<p><strong>Beau Voix Uniform</strong>
-<br>2 Sims Close
-<br>#03-08 Gemini@Sims
-<br>Singapore 387298&nbsp;
-<br>Tel: 67436645 / 67447084
-<br>Fax: +(65) 67460687
-<br>Email:&nbsp;<a href="mailto:info@beauvoix.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@beauvoix.com.sg</a>
+<h4><strong>School Uniform</strong></h4>
+<p><strong>My Uniform Shop (ASIA) Pte Ltd</strong>
+<br>209 New Upper Changi Road
+<br>#03-651 Singapore 460209
+<br>(Opposite Bedok MRT, above Sheng Siong Supermarket)
+<br>Tel: 6276 6689
+<br>Email: <a href="mailto:myuniformshopasia@gmail.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshopasia@gmail.com</a>
+<br>Website: <a href="https://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg</a>
 </p>
 <p><strong>Purchase of School Uniform in School</strong>
 <br>In support of the national movement, we encourage parents to opt for online
 order and home delivery instead. You can make your order from the vendor’s
-website at:&nbsp;<a href="http://www.beauvoix.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.beauvoix.com.sg</a>. Delivery
-is charged at $8 per transaction and no minimum order amount is required.</p>
+website at: <a href="https://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg</a>.
+Delivery fee is flat at $6 (including GST) per online order for orders
+below SGD 250 and no minimum order amount is required. Additional charges
+will be applied for orders exceeding SGD 250.</p>
 <h4><strong>School Library</strong></h4>
 <p><strong>LEADers Hub @ Horizon</strong>
 <br>Tel: 6753 5411 (Ext. 340)</p>
