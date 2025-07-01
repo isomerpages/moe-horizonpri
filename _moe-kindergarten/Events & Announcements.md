@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>2025 MOE Kindergarten Waitlist Form</strong></h4>
 <p>Click on the link below, to apply for MK@HORIZON under our wait list.
 Thank you.</p>
-<p><strong><a href="https://go.gov.sg/mkhorizonwaitlistform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkhorizonwaitlistform2025</a></strong>
+<p><strong><a href="https://go.gov.sg/mkhorizonwaitlist2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkhorizonwaitlistform2025</a></strong>
 </p>
 <h4><strong>2025 MOE Kindergarten Registration Exercise</strong></h4>
 <p>The online registration exercise for Open Admissions (OA) and Early Years
