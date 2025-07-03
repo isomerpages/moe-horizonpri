@@ -427,9 +427,7 @@ the professional development of the teaching fraternity.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br><strong>Caring Teacher Awards</strong>
-</p>
+<h4><br><strong>Caring Teacher Awards</strong></h4>
 <p>The Caring Teacher Awards (CTA) organized by NIE, supported by MOE and
 ExxonMobil Asia Pacific Pte Ltd is a biennial event. It pays tribute to
 teachers who show care and concern for the holistic development of their
@@ -587,12 +585,7 @@ of innovation in their workplaces or beyond.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>LEAP Award</strong></h4>
-<p>The Singapore Hokkien Huay Kuan organises the&nbsp;<strong>LEAP</strong>&nbsp;(Listening
-educator for Advancement and Progress ) Award every year to recognise teachers
-who have made a positive impact on their students.&nbsp; The Award also
-aims to motivate all teachers in Singapore to strive to be nurturing and
-effective educators.
+<p>
 <br>
 </p>
 <h4></h4>
