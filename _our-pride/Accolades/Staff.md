@@ -437,6 +437,80 @@ teachers who show care and concern for the holistic development of their
 students. It recognizes the efforts of those who go the extra mile to ensure
 their charges grow up to be confident and independent learners in school
 and outside the classroom.&nbsp;&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Awardee</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIE Caring Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Ramani Prabhu s/o R Kalamohan</p>
+</li>
+<li>
+<p>Mdm Fatin Yasirah Bte Mohd Yazid</p>
+</li>
+<li>
+<p>Ms Chermine Lau Ying Jie</p>
+</li>
+<li>
+<p>Mr Tay Aik Poh</p>
+</li>
+<li>
+<p>Mdm Suzanah Bte Yahaya</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caring Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Seow Zichao Sigmund</p>
+</li>
+<li>
+<p>Mr Davis Low</p>
+</li>
+<li>
+<p>Mdm Glenda Ding</p>
+</li>
+<li>
+<p>Mdm Han Yu Chin</p>
+</li>
+<li>
+<p>Mdm Deborah Moses</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>LEAP Award</strong></h4>
 <p>The Singapore Hokkien Huay Kuan organises the&nbsp;<strong>LEAP</strong>&nbsp;(Listening
 educator for Advancement and Progress ) Award every year to recognise teachers
