@@ -428,9 +428,8 @@ the professional development of the teaching fraternity.&nbsp;</p>
 </tbody>
 </table>
 <p>
-<br>
+<br><strong>Caring Teacher Awards</strong>
 </p>
-<h4><strong>Caring Teacher Awards</strong></h4>
 <p>The Caring Teacher Awards (CTA) organized by NIE, supported by MOE and
 ExxonMobil Asia Pacific Pte Ltd is a biennial event. It pays tribute to
 teachers who show care and concern for the holistic development of their
@@ -505,6 +504,83 @@ and outside the classroom.&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Mdm Deborah Moses</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>MOE Innergy Awards</strong></h4>
+<p>The Award complements the MOE Innergy Award, which recognises individuals
+and teams at the ministry level for developing and implementing innovations
+with significant benefits or impact in their workplaces, and the MOE Outstanding
+Innovator Award, which recognises individuals who have been key influencers
+of innovation in their workplaces or beyond.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Awardee</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Innergy Award (Commendation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Low Zihao Davis</p>
+</li>
+<li>
+<p>Mr Jonathan Yew Zu Yao</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Innergy Award (Commendation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Sheila Loh</p>
+</li>
+<li>
+<p>Mr Ramani Prabhu s/o R Kalamohan</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Sigmund Seow</p>
+</li>
+<li>
+<p>Ms Enn Caiying</p>
 </li>
 </ul>
 </td>
