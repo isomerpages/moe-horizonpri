@@ -33,7 +33,6 @@ of merit and service to Singapore.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Administration Medal (Bronze)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -68,7 +67,6 @@ of merit and service to Singapore.&nbsp;</p>
 <p>Mdm Alice Yeo</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -77,7 +75,6 @@ of merit and service to Singapore.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Administration Medal (Bronze)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -112,7 +109,6 @@ of merit and service to Singapore.&nbsp;</p>
 <p>Mdm Thilagavathi Kumarasamy</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 </tbody>
