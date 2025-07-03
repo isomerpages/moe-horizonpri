@@ -427,7 +427,7 @@ the professional development of the teaching fraternity.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><br><strong>Caring Teacher Awards</strong></h4>
+<h4><strong>Caring Teacher Awards</strong></h4>
 <p>The Caring Teacher Awards (CTA) organized by NIE, supported by MOE and
 ExxonMobil Asia Pacific Pte Ltd is a biennial event. It pays tribute to
 teachers who show care and concern for the holistic development of their
