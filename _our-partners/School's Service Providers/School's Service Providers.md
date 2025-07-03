@@ -19,9 +19,7 @@ of our students and reduce disruption of school activities:
 <br>8.45 a.m. to 10.45 a.m. (Recess Time)
 <br>1.30 p.m. to 2.05 p.m.&nbsp; (Dismissal Time)</p>
 <p><strong>Please follow the time slot and bookshop opening dates stated in the booklists:</strong>
-<br><strong>Uniform Information</strong>
-<br><a href="https://thecontinental.sg/horizon/" rel="noopener noreferrer nofollow" target="_blank">School Uniform Information</a>
-<br><a href="https://www.beauvoix.com.sg/products/horizon-primary-school" rel="noopener nofollow" target="_blank">Uniform Pricelist</a>
+<br>
 </p>
 <p><strong>P1-P6 Booklists 2025</strong>
 </p>
