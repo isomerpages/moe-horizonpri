@@ -168,7 +168,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zonia Lim Zhi Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zonia_Lim_Zhi_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zonia_Lim_Zhi_Qi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharmi Begum Binte Jappar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sharmi_Begum_Jappar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharmi_Begum_Jappar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Hanna Binte Luthfi Muthughopi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
