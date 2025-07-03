@@ -6,7 +6,7 @@ third_nav_title: Accolades
 variant: tiptap
 ---
 <h3><strong><u>Staff</u></strong></h3>
-<h4><strong>National Day Awards </strong></h4>
+<h4><strong>National Day Awards</strong></h4>
 <p>The Singapore National Day Awards are a means of recognising various forms
 of merit and service to Singapore.&nbsp;</p>
 <table style="minWidth: 75px">
@@ -117,7 +117,7 @@ of merit and service to Singapore.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>MOE Service Excellence Award (MSEA) </strong></h4>
+<h4><strong>MOE Service Excellence Award (MSEA)</strong></h4>
 <p>The MOE Service Excellence Award (MSEA) recognises MOE staff who are passionate
 in their service delivery, consistently serve internal and external customers
 with C.A.R.E. (Courtesy, Accessibility, Responsiveness and Effectiveness),
@@ -214,7 +214,6 @@ and inspire their colleagues to do likewise.</p>
 </li>
 <li>
 <p>Mr Timothy Wang</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -290,7 +289,6 @@ and inspire their colleagues to do likewise.</p>
 </li>
 <li>
 <p>Mr Tan Wei Jian Jason</p>
-<p></p>
 </li>
 </ul>
 </td>
@@ -323,7 +321,6 @@ and inspire their colleagues to do likewise.</p>
 <p>Mr Yeo Soon Seng Gary</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -342,15 +339,94 @@ and inspire their colleagues to do likewise.</p>
 <p>Mdm Intariya Yoong, Kim</p>
 </li>
 </ul>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Academy Awards For Professional Development </strong></h4>
+<h4><strong>Academy Awards For Professional Development</strong></h4>
 <p>The Academy Awards for Professional Development recognize and affirm the
 efforts of officers in the education service for their contributions to
 the professional development of the teaching fraternity.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Awardee</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Hong Bee Yuen</p>
+</li>
+<li>
+<p>Mrs Sim Lay Hoon</p>
+</li>
+<li>
+<p>Mdm Marleena Bte Jaafar</p>
+</li>
+<li>
+<p>Mdm Koh Meow Li</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Ong Yiu Yah</p>
+</li>
+<li>
+<p>Mrs Sim Lay Hoon</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Associate Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm Hong Bee Yuen</p>
+</li>
+<li>
+<p>Mrs Sim Lay Hoon</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
@@ -369,9 +445,7 @@ aims to motivate all teachers in Singapore to strive to be nurturing and
 effective educators.
 <br>
 </p>
-<h4><strong>National Day Awards </strong></h4>
-<p>The Singapore National Day Awards are a means of recognising various forms
-of merit and service to Singapore.&nbsp;</p>
+<h4></h4>
 <p>
 <br>
 </p>
