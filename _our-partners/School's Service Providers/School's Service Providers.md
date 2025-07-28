@@ -106,7 +106,7 @@ BT &amp; Tan Bus Transport Service through their weblink
 <p><strong>Touchline</strong>
 <br>For gaming addiction, Internet-related issues and information on youth
 programmes.</p>
-<p>Website:&nbsp;<a href="https://www.touch.org.sg/our-services" rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg/our-services</a>
+<p>Website:&nbsp;<a href="https://www.touch.org.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.touch.org.sg</a>
 </p>
 <p>Tel: 1800-377 2252</p>
 <p>Operating Hours (Mon - Fri) :&nbsp;9.00 a.m. to 6.00 p.m.</p>
