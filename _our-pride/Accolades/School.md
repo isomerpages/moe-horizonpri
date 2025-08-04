@@ -3,6 +3,7 @@ title: School
 permalink: /our-pride/accolades/school/
 description: ""
 third_nav_title: Accolades
+variant: markdown
 ---
 ### **School**
 
@@ -198,7 +199,7 @@ The team had practised hard for the past 3 months to prepare themselves for this
 
 Horizon Primary was featured on Channel 8 news again! This time it is on our outdoor adventure learning programme. Our Primary 4 student, Cheryl Koh, shared about her learning and Year Head, Mdm Shirley Lim shared her views on having more MOE outdoor adventure centres.
 
-Watch it&nbsp;[here](https://www.channel8news.sg/news8/latestnews/20181117-sg-outdoor-adventure-center/4182150.html).
+
 
 #### **Primary 1 Registration 2018**
 
@@ -206,7 +207,7 @@ Watch it&nbsp;[here](https://www.channel8news.sg/news8/latestnews/20181117-sg-ou
 
 Horizon Primary was featured on Channel 8 news. Our intake of P1 classes has been increasing over the years and in 2019, Horizon Primary will be having 10 classes of P1 students- an increase of 80 vacancies as compared to 2017 intake. Our Principal, Mrs Grace Leong, shared her views on the demand in Punggol Town and how the school plays a part in providing opportunity for children who are interested in joining our school.
 
-Watch it&nbsp;[here](https://www.channel8news.sg/news8/singapore/20180628-sg-p1-reg/4063966.html).
+
 
 #### **Whole School Approach To SLD At Horizon Primary School**
 
