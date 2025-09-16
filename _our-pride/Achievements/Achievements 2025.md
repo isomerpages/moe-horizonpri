@@ -334,7 +334,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) 1 Sportsmanship Award</p>
+<p>2) 1 Sportsmanship Award</p>
 <p></p>
 </td>
 </tr>
@@ -347,7 +347,15 @@ third_nav_title: Achievements
 </td>
 <td rowspan="1" colspan="1">
 <p>1) 6 Sportsmanship Awards</p>
-<p></p>
+<p>2) Junior Category</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pool B: First</p>
+</li>
+<li>
+<p>Tier 1: Second</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -359,17 +367,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) Junior Category</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Pool B: First</p>
-</li>
-<li>
-<p>Tier 1: Second</p>
-</li>
-</ul>
-<p></p>
-<p>2)1 Sportsmanship Award</p>
+<p>1)1 Sportsmanship Award</p>
 <p></p>
 </td>
 </tr>
