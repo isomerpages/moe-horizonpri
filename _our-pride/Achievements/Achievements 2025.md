@@ -334,7 +334,7 @@ third_nav_title: Achievements
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1) 1 Sportsmanship Award</p>
+<p>2) 1 Sportsmanship Award</p>
 <p></p>
 </td>
 </tr>
