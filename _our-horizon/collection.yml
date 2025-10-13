@@ -2,6 +2,7 @@ collections:
   our-horizon:
     output: true
     order:
+      - Engagement Charter.md
       - Principal's Message.md
       - Horizon Identity/.keep
       - Horizon Identity/School History.md
