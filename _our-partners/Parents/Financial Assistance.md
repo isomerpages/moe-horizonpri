@@ -8,7 +8,7 @@ variant: markdown
 ### Financial Assistance
 
 
-**MOE FAS exercise for 2026 have not started. Please wait for the school to notify you. Thank you.**
+Click [here](https://go.gov.sg/moe-efasggas) for e-FAS Application Form 2026
 
 For more information on Ministry of Educations's Financial Assistance Scheme:
 * [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance)
