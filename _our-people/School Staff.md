@@ -1191,7 +1191,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Devika Tay</p>
+<p>Mrs Devika Murugaiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:devika_murugaiah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u><br>devika_murugaiah@schools.gov.sg</u></a>
@@ -1795,19 +1795,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_bee_cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_bee_cheng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Counsellor</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hu Xinyue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="hu_xinyue_d@schools.gov.sg" rel="noopener nofollow" target="_blank">hu_xinyue_d@schools.gov.sg</a>
 </p>
 </td>
 </tr>
