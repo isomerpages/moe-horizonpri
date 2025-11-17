@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/.keep
       - Achievements/Achievements 2025.md
       - Achievements/Achievements 2024.md
       - Achievements/Achievements 2023.md
@@ -9,12 +10,10 @@ collections:
       - Achievements/Achievements 2021.md
       - Achievements/Achievements 2020.md
       - Achievements/Achievements 2019.md
-      - Achievements/.keep
+      - Accolades/.keep
       - Accolades/School.md
       - Accolades/Staff.md
-      - Accolades/.keep
       - Alumni Testimonial.md
-      - Photo Gallery/Event Photos.md
-      - Photo Gallery/.keep
-      - Video Gallery/Horizon Learning Experiences.md
+      - Yearbook.md
       - Video Gallery/.keep
+      - Video Gallery/Horizon Learning Experiences.md

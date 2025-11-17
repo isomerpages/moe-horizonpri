@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Event Photos.md
       - School canteen.md
       - Events Photos 2022old.md
       - Events Photos 2021old.md

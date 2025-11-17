@@ -21,24 +21,23 @@ of our students and reduce disruption of school activities:
 <p><strong>Please follow the time slot and bookshop opening dates stated in the booklists:</strong>
 <br>
 </p>
-<p><strong>P1-P6 Booklists 2025</strong>
+<p><strong>P1-P6 Booklists 2026</strong>
 </p>
-<p><a href="/files/Horizon_Booklist_2025_Primary_1.pdf" rel="noopener nofollow" target="_blank">2025 P1 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_2.pdf" rel="noopener nofollow" target="_blank">2025 P2 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_2.pdf" rel="noopener nofollow" target="_blank">2026 P2 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_3.pdf" rel="noopener nofollow" target="_blank">2025 P3 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_3.pdf" rel="noopener nofollow" target="_blank">2026 P3 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_4.pdf" rel="noopener nofollow" target="_blank">2025 P4 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_4.pdf" rel="noopener nofollow" target="_blank">2026 P4 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_5.pdf" rel="noopener nofollow" target="_blank">2025 P5 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_5.pdf" rel="noopener nofollow" target="_blank">2026 P5 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_5F.pdf" rel="noopener nofollow" target="_blank">2025 P5F Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_5F.pdf" rel="noopener nofollow" target="_blank">2026 P5F Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_6.pdf" rel="noopener nofollow" target="_blank">2025 P6 Booklist</a>
+<p><a href="/files/Horizon_Booklist_2026_Primary_6.pdf" rel="noopener nofollow" target="_blank">2026 P6 Booklist</a>
 </p>
-<p><a href="/files/Booklists/Horizon_Booklist_2025_Primary_6F.pdf" rel="noopener nofollow" target="_blank">2025 P6F Booklist</a>
-<br>
+<p><a href="/files/Horizon_Booklist_2026_Primary_6F.pdf" rel="noopener nofollow" target="_blank">2026 P6F Booklist</a>
 </p>
 <h4><strong>School Uniform</strong></h4>
 <p><strong>My Uniform Shop (ASIA) Pte Ltd</strong>
