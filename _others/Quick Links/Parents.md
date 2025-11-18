@@ -13,8 +13,8 @@ variant: markdown
 
 
 ### Primary 1 Matters
-* [P1 Orientation Booklet 2025](/files/P1_Orientation_Booklet_2025_compressed.pdf)
-* [P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+* 2026 Primary 1 Orientation Booklet (To be updated)
+* [2026 Primary 1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
 * [School Uniform](https://www.beauvoix.com.sg/)
 
 ### Applications &amp; Claims
