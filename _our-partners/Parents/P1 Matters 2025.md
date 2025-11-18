@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Parents
 variant: markdown
 ---
-### **P1 Orientation Booklet 2025**
-2025 Primary 1 - A Guide For Parents<br>
-[Orientation Booklet](/files/P1_Orientation_Booklet_2025_compressed.pdf)
+### **P1 Orientation Booklet 2026**
+2026 Primary 1 - A Guide For Parents<br>
+*To be updated
 
-[P1 Booklist 2025](/files/Horizon_Booklist_2025_Primary_1.pdf)
+[2026 Primary 1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
 
 For more information on school uniform, 
 https://www.beauvoix.com.sg/
