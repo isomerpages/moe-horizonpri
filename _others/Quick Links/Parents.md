@@ -52,13 +52,13 @@ In support of the national movement, we encourage parents to opt for online orde
 ### P1 to P6 Booklist 2025
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **P1-P6 Booklists 2026**<br>
-[2026 P1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
-[2026 P2 Booklist](/files/Horizon_Booklist_2026_Primary_2.pdf)
-[2026 P3 Booklist](/files/Horizon_Booklist_2026_Primary_3.pdf)
-[2026 P4 Booklist](/files/Horizon_Booklist_2026_Primary_4.pdf)
-[2026 P5 Booklist](/files/Horizon_Booklist_2026_Primary_5.pdf)
-[2026 P5F Booklist](/files/Horizon_Booklist_2026_Primary_5F.pdf)
-[2026 P6 Booklist](/files/Horizon_Booklist_2026_Primary_6.pdf)
-[2026 P6F Booklist](/files/Horizon_Booklist_2026_Primary_6F.pdf)
+* [2026 P1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
+* [2026 P2 Booklist](/files/Horizon_Booklist_2026_Primary_2.pdf)
+* [2026 P3 Booklist](/files/Horizon_Booklist_2026_Primary_3.pdf)
+* [2026 P4 Booklist](/files/Horizon_Booklist_2026_Primary_4.pdf)
+* [2026 P5 Booklist](/files/Horizon_Booklist_2026_Primary_5.pdf)
+* [2026 P5F Booklist](/files/Horizon_Booklist_2026_Primary_5F.pdf)
+* [2026 P6 Booklist](/files/Horizon_Booklist_2026_Primary_6.pdf)
+* [2026 P6F Booklist](/files/Horizon_Booklist_2026_Primary_6F.pdf)
 ### Canteen Menu 2025
 Click [Here](/files/Canteen_Stalls_Menu_2025.pdf) to Access Canteen Menu
