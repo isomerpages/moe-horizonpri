@@ -11,5 +11,3 @@ variant: markdown
 
 [2026 Primary 1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
 
-For more information on school uniform, 
-https://www.beauvoix.com.sg/
