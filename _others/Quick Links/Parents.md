@@ -48,7 +48,7 @@ Website:&nbsp;[https://www.myuniformshop.com.sg](https://www.myuniformshop.com.s
 **Purchase of School Uniform in School**  
 In support of the national movement, we encourage parents to opt for online order and home delivery instead. You can make your order from the vendor’s website at:&nbsp;[https://www.myuniformshop.com.sg](https://www.myuniformshop.com.sg/). Delivery fee is flat at $6 (including GST) per online order for orders below SGD 250 and no minimum order amount is required. Additional charges will be applied for orders exceeding SGD 250.
 
-### P1 to P6 Booklist 2025
+### P1 to P6 Booklist 2026
 **Please follow the time slot and bookshop opening dates stated in the booklists:**<br>
 **P1-P6 Booklists 2026**<br>
 * [2026 P1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
