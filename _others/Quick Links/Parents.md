@@ -15,7 +15,7 @@ variant: markdown
 ### Primary 1 Matters
 * [2026 Primary 1 Orientation Booklet](https://drive.google.com/file/d/1NIfHzbFuM2X8r_Qiza5YaML7HmNbgTIe/view?usp=sharing)
 * [2026 Primary 1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
-* [School Uniform](https://www.beauvoix.com.sg/)
+* [School Uniform](https://www.myuniformshop.com.sg/)
 
 ### Applications &amp; Claims
 * [Group Personal Accident Insurance for Students (Under NTUC Income Insurance Co-Operative Ltd)](/files/Application%20Forms/Insurance%20Product%20Fact%20Sheet%20Year%202023.pdf)
