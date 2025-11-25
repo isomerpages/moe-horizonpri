@@ -13,7 +13,7 @@ variant: markdown
 
 
 ### Primary 1 Matters
-* [2026 Primary 1 Orientation Booklet](https://drive.google.com/file/d/1NIfHzbFuM2X8r_Qiza5YaML7HmNbgTIe/view?usp=sharing)[2026 Primary 1 Orientation Booklet]
+* [2026 Primary 1 Orientation Booklet](https://drive.google.com/file/d/1NIfHzbFuM2X8r_Qiza5YaML7HmNbgTIe/view?usp=sharing)
 * [2026 Primary 1 Booklist](/files/Horizon_Booklist_2026_Primary_1.pdf)
 * [School Uniform](https://www.beauvoix.com.sg/)
 
