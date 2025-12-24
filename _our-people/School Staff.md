@@ -321,7 +321,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ Physical Education &amp; Co-Curricular Activities</strong>
+<p><strong>SH/Physical Education &amp; Co-Curricular Activities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1226,7 +1226,7 @@ variant: tiptap
 <p>Ms Lim Chin Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chin_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_chin@schools.gov.sg</a> 
+<p><a href="mailto:lim_chin_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_chin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1235,7 +1235,7 @@ variant: tiptap
 <p>Ms Paulna Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_baona_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_baona_A@schools.gov.sg</a> 
+<p><a href="mailto:Tan_baona_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_baona_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
