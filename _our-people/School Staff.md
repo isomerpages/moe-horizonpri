@@ -891,7 +891,7 @@ variant: tiptap
 <p>Mr Burhannudin Bin Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Burhannudin_ghazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Burhannudin_ghazali@schools.gov.sg</a> 
+<p><a href="mailto:Burhannudin_ghazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Burhannudin_ghazali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
