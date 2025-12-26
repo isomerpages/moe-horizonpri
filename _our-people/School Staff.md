@@ -874,7 +874,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>P1 Discoverer</strong>
 </p>
 </td>
@@ -892,15 +892,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Burhannudin_ghazali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Burhannudin_ghazali@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Meow Li</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_meow_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_meow_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1254,7 +1245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Saleha Bte Hashim</p>
+<p>Ms Saleha Bte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:saleha_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>saleha_hashim@schools.gov.sg</u></a>
