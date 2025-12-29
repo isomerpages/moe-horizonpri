@@ -282,7 +282,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ICT</strong>
+<p><strong>SH/Information and Communications Technology</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
