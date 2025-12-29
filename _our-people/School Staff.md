@@ -1121,7 +1121,7 @@ variant: tiptap
 <p>Mr Muhammad Furqan Bin Abdul Raoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:muhammad_furqan_abdul_raoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_furqan_abdul_raoff@schools.gov.sg</a>
 </p>
 </td>
 </tr>
