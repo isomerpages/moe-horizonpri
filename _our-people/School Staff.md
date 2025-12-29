@@ -1390,7 +1390,7 @@ variant: tiptap
 <p>Mr Yahya Bin Idross Alkhatib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Yahya_Idross_Alkhatib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yahya_Idross_Alkhatib@schools.gov.sg</a> 
+<p><a href="mailto:Yahya_Idross_Alkhatib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yahya_Idross_Alkhatib@schools.gov.sg</a>
 </p>
 </td>
 </tr>
