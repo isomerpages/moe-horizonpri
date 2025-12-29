@@ -584,14 +584,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="8" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Operations Support Officer</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fung Siew Koon</p>
+<p>Mdm Toh Waraporn</p>
 </td>
-<td rowspan="8" colspan="1">
+<td rowspan="6" colspan="1">
 <p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
 </p>
 </td>
@@ -603,7 +603,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bay Ah Hock</p>
+<p>Mdm Koh Lay Wan Agnes</p>
 </td>
 </tr>
 <tr>
@@ -619,27 +619,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Intariya Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Toh Waraporn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Lay Wan Agnes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
