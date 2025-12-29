@@ -1178,7 +1178,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>P3 Reflector</strong>
 </p>
 </td>
@@ -1200,16 +1200,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Thasneem Parveen d/o Sirazudeen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:thasneem_parveen_sirazudee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thasneem_parveen_sirazudee@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>P3 Inventor</strong>
 </p>
 </td>
@@ -1218,6 +1209,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_chin_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_chin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Thasneem Parveen d/o Sirazudeen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:thasneem_parveen_sirazudee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thasneem_parveen_sirazudee@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
