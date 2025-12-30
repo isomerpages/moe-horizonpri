@@ -18,10 +18,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Priscilla Lee</p>
+<p>Ms Clarisse Yong Pueh Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_oi_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_oi_leng@schools.gov.sg</a>
+<p><a href="mailto:yong_pueh_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_pueh_teng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -31,10 +31,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhidayah Abdullah</p>
+<p>Mdm Siti Norliza Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhidayah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurhidayah_abdullah@schools.gov.sg</a>
+<p><a href="mailto:siti_norliza_selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norliza_selamat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
