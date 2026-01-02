@@ -79,10 +79,10 @@ BT &amp; Tan Bus Transport Service through their weblink
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot%202023-09-29%20160528.jpg">
 </div>
-<h3>Canteen Menu 2025</h3>
+<h3>Canteen Menu 2026</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Click </strong><a href="/files/Canteen_Stalls_Menu_2025__1_.pdf" rel="noopener nofollow" target="_blank">here</a><strong> to access the Canteen Menu</strong>
+<p><strong>Click </strong><a href="/files/Canteen_Stalls_Menu_2026.pdf" rel="noopener nofollow" target="_blank">here</a><strong> to access the Canteen Menu</strong>
 </p>
 </li>
 </ul>
