@@ -23,7 +23,7 @@ practices and experiences.</p>
 <p>My team and I are truly committed to the children’s learning and development.
 We strongly believe that our children will be able to grow and develop
 well with the quality curriculum that we provide in MK@Horizon.</p>
-<p><strong>Mrs Priscilla Lee</strong>
+<p><strong>Ms Clarisse Yong Pueh Teng</strong>
 <br><strong>Centre Head</strong>
 <br><strong>MK@Horizon</strong>
 </p>

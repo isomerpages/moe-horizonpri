@@ -5,43 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Events &amp; Announcements</strong></h3>
-<h4><strong>2025 MOE Kindergarten Waitlist Form</strong></h4>
-<p>Click on the link below, to apply for MK@HORIZON under our wait list.
-Thank you.</p>
-<p><strong><a href="https://go.gov.sg/mkhorizonwaitlist2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mkhorizonwaitlistform2025</a></strong>
-</p>
-<h4><strong>2025 MOE Kindergarten Registration Exercise</strong></h4>
-<p>The online registration exercise for Open Admissions (OA) and Early Years
-Centre (EYC) children open from&nbsp;<strong>9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025</strong>.</p>
-<p>It is for Singapore Citizen and Permanent Resident children born between
-2 Jan 2021 and 1 Jan 2022 (both dates inclusive).
-<br>
-<br>Parents will be informed of the registration outcome by 15 April 2025.
-Outside this registration period, parents can contact our MK directly to
-check for vacancies.
-<br>
-<br>To register by scanning the QR code or click on the link below
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten/register</a>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025_MK_Registration_Exercise.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2025 MOE Kindergarten Open House</strong></h4>
+<h4><strong>2026 MOE Kindergarten Open House</strong></h4>
 <p>At MOE Kindergarten (MK), we provide quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education. We believe that children are
 joyful, curious, active and competent learners and we are committed to
@@ -58,33 +22,13 @@ These programmes focus on the holistic development of children and ignite
 the joy of learning in them.</p>
 <p>We offer Kindergarten Care (KCare) at all MKs should you require full-day
 service for your child.</p>
-<p>We would like to warmly welcome you to the 2025 MOE Kindergarten Open
+<p>We would like to warmly welcome you to the 2026 MOE Kindergarten Open
 House at MK@Horizon located within our primary school’s premises, on Saturday,
-8 February 2025 from 8.30 a.m. to 12.30 p.m. (last walk-in at 12.15 p.m.).
+7 March 2026 from 8.30 a.m. to 12.30 p.m. (last walk-in at 12.15 p.m.).
 During the Open House, you can tour the learning environment, and speak
 to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
-<p>To register by scanning the QR code above or click on the attached link</p>
-<p><a href="https://form.gov.sg/67440d2352ba8c426f31566e" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67440d2352ba8c426f31566e</a>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/QR_code_for_MK_Registration.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
