@@ -11,9 +11,7 @@ variant: tiptap
 <br>Tel: 80142319</p>
 <p>Operating Hours:
 <br>Mondays to Fridays
-<br>8.30 a.m. to 3.00 p.m.</p>
-<p>Please note the following time for purchasing items at our school bookshop:
-<br>11.00 a.m. to 1.15 p.m</p>
+<br>9.00 a.m. to 3.00 p.m.</p>
 <p>Please avoid visiting the bookshop at the following time for the safety
 of our students and reduce disruption of school activities:
 <br>8.45 a.m. to 10.45 a.m. (Recess Time)
