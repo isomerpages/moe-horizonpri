@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Partnership & Engagement Dept
 ---
-<h3><strong>Internationalisation</strong></h3>
+<h3><strong>Trips for Internationalisation Experience (TIE) @ Horizon</strong></h3>
 <p>This year, our students had the exciting opportunity to embark on overseas
 learning journeys to Fujian Xiamen Experimental Primary School in China
 and Sekolah Rendah Tumpuan Telisai in Brunei Darussalam. These trips provided
