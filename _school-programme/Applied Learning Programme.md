@@ -31,5 +31,35 @@ expand their exploration in STEM and coding.</p>
 Reflectors, Effective and Empathetic Communicators, Civic Literates and
 Digital Literates, equipping them to contribute confidently and responsibly
 in a fast-changing world.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_47.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_48__1_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_48.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
