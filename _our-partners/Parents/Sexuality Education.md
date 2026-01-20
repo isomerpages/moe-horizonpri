@@ -46,7 +46,7 @@ you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>OVERVIEW OF HORIZON PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF HORIZON PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4">
 <li>
