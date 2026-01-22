@@ -36,7 +36,7 @@ more about Parents Gateway.
 <li>
 <p>NTUC Income Insurance Co-Operative Ltd.
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">E-Submission Portal</a>
-<br><a href="/files/Product_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet</a>
+<br><a href="/files/Product_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
 </p>
 </li>
 </ul>
