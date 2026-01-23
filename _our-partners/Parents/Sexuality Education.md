@@ -92,16 +92,17 @@ from sexuality-related risks.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3_2026.png">
 </div>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
