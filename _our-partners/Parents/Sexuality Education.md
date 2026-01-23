@@ -90,7 +90,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>At Horizon Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Horizon Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
