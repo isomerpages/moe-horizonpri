@@ -4,45 +4,82 @@ permalink: /applied-learning-programme/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Applied Learning Programme</strong></h3>
-<h4><strong>Computational Thinking In Mathematics</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yLlxn0JhKcw"></iframe>
-</div>
-<h4><strong>Computational Thinking In Mathematics - Horizon Primary School's Applied Learning Programme</strong></h4>
-<p>Learning mathematics is a key fundamental in every education system that
-aims to prepare its citizens for a productive life in the 21st century.
-As a nation, the development of a highly-skilled and well-educated manpower
-is critical to support an innovation- and technology-driven economy. At
-Horizon Primary School, Computational Thinking in Mathematics enables students
-to develop computational thinking skills, acquire collaborative skills
-and dispositions such as confidence and resilience through age-appropriate
-coding lessons. These are important 21st century competencies that we want
-students to develop during their primary school years.</p>
+<h1><strong>Applied Learning Programme</strong></h1>
+<h2><strong>STEMpowered Innovations</strong></h2>
+<p>Our school’s ALP has been refreshed from Computational Thinking in Mathematics
+(CTIM) to STEMpowered Innovations. This revised direction provides students
+with richer opportunities to explore Science, Technology, Engineering and
+Mathematics (STEM), while developing essential 21st Century Competencies
+such as collaboration, critical and inventive thinking, adaptability and
+communication skills.</p>
+<p>Through STEMpowered Innovations, students learn to apply technology meaningfully
+to solve real-world problems. There are two tiers of development to provide
+differentiated opportunities for students.</p>
+<h4><strong><u>Tier 1</u></strong></h4>
+<p>Primary 3: Students experience coding through purposeful play using different
+platforms. We empower students to choose projects they are passionate about
+and to develop solutions through coding, using platforms that suit their
+interests and readiness.</p>
+<p>Primary 4: Students deepen their learning through Interdisciplinary Project
+Work (IPW), integrating STEM ideas across subject areas in collaborative
+problem-solving.</p>
+<h4><strong><u>Tier 2</u></strong></h4>
+<p>Primary 4 to 6 Star Coders: Students with strong interest and aptitude
+are invited to take on advanced challenges to deepen their learning and
+expand their exploration in STEM and coding.</p>
+<p>Our ALP nurtures our students to be Inventive Thinkers, Purpose-driven
+Reflectors, Effective and Empathetic Communicators, Civic Literates and
+Digital Literates, equipping them to contribute confidently and responsibly
+in a fast-changing world.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_47.jpg">
 </div>
-<h5><strong>Computational Thinking In Mathematics Framework</strong></h5>
-<p>The Computational Thinking in Mathematics framework sets the direction
-for the development of computational thinking pedagogy and curriculum.
-The ‘heart’ of the Computational Thinking in Mathematics is to enable students
-to become critical thinkers who are effective and efficient problem-solvers.
-The three inter-related components of the framework are curriculum, attitudes
-and resources. Encompassing these components are computational thinking
-skills and 21st century competencies that we must imbue in our students,
-so that they will become engaged, life-long learners who are future ready.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/alp2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_48__1_.jpg">
 </div>
-<h5><strong>Computational Thinking In Mathematics Curriculum</strong></h5>
-<p>The Computational Thinking in Mathematics curriculum integrates and aligns
-coding and protyping activities to the Mathematics curriculum to help students
-reinforce Mathematical-thinking skills through computational thinking processes.
-At the end of each year, students would have learned to code a microprocessor
-called Micro:bit using a web-based software, Makecode.org. Purposeful age-appropriate
-opportunities are provided for real-life application of learning. This
-allows students to make meaningful connections across various disciplines.</p>
-<p>Most importantly, through the learning experiences of Computational Thinking
-in Mathematics, students become more confident and show greater resilience
-in persisting to solve Mathematical and task-based problems. They embrace
-a growth mindset, “Try Fail Try” to code and prototype the product.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_48_46__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_48_46.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_45_48.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_19_at_14_48_46__2_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>

@@ -37,16 +37,18 @@ that are premised on the family as the basic unit of society.</p>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
 </li>
 </ol>
-<p>(a) Love and respect yourself as you love and respect others; (b) Build
-positive relationships based on love and respect (which are the foundation
-for strong families); (c) Make responsible decisions for yourself, your
-family and society; and (d) Abstinence before marriage is the best protection
-against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
-you and your loved ones.</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>OVERVIEW OF HORIZON PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF HORIZON PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <ol start="4">
 <li>
@@ -88,20 +90,21 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<p><strong>At Horizon Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Horizon Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_1_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_2_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Image_3_2026.png">
 </div>
+<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
@@ -109,8 +112,9 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be made available on Parents’ Gateway nearer
-to the date of the lessons. The hardcopy form is also downloadable <a href="https://go.gov.sg/moesedoptoutform" rel="noopener nofollow" target="_blank">here</a>.</p>
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <a href="https://form.gov.sg/6972387d28bcc2bc126ad5e4" rel="noopener nofollow" target="_blank">here. </a>The completed
+opt-out form is to be submitted by 06/02/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at <a rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
