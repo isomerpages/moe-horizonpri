@@ -18,7 +18,6 @@ sections:
           url: /qlparents/
   - infopic:
       title: Inspiring Teacher of English Award 2026
-      subtitle: Add an image and text
       id: infopic
       button: Click here to nominate
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
