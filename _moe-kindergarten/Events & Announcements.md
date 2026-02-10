@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Events &amp; Announcements</strong></h3>
 <h4><strong>2026 MOE Kindergarten Open House</strong></h4>
+<p></p>
 <p>At MOE Kindergarten (MK), we provide quality and affordable Kindergarten
 1 (K1) and Kindergarten 2 (K2) education. We believe that children are
 joyful, curious, active and competent learners and we are committed to
