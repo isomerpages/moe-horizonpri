@@ -4,7 +4,7 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-### Application for Associate Parent Volunteer (APV)
+### Application for Parent Volunteer (PV)
 
 Click [here](https://go.gov.sg/pvahrps2028) to register,now!
 
