@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Application for Associate Parent Volunteer (APV)
 
-Click [here](https://form.gov.sg/65b1dcdd3f3702432b342a56) to register,now!
+Click [here](https://go.gov.sg/pvahrps2028) to register,now!
 
 ### Parents Gateway Mobile Application
 
