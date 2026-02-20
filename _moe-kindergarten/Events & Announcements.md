@@ -13,10 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/1.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://mkhorizonopenhouse-2026.app.entry.gov.sg/form/a40e9558-fcc8-4f40-99df-d07013dc3c00"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/1.jpg"></a>
 </td>
 </tr>
 </tbody>
@@ -43,7 +40,8 @@ House at MK@Horizon located within our primary school’s premises, on Saturday,
 During the Open House, you can tour the learning environment, and speak
 to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
-<p></p>
+<p>Click <a href="https://mkhorizonopenhouse-2026.app.entry.gov.sg/form/a40e9558-fcc8-4f40-99df-d07013dc3c00" rel="noopener nofollow" target="_blank">here</a> to
+sign-up.</p>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
