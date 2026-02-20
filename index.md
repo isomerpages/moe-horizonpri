@@ -17,15 +17,15 @@ sections:
           description: ""
           url: /qlparents/
   - infobar:
-      title: Application for Parent Volunteer (PV)
-      id: infobar
-      button: Click here to register
-      url: https://form.gov.sg/6985aad997f5db1b76841550
-  - infobar:
       title: 2026 MOE Kindergarten Open House
       id: infobar
       button: Click here to sign-up
       url: https://www.horizonpri.moe.edu.sg/moe-kindergarten/events-and-announcements/
+  - infobar:
+      title: Application for Parent Volunteer (PV)
+      id: infobar
+      button: Click here to register
+      url: https://form.gov.sg/6985aad997f5db1b76841550
   - infopic:
       title: Inspiring Teacher of English Award 2026
       id: infopic
