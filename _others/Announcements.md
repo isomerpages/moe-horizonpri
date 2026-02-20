@@ -15,4 +15,4 @@ Click [here](https://go.gov.sg/pvahrps2028) to register,now!
 
 ### 2026 MOE Kindergarten Open House
 
-Click [here](https://www.horizonpri.moe.edu.sg/moe-kindergarten/events-and-announcements/) for more information
+Click [here](https://www.horizonpri.moe.edu.sg/moe-kindergarten/events-and-announcements/) for more information.
