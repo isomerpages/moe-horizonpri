@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About the Event/.keep
-      - Events & Announcements.md
       - MOE Kindergarten @ Horizon.md
       - MK Curriculum.md
       - Collaboration with Families.md
