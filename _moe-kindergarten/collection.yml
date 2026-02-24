@@ -2,10 +2,10 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Register with Us.md
       - MOE Kindergarten @ Horizon.md
       - Events & Announcements.md
       - About the Event.md
+      - Register with Us.md
       - MK Curriculum.md
       - Collaboration with Families.md
       - Collaboration with Primary School.md
