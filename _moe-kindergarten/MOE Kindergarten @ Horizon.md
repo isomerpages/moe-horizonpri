@@ -51,4 +51,4 @@ through our corporate video below.</p>
 </div>
 <h4><strong>Our Learning Environment</strong></h4>
 <p>How does our MK@Horizon and KC@Horizon learning environment look like?
-Watch the videos below to find out mo</p>
+Watch the videos below to find out more!out mo</p>
