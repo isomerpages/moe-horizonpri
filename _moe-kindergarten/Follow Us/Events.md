@@ -3,12 +3,9 @@ title: Events
 permalink: /moe-kindergarten/Photo-Gallery/Events/
 description: ""
 third_nav_title: Follow Us
+variant: markdown
 ---
-### Event Photos
-[![](/images/MK/MK%202023%20Events.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721537283498/)
+### Connect with us
+Connect with us on [Instagram](https://www.instagram.com/moekindergarten_horizon?igsh=ODJ4a3J4NDJ2Zm93&utm_source=qr) for updates and school highlights.
 
-[![](/images/MK/MK%202022%20Events.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721591194855/)
-
-[![](/images/MK/MK%202021%20Events.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721549939432/)
-
-[![](/images/MK/MK%202020%20Events.png)](https://www.flickr.com/photos/197473948@N06/collections/72157721539245694/)
+![https://www.instagram.com/moekindergarten_horizon?igsh=ODJ4a3J4NDJ2Zm93&utm_source=qr](/images/Instagram_QR_Code.jpg)
