@@ -4,7 +4,7 @@ permalink: /register-with-us/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Register for MOE Kindergarten @ Horizon</strong></h1>
+<h3><strong>Register for MOE Kindergarten @ Horizon</strong></h3>
 <p><strong><u>OA Registration</u></strong>
 </p>
 <p>OA registration for 2027 K1 admissions is open to SC and PR children who
