@@ -42,16 +42,11 @@ Plains
 <p>Catch a glimpse of our school experience from the lens of our MK students
 through our corporate video below.</p>
 <div class="iframe-wrapper">
-<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zKwOQ25PNiE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zKwOQ25PNiE"></iframe>
 </div>
 <p>*video produced under good abidance of prevailing SMM and IMDA guidelines</p>
-<h4><strong>Our Learning Environment</strong></h4>
-<p>How does our MK@Horizon and KC@Horizon learning environment look like?
-Watch the videos below to find out more!</p>
+<h4><strong>Arrival and Dismissal</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6XYgTIfn0"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7ceAdi-oJFI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mtoY9C4UUWQ?si=VdeBHnpB1Wt-oDo2"></iframe>
 </div>
 <p></p>
