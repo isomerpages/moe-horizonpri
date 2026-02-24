@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - Register with Us.md
       - MOE Kindergarten @ Horizon.md
       - Events & Announcements.md
       - About the Event.md
