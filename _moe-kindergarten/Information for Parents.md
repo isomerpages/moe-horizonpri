@@ -4,6 +4,7 @@ permalink: /information-for-parents/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Information for Parents</strong></h3>
 <p><strong>Sale of MK Uniform</strong>
 </p>
 <p>Dear Parent/ Guardian,</p>
