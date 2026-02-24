@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Clarisse Yong Pueh Teng</p>
+<p>Ms Clarisse Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_pueh_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_pueh_teng@schools.gov.sg</a>
@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Norliza Selamat</p>
+<p>Ms Siti Norliza</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_norliza_selamat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norliza_selamat@schools.gov.sg</a>
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Raudhah Haji Halimi</p>
+<p>Mdm Siti Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_raudhah_haji_halimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_raudhah_haji_halimi@schools.gov.sg</a>
@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Zhen Zhen</p>
+<p>Ms Zhang Zhenzhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Zhang_Zhenzhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_zhenzhen@schools.gov.sg</a>
@@ -168,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zonia Lim Zhi Qi</p>
+<p>Ms Zonia Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Zonia_Lim_Zhi_Qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zonia_Lim_Zhi_Qi@schools.gov.sg</a>
@@ -177,7 +177,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmi Begum Binte Jappar</p>
+<p>Ms Sharmi Begum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sharmi_Begum_Jappar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sharmi_Begum_Jappar@schools.gov.sg</a>
@@ -186,10 +186,47 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hanna Binte Luthfi Muthughopi</p>
+<p>Ms Nisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="nisa_amelia_amran@schools.gov.sg" rel="noopener nofollow" target="_blank">nisa_amelia_amran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Devi Mangala</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mangala_devi_annamalaii@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mangala_devi_annamalaii@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aishwarya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="n_aishwarya@schools.gov.sg" rel="noopener nofollow" target="_blank">n_aishwarya@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Vainavi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="vainavi_perumal_a@schools.gov.sg" rel="noopener nofollow" target="_blank">vainavi_perumal_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Melissa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_melissa_abbas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_melissa_abbas@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
