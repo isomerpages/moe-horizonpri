@@ -2,12 +2,12 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Information for Parents.md
       - MOE Kindergarten @ Horizon.md
       - Events & Announcements.md
       - About the Event.md
       - Register with Us.md
       - MK Curriculum.md
+      - Information for Parents.md
       - Collaboration with Families.md
       - Collaboration with Primary School.md
       - Our Centre Head.md
