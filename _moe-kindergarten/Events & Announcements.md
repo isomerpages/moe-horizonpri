@@ -42,6 +42,8 @@ to our MK educators to find out why MK is the choice for quality preschool
 and why our children love MK.</p>
 <p>Click <a href="https://mkhorizonopenhouse-2026.app.entry.gov.sg/form/a40e9558-fcc8-4f40-99df-d07013dc3c00" rel="noopener nofollow" target="_blank">here</a> to
 sign-up.</p>
+<p><a href="/about-the-event/" rel="noopener nofollow" target="_blank">About the Event</a>
+</p>
 <h4><strong>Sale of MK Uniform</strong><br></h4>
 <p>Dear Parent/ Guardian,</p>
 <p>With effect from 1 January 2020, you can purchase MK uniforms directly
