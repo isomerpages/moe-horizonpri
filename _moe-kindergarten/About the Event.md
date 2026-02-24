@@ -4,6 +4,7 @@ permalink: /about-the-event/
 variant: tiptap
 description: ""
 ---
+<h3><strong>About the Event</strong></h3>
 <p><strong>Places to Visit</strong>
 </p>
 <p></p>
