@@ -41,6 +41,13 @@ sections:
       image: /images/Screenshot_2026_02_11_064909.jpg
       alt: Image alt text
   - infopic:
+      title: Award for Outstanding Malay Language Teachers
+      id: infopic
+      button: CLICK HERE TO NOMINATE
+      url: https://form.gov.sg/697185dd28bcc2bc1247e1b5
+      image: /images/1770255250ZMNGYP.png
+      alt: Image alt text
+  - infopic:
       title: Most Inspiring Tamil Teachers Award (MITT) 2026
       id: infopic
       button: click here to nominate
