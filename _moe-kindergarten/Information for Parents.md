@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Information for Parents</strong></h3>
+<h4><strong>Arrival and Dismissal</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mtoY9C4UUWQ?si=VdeBHnpB1Wt-oDo2"></iframe>
+</div>
 <p><strong>Sale of MK Uniform</strong>
 </p>
 <p>Dear Parent/ Guardian,</p>
