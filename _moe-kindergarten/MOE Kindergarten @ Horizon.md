@@ -45,4 +45,14 @@ through our corporate video below.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zKwOQ25PNiE"></iframe>
 </div>
 <p>*video produced under good abidance of prevailing SMM and IMDA guidelines</p>
+<h4><strong>Our Learning Environment</strong></h4>
+<p>How does our MK@Horizon and KC@Horizon learning environment look like?
+Watch the videos below to find out more!</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ld6XYgTIfn0?si=oPyzZaw2YcipelQh"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7ceAdi-oJFI?si=0lV10LUUkZuYLesN"></iframe>
+</div>
 <p></p>
