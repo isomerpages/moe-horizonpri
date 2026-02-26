@@ -232,30 +232,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="3">
+<p>Students attending any after-school programmes may be dismissed via Gate
+B or Gate C according to the scheduled end time of the activity.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15 p.m. to 4.00 p.m.
-<br>(Tue and Thurs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15 p.m. to 3.30 p.m.</p>
-<p>3.45 p.m. to 4.00p.m.
-<br>(Tue and Thurs)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.00 p.m. to 6.30 p.m.
-<br>(Mon to Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6.00 p.m. to 6.30 p.m.
-<br>(Mon to Fri)</p>
 </td>
 </tr>
 <tr>
