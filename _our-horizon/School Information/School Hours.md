@@ -234,7 +234,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p>Students attending any after-school programmes may be dismissed via Gate
-B or Gate C according to the scheduled end time of the activitiy.</p>
+B or Gate C according to the scheduled end time of the activity.</p>
 <p></p>
 </td>
 </tr>
