@@ -219,19 +219,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15 p.m. to 3.30 p.m.
-<br>(Mon)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.15 p.m. to 3.30 p.m.
-<br>(Mon)</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="3">
 <p>Students attending any after-school programmes may be dismissed via Gate
 B or Gate C according to the scheduled end time of the activity.</p>
