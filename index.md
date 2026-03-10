@@ -17,11 +17,6 @@ sections:
           description: ""
           url: /qlparents/
   - infobar:
-      title: 2026 MOE Kindergarten Open House
-      id: infobar
-      button: Click here to sign-up
-      url: https://www.horizonpri.moe.edu.sg/moe-kindergarten/events-and-announcements/
-  - infobar:
       title: Application for Parent Volunteer (PV)
       id: infobar
       button: Click here to register
