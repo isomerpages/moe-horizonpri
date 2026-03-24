@@ -35,18 +35,4 @@ sections:
       url: https://contest.sph.com.sg/campaigns/dclta
       image: /images/Screenshot_2026_02_11_064909.jpg
       alt: Image alt text
-  - infopic:
-      title: Arif Budiman Malay Language Teachers' Award 2026
-      id: infopic
-      button: CLICK HERE TO NOMINATE
-      url: https://go.gov.sg/agab-2026
-      image: /images/1770255250ZMNGYP.png
-      alt: Image alt text
-  - infopic:
-      title: Most Inspiring Tamil Teachers Award (MITT) 2026
-      id: infopic
-      button: click here to nominate
-      url: https://go.gov.sg/mitt2026nominations
-      image: /images/2__MITT_2026_Poster.jpg
-      alt: Image alt text
 ---
