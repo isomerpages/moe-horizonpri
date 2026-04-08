@@ -653,21 +653,18 @@ variant: tiptap
 <p>Mdm Rekha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Desktop Engineer 2</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chew Xing Jie</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
