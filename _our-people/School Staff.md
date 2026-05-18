@@ -347,19 +347,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Dorothy Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_leng_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
@@ -479,19 +466,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Marvin_LEE@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marvin_lee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Dorothy Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_leng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_leng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
