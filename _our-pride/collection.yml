@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Achievements/Achievements 2026.md
       - Achievements/.keep
       - Achievements/Achievements 2025.md
       - Achievements/Achievements 2024.md
