@@ -26,7 +26,7 @@ third_nav_title: Achievements
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,17 +34,23 @@ third_nav_title: Achievements
 Bilingual Speech Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Second Prize</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tamil Language Competition for Primary Schools 2026 - Telok Blangah CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Story Telling Competition- 2nd</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -144,43 +150,6 @@ Bilingual Speech Conference</p>
 </ul>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<h3>Visual &amp; Performing Arts</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Competition</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guitar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Distinction</p>
-</li>
-</ul>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Rope Skipping</p>
@@ -223,6 +192,79 @@ Bilingual Speech Conference</p>
 </li>
 </ul>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG) 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>24-Style Taijiquan- 2nd</p>
+<p></p>
+</li>
+<li>
+<p>32-Style Taijijian- 1st</p>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Visual &amp; Performing Arts</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Distinction</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Accomplishment (Chinese Dance &amp; International Dance
+Categories)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
