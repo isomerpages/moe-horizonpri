@@ -675,7 +675,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>P1 Thinker</strong>
 </p>
 </td>
@@ -693,6 +693,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_lingxia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lingxia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Jasmine Neo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -972,7 +981,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="3" colspan="1">
 <p>P2 Inquirer</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -989,6 +998,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:rozanah_abdul_rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rozanah_abdul_rahim@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Aishah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1298,19 +1316,19 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Yong Guan</p>
+<p>Mdm Marleena Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>choo_yong_guan@schools.gov.sg</u></a>
+<p><a href="mailto:marleena_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>marleena_jaafar@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Marleena Jaafar</p>
+<p>Ms Tan Yee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marleena_jaafar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>marleena_jaafar@schools.gov.sg</u></a>
+<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
