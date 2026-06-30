@@ -295,19 +295,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/Partnership</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Choo Yong Guan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:choo_yong_guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_yong_guan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>SH/Student Leadership</strong>
 </p>
 </td>
