@@ -4,7 +4,14 @@ permalink: /information-for-parents/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Information for Parents</strong></h3>
+<h4><strong>Information for Parents</strong><br><br><strong>MK@Horizon Open House</strong><br></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HqeSsBvA-Ww?si=XGe_MRTa3YdtvVNi"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Tjy9hfMHsUY?si=6RX-MaIrVOzCiva3"></iframe>
+</div>
 <h4><strong>Arrival and Dismissal</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mtoY9C4UUWQ?si=VdeBHnpB1Wt-oDo2"></iframe>
