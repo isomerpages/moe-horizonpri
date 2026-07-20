@@ -4,7 +4,12 @@ permalink: /information-for-parents/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Information for Parents</strong><br><br><strong>MK@Horizon Open House</strong><br></h4>
+<h4><strong>Information for Parents</strong><br><br><strong>Arrival and Dismissal</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mtoY9C4UUWQ?si=VdeBHnpB1Wt-oDo2"></iframe>
+</div>
+<p></p>
+<h4><strong>MK@Horizon Open House</strong><br></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HqeSsBvA-Ww?si=XGe_MRTa3YdtvVNi"></iframe>
 </div>
@@ -13,19 +18,7 @@ description: ""
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Tjy9hfMHsUY?si=6RX-MaIrVOzCiva3"></iframe>
 </div>
 <p></p>
-<p><strong>Places to Visit</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OPEN_HOUSE_MAP.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OPEN_HOUSE_ROUTE.png">
-</div>
-<h4><strong>Arrival and Dismissal</strong></h4>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mtoY9C4UUWQ?si=VdeBHnpB1Wt-oDo2"></iframe>
-</div>
 <p><strong>Sale of MK Uniform</strong>
 </p>
 <p>Dear Parent/ Guardian,</p>
