@@ -657,7 +657,7 @@ variant: tiptap
 <p>Mdm Feng Ying Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:Feng_Yingni_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Feng_Yingni_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -688,7 +688,7 @@ variant: tiptap
 <p>Mdm Jasmine Neo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:Neo_Chui_Fang_Jasmine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Neo_Chui_Fang_Jasmine@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -993,7 +993,7 @@ variant: tiptap
 <p>Mdm Nur Aishah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:horizon_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">horizon_ps@moe.edu.sg</a>
+<p><a href="mailto:Nur_Aishah_Mohd_Tahir@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Aishah_Mohd_Tahir@schools.gov.sg</a>
 </p>
 </td>
 </tr>
