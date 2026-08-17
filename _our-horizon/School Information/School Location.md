@@ -3,6 +3,7 @@ title: School Location
 permalink: /our-horizon/school-location/
 description: ""
 third_nav_title: School Information
+variant: markdown
 ---
 ### **School Location**
 
@@ -12,7 +13,7 @@ third_nav_title: School Information
 | -------- | -------- | -------- |
 | Horizon Primary School     | MRT: Punggol [NE17]     |      |
 | 61 Edgedale Plains     | LRT: Kadaloor [PE5] or Oasis [PE6]    |      |
-| Singapore 828819    | Bus: 3, 50, 83, 85, 569    |      |
+| Singapore 828819    | Bus: 3, 50, 83, 85, 386    |      |
 
 ### **Contact Us**
 
